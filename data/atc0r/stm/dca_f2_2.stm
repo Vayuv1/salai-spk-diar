@@ -1,0 +1,441 @@
+dca_f2_2 1 1>F2-1>UNK1546 8.120 10.710 U S Air Fifteen Forty Six, descend and maintain five thousand.
+dca_f2_2 1 1>F2-1>USA1528 13.870 16.830 U S Air Fifteen Twenty Eight, descend and maintain one one thousand.
+dca_f2_2 1 1>F2-1>TWA500 20.770 23.250 T W A Five Hundred, descend and maintain one six thousand.
+dca_f2_2 1 2>F2-1>MID2721 29.100 31.520 Midex Twenty Seven Twenty One, turn left heading one niner zero.
+dca_f2_2 1 1>MID2721>F2-1 31.970 34.160 Left turn to one ninety, Twenty Seven Twenty One, airport in sight.
+dca_f2_2 1 2>F2-1>MID2721 37.180 38.820 Midex Twenty Seven Twenty One, roger.
+dca_f2_2 1 1>F2-1>DAL728 43.750 47.310 Delta Seven Twenty Eight, Washington Approach, roger, Washington altimeter three zero one eight.
+dca_f2_2 1 1>F2-1>USA1528 49.760 52.230 U S Air Fifteen Twenty Eight, turn right heading zero five zero.
+dca_f2_2 1 1>F2-1>NWA987 57.490 59.940 Northwest Nine Eighty Seven, descend and maintain seven thousand.
+dca_f2_2 1 1>NWA987>F2-1 60.400 62.960 Down to seven thousand, Northwest Nine Eighty Seven.
+dca_f2_2 1 1>F2-1>DAL728 64.510 70.530 Delta Seven Twenty Eight, turn right heading zero, correction, fly heading zero one zero, at one five thousand, reduce speed to two five zero knots.
+dca_f2_2 1 1>F2-1>MID2721 74.580 78.610 Midex Twenty Seven Twenty One, contact Washington Approach one one niner point eight five.
+dca_f2_2 1 1>MID2721>F2-1 79.140 81.300 Nineteen eighty five, Twenty Seven Twenty One, so long.
+dca_f2_2 1 2>F2-1>NWA987 82.630 84.450 Northwest Nine Eighty, er disregard.
+dca_f2_2 1 1>F2-1>HNA4334 87.840 91.010 Henson Forty Three Thirty Four, turn left heading two four zero.
+dca_f2_2 1 1>F2-1>HNA4334 100.730 104.330 Henson Forty Three Thirty Four, contact Washington Approach one one niner point eight five.
+dca_f2_2 1 1>USA155>F2-1 114.430 118.160 Washington Approach, U S Air One Fifty Five, with er Papa, ten thousand.
+dca_f2_2 1 1>F2-1>NWA987 121.780 124.300 Northwest Nine Eighty Seven, turn left heading two seven zero.
+dca_f2_2 1 1>NWA987>F2-1 124.650 127.080 Two seven zero heading, Northwest Nine Eighty Seven.
+dca_f2_2 1 1>F2-1>USA1546 127.080 132.040 U S Air Fifteen Forty Six, turn right heading zero seven zero, contact Baltimore Approach one one niner point seven.
+dca_f2_2 1 1>F2-1>USA1528 136.580 139.300 U S Air Fifteen Twenty Eight, descend and maintain seven thousand.
+dca_f2_2 1 1>F2-1>DAL728 142.890 145.640 Delta Seven Twenty Eight, descend and maintain one two thousand.
+dca_f2_2 1 1>F2-1>USA1806 148.760 150.800 U S Air Eighteen Zero Six, Washington Approach.
+dca_f2_2 1 1>F2-1>USA1806 153.010 156.590 U S Air Eighteen Zero Six, reduce speed to two five zero knots, fly heading zero one zero.
+dca_f2_2 1 3>F2-1>DAL1749 161.140 165.170 Delta Seventeen Forty Nine, reduce speed to two five zero knots, expect descent in five miles.
+dca_f2_2 1 1>DAL1749>F2-1 165.580 167.950 Reducing to two fifty, Delta Seventeen Forty Nine.
+dca_f2_2 1 1>USA155>F2-1 170.250 172.340 U S Air One Fifty Five, ten thousand, Papa.
+dca_f2_2 1 1>F2-1>USA155 172.750 177.780 U S Air One Fifty Five, Washington Approach, Washington altimeter three zero one eight, proceed direct Washington.
+dca_f2_2 1 1>USA155>F2-1 178.080 178.410 Roger.
+dca_f2_2 1 2>NWA987>F2-1 183.780 187.520 And Northwest Nine Eighty Seven, couldn't ask you for a thousand lower or so, could we?
+dca_f2_2 1 1>F2-1>NWA987 187.520 193.210 Northwest Nine Eighty Seven, traffic is two o'clock and seven miles, southbound, * southwestbound, at six thousand, turn left heading two zero zero.
+dca_f2_2 1 1>NWA987>F2-1 193.210 196.400 Okay, left two zero zero er, Northwest Nine Eighty Seven.
+dca_f2_2 1 1>F2-1>DAL1749 196.400 198.980 Delta Seventeen Forty Nine, descend and maintain seven thousand.
+dca_f2_2 1 2>DAL1749>F2-1 198.980 201.610 Down to seven thousand, Delta Seventeen Forty Nine.
+dca_f2_2 1 1>F2-1>N310RD 202.390 206.640 Cessna Three One Zero Romeo Delta, contact Washington Approach one one niner point eight five.
+dca_f2_2 1 2>N310RD>F2-1 206.640 209.080 One one nine eight five, Three Ten Romeo Delta.
+dca_f2_2 1 1>F2-1>USA1164 209.080 211.980 U S Air Eleven Sixty Four, descend and maintain five thousand.
+dca_f2_2 1 1>F2-1>UNK28 215.520 218.260 Twenty Eight, turn right heading zero six zero.
+dca_f2_2 1 1>F2-1>TWA500 221.160 224.010 T W A Five Hundred, descend and maintain one four thousand.
+dca_f2_2 1 1>F2-1>NWA987 232.750 235.600 Northwest Nine Eighty Seven, descend and maintain four thousand.
+dca_f2_2 1 1>NWA987>F2-1 235.600 238.080 Northwest Nine Eighty Seven out of seven for four.
+dca_f2_2 1 1>F2-1>V843 242.000 243.670 Navy Eight Four Three, Washington Approach.
+dca_f2_2 1 1>F2-1>V843 265.320 268.650 Navy Eight Four Three, Washington Approach, roger, Washington altimeter three zero one eight.
+dca_f2_2 1 1>F2-1>USA1164 270.350 274.240 U S Air Eleven Sixty Four, turn right heading zero seven zero, maintain five thousand.
+dca_f2_2 1 1>F2-1>NWA987 276.880 280.710 Northwest Nine Eighty Seven, turn right heading two seven zero, descend and maintain two thousand.
+dca_f2_2 1 1>NWA987>F2-1 280.710 284.430 Two seventy heading down to two thousand, Northwest Nine Eighty Seven.
+dca_f2_2 1 1>F2-1>DAL1749 284.430 286.910 Delta Seventeen Forty Nine, turn left heading one niner zero.
+dca_f2_2 1 1>DAL1749>F2-1 286.910 288.890 One nine zero, Delta Seventeen Forty Nine.
+dca_f2_2 1 1>F2-1>NWA987 289.550 292.900 Northwest Nine Eighty Seven, contact Washington Approach one one niner point eight five.
+dca_f2_2 1 1>NWA987>F2-1 293.560 296.370 Nineteen eighty five, Northwest Nine Eighty Seven, take care.
+dca_f2_2 1 1>F2-1>USA1164 296.760 300.080 U S Air Eleven Sixty Four, contact Baltimore Approach one one niner point seven.
+dca_f2_2 1 1>F2-1>V843 302.830 305.360 Navy Eight Four Three, turn left heading two niner zero.
+dca_f2_2 1 1>F2-1>DAL728 307.380 309.860 Delta Seven Twenty Eight, descend and maintain niner thousand.
+dca_f2_2 1 1>F2-1>USA1806 311.650 314.580 U S Air Eighteen Zero Six, descend and maintain one one thousand.
+dca_f2_2 1 1>F2-1>TWA500 316.680 319.540 T W A Five Hundred, descend and maintain one two thousand.
+dca_f2_2 1 1>F2-1>USA155 327.040 329.760 U S Air One Fifty Five, descend and maintain seven thousand.
+dca_f2_2 1 1>USA155>F2-1 329.760 332.240 Ten for seven thousand, U S Air One Fifty Five.
+dca_f2_2 1 1>F2-1>DAL1749 340.300 345.950 Delta Seventeen Forty Nine, traffic one o'clock, seven miles, southwestbound, at six thousand, descend and maintain four thousand.
+dca_f2_2 1 1>DAL1749>F2-1 345.950 350.150 Okay, descending to four thousand and looking for the traffic, Delta Seventeen Forty Nine.
+dca_f2_2 1 1>F2-1>USA1528 350.150 352.770 U S Air Fifteen Twenty Eight, turn right heading zero seven zero.
+dca_f2_2 1 1>F2-1>DAL728 355.740 358.290 Delta Seven Twenty Eight, turn right heading zero niner zero.
+dca_f2_2 1 1>F2-1>V843 360.260 362.610 Navy Eight Four Three, descend and maintain three thousand.
+dca_f2_2 1 1>F2-1>USA1806 364.190 366.860 U S Air Eighteen Zero Six, turn right heading zero niner zero.
+dca_f2_2 1 1>F2-1>DAL1749 375.680 378.300 Delta Seventeen Forty Nine, turn left heading one eight zero.
+dca_f2_2 1 1>DAL1749>F2-1 378.300 379.870 One eight zero, Delta Seven Forty Nine.
+dca_f2_2 1 1>F2-1>USA155 383.330 387.250 U S Air One Fifty Five, turn left heading two five zero, descend and maintain six thousand.
+dca_f2_2 1 2>USA155>F2-1 387.950 390.560 Two fifty down to six thousand, U S Air One Fifty Five.
+dca_f2_2 1 1>F2-1>USA1528 396.780 401.540 U S Air Fifteen Twenty Eight, descend and maintain five thousand, contact Baltimore Approach one one niner point seven.
+dca_f2_2 1 1>F2-1>UNK 405.320 405.950 Good day.
+dca_f2_2 1 2>F2-2>DAL728 424.480 427.970 Delta Seven Twenty Eight, turn left heading three six zero, vectors for in trail spacing.
+dca_f2_2 1 1>F2-2>DAL1749 431.620 434.860 Delta Seventeen Forty Nine, descend and maintain three thousand.
+dca_f2_2 1 1>DAL1749>F2-2 435.320 437.910 Down to three, Delta Seventeen Forty Nine.
+dca_f2_2 1 1>F2-2>TWA500 437.910 441.170 T W A Five Hundred, descend and maintain seven thousand, expedite your descent.
+dca_f2_2 1 1>F2-2>USA1806 444.260 450.080 U S Air Eighteen, <pause> U S Air Eighteen Zero Six, reduce speed to er two thirty.
+dca_f2_2 1 1>F2-2>NAE4900 458.630 461.040 Eagle Forty Nine Hundred, descend and maintain four thousand.
+dca_f2_2 1 1>F2-2>NAE4900 465.390 467.480 Eagle Forty Nine Hundred, descend to four thousand.
+dca_f2_2 1 1>F2-2>DAL1749 468.870 471.180 Delta Seventeen Forty Nine, turn right heading two seven zero.
+dca_f2_2 1 2>DAL1749>F2-2 471.650 474.310 Two seventy, * two seventy, Delta Seventeen Forty Nine.
+dca_f2_2 1 1>F2-2>V843 485.850 488.410 Navy Eight Four Three, turn right heading three six zero.
+dca_f2_2 1 1>F2-2>V843 489.850 492.750 Navy Eight Four Three, contact Andrews Radar one one niner point three.
+dca_f2_2 1 2>F2-2>DAL1749 498.290 502.290 Delta Seventeen Forty Three, turn heading three three zero, follow the river, cleared Mount Vernon Approach Three Six.
+dca_f2_2 1 1>F2-2>DAL1749 503.080 506.280 For Delta Seventeen Forty Nine, continue the turn, follow the river.
+dca_f2_2 1 2>F2-2>DAL1749 506.280 507.790 Delta Seventeen Forty Nine, that's correct.
+dca_f2_2 1 1>F2-2>USA155 514.520 516.920 U S Air One Fifty Five, turn left to one six zero.
+dca_f2_2 1 1>USA155>F2-2 516.920 518.630 One sixty, U S Air One Fifty Five.
+dca_f2_2 1 1>F2-2>DAL728 520.380 522.690 Delta Seven Twenty Eight, turn right heading zero nine zero.
+dca_f2_2 1 1>F2-2>USA1806 526.000 528.460 U S Air Eighteen Zero Six, descend to seven thousand.
+dca_f2_2 1 2>F2-2>USA2726 540.030 541.920 U S Twenty Seven Twenty Six, Washington, roger.
+dca_f2_2 1 1>F2-2>NAE4900 542.290 544.020 Eagle Forty Nine Hundred, Washington.
+dca_f2_2 1 1>F2-2>TWA500 551.970 554.660 T W A Five Hundred, descend to five thousand, expedite the descent.
+dca_f2_2 1 1>F2-2>TWA500 560.520 565.420 T W A Five Hundred, turn left heading zero seven zero, expedite your descent through niner thousand, maintain five.
+dca_f2_2 1 1>F2-2>DAL728 568.580 570.470 Delta Seven Twenty Eight, descend to seven thousand.
+dca_f2_2 1 1>F2-2>USA1806 572.480 575.730 Eighteen Oh Six, descend to seven thousand, turn left heading zero seven zero.
+dca_f2_2 1 2>DAL1749>F2-2 577.770 579.740 Delta Seventeen Forty Nine, established inbound.
+dca_f2_2 1 1>F2-2>NAE4900 579.740 583.040 Eagle Forty Nine Hundred, descend and maintain four thousand.
+dca_f2_2 1 1>F2-2>DAL1749 584.100 586.640 Delta Seventeen Forty Nine, Tower is nineteen one, good day.
+dca_f2_2 1 1>DAL1749>F2-2 586.640 587.100 Good day.
+dca_f2_2 1 1>F2-2>USA155 588.220 591.020 U S Air One Fifty Five, descend and maintain four thousand.
+dca_f2_2 1 1>USA155>F2-2 591.020 593.930 Six for four thousand, U S Air One Fifty Five
+dca_f2_2 1 1>F2-2>NAE4900 593.930 595.630 Eagle Forty Nine Hundred, Approach.
+dca_f2_2 1 1>F2-2>NAE4900 597.330 599.430 Descend and maintain three thousand now.
+dca_f2_2 1 2>F2-2>NAE4900 601.070 603.120 Eagle Forty Nine Hundred, turn right heading three three zero.
+dca_f2_2 1 1>F2-2>MID2726 604.950 607.450 Midex Twenty Seven Twenty Six, descend and maintain four thousand.
+dca_f2_2 1 2>N0AM>F2-2 609.680 615.640 Washington Approach, Aerostar Three Zero Zero Alpha Mike is at three, * four point five, we have Papa.
+dca_f2_2 1 1>F2-2>N0AM 615.640 617.440 Three Hundred Alpha Mike, Washington Approach, roger.
+dca_f2_2 1 1>F2-2>USA155 618.390 620.580 U S Air One Fifty Five, turn right heading one niner zero.
+dca_f2_2 1 2>USA155>F2-2 621.040 622.580 Right one ninety, U S Air One Fifty Five.
+dca_f2_2 1 2>F2-2>USA155 622.580 624.720 U S Air One Fifty Five, turn right heading two seven zero.
+dca_f2_2 1 1>USA155>F2-2 624.720 628.130 Continue to two seven, * er two seventy, U S Air One Fifty Five.
+dca_f2_2 1 1>F2-2>TWA500 628.130 630.270 T W A Five Hundred, Baltimore nineteen seven, good day.
+dca_f2_2 1 2>F2-2>DAL728 653.170 657.080 Delta Seven Twenty Eight, maintain five thousand, contact Baltimore one niner point seven.
+dca_f2_2 1 1>F2-2>MID2726 663.600 666.050 Midex Twenty Seven Twenty Six, turn left heading two five zero.
+dca_f2_2 1 2>F2-2>USA155 671.260 677.000 U S Air One Fifty Five, turn right heading three six zero, follow the river to the airport, cleared Mount Vernon approach Three Six, reduce to one seventy please.
+dca_f2_2 1 2>USA155>F2-2 677.440 684.260 Slow to one seventy, and er right <pause> turn three sixty, and up the er Mount Vernon visual, One Fifty Five.
+dca_f2_2 1 2>F2-2>USA155 692.360 696.070 U S Air One Fifty Five, one seventy till five D M E, contact the Tower one niner point one.
+dca_f2_2 1 2>USA155>F2-2 696.940 698.970 Nineteen er one, U S Air One Fifty Five.
+dca_f2_2 1 1>F2-2>USA1806 700.510 704.810 U S Air Eighteen Zero Six, descend and maintain five thousand, and contact Baltimore one one niner point seven.
+dca_f2_2 1 1>F2-2>NAE4900 712.430 714.730 Eagle Forty Nine Hundred, turn left heading two seven zero.
+dca_f2_2 1 3>F2-2>MID2726 718.700 721.090 Midex Twenty Seven Twenty Six, turn left heading two seven zero.
+dca_f2_2 1 1>F2-2>N0AM 740.150 744.240 November Three Hundred Alpha Mike, fly heading <pause> two zero zero.
+dca_f2_2 1 1>N0AM>F2-2 744.980 746.250 Two zero zero, Alpha Mike.
+dca_f2_2 1 1>F2-2>MID2726 783.160 785.350 Midex Twenty Seven Twenty Six, descend to three thousand.
+dca_f2_2 1 3>F2-2>USA1806 807.740 809.140 Eighteen Oh Six, Washington.
+dca_f2_2 1 1>F2-2>UNK 815.100 815.610 Roger.
+dca_f2_2 1 3>F2-2>MID2726 819.080 821.310 Midex Twenty Seven Twenty Six, turn heading three two zero.
+dca_f2_2 1 1>F2-2>NAE4900 825.100 828.580 Eagle Forty Nine Hundred, er turn right heading three zero zero.
+dca_f2_2 1 2>F2-2>NAE4900 830.980 836.970 Eagle Forty Nine, your traffic's eleven o'clock, five miles, northbound, two thousand, D C Nine, he'll land Three Six, you'll land Three Three behind him.
+dca_f2_2 1 2>F2-2>NAE4900 840.840 844.630 All right, proceed er inbound for Runway Three Three, you're cleared visual approach. I'll call the traffic.
+dca_f2_2 1 1>F2-2>N0AM 847.800 849.850 Three Hundred Alpha Mike, turn left heading one niner zero.
+dca_f2_2 1 2>N0AM>F2-2 850.150 851.980 One nine zero, Alpha Mike, we have the airport.
+dca_f2_2 1 1>F2-2>N0AM 852.290 852.800 Roger.
+dca_f2_2 1 1>F2-2>MID2726 856.600 862.430 Midex Twenty Seven Twenty Six, your traffic's eleven o'clock, <pause> five miles, northbound, four thousand, a U S Air jet.
+dca_f2_2 1 1>F2-2>MID2726 866.770 868.330 All right, he's a D C Nine also.
+dca_f2_2 1 1>F2-2>NAE4900 871.070 877.550 Eagle Forty Nine Hundred, descend and maintain one thousand six, * i'm sorry, you're cleared for the visual approach, your traffic ten o'clock, three miles, fifteen hundred, northbound.
+dca_f2_2 1 1>F2-2>NAE4900 880.910 884.360 All right, he'll land Three Six, you land Three Three, contact Tower one one niner point one.
+dca_f2_2 1 1>F2-2>MID2726 888.130 892.710 Midex Twenty Seven Twenty Six, follow that traffic. He'll land Three Six, you'll land Three Three, cleared visual approach.
+dca_f2_2 1 1>F2-2>MID2726 896.860 900.000 The U S Air jet'll land Three Six, you land Three Three behind him.
+dca_f2_2 1 1>F2-2>NAE4900 917.300 918.960 Eagle Forty Nine Hundred, Tower nineteen one.
+dca_f2_2 1 1>F2-2>MID2726 920.090 922.740 Midex Twenty Seven Twenty Six, contact Tower one one niner point one.
+dca_f2_2 1 2>N5GA>F2-2 927.790 932.880 Washington Approach, Lear One Oh Five Golf Alpha, leveling ten thousand, we have information er Papa.
+dca_f2_2 1 1>F2-2>N5GA 932.880 935.520 Lear One Oh Five Golf Alpha, Washington Depart, Baltimore Direct.
+dca_f2_2 1 1>N0AM>F2-2 939.980 941.800 Alpha Mike, er requesting lower.
+dca_f2_2 1 2>F2-2>N0AM 942.720 945.220 Three hundred Alpha Mike, er maintain four thousand.
+dca_f2_2 1 2>N0AM>F2-2 945.590 947.250 Okay, we're out of four and a half for four.
+dca_f2_2 1 1>F2-2>N0AM 1013.890 1016.810 Hundred Alpha, correction, Three Hundred Alpha Mike, descend and maintain three thousand.
+dca_f2_2 1 2>N0AM>F2-2 1017.950 1019.570 Alpha Mike, out of four for three.
+dca_f2_2 1 2>F2-2>N0AM 1046.220 1048.420 Er Three Hundred Alpha Mike, descend and maintain two thousand.
+dca_f2_2 1 3>N0AM>F2-2 1048.950 1051.780 Okay, we're er descending to two thousand, Alpha Mike.
+dca_f2_2 1 2>F2-2>N0AM 1058.300 1063.660 November Three Hundred Alpha Mike, you're following a Northwest jet, he's two o'clock, three miles, northbound, two thousand seven hundred.
+dca_f2_2 1 1>N0AM>F2-2 1065.720 1066.960 Alpha Mike, we're looking.
+dca_f2_2 1 3>F2-2>N0AM 1066.960 1069.010 Three Hundred Alpha Mike, turn right heading three six zero.
+dca_f2_2 1 2>N0AM>F2-2 1069.660 1070.670 Three sixty, Alpha Mike.
+dca_f2_2 1 1>F2-2>N0AM 1090.750 1095.200 Three Hundred Alpha Mike, your traffic is at one o'clock, three miles, northbound, two thousand two hundred, a Seven Two Seven.
+dca_f2_2 1 3>N0AM>F2-2 1096.580 1099.630 Alpha Mike, er we have one, er in that area.
+dca_f2_2 1 1>F2-2>N0AM 1099.960 1105.020 All right, <pause> continue on the heading. I want you to keep him in sight. He'll land Three Six, you'll land Three Three behind him.
+dca_f2_2 1 3>N0AM>F2-2 1105.460 1106.730 Alpha Mike, and we have the traffic now.
+dca_f2_2 1 3>F2-2>N0AM 1107.040 1112.380 All right, <pause> continue on that, * continue the turn to three sixty, and er <pause> I don't want you to get ahead of him.
+dca_f2_2 1 3>N0AM>F2-2 1113.480 1113.890 Alpha Mike.
+dca_f2_2 1 2>R22936>F2-2 1115.180 1118.460 Er Washington, Army Two Two Niner Three Six is with you, at six thousand.
+dca_f2_2 1 1>F2-2>R22936 1118.460 1122.360 Army Two Two Nine Three Six, Washington Approach, depart Baltimore heading two two zero.
+dca_f2_2 1 2>R22936>F2-2 1122.700 1125.620 Okay, two two zero off of Baltimore for Army Niner Three Six.
+dca_f2_2 1 2>F2-2>N0AM 1128.530 1136.430 November Three Hundred Alpha Mike, the Northwest jet will land Runway Three Six, you land Three Three behind him. Descend at your discretion, contact the Tower one niner point one.
+dca_f2_2 1 1>N0AM>F2-2 1136.430 1137.450 Nineteen one, so long.
+dca_f2_2 1 1>USA1767>F2-2 1159.950 1165.130 Washington Approach, U S Air Seventeen Sixty Seven, ten thousand, and er we have er Papa.
+dca_f2_2 1 1>F2-2>USA1767 1165.520 1168.090 U S Air Seventeen Sixty Seven, Washington, proceed direct.
+dca_f2_2 1 1>N5GA>F2-2 1171.040 1172.920 Five Golf Alpha, have the field in sight.
+dca_f2_2 1 1>F2-2>N5GA 1173.520 1176.570 Five Golf Alpha, descend and maintain five thousand.
+dca_f2_2 1 2>N5GA>F2-2 1176.960 1178.900 Past ten for five, Five Golf Alpha.
+dca_f2_2 1 1>F2-2>R22936 1189.030 1200.000 Army Nine Three Six, the Davison weather is four thousand scattered, one zero thousand scattered, estimated two zero thousand broken, visibility seven, wind calm, altimeter three zero one six, expect an I L S to Three Two.
+dca_f2_2 1 2>R22936>F2-2 1200.350 1204.130 Army er Niner Three Six, roger, and er three zero one six.
+dca_f2_2 1 1>F2-2>N5GA 1225.530 1228.030 November Five Golf Alpha, turn left heading one niner zero.
+dca_f2_2 1 1>N5GA>F2-2 1228.720 1230.460 Left one ninety, Five Golf Alpha.
+dca_f2_2 1 1>F2-2>N5GA 1293.610 1295.740 Five Golf Alpha, descend and maintain four thousand.
+dca_f2_2 1 1>N5GA>F2-2 1296.260 1298.200 Down to four thousand, Five Golf Alpha.
+dca_f2_2 1 2>N5GA>F2-2 1329.930 1332.230 Five Golf Alpha, want to check down to four thousand.
+dca_f2_2 1 1>F2-2>N5GA 1332.840 1333.580 Four thousand.
+dca_f2_2 1 1>F2-2>USA1767 1354.010 1357.670 U S Air Seventeen Sixty Seven, turn left heading two five zero, descend and maintain six thousand.
+dca_f2_2 1 1>USA1767>F2-2 1358.360 1362.230 U S Air Seventeen Sixty Seven, two five zero, six thousand.
+dca_f2_2 1 1>F2-2>N5GA 1427.080 1429.260 November Five Golf Alpha, descend to three thousand.
+dca_f2_2 1 1>N5GA>F2-2 1429.260 1431.180 Down to three thousand, Five Golf Alpha.
+dca_f2_2 1 2>R18038>F2-2 1441.770 1444.780 Washington Approach, Army One Eight Zero Three Eight, six thousand.
+dca_f2_2 1 1>F2-2>R18038 1444.780 1449.740 Army One Eight Zero Three Eight, Washington Approach, roger, depart Baltimore heading two two zero.
+dca_f2_2 1 2>R18038>F2-2 1450.250 1452.470 Roger, two two zero off Baltimore, Zero Three Eight.
+dca_f2_2 1 1>F2-2>R22936 1453.680 1456.310 Army Nine Three Six, descend and maintain five thousand.
+dca_f2_2 1 2>F2-2>R22936 1456.310 1458.510 Down to five thousand for Army Niner Three Six.
+dca_f2_2 1 1>F2-2>USA1767 1458.510 1461.200 U S Seventeen Sixty Seven, turn left heading one niner zero.
+dca_f2_2 1 1>USA1767>F2-2 1461.640 1464.390 One nine zero, U S Air Seventeen Sixty Seven.
+dca_f2_2 1 1>F2-2>N5GA 1464.390 1468.140 November Five Golf Alpha, turn right heading three six zero, join the river, follow it to the airport.
+dca_f2_2 1 1>N5GA>F2-2 1468.550 1471.550 Right three sixty, join the river to the airport, Five Golf Alpha.
+dca_f2_2 1 2>F2-2>N5GA 1487.660 1493.320 November Five Golf Alpha is eleven south, cleared the Mount Vernon approach Three Six.
+dca_f2_2 1 2>N5GA>F2-2 1494.230 1496.690 Cleared the Mount Vernon approach Three Six, Five Golf Alpha.
+dca_f2_2 1 1>F2-2>USA1767 1520.460 1523.050 U S Seventeen Sixty Seven, descend and maintain three thousand.
+dca_f2_2 1 1>USA1767>F2-2 1524.230 1527.060 U S Air Seventeen Sixty Seven, descend to three thousand.
+dca_f2_2 1 1>F2-2>R22936 1529.470 1533.330 Army Nine Three Six, descend and maintain four thousand, turn left heading two zero zero.
+dca_f2_2 1 1>R22936>F2-2 1534.170 1538.240 Okay, we're heading er two two zero at this time, and you say two zero zero?
+dca_f2_2 1 1>F2-2>R22936 1538.240 1539.150 Two zero zero.
+dca_f2_2 1 1>R22936>F2-2 1539.150 1541.970 Okay, down to four thousand, and left to two zero zero.
+dca_f2_2 1 2>F2-2>N5GA 1544.540 1546.750 Five Golf Alpha, Tower nineteen one, see you later.
+dca_f2_2 1 2>N5GA>F2-2 1547.180 1549.540 Nineteen one, talk to you later, Five Geo, * Golf Alpha.
+dca_f2_2 1 1>F2-2>USA1767 1550.350 1553.210 U S Air Seventeen Sixty Seven, turn right heading two seven zero.
+dca_f2_2 1 1>USA1767>F2-2 1553.790 1556.590 Two seven zero, U S Air Seventeen Sixty Seven.
+dca_f2_2 1 1>F2-2>R18038 1565.950 1570.880 Army Zero Three Eight, Davison weather <pause> is, no, standby.
+dca_f2_2 1 2>F2-2>USA1767 1589.230 1593.980 U S Seventeen Sixty Seven, turn right heading three six zero, follow the river to the airport, cleared Mount Vernon Approach Three Six.
+dca_f2_2 1 1>USA1767>F2-2 1594.990 1599.210 U S Air Seventeen Sixty Seven, three sixty, river visual Three Six.
+dca_f2_2 1 2>F2-2>AAL314 1599.210 1604.600 American Three Fourteen, <pause> Washington, altimeter three zero one eight, descend and maintain one six thousand.
+dca_f2_2 1 1>F2-2>AAL314 1608.620 1609.110 Now.
+dca_f2_2 1 2>F2-2>R18038 1610.040 1615.170 Army er Zero Three Eight, Davison weather is better than five thousand and five, expect an I L S to Three Two.
+dca_f2_2 1 1>R18038>F2-2 1615.720 1616.550 Zero Three Eight, roger.
+dca_f2_2 1 2>F2-2>USA1767 1622.620 1624.640 U S Air Seventeen Sixty Seven, Tower nineteen one.
+dca_f2_2 1 2>USA1767>F2-2 1625.550 1627.750 U S Air Seventeen Sixty Seven, goodbye now.
+dca_f2_2 1 1>F2-2>USA1767 1659.890 1662.750 U S Seventeen Sixty Seven, contact Tower one one niner point one.
+dca_f2_2 1 1>F2-2>R22936 1690.390 1693.870 Army Nine Three Six, turn right heading two five zero, descend to one thousand six hundred.
+dca_f2_2 1 1>R22936>F2-2 1694.280 1697.840 Right to two five zero and down to one point six, for Army Niner Three Six.
+dca_f2_2 1 2>F2-2>AAL314 1759.080 1762.120 Er, er, okay, one eight zero is approved.
+dca_f2_2 1 3>F2-2>AAL314 1765.000 1769.700 American Three Fourteen, cross er <pause> Jetta at, at six thousand.
+dca_f2_2 1 2>F2-2>R22936 1773.910 1778.900 Army Nine Three Six, turn right heading to two seven zero. You're four from the marker, cleared I L S Three Two approach.
+dca_f2_2 1 2>R22936>F2-2 1779.210 1782.300 Okay, right to two seven zero, and cleared for the approach for Army Niner Three Six.
+dca_f2_2 1 1>F2-2>R22936 1796.440 1804.030 Army Nine Three Six, traffic is V F R at er ten o'clock and two miles, he's er holding <pause> at the er <pause> outer marker.
+dca_f2_2 1 2>R22936>F2-2 1805.530 1810.190 Okay, I have an air target on my er eleven thirty to twelve o'clock position, is that him?
+dca_f2_2 1 1>F2-2>R22936 1810.190 1811.180 Yeah, that's him.
+dca_f2_2 1 1>R22936>F2-2 1811.180 1812.490 Okay, what's his altitude?
+dca_f2_2 1 1>F2-2>R22936 1812.490 1814.800 He's showing nineteen hundred. They say he's at two.
+dca_f2_2 1 2>R22936>F2-2 1815.290 1819.290 Okay, that's about right, and er we're executing the I L S at this time.
+dca_f2_2 1 1>F2-2>R22936 1819.290 1822.520 Yes sir, you're er cleared for the I L S Three Two Approach, Tower's nineteen one.
+dca_f2_2 1 1>R22936>F2-2 1822.520 1823.790 Okay, talk to you later, sir.
+dca_f2_2 1 1>F2-2>R22936 1823.790 1824.400 Good day.
+dca_f2_2 1 1>TPS6441>F2-2 1847.600 1850.170 Trump Sixty Four Forty One, one zero thousand Papa.
+dca_f2_2 1 1>F2-2>TPS6441 1850.170 1853.580 Trump Sixty Four Forty One, depart Baltimore direct to Washington.
+dca_f2_2 1 2>TPS6441>F2-2 1853.580 1855.280 Baltimore to Washington, Trump Sixty Four Forty One.
+dca_f2_2 1 2>F2-2>AAL314 1934.650 1939.360 American Three Fourteen, traffic twelve o'clock, five miles, southbound, leaving thirteen in the climb, is company.
+dca_f2_2 1 1>VENUS81>F2-2 2007.270 2009.490 Good morning Washington, Venus Eight One is at six thousand.
+dca_f2_2 1 1>F2-2>VENUS81 2009.800 2012.020 Venus Eight One, Washington, fly heading two three zero.
+dca_f2_2 1 1>VENUS81>F2-2 2012.630 2013.810 Two thirty, Venus Eight One.
+dca_f2_2 1 2>F2-2>R18038 2022.810 2025.160 Army Zero Three Eight, descend and maintain four thousand.
+dca_f2_2 1 2>R18038>F2-2 2025.860 2027.730 Okay, Zero Three Eight is out of six for four.
+dca_f2_2 1 2>VENUS26>F2-2 2029.810 2032.430 Washington Approach, Venus Two Six, ten thousand, Lima at Andrews.
+dca_f2_2 1 1>F2-2>VENUS26 2033.090 2035.530 Venus Two Six, fly heading two three zero after Baltimore.
+dca_f2_2 1 1>VENUS26>F2-2 2035.940 2037.230 Two three zero after Baltimore.
+dca_f2_2 1 1>F2-2>TPS6441 2040.900 2044.750 Trump Sixty Four Forty One, descend and maintain six thousand, turn left heading one niner zero.
+dca_f2_2 1 3>TPS6441>F2-2 2045.240 2048.670 Six thousand, one niner zero, Trump Sixty Four Forty One, how long is the final?
+dca_f2_2 1 1>F2-2>AAL314 2052.850 2055.430 American Three Fourteen, Baltimore nineteen seven, see you later.
+dca_f2_2 1 1>F2-2>R18038 2111.200 2113.340 Army Zero Three Eight, turn left heading one niner zero.
+dca_f2_2 1 2>R18038>F2-2 2113.830 2115.420 Left to one nine zero, Zero Three Eight.
+dca_f2_2 1 1>F2-2>R18038 2136.850 2139.120 Army Zero Three Eight, descend and maintain three thousand.
+dca_f2_2 1 2>R18038>F2-2 2140.110 2142.030 Okay Three Eight's continuing down to three thousand.
+dca_f2_2 1 1>F2-2>R18038 2177.560 2180.250 Army Zero Three Eight, descend and maintain one thousand five hundred.
+dca_f2_2 1 1>R18038>F2-2 2180.750 2183.510 Okay, we're continuing through three nine for one thousand five hundred.
+dca_f2_2 1 1>F2-2>TPS6441 2187.400 2190.830 Trump Sixty Four Forty One, descend and maintain five thousand.
+dca_f2_2 1 1>TPS6441>F2-2 2191.170 2193.970 Five thousand, Trump Sixty Four Forty One, how long is the final?
+dca_f2_2 1 2>F2-2>TPS6441 2195.770 2200.720 Not long, er I have an Army underneath you that's going to keep you up awhile. I'll turn you westbound here in just a moment though.
+dca_f2_2 1 1>TPS6441>F2-2 2201.050 2201.450 Thank you.
+dca_f2_2 1 2>F2-2>TPS6441 2223.830 2227.330 Trump Sixty Four Forty One, turn right heading two seven zero, descend to four thousand.
+dca_f2_2 1 2>TPS6441>F2-2 2227.330 2229.420 Two seven zero, four thousand, Sixty Four Forty One.
+dca_f2_2 1 1>F2-2>TPS6441 2251.300 2253.550 Trump Sixty Four Forty One, turn right heading three two zero.
+dca_f2_2 1 1>TPS6441>F2-2 2254.420 2256.090 Three two zero, Trump Sixty Four Fourty One.
+dca_f2_2 1 1>F2-2>VENUS81 2256.090 2258.920 Venus Eight One, descend and maintain five thousand.
+dca_f2_2 1 1>VENUS81>F2-2 2259.720 2261.090 Six for five, Venus Eight One.
+dca_f2_2 1 1>F2-2>TPS6441 2275.260 2277.720 Trump Sixty Four Forty One, turn right heading three six zero.
+dca_f2_2 1 2>TPS6441>F2-2 2278.100 2280.140 Three six zero, Trump Sixty Four Forty One, we've got the river.
+dca_f2_2 1 1>F2-2>TPS6441 2280.610 2281.390 All right.
+dca_f2_2 1 2>F2-2>TPS6441 2283.590 2288.430 Trump Sixty Four Forty One, you're clear of the traffic now, you're cleared visual, Mount Vernon visual Three Six, tower's nineteen one.
+dca_f2_2 1 2>TPS6441>F2-2 2289.520 2291.840 Cleared the visual, thank you, Trump Sixty Four Forty One. Good day.
+dca_f2_2 1 1>F2-2>VENUS26 2292.800 2295.410 Venus Two Six, descend and maintain six thousand.
+dca_f2_2 1 1>VENUS26>F2-2 2296.080 2297.880 Six thousand, Venus Two Six.
+dca_f2_2 1 2>R18038>F2-2 2317.760 2320.040 And Washington, Army Zero Three Eight's got Davison in sight.
+dca_f2_2 1 1>F2-2>R18038 2320.350 2322.920 Army Zero Three Eight, roger, you want a visual?
+dca_f2_2 1 1>R18038>F2-2 2322.920 2324.180 Yeah, that'll be fine.
+dca_f2_2 1 2>F2-2>R18038 2324.180 2325.890 All right, turn right heading two seven zero.
+dca_f2_2 1 2>R18038>F2-2 2326.280 2327.210 Right to two seventy.
+dca_f2_2 1 1>F2-2>R18038 2338.430 2341.220 Army Zero Three Eight, cleared visual approach Runway Three Two at Davison.
+dca_f2_2 1 2>R18038>F2-2 2341.950 2343.760 Zero Three Eight, roger, cleared for the approach, thanks.
+dca_f2_2 1 1>F2-2>VENUS81 2344.400 2346.360 Venus Eight One, turn left heading one eight zero.
+dca_f2_2 1 1>VENUS81>F2-2 2346.650 2347.780 One eight zero, Venus Eight One.
+dca_f2_2 1 2>F2-2>TPS6441 2357.880 2359.860 Trump Sixty Four Forty One, are you going to be able to get down?
+dca_f2_2 1 1>F2-2>TPS6441 2362.680 2364.540 Trump Sixty Four Forty One, Tower nineteen one.
+dca_f2_2 1 1>F2-2>VENUS26 2367.730 2369.930 Venus Two Six, turn left heading one niner zero.
+dca_f2_2 1 1>VENUS26>F2-2 2369.930 2371.200 One nine zero, Two Six.
+dca_f2_2 1 1>F2-2>R18038 2385.520 2394.290 Army Zero Three Eight, <pause> traffic at ten o'clock, three miles, northbound, eighteen hundred er, and he's going to Davison, assigned code <pause> V F R.
+dca_f2_2 1 2>R18038>F2-2 2394.790 2398.340 Okay we're looking, no contact. Yeah, we've got him now.
+dca_f2_2 1 2>F2-2>R18038 2398.340 2402.450 All right, you're cleared a visual Three Two. Tower is nineteen, * er one twenty six three, see you later.
+dca_f2_2 1 1>R18038>F2-2 2402.450 2403.190 Goodbye, thanks.
+dca_f2_2 1 1>F2-2>VENUS81 2433.380 2435.630 Venus Eight One, descend and maintain three thousand.
+dca_f2_2 1 1>VENUS81>F2-2 2437.170 2438.490 Five for three, Venus Eight One.
+dca_f2_2 1 1>F2-2>VENUS26 2461.250 2463.290 Venus Two Six, reduce to one seventy.
+dca_f2_2 1 1>VENUS26>F2-2 2464.090 2465.940 Two Six, we got our C nine in sight.
+dca_f2_2 1 1>F2-2>VENUS26 2466.890 2468.710 All right. I'm going to have to sequence you though.
+dca_f2_2 1 1>VENUS26>F2-2 2469.010 2470.270 Understand, we're slowing.
+dca_f2_2 1 1>F2-2>VENUS26 2472.300 2477.450 Venus Two Six, contact Andrews Radar one one niner point seven, correction, one one niner point three.
+dca_f2_2 1 1>VENUS26>F2-2 2477.840 2479.460 Nineteen three, Two Six, so long.
+dca_f2_2 1 1>F2-2>VENUS81 2504.030 2505.590 Venus Eight One, Washington.
+dca_f2_2 1 1>VENUS81>F2-2 2505.590 2506.180 Yes sir.
+dca_f2_2 1 1>F2-2>VENUS81 2506.700 2509.350 Contact Andrews one one niner point three.
+dca_f2_2 1 1>VENUS81>F2-2 2509.350 2509.860 So long.
+dca_f2_2 1 2>VENUS26>F2-2 2511.060 2513.260 Washington, Venus Two Six is back with you.
+dca_f2_2 1 1>F2-2>VENUS26 2513.260 2516.510 Venus Two Six, roger. Venus Two Six, descend to four thousand.
+dca_f2_2 1 2>VENUS26>F2-2 2517.080 2520.550 Kind of thought that was weird to send us over before you cleared us to three down to four.
+dca_f2_2 1 2>F2-2>VENUS26 2520.550 2522.590 No, er the other one I cleared to three.
+dca_f2_2 1 2>VENUS26>F2-2 2523.930 2527.300 No no, I er, you cleared, * you changed us over to Approach.
+dca_f2_2 1 2>F2-2>VENUS26 2527.300 2531.030 Ah, okay, I, yeah, I, thought I changed eight one.
+dca_f2_2 1 1>VENUS26>F2-2 2532.280 2533.930 Yeah, I think you said us, maybe not.
+dca_f2_2 1 1>F2-2>VENUS26 2533.930 2534.500 All right.
+dca_f2_2 1 2>F2-2>VENUS26 2535.860 2539.810 Well, the guy from Andrews is sitting right beside me now, so it wasn't any problem.
+dca_f2_2 1 1>VENUS26>F2-2 2539.810 2542.650 Okay, don't you love that kind of communication.
+dca_f2_2 1 1>F2-2>VENUS26 2542.650 2544.600 Yeah, they're over here for about three months.
+dca_f2_2 1 1>VENUS26>F2-2 2544.910 2545.660 Yeah, I knew that.
+dca_f2_2 1 1>USA843>F2-2 2547.700 2550.720 U S Air Eight Forty Three, level one zero thousand with Papa.
+dca_f2_2 1 1>F2-2>USA843 2550.720 2552.630 Eight Forty Three, Washington, roger, proceed direct.
+dca_f2_2 1 1>USA843>F2-2 2553.000 2553.460 Roger.
+dca_f2_2 1 1>F2-2>N960 2555.450 2557.400 November Nine Six Zero, Washington Approach.
+dca_f2_2 1 1>F2-2>VENUS26 2566.670 2568.910 Venus Two Six, descend and maintain four thousand.
+dca_f2_2 1 1>VENUS26>F2-2 2568.910 2571.000 Roger, we're on our way to four thousand, Two Six.
+dca_f2_2 1 1>F2-2>VENUS26 2618.250 2620.410 Venus Two Six, descend and maintain three thousand.
+dca_f2_2 1 1>VENUS26>F2-2 2620.410 2621.770 Three thousand, Two Six.
+dca_f2_2 1 2>F2-2>VENUS26 2628.330 2632.070 Venus Two Six, you can contact Andrews now, one one niner point three, see you later.
+dca_f2_2 1 1>VENUS26>F2-2 2632.070 2633.130 Okay, so long.
+dca_f2_2 1 2>N960>F2-2 2677.210 2681.660 Washington Approach, Cessna Niner Six Niner Six Zero is with you, at four point five.
+dca_f2_2 1 2>F2-2>N960 2681.660 2683.940 November Nine Six Five Six Zero, proceed direct to Washington.
+dca_f2_2 1 2>N960>F2-2 2685.500 2686.380 Nine Six Zero.
+dca_f2_2 1 2>F2-2>USA843 2721.340 2724.430 Eight Forty Three, turn left heading two five zero, descend to four thousand.
+dca_f2_2 1 1>USA843>F2-2 2724.960 2727.600 Two five zero, down to four, U S Air Eight Forty Three.
+dca_f2_2 1 1>USA465>F2-2 2732.330 2735.510 Washington, U S Air Four Sixty Five, ten thousand with Papa.
+dca_f2_2 1 2>F2-2>USA465 2735.510 2738.670 Air Four Sixty Five, Washington Approach, depart Baltimore direct Washington.
+dca_f2_2 1 1>USA465>F2-2 2739.180 2740.380 Baltimore direct Washington.
+dca_f2_2 1 1>F2-2>USA843 2792.610 2797.650 U S Air Eight Forty Three, descend and maintain three thousand, turn right heading two seven zero.
+dca_f2_2 1 1>USA843>F2-2 2798.240 2800.980 Okay, two seven zero down to three, U S Air Eight Forty Three.
+dca_f2_2 1 1>USA843>F2-2 2812.170 2814.440 U S Air Eight Forty Three, you need us to hustle right down?
+dca_f2_2 1 1>F2-2>USA843 2814.750 2816.060 Well, you're number one.
+dca_f2_2 1 1>COA309>F2-2 2818.930 2822.240 Good afternoon, Washington Approach, Continental Three Zero Nine, ten thousand, Papa.
+dca_f2_2 1 1>F2-2>COA309 2822.900 2825.440 Continental Three Oh Nine, Washington, depart Baltimore direct Washington.
+dca_f2_2 1 2>COA309>F2-2 2826.210 2828.020 Baltimore direct Washington, Continental Three Oh Nine.
+dca_f2_2 1 1>F2-2>USA465 2849.000 2853.990 U S Air Four Sixty Five, <pause> descend and maintain six thousand.
+dca_f2_2 1 1>USA465>F2-2 2854.300 2856.300 Six thousand, U S Air Four Sixty Five.
+dca_f2_2 1 2>F2-2>USA843 2865.820 2867.320 Eight Forty Three, you have the river in sight?
+dca_f2_2 1 1>USA843>F2-2 2868.140 2868.610 Affirm.
+dca_f2_2 1 2>F2-2>USA843 2869.770 2872.300 Follow the river to the airport, you're cleared the Mount Vernon approach Three Six.
+dca_f2_2 1 3>USA843>F2-2 2872.730 2874.890 Cleared Mount Vernon Three Six, U S Air Eight Forty Three.
+dca_f2_2 1 1>F2-2>USA843 2890.070 2896.410 U S Air Four Sixty Five, Tower's nine, * I'm sorry, it's U S Air er Eight Forty Three, contact the Tower one one niner point one, good day.
+dca_f2_2 1 3>USA843>F2-2 2896.410 2898.020 Nineteen one, so long, U S Air Eight Forty Three.
+dca_f2_2 1 1>F2-2>USA426 2967.120 2972.110 U S Air Four Twenty Six, Washington Approach, thank you. Washington altimeter is three zero one eight, expect vectors Baltimore.
+dca_f2_2 1 1>F2-2>USA465 2976.860 2980.210 U S Air Four Sixty Five, descend and maintain five thousand.
+dca_f2_2 1 1>USA465>F2-2 2980.600 2982.390 Five thousand, U S Air Four Sixty Five.
+dca_f2_2 1 1>F2-2>USA465 2995.010 2997.730 U S Air Four Sixty Five, turn left heading one niner zero.
+dca_f2_2 1 1>USA465>F2-2 2998.070 2999.810 One ninety, U S Air Four Sixty Five.
+dca_f2_2 1 2>F2-2>VENUS24 3005.520 3009.030 Venus Two Four, Washington Approach, thank you. Expect I L S Runway One Left.
+dca_f2_2 1 1>F2-2>UNK 3011.810 3012.470 Thank you.
+dca_f2_2 1 1>N960>F2-2 3014.240 3017.870 Washington Approach, Nine Six Zero would like to start a descent at this point.
+dca_f2_2 1 1>F2-2>N960 3017.870 3020.230 November Nine Six Zero, I'm working on that for you.
+dca_f2_2 1 1>N960>F2-2 3020.810 3022.240 Nine Six Zero, thank you sir.
+dca_f2_2 1 1>F2-2>N960 3022.240 3023.850 Probably going to be four to five more miles.
+dca_f2_2 1 1>F2-2>COA309 3025.620 3029.630 Continental Three Zero Nine, descend and maintain five thousand, expect an eight mile final.
+dca_f2_2 1 2>COA309>F2-2 3030.110 3032.190 Down to five, eight mile final, Continental Three Oh Nine.
+dca_f2_2 1 1>F2-2>USA426 3037.880 3044.310 U S Air Four Twenty Six, turn right heading zero six zero, descend and maintain one one thousand.
+dca_f2_2 1 1>USA867>F2-2 3060.330 3065.190 Good afternoon, Washington Approach, U S Air Eight Sixty Seven, one zero thousand with Papa.
+dca_f2_2 1 1>F2-2>USA867 3065.710 3069.340 U S Air Eight Sixty Seven, Washington Approach, thank you. Expect further descent in ten miles.
+dca_f2_2 1 1>USA867>F2-2 3069.340 3069.770 Roger.
+dca_f2_2 1 1>F2-2>USA465 3077.040 3081.740 U S Air Four Sixty Five, descend and maintain three thousand, base leg in five miles.
+dca_f2_2 1 1>USA465>F2-2 3082.130 3084.040 Three thousand, U S Air Four Sixty Five.
+dca_f2_2 1 1>F2-2>USA465 3103.100 3108.440 U S Air Four Sixty Five, change altitude er please, and er, <pause> I'll tell you what, no, three'll be all right.
+dca_f2_2 1 1>USA465>F2-2 3109.230 3110.930 Three thousand, U S Air Four Sixty Five.
+dca_f2_2 1 1>F2-2>COA309 3111.350 3113.590 Continental Three Zero Nine, turn left heading one niner zero.
+dca_f2_2 1 2>COA309>F2-2 3114.130 3115.500 Left one ninety, Continental Three Oh Nine.
+dca_f2_2 1 3>N5DW>F2-2 3124.660 3127.970 Washington Approach, Citabria Triple Five Delta Whiskey.
+dca_f2_2 1 1>N305>F2-2 3127.970 3131.440 Washington Approach, Lance Three Eight Three Zero Five, coming up on Andrews, two point five.
+dca_f2_2 1 2>F2-2>N305 3131.440 3135.110 Lance Three Eight Three Zero Five, thank you, Andrews. Depart Andrews heading two eight zero.
+dca_f2_2 1 1>N305>F2-2 3135.550 3137.580 Two eight zero out of Andrews, Three Zero Five.
+dca_f2_2 1 1>F2-2>USA465 3137.580 3140.560 U S Air Four Sixty Five, turn right heading two seven zero.
+dca_f2_2 1 1>USA465>F2-2 3140.560 3143.590 Two seven zero, we have the Runway in sight, U S Air Four Sixty Five.
+dca_f2_2 1 1>F2-2>USA465 3143.590 3145.190 U S Air Four Sixty Five, thank you.
+dca_f2_2 1 1>F2-2>VENUS24 3154.660 3159.180 Venus Two Four, descend and maintain four thousand, turn right heading zero six zero.
+dca_f2_2 1 1>F2-2>USA867 3163.250 3166.710 U S Air Eight Sixty Seven, descend and maintain six thousand.
+dca_f2_2 1 1>USA867>F2-2 3166.710 3168.880 Down to six thousand, U S Eight Sixty Seven.
+dca_f2_2 1 1>F2-2>USA465 3171.790 3175.070 U S Air Four Sixty Five, descend and maintain two thousand.
+dca_f2_2 1 3>USA465>F2-2 3175.630 3177.380 Down to two, U S Air Four Sixty Five.
+dca_f2_2 1 1>F2-2>N960 3178.370 3181.540 Cessna Niner Six Zero, turn left heading one niner zero.
+dca_f2_2 1 1>N960>F2-2 3181.540 3183.350 One niner zero, Nine Six Zero.
+dca_f2_2 1 1>F2-2>N960 3183.350 3185.430 And I'm still working on lower, it's not yet available.
+dca_f2_2 1 1>N960>F2-2 3185.870 3186.680 Thank you, sir.
+dca_f2_2 1 2>N5DW>F2-2 3190.140 3192.910 Citabria Triple Five Delta Whiskey.
+dca_f2_2 1 1>F2-2>USA867 3194.030 3198.090 U S Air Eight Sixty Seven, turn left heading two seven zero, and expect a ten mile final.
+dca_f2_2 1 1>F2-2>USA465 3202.100 3205.850 U S Air Four Sixty Five, turn right heading three six zero, cleared Mount Vernon approach.
+dca_f2_2 1 1>USA465>F2-2 3206.210 3208.880 Three six zero, cleared Mount Vernon, U S Air Four Sixty Five.
+dca_f2_2 1 1>F2-2>USA867 3209.690 3213.640 U S Air Eight Sixty Seven, turn left heading two six zero, and expect a ten mile final.
+dca_f2_2 1 1>USA867>F2-2 3213.640 3216.380 Two six zero for a ten mile final, U S Air Eight Sixty Seven.
+dca_f2_2 1 1>F2-2>USA426 3216.380 3219.570 U S Air Four Twenty Six, descend and maintain five thousand.
+dca_f2_2 1 1>F2-2>USA465 3223.690 3228.020 U S Air Four Sixty Five is number one for the airport, contact the Tower one one niner point one.
+dca_f2_2 1 1>USA465>F2-2 3228.020 3230.260 Nineteen one, U S Air Four Sixty Five, good day.
+dca_f2_2 1 1>F2-2>COA309 3230.570 3233.430 Continental Three Zero Nine, descend and maintain three thousand.
+dca_f2_2 1 1>COA309>F2-2 3233.430 3235.120 Leaving five for three, Continental Three Oh Nine.
+dca_f2_2 1 1>F2-2>COA309 3259.250 3264.730 Continental Three Zero Nine, <pause> descend and main, * er disregard, maintain three, base leg momentarily.
+dca_f2_2 1 2>COA309>F2-2 3265.630 3267.020 Three thousand for Continental Three Oh Nine.
+dca_f2_2 1 1>F2-2>N305 3267.020 3269.710 Lance Three Zero Five, turn left heading two five zero.
+dca_f2_2 1 1>N305>F2-2 3270.070 3272.820 Two five zero, Three Zero Five, we have the traffic at twelve o'clock.
+dca_f2_2 1 1>F2-2>COA309 3277.270 3279.520 Continental Three Oh Nine, turn right heading two seven zero.
+dca_f2_2 1 1>COA309>F2-2 3279.850 3282.060 Right two seventy, Continental er Three Oh Nine.
+dca_f2_2 1 1>F2-2>N960 3282.480 3286.060 November Nine Six Zero, descend and maintain two thousand five hundred.
+dca_f2_2 1 2>N960>F2-2 3286.930 3289.690 Nine Six Zero, four five to two five, thank you sir.
+dca_f2_2 1 1>F2-2>N305 3290.220 3294.180 Lance Three Zero Five, descend and maintain one thousand seven hundred.
+dca_f2_2 1 1>N305>F2-2 3294.680 3296.370 Down to one point seven, Three Zero Five.
+dca_f2_2 1 1>F2-2>COA309 3306.750 3310.450 Continental Three Zero Nine, turn right heading three six zero, cleared Mount Vernon Approach.
+dca_f2_2 1 2>COA309>F2-2 3310.450 3312.680 Three six zero, cleared for the approach, Continental Three Oh Nine.
+dca_f2_2 1 1>F2-2>N305 3331.830 3336.070 Lance Three Zero Five, your traffic's twelve o'clock, three miles, turning inbound, descending out two point five.
+dca_f2_2 1 1>N305>F2-2 3337.090 3338.790 Three Zero Five, roger, we have him.
+dca_f2_2 1 1>F2-2>USA426 3339.100 3341.810 U S Air Four Twenty Six, turn left heading zero five zero.
+dca_f2_2 1 2>F2-2>VENUS24 3343.950 3346.960 Venus Two Four, turn left heading zero three zero, join localizer.
+dca_f2_2 1 1>F2-2>N305 3349.950 3353.470 Lance Three Zero Five, turn straight in to Runway Three Three, descend at your discretion.
+dca_f2_2 1 1>N305>F2-2 3353.770 3354.990 Three Zero Five, will do.
+dca_f2_2 1 1>F2-2>USA867 3354.990 3361.370 U S Air Eight Sixty Seven, descend and maintain two thousand. Expect a vector across the localizer for spacing, across the final for spacing.
+dca_f2_2 1 2>USA867>F2-2 3361.370 3365.580 Okay, we will expect to the cross the final. We're descending to two thousand, U S Air Eight Sixty Seven.
+dca_f2_2 1 1>F2-2>COA309 3365.580 3370.550 Continental Three Zero Nine, your traffic is short final for Three, your speed is good. Contact Tower one one niner point one.
+dca_f2_2 1 1>F2-2>COA309 3374.210 3376.920 Continental Three Oh Nine, contact Tower one one niner point one.
+dca_f2_2 1 1>F2-2>N305 3378.170 3381.500 Lance Three Zero Five, contact Tower one one niner point one.
+dca_f2_2 1 1>N305>F2-2 3381.500 3382.830 Three Zero Five, will do.
+dca_f2_2 1 1>F2-2>VENUS24 3382.830 3389.330 Venus Two Four, contact er, correction, descend and maintain three thousand, contact Andrews, radar one one niner point three.
+dca_f2_2 1 1>F2-2>USA426 3392.650 3396.500 U S Air Four Two Six, change your altitude please, maintain six thousand.
+dca_f2_2 1 1>F2-2>USA867 3402.530 3405.090 U S Air Eight Sixty Seven, turn right heading three four zero.
+dca_f2_2 1 1>USA867>F2-2 3405.090 3407.440 Three four zero, U S Air Eight Sixty Seven.
+dca_f2_2 1 1>F2-2>USA867 3430.500 3433.990 U S Air Eight Sixty Seven, seven from the airport, cleared Mount Vernon Approach.
+dca_f2_2 1 1>USA867>F2-2 3433.990 3436.790 Cleared to the Mount Vernon Approach, U S Air Eight Sixty Seven.
+dca_f2_2 1 1>F2-2>USA426 3436.790 3441.030 U S Air Four Twenty Six, contact Baltimore Approach one one niner point seven, good day.
+dca_f2_2 1 1>NWA1859>F2-2 3444.720 3449.650 Washington Approach, Northwest Eighteen Fifty Nine, out of ten point five for ten thousand with Papa.
+dca_f2_2 1 1>F2-2>NWA1859 3449.650 3453.370 Northwest Eighteen Fifty Nine, Washington Approach, thank you, expect further descent in ten miles.
+dca_f2_2 1 1>NWA1859>F2-2 3453.920 3454.460 Roger.
+dca_f2_2 1 1>F2-2>N960 3457.260 3461.170 Cessna Nine Six Zero, turn right heading two six zero.
+dca_f2_2 1 1>N960>F2-2 3461.170 3463.280 Two six zero, Nine Six Zero.
+dca_f2_2 1 1>F2-2>N960 3463.280 3466.770 Cessna Nine Six Zero, descend and maintain one thousand five hundred.
+dca_f2_2 1 2>N960>F2-2 3467.390 3470.500 Two point five to one point five, Nine Six Zero.
+dca_f2_2 1 1>F2-2>USA867 3470.500 3476.440 U S Air Eight Sixty Seven, your traffic is short final for Three Three, your speed's fine, contact the Tower one one niner point one.
+dca_f2_2 1 1>USA867>F2-2 3476.820 3479.470 Switching Tower, U S Air Eight Sixty Seven, good day.
+dca_f2_2 1 1>F2-2>N960 3484.990 3487.470 Cessna Nine Six Zero, verify you have the airport in sight.
+dca_f2_2 1 1>N960>F2-2 3488.010 3489.350 Got the airport in sight, sir.
+dca_f2_2 1 1>F2-2>N960 3489.350 3498.190 Cessna Nine Six Zero, roger, turn straight in to Runway Three Three, descend at your discretion. There's traffic over the river at your er one o'clock, three miles. They'll be landing well ahead of you.
+dca_f2_2 1 2>N960>F2-2 3498.480 3500.390 Nine Six Zero, I have traffic.
+dca_f2_2 1 2>DAL1751>F2-2 3510.610 3514.920 Washington, Delta Seventeen Fifty One, one, * one zero thousand with Papa.
+dca_f2_2 1 1>F2-2>DAL1751 3514.920 3520.110 Delta Seventeen Fifty One, Washington Approach, thank you, direct to Washington, further descent twelve miles northeast.
+dca_f2_2 1 3>DAL1751>F2-2 3520.750 3522.990 Okay er direct Washington, Seventeen Fifty One.
+dca_f2_2 1 1>F2-2>N960 3523.810 3527.560 Cessna Niner Six Zero, contact the Tower one one niner point one, good day.
+dca_f2_2 1 1>N960>F2-2 3527.560 3529.350 One one niner point one, thank you sir.
+dca_f2_2 1 1>F2-2>NWA1859 3531.020 3538.220 Northwest Eighteen Fifty Nine, turn left heading two seven zero, descend and maintain five thousand.
+dca_f2_2 1 1>NWA1859>F2-2 3538.830 3543.110 Left to two seventy, down to five thousand, Northwest Eighteen Fifty Nine, roger.
+dca_f2_2 1 1>F2-2>NWA1859 3543.110 3545.920 Northwest Eighteen Fifty Nine, expect seven mile final.
+dca_f2_2 1 1>NWA1859>F2-2 3547.290 3547.860 Roger.

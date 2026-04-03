@@ -1,0 +1,627 @@
+dfw_a1_1 1 2>A1-1>DAL394 11.080 16.250 Delta Three Ninety Four, turn right heading er two zero zero.
+dfw_a1_1 1 1>DAL394>A1-1 16.250 18.080 Delta Three Ninety Four, two zero zero.
+dfw_a1_1 1 1>A1-1>DAL394 25.860 28.490 Delta Three Ninety Four, reduce speed to one niner zero.
+dfw_a1_1 1 1>DAL394>A1-1 28.490 30.850 Delta Three Ninety Four, one hundred and ninety knots.
+dfw_a1_1 1 1>A1-1>DAL394 33.180 35.590 Delta Three Ninety Four, turn right two seven zero.
+dfw_a1_1 1 1>DAL394>A1-1 36.120 38.450 Delta Three Ninety Four, right turn two seven zero.
+dfw_a1_1 1 1>A1-1>DAL394 49.550 58.970 Delta Three Ninety Four, you're five south of the marker, turn right three two zero, maintain three thousand til established on the localizer, cleared I L S approach Runway Three Five Right, one hundred ninety knots to the outer marker, please.
+dfw_a1_1 1 1>DAL394>A1-1 59.690 60.900 Delta Three Ninety Four.
+dfw_a1_1 1 1>A1-1>DAL455 67.940 70.770 Delta Four Fifty Five, reduce speed to one niner zero.
+dfw_a1_1 1 2>DAL455>A1-1 72.320 74.360 One ninety, Delta Four Fifty Five.
+dfw_a1_1 1 1>A1-1>DAL946 77.300 82.300 Delta Nine Forty Six, er descend and maintain five thousand, turn ten degrees to the right.
+dfw_a1_1 1 1>DAL946>A1-1 82.980 86.730 Okay, down to five thousand, ten right, Delta Nine Forty Six.
+dfw_a1_1 1 1>A1-1>DAL946 86.730 87.350 Yeah.
+dfw_a1_1 1 1>N0BF>A1-1 88.090 91.550 Regional Approach, Five Zero Bravo Fox, level five thousand.
+dfw_a1_1 1 2>A1-1>N0BF 91.550 96.700 November Five Zero Bravo Fox, Regional Approach, expect I L S Three Six Left localizer one one point niner.
+dfw_a1_1 1 3>N0BF>A1-1 97.020 98.970 Three Six Left I L S, Bravo Fox.
+dfw_a1_1 1 1>A1-1>DAL394 99.970 103.040 Delta Three Ninety Four, contact Tower one two six point five five.
+dfw_a1_1 1 1>DAL394>A1-1 103.040 104.280 Delta Three Ninety Four, good day.
+dfw_a1_1 1 1>A1-1>DAL394 104.280 105.090 So long.
+dfw_a1_1 1 2>A1-1>DAL946 108.030 112.580 Delta Nine Forty Six, descend and maintain three thousand, turn right heading two zero zero.
+dfw_a1_1 1 1>DAL946>A1-1 112.580 115.260 Three thousand, two hundred degrees, Delta Nine Forty Six.
+dfw_a1_1 1 1>A1-1>DAL455 115.260 118.220 Delta Four Fifty Five, turn right heading three one zero.
+dfw_a1_1 1 1>DAL455>A1-1 119.430 121.200 Three one zero, Delta Four Fifty Five.
+dfw_a1_1 1 1>A1-1>N0BF 121.200 125.010 November Five Zero Bravo Foxtrot, turn right heading three one zero.
+dfw_a1_1 1 2>N0BF>A1-1 125.010 126.660 Right, three one oh, Bravo Fox.
+dfw_a1_1 1 1>A1-1>DAL946 128.530 135.410 Delta Four Fifty Five, reduce speed to one niner zero, * er Delta Nine Forty Six, reduce speed to one niner zero and turn right heading two seven zero.
+dfw_a1_1 1 1>DAL946>A1-1 135.410 138.260 Nine Forty Six will slow to one ninety and turn to two seventy.
+dfw_a1_1 1 2>A1-1>DAL946 156.600 166.060 Delta Nine Forty Six, turn right heading three two zero, you're six south of the marker, cleared I L S approach Runway Three Five Right and maintain three thousand until established on the localizer, one niner zero knots outside of the marker.
+dfw_a1_1 1 1>DAL946>A1-1 168.650 172.100 Hundred and ninety knots, three hundred and twenty degrees, cleared approach, Delta Nine Forty Six.
+dfw_a1_1 1 1>A1-1>DAL455 172.750 181.430 Delta Four Fifty Five, you're twelve miles south of the marker, heading three two zero, maintain four thousand till established, one nine zero knots to the outer marker, cleared I L S approach Runway Three Five Right.
+dfw_a1_1 1 2>DAL455>A1-1 182.260 187.590 Delta Four Fifty Five, three twenty heading, cleared to four thousand, intercept, er Three Five Right approach.
+dfw_a1_1 1 1>TWA319>A1-1 190.870 194.780 Er Regional Approach, T W A Three Nineteen out of one one thousand for six.
+dfw_a1_1 1 1>A1-1>TWA319 194.780 200.940 T W A Three Nineteen, Regional Approach, expect I L S approach Runway Three Six Left, localizer frequency is one one one point niner.
+dfw_a1_1 1 1>TWA319>A1-1 201.670 203.970 Er T W A Three Nineteen, Three Six Left.
+dfw_a1_1 1 1>A1-1>DAL455 205.320 208.780 Delta Four Fifty Five, descend and maintain three thousand till established now.
+dfw_a1_1 1 2>DAL455>A1-1 209.310 213.350 Delta Four Fifty Five, established, er intercept at three thousand feet.
+dfw_a1_1 1 1>A1-1>DAL455 213.350 214.280 That's correct.
+dfw_a1_1 1 1>A1-1>DAL946 215.180 218.480 Delta Nine Forty Six, contact Tower one two six point five five.
+dfw_a1_1 1 1>DAL946>A1-1 218.990 221.320 Two six five five, Delta Nine Forty Six.
+dfw_a1_1 1 1>DAL1019>A1-1 226.560 229.830 Approach, Delta Ten Nineteen is with you, through seven thousand for five thousand.
+dfw_a1_1 1 1>A1-1>DAL1019 229.830 233.520 Delta Ten Nineteen, Regional Approach, expect I L S approach Runway Three Five Right.
+dfw_a1_1 1 1>DAL1019>A1-1 234.430 235.500 Delta Ten Nineteen, roger.
+dfw_a1_1 1 1>A1-1>DAL455 240.730 246.080 Delta Four Fifty Five, one hundred ninety knots to marker, contact Tower one two six point five five, good day.
+dfw_a1_1 1 1>DAL455>A1-1 246.680 248.350 Two six five five, good day.
+dfw_a1_1 1 1>A1-1>N0BF 250.080 253.710 November Five Zero Bravo Foxtrot, turn left heading two niner zero.
+dfw_a1_1 1 1>N0BF>A1-1 253.710 255.520 Left two niner zero, Bravo Fox.
+dfw_a1_1 1 1>A1-1>TWA319 278.610 281.700 T W A Three Nineteen, descend and maintain five thousand.
+dfw_a1_1 1 1>TWA319>A1-1 282.130 284.560 T W A Three Nineteen will maintain five thousand.
+dfw_a1_1 1 1>A1-1>N0BF 284.560 288.000 November Five Zero Bravo Foxtrot, descend and maintain four thousand.
+dfw_a1_1 1 3>N0BF>A1-1 288.000 289.650 Four thousand, Bravo Fox.
+dfw_a1_1 1 3>A1-1>DAL1019 289.650 292.790 Delta Nineteen, reduce speed to two one zero.
+dfw_a1_1 1 1>DAL1019>A1-1 292.790 294.940 Delta Ten Nineteen, slowing to two ten.
+dfw_a1_1 1 2>A1-1>DAL455 297.760 300.640 Delta Four Fifty Five, Tower one two six point five five.
+dfw_a1_1 1 1>A1-1>N0BF 302.660 306.000 Falcon Five Zero Bravo Foxtrot, reduce speed to one niner zero.
+dfw_a1_1 1 1>N0BF>A1-1 306.420 308.130 Slowing to one nine zero, Bravo Fox.
+dfw_a1_1 1 1>A1-1>DAL1019 312.830 315.070 Delta Ten Nineteen, turn ten degrees right.
+dfw_a1_1 1 1>DAL1019>A1-1 316.180 317.810 Delta Ten Nineteen, ten degrees right.
+dfw_a1_1 1 1>A1-1>N0BF 320.950 330.680 November Five Zero Bravo Foxtrot, you're seven south of the marker. Turn right heading three three zero, maintain four thousand until established on the localizer, speed one nine zero to outer marker, cleared I L S Three Six Left approach.
+dfw_a1_1 1 2>N0BF>A1-1 330.680 334.640 Heading three three zero, keep the speed to the marker, cleared for the approach, Bravo Fox.
+dfw_a1_1 1 1>A1-1>TWA319 354.360 357.270 T W A Three Nineteen, descend and maintain three thousand.
+dfw_a1_1 1 1>TWA319>A1-1 357.600 359.750 T W A Three Nineteen, to three thousand.
+dfw_a1_1 1 1>A1-1>N0BF 367.090 370.890 November Five Zero Bravo Foxtrot, contact Tower one two four point one five.
+dfw_a1_1 1 1>A1-1>N0BF 372.370 372.870 So long.
+dfw_a1_1 1 1>A1-1>TWA319 373.940 376.880 T W A Three Nineteen, turn right heading two one zero.
+dfw_a1_1 1 1>TWA319>A1-1 377.360 380.840 T W A Three Nineteen, right heading <pause> two one zero.
+dfw_a1_1 1 1>A1-1>DAL319 382.940 385.270 Delta Ten Nineteen, fly heading three one zero.
+dfw_a1_1 1 1>DAL319>A1-1 385.630 387.710 Delta Ten Nineteen, right turn three one zero.
+dfw_a1_1 1 1>A1-1>TWA319 400.130 404.280 T W A Three Nineteen, turn right heading two five zero, reduce speed to one niner zero.
+dfw_a1_1 1 1>TWA319>A1-1 404.930 408.050 T W A Three Nineteen, two fifty on the heading, one ninety on the speed.
+dfw_a1_1 1 1>A1-1>DAL1019 408.050 412.290 Delta Ten Nineteen, heading three two zero, join the localizer, Runway Three Five Right.
+dfw_a1_1 1 1>DAL1019>A1-1 412.630 415.680 Delta Ten Nineteen, right turn three two zero to join the localizer.
+dfw_a1_1 1 1>DAL819>A1-1 416.410 418.950 Delta Eight Nineteen with you, out of ninety five hundred for eight thousand.
+dfw_a1_1 1 1>A1-1>DAL819 419.250 424.310 Delta Eight Nineteen, Regional Approach, roger, descend and maintain seven thousand, I L S Runway Three Five Right approach.
+dfw_a1_1 1 1>DAL819>A1-1 424.310 426.910 Delta Eight Nineteen down to seven thousand, Thirty Five Right.
+dfw_a1_1 1 2>A1-1>DAL819 437.550 444.070 Delta Eight Nineteen, this heading to the localizer, maintain four thousand till established, cleared I L S Three Five Right approach, your present speed for now please.
+dfw_a1_1 1 1>A1-1>DAL1019 446.400 451.180 Delta Ten Nineteen, this heading to the localizer, four thousand till established, cleared I L S Three Five Right.
+dfw_a1_1 1 1>UNK>A1-1 451.650 452.230 You were blocked.
+dfw_a1_1 1 1>A1-1>TWA319 452.870 457.890 T W A Three Nineteen, turn right heading three three zero, join the localizer Three Six Left.
+dfw_a1_1 1 1>TWA319>A1-1 457.890 461.450 T W A Three Nineteen, heading three three zero, and intercept the localizer.
+dfw_a1_1 1 1>A1-1>DAL1019 461.450 470.530 Er that was for Delta Ten Nineteen, now heading three two zero, join the localizer, maintain four thousand till established, one niner zero knots to the outer marker, cleared I L S Three Five Right approach for Delta Ten Nineteen.
+dfw_a1_1 1 1>DAL1019>A1-1 470.880 477.110 Delta Ten Nineteen, one ninety to the marker, three two er zero on the heading, four thousand till established, cleared for the er I L S approach.
+dfw_a1_1 1 1>A1-1>DAL819 477.450 482.880 Delta Eight One Nine, turn right heading two one zero, descend and maintain er four thousand.
+dfw_a1_1 1 2>DAL819>A1-1 482.880 486.440 Delta Eight One Nine, right to two one zero, and down to four thousand.
+dfw_a1_1 1 1>A1-1>TWA319 486.440 493.000 T W A Three Nineteen, descend to two thousand three till established, cleared I L S Three Six Left. Contact Tower one two four point one five.
+dfw_a1_1 1 1>TWA319>A1-1 494.050 498.460 Two thousand three hundred, T W A Three Nineteen, till established, and the Tower, good day.
+dfw_a1_1 1 1>A1-1>TWA319 498.460 499.290 So long.
+dfw_a1_1 1 1>DAL1045>A1-1 500.150 502.980 Delta Ten Forty Five, one zero thousand for seven thousand.
+dfw_a1_1 1 1>A1-1>DAL1045 502.980 507.050 Delta Ten Forty Five, Regional Approach, expect I L S approach Runway Three Five Right.
+dfw_a1_1 1 1>DAL1045>A1-1 507.050 507.500 Roger.
+dfw_a1_1 1 1>A1-1>DAL819 508.010 510.520 Delta Eight Nineteen, turn right two seven zero.
+dfw_a1_1 1 1>DAL819>A1-1 510.820 512.770 Delta Eight Nineteen, right to two seven zero.
+dfw_a1_1 1 2>A1-1>DAL1019 513.440 517.340 Delta Ten Nineteen, contact Tower one two six point five five.
+dfw_a1_1 1 1>DAL1019>A1-1 517.340 518.780 Delta Ten Nineteen, so long.
+dfw_a1_1 1 1>A1-1>DAL819 527.660 530.430 Delta Eight Nineteen, reduce speed to one niner zero.
+dfw_a1_1 1 3>DAL819>A1-1 530.430 532.280 Delta Eight Nineteen, slowing to one ninety.
+dfw_a1_1 1 1>A1-1>DAL1045 535.940 539.020 Delta Ten Forty Five, descend and maintain three thousand.
+dfw_a1_1 1 1>DAL1045>A1-1 539.970 542.200 Down to three thousand, Delta Ten Forty Five.
+dfw_a1_1 1 1>A1-1>DAL1045 555.950 558.910 Delta Ten Forty Five, turn right heading two one zero.
+dfw_a1_1 1 1>DAL1045>A1-1 559.240 560.630 Two One Zero, Delta Ten Forty Five.
+dfw_a1_1 1 1>DAL265>A1-1 571.870 574.830 Delta's Two Sixty Five, nine for six.
+dfw_a1_1 1 1>A1-1>DAL819 574.830 582.770 Delta Eight Nineteen, turn right three four zero, join the localizer, five south of the marker, three thousand until established, cleared I L S Three Five Right, reduce speed to one seven zero at the marker.
+dfw_a1_1 1 1>DAL819>A1-1 583.760 589.730 All right sir, Delta Eight Nineteen, right turn to three four zero, and cleared for the I L S, and we're descending to four thousand.
+dfw_a1_1 1 1>A1-1>DAL819 590.070 594.560 Er you can descend to three till established, cleared I L S Three Five Right approach, speed one seven zero to the marker now.
+dfw_a1_1 1 2>DAL819>A1-1 594.560 597.780 Okay, Delta Eight Nineteen, one seventy and going down to three thousand.
+dfw_a1_1 1 1>A1-1>DAL1045 598.090 600.720 Delta Ten Forty Five, reduce speed to one eight zero.
+dfw_a1_1 1 1>DAL1045>A1-1 600.720 602.260 One eighty, Delta Ten Forty Five.
+dfw_a1_1 1 1>A1-1>DAL265 602.260 604.990 Delta Two Sixty Five, expect I L S Three Five Right.
+dfw_a1_1 1 1>DAL265>A1-1 605.480 606.510 Two Sixty Five, roger.
+dfw_a1_1 1 1>A1-1>DAL819 606.820 609.900 Delta Eight Nineteen, Tower now one two six point five five, good day.
+dfw_a1_1 1 1>A1-1>DAL1045 613.110 615.780 Delta Ten Forty Five, turn right heading two eight zero.
+dfw_a1_1 1 1>DAL1045>A1-1 616.080 617.500 Two eight zero, Delta Ten Forty Five.
+dfw_a1_1 1 1>A1-1>DAL819 626.680 628.870 Delta Eight Nineteen, Tower one two six five five.
+dfw_a1_1 1 1>A1-1>DAL1045 630.600 638.650 Delta Ten Forty Five, turn right heading three two zero, join the localizer, maintain four thousand until established, cleared I L S Three Five Right approach, maintain one eight zero knots to the outer marker.
+dfw_a1_1 1 1>DAL1045>A1-1 639.070 643.280 Er roger on the three two zero and one eighty on the speed, Delta Ten Forty Five.
+dfw_a1_1 1 1>A1-1>DAL1045 676.750 684.150 Delta Ten Forty Five, reduce speed to one seven zero to the marker, three thousand now until established on the localizer, and you can contact Tower one two six point five five.
+dfw_a1_1 1 1>DAL1045>A1-1 684.150 686.230 Two six five five, we'll do it, Delta Ten Forty Five.
+dfw_a1_1 1 1>DAL327>A1-1 747.160 750.950 Approach, Delta Three Twenty Seven with you, passing er ten for six thousand.
+dfw_a1_1 1 1>A1-1>DAL327 750.950 753.290 Delta Three Twenty Seven, Regional Approach, roger.
+dfw_a1_1 1 1>A1-1>DAL265 755.210 759.750 Delta Two Sixty Five, descend and maintain five thousand, turn right heading two zero zero.
+dfw_a1_1 1 1>DAL265>A1-1 760.590 763.920 Right to two zero zero, out of six for five, Delta Two Sixty Five.
+dfw_a1_1 1 1>A1-1>DAL265 763.920 765.670 Er just make that heading one niner zero.
+dfw_a1_1 1 1>DAL265>A1-1 766.020 768.190 Okay, one ninety on the heading, Delta Three Sixty Five.
+dfw_a1_1 1 1>A1-1>DAL265 811.730 814.420 Delta Two Sixty Five, turn right heading two five zero.
+dfw_a1_1 1 1>DAL265>A1-1 814.420 816.960 Two five zero, Delta Two Sixty Five leveling at five.
+dfw_a1_1 1 1>A1-1>DAL265 839.100 842.960 Delta Two Sixty Five, turn right heading two eight zero, descend and maintain four thousand.
+dfw_a1_1 1 1>DAL265>A1-1 842.960 845.520 Two eighty, descend to four, Delta Two Sixty Five.
+dfw_a1_1 1 1>DAL309>A1-1 864.940 866.970 Approach, Delta Three Zero Nine, five thousand.
+dfw_a1_1 1 1>A1-1>DAL265 868.020 872.830 Delta Two Sixty Five, turn right heading three two zero, and join the localizer Three Five Right.
+dfw_a1_1 1 1>DAL265>A1-1 872.830 875.690 Three two zero and join the localizer, Delta Two Sixty Five.
+dfw_a1_1 1 1>A1-1>DAL309 876.060 879.410 Delta Three Zero Nine, Regional Approach, roger, I L S Three Five Right.
+dfw_a1_1 1 1>A1-1>DAL327 880.550 882.340 Delta Three Twenty Seven, did you call on.
+dfw_a1_1 1 1>DAL327>A1-1 882.880 883.530 Negative.
+dfw_a1_1 1 3>A1-1>DAL327 884.950 886.180 Are you here now.
+dfw_a1_1 1 1>DAL327>A1-1 888.200 892.150 Delta Three Twenty Seven, we're at six thousand, we didn't call you, but how you've been digging in?
+dfw_a1_1 1 1>A1-1>DAL327 892.150 894.260 Okay, thank you, I L S Three Five Right.
+dfw_a1_1 1 1>A1-1>DAL327 897.000 903.560 Three Five Right approach, four thousand, be joining the localizer, and a hundred and ninety knots or greater to the outer marker, contact Tower now one two six point five five, good day.
+dfw_a1_1 1 1>UNK1>UNK2 905.650 906.250 Stepped on.
+dfw_a1_1 1 1>A1-1>DAL265 906.250 913.980 Delta Two Sixty Five, you're cleared I L S Three Five Right, four thousand till established on the localizer, a hundred ninety knots or greater to the marker, contact Tower now one two six point five five, good day.
+dfw_a1_1 1 1>DAL265>A1-1 913.980 916.180 Okay, we'll do all that, Delta Two Sixty Five.
+dfw_a1_1 1 1>A1-1>DAL327 916.180 920.640 Delta Three Twenty Seven, turn right two zero zero, descend and maintain er four thousand.
+dfw_a1_1 1 1>DAL327>A1-1 920.640 924.050 Delta Three Twenty Seven, right two zero zero now, and out of six for four.
+dfw_a1_1 1 1>A1-1>DAL309 924.980 928.350 Delta Three Zero Nine, reduce speed to one niner zero, and fly heading two six zero.
+dfw_a1_1 1 1>DAL309>A1-1 928.790 931.670 Delta Three Zero Nine, slow to one ninety, and left to two sixty.
+dfw_a1_1 1 1>DAL1115>A1-1 961.140 963.290 Approach, Delta Eleven Fifteen is with you, out of six for five.
+dfw_a1_1 1 1>A1-1>DAL1115 963.290 964.470 Delta Eleven Fifteen, thank you.
+dfw_a1_1 1 1>A1-1>DAL327 964.470 967.160 Delta Three Twenty Seven, just turn back to the left heading one seven zero.
+dfw_a1_1 1 1>DAL327>A1-1 967.550 969.590 Delta Three Twenty Seven, left one seven zero.
+dfw_a1_1 1 1>A1-1>DAL309 969.590 974.670 Delta Three Zero Nine, turn right three two zero, and join the localizer, Runway Three Five Right, maintain five thousand.
+dfw_a1_1 1 1>DAL309>A1-1 974.670 979.430 Delta Three Zero Nine, right to three two zero, and join the Three Five Right localizer, maintain five thousand.
+dfw_a1_1 1 1>A1-1>DAL1115 981.030 982.720 Delta Eleven Fifteen, are you here?
+dfw_a1_1 1 1>DAL1115>A1-1 983.030 984.170 Yes sir, I checked in with you.
+dfw_a1_1 1 1>A1-1>DAL1115 984.470 986.920 Fine, thank you, reduce speed to one niner zero.
+dfw_a1_1 1 1>DAL1115>A1-1 986.920 988.440 One nine zero, Delta Eleven Fifteen.
+dfw_a1_1 1 3>ASA904>A1-1 989.420 993.340 Regional Approach, good afternoon, Asea Nine Zero Four, level at five thousand.
+dfw_a1_1 1 1>A1-1>ASA904 993.340 995.500 Asea Nine Oh Four, thank you. I L S Three Five Right.
+dfw_a1_1 1 1>A1-1>DAL1115 995.500 997.900 Delta Eleven Fifteen, turn left heading two six zero.
+dfw_a1_1 1 1>DAL1115>A1-1 997.900 999.880 Left to two six zero, Delta Eleven Fifteen.
+dfw_a1_1 1 1>A1-1>DAL309 1000.240 1008.770 Delta Three Zero Nine, you're five south of TUFFO, maintain er four thousand cross TUFFO, cleared I L S Three Five Right approach, maintain a hundred ninety knots or greater to the outer marker, Delta Three Oh Nine.
+dfw_a1_1 1 1>DAL309>A1-1 1009.170 1012.690 Delta Three Zero Nine, out of five, cleared to four, cleared for the I L S Three Five Right.
+dfw_a1_1 1 1>A1-1>DAL327 1013.180 1016.170 Delta Three Twenty Seven, turn right heading two four zero.
+dfw_a1_1 1 1>DAL327>A1-1 1016.470 1018.490 Delta Three Twenty Seven, right two four zero.
+dfw_a1_1 1 1>A1-1>DAL327 1018.490 1020.290 That's correct sir, and a speed of one nine zero.
+dfw_a1_1 1 1>DAL327>A1-1 1020.680 1022.630 Speed one nine zero, Delta Three Twenty Seven.
+dfw_a1_1 1 1>A1-1>DAL1115 1022.630 1026.250 Delta Eleven Fifteen, turn left heading two three zero, and I'll turn you right back in there.
+dfw_a1_1 1 1>DAL1115>A1-1 1026.250 1028.180 Copy that, two two zero the heading, Eleven Fifteen.
+dfw_a1_1 1 1>A1-1>ASA904 1029.780 1031.770 Asea Nine Oh Four, turn ten degrees right.
+dfw_a1_1 1 3>ASA904>A1-1 1032.490 1034.800 Ten right, we'll do that, Asea Nine Zero Four.
+dfw_a1_1 1 1>A1-1>DAL327 1035.330 1038.060 Delta Three Twenty Seven, turn right heading two seven zero.
+dfw_a1_1 1 1>DAL327>A1-1 1038.060 1040.330 Delta Three Twenty Seven, right two seven zero.
+dfw_a1_1 1 1>DAL1037>A1-1 1054.780 1057.410 Approach, Delta Ten Thirty Seven, checking in six for five.
+dfw_a1_1 1 3>A1-1>DAL1037 1057.410 1059.340 Delta Ten Thirty Seven, Regional Approach, roger.
+dfw_a1_1 1 1>A1-1>DAL327 1063.090 1065.130 Delta Three Twenty Seven, you at a hundred ninety now.
+dfw_a1_1 1 1>DAL327>A1-1 1065.700 1067.370 That's affirmative, Delta Three Twenty Seven.
+dfw_a1_1 1 3>A1-1>DAL327 1067.370 1068.460 Thank you, sir.
+dfw_a1_1 1 1>A1-1>DAL327 1072.560 1076.160 Delta Three Twenty Seven, turn right three six zero, join the Three Five Right Localizer.
+dfw_a1_1 1 1>DAL327>A1-1 1076.480 1079.120 Delta Three Twenty Seven, right three six zero to join the Localizer.
+dfw_a1_1 1 1>A1-1>DAL1115 1079.120 1082.820 Delta Eleven Fifteen, turn right three six zero, join the Three Five Right localizer.
+dfw_a1_1 1 1>DAL1115>A1-1 1082.820 1085.260 Three sixty to join the Three Five Right localizer, Delta Eleven Fifteen.
+dfw_a1_1 1 1>A1-1>DAL309 1085.990 1088.540 Delta Three Oh Nine, Tower one two six five five, good day.
+dfw_a1_1 1 1>DAL309>A1-1 1088.540 1089.570 Delta Three Oh Nine.
+dfw_a1_1 1 1>A1-1>DAL327 1090.530 1097.730 Delta Three Twenty Seven, you're three south of TUFFO, cross TUFFO at four thousand, you're cleared I L S Three Five Right approach, maintain one eight zero knots to the outer marker.
+dfw_a1_1 1 1>DAL327>A1-1 1097.730 1100.690 Delta Three Twenty Seven, cleared approach, maintain one eight zero to the marker.
+dfw_a1_1 1 2>BAW229>A1-1 1101.650 1105.520 Approach, Speedbird Two Twenty Nine Heavy, out of eight for six thousand.
+dfw_a1_1 1 1>A1-1>DAL1115 1106.890 1111.350 Delta Eleven Fifteen, turn right heading zero two zero, and join the Three Five Right localizer.
+dfw_a1_1 1 1>DAL1115>A1-1 1112.050 1115.060 All the way around to zero two zero, Delta Three Fifteen, * er Eleven Fifteen.
+dfw_a1_1 1 1>A1-1>DAL1037 1115.060 1116.650 Delta Ten Thirty Seven, you here?
+dfw_a1_1 1 1>DAL1037>A1-1 1117.160 1117.900 We're here.
+dfw_a1_1 1 1>A1-1>DAL1037 1117.900 1120.450 Delta Ten Thirty Seven, thank you, reduce speed to one niner zero.
+dfw_a1_1 1 1>DAL1037>A1-1 1120.780 1122.280 Ten Thirty Seven, one ninety.
+dfw_a1_1 1 1>A1-1>DAL1115 1122.280 1127.740 Delta Eleven Fifteen, maintain four thousand and cross TUFFO at a hundred ninety knots to the marker, cleared I L S Three Five Right approach.
+dfw_a1_1 1 2>DAL1115>A1-1 1128.450 1131.700 Four thousand until TUFFO, and a hundred and ninety, Delta Eleven Fifteen.
+dfw_a1_1 1 1>A1-1>ASA904 1131.700 1134.530 Asea Nine Oh Four, turn right three two zero and join the localizer.
+dfw_a1_1 1 1>A1-1>ASA904 1137.010 1139.790 Asea Nine Oh Four, turn right three two zero and join the localizer.
+dfw_a1_1 1 2>ASA904>A1-1 1140.380 1143.210 Asea Nine Oh Four, right three two zero, and join the localizer.
+dfw_a1_1 1 3>A1-1>ASA904 1143.210 1144.600 Sir, you're at a hundred and ninety knots.
+dfw_a1_1 1 1>ASA904>A1-1 1145.680 1147.270 Asea Nine Oh Four, we're one eight zero.
+dfw_a1_1 1 1>A1-1>ASA904 1147.270 1147.910 Thank you.
+dfw_a1_1 1 1>A1-1>DAL721 1147.910 1149.370 Delta Seven Twenty One, are you here?
+dfw_a1_1 1 1>BAW229>A1-1 1152.570 1155.640 Speedbird Two Twenty Nine Heavy, steering one eight zero degrees.
+dfw_a1_1 1 1>A1-1>BAW229 1155.640 1158.300 Thank you sir, reduce speed to one eight zero, expect Runway Three Five Right.
+dfw_a1_1 1 1>BAW229>A1-1 1158.300 1158.800 Roger.
+dfw_a1_1 1 1>A1-1>DAL327 1160.130 1163.100 Delta Three Twenty Seven, contact Tower one two six point five five.
+dfw_a1_1 1 1>DAL327>A1-1 1163.800 1165.750 Delta Three Twenty Seven, one two six five five.
+dfw_a1_1 1 1>A1-1>DAL1115 1165.750 1169.930 Delta Eleven Fifteen, one nine zero knots to the marker, contact Tower now one two six point five five.
+dfw_a1_1 1 1>DAL1115>A1-1 1169.930 1171.710 Twenty six fifty five, Eleven Fifteen, so long.
+dfw_a1_1 1 1>A1-1>DAL1115 1171.710 1172.140 Good day.
+dfw_a1_1 1 1>A1-1>DAL1037 1172.140 1174.230 Delta Ten Thirty Seven, reduce speed to one seven zero.
+dfw_a1_1 1 2>DAL1037>A1-1 1174.230 1176.270 Ten Thirty Seven, one seven zero.
+dfw_a1_1 1 1>A1-1>ASA904 1176.650 1178.980 Asea Nine Zero Four, reduce speed to one seven zero.
+dfw_a1_1 1 2>ASA904>A1-1 1179.450 1181.290 Asea Nine Zero Four to one seven zero.
+dfw_a1_1 1 1>A1-1>DAL721 1183.700 1184.850 Delta Seven Twenty One?
+dfw_a1_1 1 1>A1-1>DAL721 1188.180 1189.370 Delta Seven Twenty One.
+dfw_a1_1 1 1>A1-1>DAL1037 1196.460 1198.720 Delta Ten Thirty Seven, reduce speed to one six zero.
+dfw_a1_1 1 1>A1-1>ASA904 1201.190 1206.890 Asea Nine Oh Four, reduce speed to one six zero, you're four south of TUFFO, cross TUFFO at four thousand, cleared I L S Three Five Right approach.
+dfw_a1_1 1 3>ASA904>A1-1 1207.380 1212.820 One sixty on the speed, four thousand to TUFFO, cleared for the I L S Three Five Right, Asea Nine Oh Four.
+dfw_a1_1 1 1>A1-1>DAL721 1213.170 1214.310 Delta Seven Twenty One?
+dfw_a1_1 1 1>A1-1>DAL1037 1221.950 1225.920 Delta Ten Thirty Seven, turn right three four zero, and join the localizer.
+dfw_a1_1 1 1>DAL1037>A1-1 1225.920 1228.720 Delta Ten Thirty Seven, right three forty to join.
+dfw_a1_1 1 1>A1-2>DAL1037 1246.930 1254.400 Delta Ten Thirty Seven, seven miles from TUFFO, maintain er four thousand until TUFFO, one six zero knots to the outer marker inbound, cleared for I L S Runway Three Five Right approach.
+dfw_a1_1 1 3>DAL1037>A1-2 1255.530 1257.720 Delta Ten Thirty Seven, maintain four.
+dfw_a1_1 1 1>A1-2>DAL1037 1260.200 1260.670 That's correct.
+dfw_a1_1 1 3>A1-2>DAL721 1260.670 1263.380 Delta Seven Twenty One, Regional, if you hear me, ident please, Delta Seven Twenty One.
+dfw_a1_1 1 1>A1-2>DAL1037 1266.720 1270.820 Delta Ten Thirty Seven, if you got a company freq, get Delta Seven Twenty One to come up on this frequency, please.
+dfw_a1_1 1 1>DAL1037>A1-2 1272.010 1273.420 Seven Twenty One, we'll try.
+dfw_a1_1 1 1>A1-2>DAL1037 1273.420 1275.750 Thank you sir, he's about five miles behind you, and we're not talking to him.
+dfw_a1_1 1 1>A1-2>BAW229 1276.940 1278.870 Speedbird Two Twenty Nine Heavy, reduce speed to one eight zero.
+dfw_a1_1 1 1>BAW229>A1-2 1279.280 1281.480 Roger, we're doing one eight zero, Speedbird Two Twenty Nine Heavy.
+dfw_a1_1 1 1>A1-2>ASA904 1281.480 1283.950 Asea Nine Oh Four, contact Tower one two six point five five.
+dfw_a1_1 1 1>A1-2>DAL1037 1285.500 1288.280 Delta Ten Thirty Seven, Tower one two six point five five at TUFFO.
+dfw_a1_1 1 2>DAL1037>A1-2 1288.280 1289.600 Delta Ten Thirty Seven, roger.
+dfw_a1_1 1 1>A1-2>DAL721 1290.030 1291.900 Delta Seven Twenty One, Regional, if you hear me, ident.
+dfw_a1_1 1 1>A1-2>BAW229 1295.500 1302.030 Speedbird Two Twenty Nine Heavy, expect I L S Runway Three Six Left approach, maintain six thousand, localizer frequency is one one one point niner.
+dfw_a1_1 1 1>A1-2>DAL721 1308.150 1311.000 Delta Seven Twenty One, Regional, one two three four five, if you hear me, ident.
+dfw_a1_1 1 1>BAW229>A1-2 1314.490 1317.340 Speedbird Two Twenty Nine Heavy, maintaining six thousand.
+dfw_a1_1 1 1>A1-2>BAW229 1317.340 1321.690 Yes sir, the runaway traffic we're trying to get on the frequency is at five, I'm not sure whether he's going to come back to that localizer or not.
+dfw_a1_1 1 1>BAW229>A1-2 1322.390 1322.810 Roger.
+dfw_a1_1 1 1>A1-2>BAW229 1323.370 1328.590 Okay, Speedbird Two Twenty Nine Heavy, turn right now heading two eight zero, two eight zero, and maintain six thousand.
+dfw_a1_1 1 3>BAW229>A1-2 1328.590 1331.500 Right turn two eight zero, maintain six, Speedbird Two Twenty Nine Heavy.
+dfw_a1_1 1 1>A1-2>BAW229 1337.150 1343.040 Speedbird Two Twenty Nine Heavy, I'm going to have to hold you up at altitude just a little bit, sir. Reference the traffic coming back, he's still at five, and I'm not talking to him yet.
+dfw_a1_1 1 1>DAL721>A1-2 1345.690 1346.890 Approach, Delta Seven Twenty One.
+dfw_a1_1 1 1>A1-2>DAL721 1347.260 1354.160 Delta Seven Twenty One, Regional, descend and maintain three thousand, expedite, turn right heading zero two zero, and er you can expect I L S Runway Three Five Right approach.
+dfw_a1_1 1 1>DAL721>A1-2 1355.380 1358.510 Yeah, we copy all that, down to three, zero two zero, Delta Seven Twenty One.
+dfw_a1_1 1 1>A1-2>DAL721 1358.940 1359.480 That's correct.
+dfw_a1_1 1 1>DAL721>A1-2 1361.400 1363.270 Confirm three thousand, Delta Seven Twenty One.
+dfw_a1_1 1 1>A1-2>DAL721 1363.270 1368.680 That's correct, Delta Seven Twenty One, intercept the I L S Three Five Right localizer, best rate down to three thousand please, we've been er trying to get you up on the freq.
+dfw_a1_1 1 1>DAL721>A1-2 1369.190 1370.450 Okay, Delta Seven Twenty One.
+dfw_a1_1 1 1>A1-2>DAL721 1370.970 1377.770 Seven Twenty One, there's a heavy jet at er one o'clock to you, six miles, westbound, heavy D C Ten at six thousand, will be descending above you, inbound for Runway Three Six.
+dfw_a1_1 1 1>A1-2>BAW229 1380.760 1385.190 Roger, and Speedbird Two Twenty Nine Heavy, descend and maintain five thousand now, turn right heading three er zero zero.
+dfw_a1_1 1 1>BAW229>A1-2 1385.780 1391.000 Three zero zero, down to five thousand, Speedbird er Two Twenty Nine Heavy, confirm localizer frequency Three Six Left?
+dfw_a1_1 1 1>A1-2>BAW229 1391.000 1395.300 The localizer frequency for Three Six Left is one one one point niner, should be one one one point niner, sir.
+dfw_a1_1 1 1>BAW229>A1-2 1395.300 1395.860 Roger.
+dfw_a1_1 1 1>A1-2>DAL721 1397.320 1406.700 Delta Seven Twenty One, you're er six miles from TUFFO, maintain three thousand until TUFFO, and at least one nine zero knots to the outer marker inbound, cleared for I L S Runway Three Five Right approach, Delta Seven Twenty One.
+dfw_a1_1 1 1>DAL721>A1-2 1407.060 1409.260 Okay, cleared the approach, Delta Seven Twenty One.
+dfw_a1_1 1 1>A1-2>BAW229 1409.660 1412.210 Speedbird Two Twenty Nine, descend and maintain four thousand.
+dfw_a1_1 1 1>BAW229>A1-2 1412.990 1415.090 Descend to four thousand, Speedbird Two Twenty Nine.
+dfw_a1_1 1 1>AAL597>A1-2 1416.650 1419.510 Regional Approach, American Five Ninety Seven, six point three for five thousand.
+dfw_a1_1 1 1>A1-2>AAL597 1419.510 1421.680 American Five Ninety Seven, descend and maintain four thousand.
+dfw_a1_1 1 1>AAL597>A1-2 1422.430 1424.140 Down to four thousand, American Five Ninety Seven.
+dfw_a1_1 1 1>A1-2>BAW229 1430.350 1438.020 Speedbird Two Twenty Nine Heavy, keep your speed up at least one nine zero knots to the outer marker inbound, now turn right heading three three zero, and intercept the I L S Three Six Left localizer.
+dfw_a1_1 1 3>BAW229>A1-2 1438.610 1441.520 Three three zero for localizer, Speedbird Two Two Nine Heavy.
+dfw_a1_1 1 1>A1-2>ASA904 1441.520 1445.610 Asea Nine Zero Four, contact Tower one two six point five five, Asea Nine Zero Four.
+dfw_a1_1 1 2>ASA904>A1-2 1445.610 1448.150 Twenty six fifty five, Asea Nine Oh Four, have a good day.
+dfw_a1_1 1 1>A1-2>ASA904 1448.150 1448.680 Good day.
+dfw_a1_1 1 1>A1-2>DAL721 1449.780 1452.320 Delta Seven Twenty One, contact Tower one two six point five five.
+dfw_a1_1 1 2>DAL721>A1-2 1452.630 1454.580 Twenty six fifty five, Delta Seven Twenty One.
+dfw_a1_1 1 2>A1-2>BAW229 1454.580 1462.120 Speedbird Two Twenty Nine Heavy, two miles from er HUTEN, now maintain four thousand until HUTEN and one nine zero knots to the outer marker inbound, cleared for I L S Runway Three Six Left approach.
+dfw_a1_1 1 3>BAW229>A1-2 1462.120 1465.140 Cleared I L S Three Six Left approach, Speedbird Two Two Nine Heavy.
+dfw_a1_1 1 1>A1-2>AAL597 1465.140 1467.490 American Five Ninety Seven, turn right heading two eight zero.
+dfw_a1_1 1 1>AAL597>A1-2 1467.890 1469.780 Right two eight zero, American Five Ninety Seven.
+dfw_a1_1 1 1>A1-2>BAW229 1469.780 1472.300 Speedbird Two Twenty Nine Heavy, Tower one two four point one five.
+dfw_a1_1 1 3>BAW229>A1-2 1472.300 1473.330 One two four one five.
+dfw_a1_1 1 1>A1-2>AAL597 1486.710 1490.490 American er Five Ninety Seven, turn further right heading three zero zero now sir, maintain four thousand.
+dfw_a1_1 1 1>AAL597>A1-2 1490.960 1493.660 Right three three zero, maintain four thousand, American Five Ninety Seven.
+dfw_a1_1 1 1>A1-2>AAL597 1516.240 1518.140 American Five Ninety Seven, reduce speed to one nine zero.
+dfw_a1_1 1 2>AAL597>A1-2 1518.600 1520.380 Hundred and ninety knots, American Five Ninety Seven.
+dfw_a1_1 1 1>A1-2>AAL597 1543.710 1552.220 American Five Ninety Seven, turn right heading three three zero. You're three miles from TUFFO, maintain four thousand until TUFFO, and one nine zero knots to the outer marker inbound, cleared for I L S Runway Three Five Right approach.
+dfw_a1_1 1 2>AAL597>A1-2 1552.650 1556.610 Okay, cleared Three Five Right approach, maintain a hundred and ninety knots to TUFFO, American Five Ninety Seven.
+dfw_a1_1 1 1>A1-2>AAL597 1578.010 1581.200 American Five Ninety Seven, contact Tower one two six point five five, good day sir.
+dfw_a1_1 1 1>AAL597>A1-2 1581.200 1582.530 Twenty six fifty five, good day.
+dfw_a1_1 1 1>AAL1039>A1-2 1643.560 1647.520 Approach, American Ten Thirty Nine is out of er eleven thousand now for six thousand.
+dfw_a1_1 1 3>A1-2>AAL1039 1647.520 1649.880 American Ten Thirty Nine, Regional Approach, roger, fly heading one eight zero.
+dfw_a1_1 1 1>AAL1039>A1-2 1650.350 1652.010 One eighty on the heading, American Ten Thirty Nine.
+dfw_a1_1 1 1>A1-2>AAL1039 1652.650 1655.010 Were you on a one eighty heading assigned by the other controller, sir?
+dfw_a1_1 1 1>AAL1039>A1-2 1655.010 1655.910 That's affirmative.
+dfw_a1_1 1 1>A1-2>AAL1039 1655.910 1657.220 Okay, thank you. I didn't know that.
+dfw_a1_1 1 1>A1-2>AAL1039 1753.390 1755.750 American Ten Thirty Nine, descend and maintain four thousand.
+dfw_a1_1 1 1>AAL1039>A1-2 1756.220 1758.530 Descending to four thousand, American Ten Thirty Nine.
+dfw_a1_1 1 2>DAL939>A1-2 1806.740 1809.010 Approach, Delta Nine Thirty Nine passing nine for six thousand.
+dfw_a1_1 1 1>A1-2>DAL939 1809.010 1811.900 Delta Nine Thirty Nine, fly heading one niner zero, descend and maintain five thousand.
+dfw_a1_1 1 1>DAL939>A1-2 1812.280 1814.240 One nine zero, five thousand, Delta Nine Thirty Nine.
+dfw_a1_1 1 1>A1-2>AAL1039 1897.280 1900.350 American Er Ten Thirty Nine, turn right heading two three zero.
+dfw_a1_1 1 1>AAL1039>A1-2 1901.150 1903.140 Two three zero, American Ten Thirty Nine.
+dfw_a1_1 1 3>PAA573>A1-2 1904.050 1906.340 Approach, Clipper Five Seventy Three, out of six for five thousand.
+dfw_a1_1 1 1>A1-2>PAA573 1906.340 1911.030 Clipper Five Seven Three, expect simultaneous I L S Runway Three Six Left, localizer frequency one one one point niner.
+dfw_a1_1 1 1>A1-2>PAA573 1924.970 1928.740 Clipper Five Seven Three, fly heading two eight five, two eighty five.
+dfw_a1_1 1 1>A1-2>PAA573 1942.920 1945.680 Clipper Five Seven Three, turn further right, heading two nine zero.
+dfw_a1_1 1 1>A1-2>AAL1039 1947.190 1950.250 American Ten Thirty Nine, turn right heading er two eight zero.
+dfw_a1_1 1 1>AAL1039>A1-2 1950.980 1952.930 Two eighty on the heading, American Ten Thirty Nine.
+dfw_a1_1 1 1>A1-2>DAL939 1952.930 1955.840 Delta Nine Thirty Nine, reduce speed to one nine zero, and turn left heading one eight zero.
+dfw_a1_1 1 1>DAL939>A1-2 1957.010 1960.280 Hundred ninety knots, one eighty on the er direction, Delta er Nine Thirty Nine.
+dfw_a1_1 1 1>A1-2>PAA573 1960.280 1963.000 Clipper Five Seven Three, descend and maintain four thousand.
+dfw_a1_1 1 1>A1-2>AAL1039 1964.520 1968.170 American Ten Thirty Nine, turn right heading three three zero, and intercept the Three Five Right localizer.
+dfw_a1_1 1 3>AAL1039>A1-2 1968.170 1970.730 Three three zero to intercept, American Ten Thirty Nine.
+dfw_a1_1 1 1>A1-2>PAA573 1970.730 1972.540 Clipper Five Seven Three, keep your speed up.
+dfw_a1_1 1 3>PAA573>A1-2 1973.220 1974.050 Two fifty knots.
+dfw_a1_1 1 1>A1-2>AAL1039 1975.660 1982.860 American Ten Thirty Nine, you're three miles from TUFFO, maintain four thousand until TUFFO, at least one niner zero knots to the outer marker inbound, cleared for I L S Runway Three Five Right approach.
+dfw_a1_1 1 1>AAL1039>A1-2 1983.310 1986.870 Four thousand till established, one ninety to the marker, cleared for the approach, American Ten Thirty Nine.
+dfw_a1_1 1 1>A1-2>PAA573 1988.300 1995.770 Clipper Five Seventy Three, expedite your descent to four thousand, traffic's at two o'clock now and eight miles, southbound, a Delta Seven Twenty Seven at five, will be restricted above you for the east side.
+dfw_a1_1 1 1>DAL939>A1-2 2006.130 2007.460 In sight, Delta Nine Thirty Nine.
+dfw_a1_1 1 1>A1-2>DAL939 2007.460 2007.910 Roger.
+dfw_a1_1 1 1>PAA573>A1-2 2015.520 2016.100 Roger.
+dfw_a1_1 1 1>A1-2>DAL939 2025.810 2028.000 Delta Nine Thirty Nine, turn right heading two five zero.
+dfw_a1_1 1 1>DAL939>A1-2 2028.000 2029.580 Two five zero, Delta Nine Thirty Nine.
+dfw_a1_1 1 1>A1-2>AAL1039 2029.580 2032.330 American Ten Thirty Nine, contact Tower one two six point five five.
+dfw_a1_1 1 1>AAL1039>A1-2 2032.960 2033.970 American Ten Thirty Nine.
+dfw_a1_1 1 1>A1-2>PAA573 2034.490 2036.920 Clipper Five Seventy Three, say your speed, fly heading three one zero.
+dfw_a1_1 1 2>PAA573>A1-2 2039.390 2040.430 Er, say again.
+dfw_a1_1 1 1>A1-2>PAA573 2040.430 2043.710 Say your speed, and fly heading three one zero. Now descend and maintain three thousand.
+dfw_a1_1 1 3>PAA573>A1-2 2043.710 2045.990 Three one zero, speed two fifty, cleared to three thousand.
+dfw_a1_1 1 1>A1-2>DAL939 2047.930 2049.940 Delta Nine Thirty Nine, turn right heading two six zero.
+dfw_a1_1 1 1>DAL939>A1-2 2050.340 2051.830 Two six zero, Delta Nine Thirty Nine.
+dfw_a1_1 1 1>A1-2>DAL939 2068.110 2071.460 Delta Nine Thirty Nine, speed one nine zero, and expect to hold that to the outer.
+dfw_a1_1 1 1>DAL939>A1-2 2072.420 2074.130 One nine zero, Delta Nine Thirty Nine.
+dfw_a1_1 1 1>A1-2>DAL939 2074.130 2074.710 Thank you, sir.
+dfw_a1_1 1 1>A1-2>DAL939 2086.920 2089.140 Delta Nine Thirty Nine, descend and maintain four thousand now.
+dfw_a1_1 1 2>DAL939>A1-2 2089.750 2091.520 Leaving five for four, Delta Nine Thirty Nine.
+dfw_a1_1 1 1>A1-2>DAL939 2091.520 2094.940 That's correct, turn right heading three three zero to intercept the localizer course, Delta Nine Thirty Nine.
+dfw_a1_1 1 1>DAL939>A1-2 2094.940 2097.000 Three three zero to intercept, Delta Nine Thirty Nine.
+dfw_a1_1 1 1>A1-2>PAA573 2098.030 2110.470 Clipper Five Seventy Three, you're two southeast of er HUTEN, maintain three thousand until HUTEN and established on the localizer course, actually until established on the localizer, you'll hit slightly north of it, at least one nine zero knots to the outer marker inbound, cleared for I L S Runway Three Six Left approach.
+dfw_a1_1 1 1>A1-2>PAA573 2114.710 2115.190 That's correct.
+dfw_a1_1 1 1>A1-2>DAL939 2115.930 2123.450 Delta Nine Thirty Nine, you're two miles from er TUFFO now, maintain four thousand or above until TUFFO, at least one nine zero knots to the outer marker inbound, cleared for I L S Runway Three Five Right approach.
+dfw_a1_1 1 2>DAL939>A1-2 2123.450 2126.220 Four thousand until TUFFO, Delta Nine Thirty Nine, cleared approach.
+dfw_a1_1 1 1>A1-2>DAL939 2126.220 2126.820 That's correct.
+dfw_a1_1 1 1>A1-2>PAA573 2126.820 2133.900 Clipper Five Seventy Three, thanks for the speed, keep it up. Your er traffic is a heavy jet on a two mile final, well ahead of you, no factor, contact the Tower one two four point one five, good day now.
+dfw_a1_1 1 1>A1-2>PAA573 2139.390 2141.370 Five Seventy Three, you're intercepting the localizer now, is that correct?
+dfw_a1_1 1 1>A1-2>PAA573 2142.940 2149.000 Okay. Do not overshoot when you come back to the right side, traffic is out of four thousand, descending on approach to Runway Three Five Right off your right side.
+dfw_a1_1 1 1>A1-2>PAA573 2150.270 2150.590 Okay.
+dfw_a1_1 1 2>A1-2>DAL939 2151.030 2155.900 Delta Nine Thirty Nine, the Clipper jet's just gone slightly through, coming back in to intercept the Three Six Left localizer, ten o'clock and a mile and a half.
+dfw_a1_1 1 1>DAL939>A1-2 2156.430 2157.300 Delta Nine Thirty Nine.
+dfw_a1_1 1 1>A1-2>DAL939 2157.300 2158.430 Do you still have him in sight.
+dfw_a1_1 1 1>DAL939>A1-2 2159.300 2160.630 Er negative, we're in the clouds now.
+dfw_a1_1 1 1>A1-2>DAL939 2160.630 2165.400 Okay, well he's intercepting, and er he's got final miles, you contact the Tower now one two six five five, good day.
+dfw_a1_1 1 1>DAL939>A1-2 2165.400 2166.370 Delta Nine Thirty Nine, good day.
+dfw_a1_1 1 1>AAL251>A1-2 2197.620 2201.440 Regional Approach, American Two Fifty One Heavy, out of er eleven for six.
+dfw_a1_1 1 1>A1-2>AAL251 2201.440 2204.540 American Two Fifty One Heavy, roger, heading one eight zero, descend and maintain five thousand.
+dfw_a1_1 1 1>AAL251>A1-2 2204.540 2206.930 Down to five thousand, American Two Fifty One Heavy.
+dfw_a1_1 1 1>A1-2>AAL251 2327.600 2329.770 American Two Fifty One Heavy, fly heading one niner zero.
+dfw_a1_1 1 1>AAL251>A1-2 2330.300 2332.460 Heading one niner zero, American Two Fifty One Heavy.
+dfw_a1_1 1 1>A1-2>AAL251 2333.270 2339.880 Yes, you can plan on joining final about five outside the outer marker. Expedite your descent, American Two Fifty One Heavy. I'll get you a little lower in about another four miles.
+dfw_a1_1 1 1>AAL251>A1-2 2339.880 2342.120 Okay, we'll hurry on down, American Two Fifty One Heavy.
+dfw_a1_1 1 1>A1-2>AAL251 2364.090 2366.780 American Two Fifty One Heavy, descend and maintain three thousand.
+dfw_a1_1 1 1>AAL251>A1-2 2366.780 2369.080 Down to three thousand, American Two Fifty One Heavy.
+dfw_a1_1 1 1>A1-2>AAL251 2418.820 2421.300 American Two Fifty One Heavy, turn right heading two six zero.
+dfw_a1_1 1 1>AAL251>A1-2 2421.720 2424.060 Right heading two sixty, American Two Fifty One Heavy.
+dfw_a1_1 1 1>AAL633>A1-2 2449.830 2453.540 Regional Approach, American Six Thirty Three Heavy, fifty five hundred for five thousand.
+dfw_a1_1 1 1>A1-2>AAL633 2453.540 2455.360 American Six Thirty Three Heavy, Regional, roger.
+dfw_a1_1 1 1>A1-2>AAL251 2460.510 2467.880 American Two Fifty One Heavy, turn right heading three three zero. Five and one half miles from the outer marker, maintain three thousand until established on the localizer, cleared for I L S Runway Three Five Right.
+dfw_a1_1 1 1>AAL251>A1-2 2468.670 2473.750 Okay, I think I cut you out, cleared I L S Three Five Right, American Two Fifty One Heavy, three thirty to intercept.
+dfw_a1_1 1 2>A1-2>AAL251 2473.750 2477.490 That's correct, three thirty, keep it fairly tight, as much as you can, please. I missed the first part of your readback.
+dfw_a1_1 1 2>AAL251>A1-2 2477.490 2483.550 Er, we just er, I cut you out of part of your transmission, we got it. Er, cleared for I L S er Three Five Right, American Two Fifty One Heavy.
+dfw_a1_1 1 1>A1-2>AAL251 2483.550 2490.090 Two Fifty One Heavy, thank you sir, you're six miles behind traffic, no factor. At least one nine zero knots to the outer marker inbound. Please contact Tower one two six point five five.
+dfw_a1_1 1 1>AAL251>A1-2 2490.090 2492.820 One ninety to the marker, and over to the Tower, American Two Fifty One Heavy, good day.
+dfw_a1_1 1 1>A1-2>AAL251 2492.820 2493.340 Good day.
+dfw_a1_1 1 1>A1-2>AAL633 2493.340 2497.120 American Six Thirty Three Heavy, descend and maintain three thousand, and then fly heading three zero zero.
+dfw_a1_1 1 1>AAL633>A1-2 2497.120 2501.350 Down to three thousand, and right to three zero zero, American Six Thirty Three Heavy.
+dfw_a1_1 1 1>AAL95>A1-2 2504.580 2509.870 Regional Approach, American er Ninety Five, we're leaving sixty five hundred for five thousand, heading two nine zero.
+dfw_a1_1 1 2>A1-2>AAL95 2509.870 2515.340 American Ninety Five, Regional Approach, roger, reduce speed to er two ten, descend and maintain five thousand. I'll have a sequence for you a little closer in.
+dfw_a1_1 1 1>AAL95>A1-2 2515.340 2517.630 Roger, two ten the speed, down to five thousand.
+dfw_a1_1 1 1>A1-2>AAL383 2519.310 2520.540 American Three Eighty Three.
+dfw_a1_1 1 1>UNK>A1-2 2524.910 2525.690 Say again.
+dfw_a1_1 1 1>A1-2>AAL383 2525.690 2527.910 American Three Eighty Three, descend and maintain five thousand.
+dfw_a1_1 1 1>AAL383>A1-2 2535.150 2537.260 Approach, American Three Eighty Three is with you at six thousand.
+dfw_a1_1 1 1>A1-2>AAL383 2537.260 2539.690 American Three Eighty Three, Regional, descend and maintain five thousand.
+dfw_a1_1 1 1>AAL383>A1-2 2540.190 2542.360 Okay, we're out of six for five, American Three Eighty Three.
+dfw_a1_1 1 1>A1-2>AAL95 2542.360 2544.500 American Ninety Five, reduce speed to one niner zero.
+dfw_a1_1 1 1>A1-2>AAL95 2547.410 2549.450 American Ninety Five, reduce speed to one niner zero.
+dfw_a1_1 1 1>AAL95>A1-2 2549.860 2551.000 Roger, one niner zero.
+dfw_a1_1 1 1>A1-2>AAL383 2554.800 2557.280 American Three Eighty Three, descend and maintain four thousand.
+dfw_a1_1 1 1>AAL383>A1-2 2557.280 2559.340 On down to four thousand, American Three Eighty Three.
+dfw_a1_1 1 1>A1-2>AAL383 2565.480 2567.900 American Three Eighty Three, reaching four, reduce speed to one nine zero.
+dfw_a1_1 1 1>AAL383>A1-2 2568.700 2571.360 Okay, reaching four, we're slow to one ninety, American Three Eighty Three.
+dfw_a1_1 1 1>A1-2>AAL633 2572.990 2582.400 American's Six Thirty Three Heavy, seven miles from the outer marker, turn right heading three three zero, maintain three thousand until established on the localizer, at least one nine zero knots to the outer marker inbound, cleared for I L S Runway Three Five Right approach.
+dfw_a1_1 1 1>AAL633>A1-2 2582.990 2589.730 Roger, right three three zero, three thousand till established, one ninety to the marker, cleared I L S Runway Three Five approach, American Six Thirty Three Heavy.
+dfw_a1_1 1 1>A1-2>AAL383 2589.730 2594.270 American Three Eighty Three, turn right heading two two zero, expedite your descent to and maintain four thousand, please.
+dfw_a1_1 1 1>AAL383>A1-2 2594.840 2598.730 Okay, we're out of five for four, and er two twenty on the heading, American Three Eighty Three.
+dfw_a1_1 1 1>A1-2>AAL95 2604.250 2607.200 American Ninety Five, turn left heading two seven zero for sequence, please.
+dfw_a1_1 1 1>AAL95>A1-2 2607.540 2609.420 Back to two seven zero, American Ninety Five.
+dfw_a1_1 1 1>A1-2>AAL383 2609.420 2612.040 American Three Eighty Three, turn further right heading two six zero.
+dfw_a1_1 1 1>AAL383>A1-2 2613.600 2614.030 Say again.
+dfw_a1_1 1 2>A1-2>AAL383 2614.370 2617.170 American Three Eighty Three, turn right heading two six zero, please.
+dfw_a1_1 1 1>AAL383>A1-2 2617.170 2619.070 Right to two sixty, American Three Eighty Three.
+dfw_a1_1 1 1>A1-2>AAL383 2622.500 2627.620 American Three Eighty Three, information, you're following a company heavy D C Ten on the final. The winds three five zero at eight, caution wake turbulence.
+dfw_a1_1 1 1>AAL383>A1-2 2628.010 2630.290 We understand, we're following a heavy, American Three Eighty Three.
+dfw_a1_1 1 3>A1-2>AAL383 2630.290 2630.850 That's correct.
+dfw_a1_1 1 2>A1-2>AAL95 2630.850 2635.680 American er Ninety Five, you're following Company Seven Two at two o'clock, two and a half miles, westbound, on the base, four thousand.
+dfw_a1_1 1 1>AAL95>A1-2 2636.200 2638.570 American Ninety Five, roger er we don't see him.
+dfw_a1_1 1 1>A1-2>AAL383 2639.120 2641.880 American Three Eighty Three, turn further right, heading two eight zero, please.
+dfw_a1_1 1 1>AAL383>A1-2 2642.250 2643.540 Right to two eighty, American Three Eighty Three.
+dfw_a1_1 1 1>A1-2>AAL383 2647.230 2649.800 American Three Eighty Three, descend and maintain three thousand.
+dfw_a1_1 1 1>AAL383>A1-2 2650.160 2651.740 Out of four for three, American Three Eighty Three.
+dfw_a1_1 1 1>A1-2>AAL95 2651.740 2654.000 American Ninety Five, descend and maintain four thousand.
+dfw_a1_1 1 1>A1-2>AAL95 2656.620 2659.460 Hello American Ninety five, descend and maintain four thousand, please.
+dfw_a1_1 1 1>A1-2>AAL95 2663.210 2667.870 American Ninety Five, Approach, one two three four five, descend and maintain four thousand, acknowledge please.
+dfw_a1_1 1 1>AAL95>A1-2 2667.870 2670.940 Roger, two three four five, down to four thousand, American Ninety Five.
+dfw_a1_1 1 1>A1-2>AAL95 2670.940 2674.900 Thank you, American Ninety Five, now turn right heading three zero zero.
+dfw_a1_1 1 1>A1-2>AAL383 2677.510 2684.850 American Three Eighty Three, you're eight miles from the outer marker, turn right heading three three zero, maintain three thousand until established on the localizer course, cleared for I L S Runway Three Five Right approach.
+dfw_a1_1 1 1>AAL383>A1-2 2684.850 2689.580 Three thirty on the heading, maintain three thousand until established, cleared the I L S Three Five Right approach, American Three Eighty Three.
+dfw_a1_1 1 1>A1-2>AAL383 2689.580 2696.310 Three Eighty Three, thank you sir, maintain at least one nine zero knots to the outer marker inbound, you're well spaced, eight miles behind the heavy jet, contact Tower one two six point five five.
+dfw_a1_1 1 1>AAL383>A1-2 2696.310 2698.980 One ninety to the marker, twenty six fifty five, American Three Eighty Three, good day.
+dfw_a1_1 1 1>A1-2>AAL383 2698.980 2699.400 Good day.
+dfw_a1_1 1 1>A1-2>AAL95 2699.400 2702.230 American Ninety Five, turn right heading three three zero, intercept the localizer.
+dfw_a1_1 1 1>A1-2>AAL95 2703.580 2706.540 American Ninety Five, turn right heading three three zero, intercept the localizer.
+dfw_a1_1 1 1>AAL95>A1-2 2707.110 2710.710 Er, right three three zero for the localizer, American Ninety Five, is that a good frequency?
+dfw_a1_1 1 1>A1-2>AAL95 2711.510 2714.500 The localizer frequency is er one zero niner point one.
+dfw_a1_1 1 1>AAL95>A1-2 2714.500 2717.280 I meant the one two three forty five that you gave us.
+dfw_a1_1 1 1>A1-2>AAL383 2720.520 2723.330 American Three Eighty Three, contact the Tower one two six point five five.
+dfw_a1_1 1 1>A1-2>AAL95 2724.720 2726.320 American Ninety Five, remain on this frequency.
+dfw_a1_1 1 1>AAL95>A1-2 2726.790 2727.690 American Ninety Five.
+dfw_a1_1 1 1>AAL95>A1-2 2742.750 2744.400 American Ninety Five, we're slowing it back.
+dfw_a1_1 1 1>A1-2>AAL95 2745.070 2748.330 American Ninety Five, roger, if you would maintain one nine zero knots to the outer marker inbound, please.
+dfw_a1_1 1 1>AAL95>A1-2 2748.860 2750.400 Okay, we'll maintain one ninety.
+dfw_a1_1 1 2>A1-2>AAL95 2750.400 2758.140 Thank you, American Ninety Five, and er turn right heading zero two zero, intercept the localizer course from the west side. I was a little late on your turn, I guess. I couldn't get with you on the radio there.
+dfw_a1_1 1 1>AAL95>A1-2 2758.140 2759.420 Roger, zero two zero.
+dfw_a1_1 1 1>A1-2>AAL95 2769.860 2777.760 American Ninety Five, you're er two and one half miles from TUFFO now, maintain four thousand until TUFFO, one nine zero knots to the outer marker inbound, cleared for I L S Runway Three Five Right approach.
+dfw_a1_1 1 2>AAL95>A1-2 2778.240 2781.560 Er roger, cleared the I L S Three Five Right, and we had all the rest.
+dfw_a1_1 1 1>A1-2>AAL95 2781.560 2782.830 Okay, thank you much.
+dfw_a1_1 1 1>A1-2>AAL95 2794.600 2798.340 American Ninety Five, contact Regional Tower one two six point five five, have a nice day now.
+dfw_a1_1 1 2>AAL95>A1-2 2798.340 2801.410 Roger, twenty six fifty five, American Nine, Ninety, * Ninety Five.
+dfw_a1_1 1 1>A1-2>AAL1117 2807.600 2808.880 American Eleven Seventeen, Approach.
+dfw_a1_1 1 3>AAL627>A1-2 2824.650 2827.020 American Six Twenty Seven, out of ten for six thousand.
+dfw_a1_1 1 1>A1-2>AAL627 2827.360 2830.280 American Six Twenty Seven, Regional Approach, roger, descend and maintain five thousand.
+dfw_a1_1 1 1>AAL627>A1-2 2830.870 2832.740 Down to five, American Six Twenty Seven.
+dfw_a1_1 1 1>AAL1117>A1-2 2835.310 2837.200 American Eleven Seventeen with you, at five thousand.
+dfw_a1_1 1 1>A1-2>AAL1117 2837.540 2839.440 American Eleven Seventeen, Regional Approach, roger.
+dfw_a1_1 1 1>A1-2>AAL1117 2864.520 2872.970 American Eleven Seventeen, descend and maintain four thousand, reduce speed to one nine zero. You're following company heavy jet on final, caution wake turbulence. The wind is three six zero at one zero. The type is heavy D C Ten.
+dfw_a1_1 1 1>AAL1117>A1-2 2873.520 2878.890 Okay, five for four thousand, American er Eleven Seventeen, and we're slowing to a hundred and ninety knots.
+dfw_a1_1 1 1>A1-2>AAL627 2879.860 2882.880 American Six Twenty Seven, descend and maintain four thousand.
+dfw_a1_1 1 1>AAL627>A1-2 2883.410 2885.200 Down to four, American Six Twenty Seven.
+dfw_a1_1 1 1>AAL1153>A1-2 2903.370 2906.580 Approach, American's Eleven Fifty Three is out of ten for six.
+dfw_a1_1 1 1>A1-2>AAL1153 2906.580 2909.040 American Eleven Fifty Three, Regional, descend and maintain five thousand.
+dfw_a1_1 1 1>AAL1153>A1-2 2909.700 2911.520 Five thousand, Eleven Fifty Three.
+dfw_a1_1 1 1>A1-2>AAL1117 2943.180 2948.130 American Eleven Seventeen, turn right heading three two zero, intercept the I L S Three Five Right localizer.
+dfw_a1_1 1 3>AAL1117>A1-2 2948.490 2952.420 Heading three two five, * three two zero, intercept the localizer, American Eleven Seventeen.
+dfw_a1_1 1 1>A1-2>AAL1117 2963.210 2973.940 American Eleven Seventeen, four miles from TUFFO, maintain four thousand until TUFFO, at least one nine zero knots to the outer marker inbound, cleared for I L S Runway Three Five Right approach, er you're spaced about eight miles behind the heavy D C ten at this time.
+dfw_a1_1 1 1>AAL1117>A1-2 2974.510 2980.190 Okay, four thousand till TUFFO, cleared I L S Three Five Right, American Eleven Seventeen, a hundred and ninety knots to the marker.
+dfw_a1_1 1 1>A1-2>AAL1117 2980.190 2983.420 American Eleven Seventeen, readback correct, contact Tower on one two six point five five.
+dfw_a1_1 1 1>AAL1117>A1-2 2983.420 2984.100 Good day.
+dfw_a1_1 1 1>A1-2>AAL1117 2984.100 2984.570 Good day.
+dfw_a1_1 1 1>A1-2>AAL1153 2989.510 2992.350 American Eleven Fifty Three, reduce speed to one nine zero.
+dfw_a1_1 1 1>AAL1153>A1-2 2993.110 2994.180 Eleven Fifty Three.
+dfw_a1_1 1 1>A1-2>AAL373 3001.060 3002.470 American Three Seventy Three.
+dfw_a1_1 1 1>AAL373>A1-2 3007.080 3010.580 Approach, American Three Seventy Three, we're out of er seventy two for five.
+dfw_a1_1 1 1>A1-2>AAL373 3010.580 3012.490 American Three Seventy Three, Regional, roger.
+dfw_a1_1 1 1>A1-2>AAL627 3042.810 3045.300 American Six Twenty Seven, turn right heading two one zero.
+dfw_a1_1 1 2>AAL627>A1-2 3045.710 3047.550 Two ten heading, American Six Seven.
+dfw_a1_1 1 1>A1-2>AAL627 3051.070 3058.320 American Six Twenty Seven, I'm going to give you a turn on slightly north of TUFFO. Expect to maintain four thousand until established on the localizer, turn right heading two six zero, maintain four thousand.
+dfw_a1_1 1 2>AAL627>A1-2 3058.890 3061.570 Two sixty heading, maintain four, for American Six Twenty Seven.
+dfw_a1_1 1 1>A1-2>AAL627 3061.570 3061.970 Thank you.
+dfw_a1_1 1 1>A1-2>AAL1153 3061.970 3065.080 American Eleven Fifty Three, turn left heading one six zero, and reduce speed to one nine zero.
+dfw_a1_1 1 1>AAL1153>A1-2 3066.060 3069.250 One sixty, and we're at one ninety, American Eleven Fifty Three.
+dfw_a1_1 1 1>A1-2>AAL373 3070.300 3072.630 American Three Seventy Three, descend and maintain four thousand.
+dfw_a1_1 1 1>AAL373>A1-2 3073.100 3074.330 Three Seventy Three, down to four.
+dfw_a1_1 1 1>A1-2>AAL373 3074.330 3077.880 That's correct, American Three Seventy Three, turn right now heading two nine zero, expedite down to four.
+dfw_a1_1 1 1>AAL373>A1-2 3078.250 3081.040 Expedite to four, two nine zero on the heading, American Three Seventy Three.
+dfw_a1_1 1 1>A1-2>AAL1441 3086.030 3087.650 American Fourteen Forty One.
+dfw_a1_1 1 1>A1-2>AAL1153 3119.400 3121.740 American Eleven Fifty Three, turn right heading one seven zero.
+dfw_a1_1 1 1>AAL1153>A1-2 3122.110 3124.180 Right to one seventy, Eleven Fifty Three.
+dfw_a1_1 1 1>A1-2>AAL627 3124.180 3128.080 American Six Twenty Seven, turn right heading three three zero, intercept the I L S Three Five Right localizer.
+dfw_a1_1 1 1>AAL627>A1-2 3128.830 3131.620 Three thirty heading, intercept the localizer, American Six Twenty Seven.
+dfw_a1_1 1 1>A1-2>AAL1153 3132.390 3134.730 American Eleven Fifty Three, descend and maintain four thousand.
+dfw_a1_1 1 1>AAL1153>A1-2 3135.220 3137.460 Five for four, American Eleven Fifty Three.
+dfw_a1_1 1 2>A1-2>AAL627 3138.020 3146.890 American's Six Twenty Seven, you're one mile east of TUFFO, maintain four thousand until established on the TUFFO localizer course, cleared for I L S Runway Three Five Right approach, maintain one nine zero knots to the outer marker inbound.
+dfw_a1_1 1 2>AAL627>A1-2 3149.070 3152.520 A hundred and ninety to the marker, American Six Twenty Seven, cleared for the approach.
+dfw_a1_1 1 1>A1-2>AAL627 3152.520 3158.600 That's right, maintain four thousand until established on the localizer, traffic off your left, parallel simultaneous approach to Three Five, correction, Three Six Left off your left.
+dfw_a1_1 1 1>AAL627>A1-2 3159.050 3160.770 We're established, American Six Twenty Seven.
+dfw_a1_1 1 1>A1-2>AAL373 3160.770 3165.190 American Three Seventy Three, turn right heading three two zero, intercept the I L S Three Five Right localizer.
+dfw_a1_1 1 2>AAL373>A1-2 3165.670 3169.010 Three two zero to intercept I L S Three Five Right localizer, American Three Seventy Three.
+dfw_a1_1 1 1>AAL1441>A1-2 3171.080 3174.720 Approach, American Fourteen Forty One is with you, out of seventy five for six thousand.
+dfw_a1_1 1 1>A1-2>AAL1441 3174.720 3178.420 American Fourteen Forty One, Regional Approach, reduce speed to one niner zero, and descend and maintain four thousand.
+dfw_a1_1 1 1>AAL1441>A1-2 3178.930 3181.090 One ninety, and down to four, American Fourteen Forty One.
+dfw_a1_1 1 1>A1-2>AAL1153 3181.090 3183.440 American Eleven Fifty Three, turn right heading two five zero.
+dfw_a1_1 1 1>AAL1153>A1-2 3183.440 3185.610 Right to two fifty, American Eleven Fifty Three.
+dfw_a1_1 1 1>A1-2>AAL373 3185.610 3192.790 American Three Seventy Three, two miles from TUFFO, maintain four thousand until TUFFO, and one nine zero knots to the outer marker inbound, cleared for I L S Runway Three Five Right approach.
+dfw_a1_1 1 1>AAL373>A1-2 3192.790 3198.790 Cleared I L S Three Five Right approach, er one ninety to TUFFO and er four thousand to TUFFO, cleared the I L S Three Five Right approach.
+dfw_a1_1 1 1>A1-2>AAL1153 3199.190 3201.810 American Eleven Fifty Three, turn further right heading two seven zero.
+dfw_a1_1 1 1>AAL1153>A1-2 3202.410 3204.280 Two seventy, American Eleven Fifty Three.
+dfw_a1_1 1 2>A1-2>AAL373 3204.280 3208.470 American Three Seventy Three, contact Regional Tower one two six point five five, you're five miles behind a company.
+dfw_a1_1 1 1>AAL373>A1-2 3208.840 3210.750 Okay, going to Tower, American Three Seventy Three.
+dfw_a1_1 1 1>UAL725>A1-2 3211.560 3215.060 Approach, United Seven Twenty Five, out of eight thousand five hundred for six thousand.
+dfw_a1_1 1 1>A1-2>UAL725 3215.060 3218.210 United Seven Twenty Five, descend and maintain five thousand, reduce speed to one nine zero.
+dfw_a1_1 1 1>UAL725>A1-2 3218.710 3221.520 Down to five thousand, slow to one ninety, United Seven Twenty Five.
+dfw_a1_1 1 1>A1-2>AAL1441 3221.520 3225.220 American Fourteen Forty One, maintain four thousand, reduce speed to one nine zero, if you would please.
+dfw_a1_1 1 1>AAL1441>A1-2 3225.220 3228.050 We're at one ninety and four thousand, American Fourteen Forty One.
+dfw_a1_1 1 1>A1-2>AAL425 3236.130 3237.270 American Four Twenty Five.
+dfw_a1_1 1 1>A1-2>AAL627 3241.500 3244.750 American Six Twenty Seven, contact the Tower one two six point five five, please.
+dfw_a1_1 1 1>AAL627>A1-2 3245.060 3246.360 American Six Twenty Seven, good day.
+dfw_a1_1 1 1>A1-2>AAL627 3246.360 3246.920 Good day.
+dfw_a1_1 1 1>AAL425>A1-2 3248.660 3252.140 Approach, good afternoon, American Four Twenty Five is out of ninety two for six.
+dfw_a1_1 1 1>A1-2>AAL425 3252.140 3255.850 American Four Twenty Five, heading one nine zero, descend and maintain er five thousand.
+dfw_a1_1 1 1>AAL425>A1-2 3256.700 3260.090 One nine zero down to five thousand, American er Four Twenty Five.
+dfw_a1_1 1 1>A1-2>AAL1153 3260.090 3262.790 Eleven Fifty Three, right heading three three zero, intercept the localizer.
+dfw_a1_1 1 1>AAL1153>A1-2 3263.420 3266.750 Three thirty to intercept the localizer, American Eleven Fifty Three.
+dfw_a1_1 1 1>A1-2>AAL1441 3266.750 3269.090 American Fourteen Forty One, turn right heading two eight zero.
+dfw_a1_1 1 1>AAL1441>A1-2 3269.440 3271.260 Heading two eight zero, American Fourteen Forty One.
+dfw_a1_1 1 2>A1-2>AAL1153 3273.540 3280.500 American Eleven Fifty Three, two and a half miles from TUFFO, maintain four thousand until TUFFO, and one nine zero knots to the outer marker inbound, cleared for I L S Runway Three Five Right approach.
+dfw_a1_1 1 2>AAL1153>A1-2 3280.890 3284.930 Four thousand to TUFFO, cleared Three Five Right I L S, American Eleven Fifty Three.
+dfw_a1_1 1 2>A1-2>AAL1153 3284.930 3289.940 Eleven Fifty Three, at least one nine zero knots the outer inbound, you're five miles behind traffic, contact Tower one two six point five five.
+dfw_a1_1 1 1>AAL1153>A1-2 3290.250 3290.900 Good day.
+dfw_a1_1 1 1>A1-2>AAL1153 3290.900 3291.510 Good day.
+dfw_a1_1 1 1>A1-2>AAL1441 3291.510 3293.900 American Fourteen Forty One, further right heading two niner zero.
+dfw_a1_1 1 1>AAL1441>A1-2 3293.900 3295.800 Two ninety, American Fourteen Forty One.
+dfw_a1_1 1 1>A1-2>UAL725 3297.870 3300.030 United Seven Twenty Five, left heading one seven zero.
+dfw_a1_1 1 1>UAL725>A1-2 3300.420 3302.540 Left to one seven zero, United Seven Twenty Five.
+dfw_a1_1 1 1>A1-2>UAL725 3302.540 3304.160 That's correct sir, maintain four thousand.
+dfw_a1_1 1 1>UAL725>A1-2 3305.240 3307.080 Down to four thousand, United Seven Twenty Five.
+dfw_a1_1 1 1>AAL1337>A1-2 3308.350 3311.730 Er Approach, American Thirteen Thirty Seven, we're out of ten for six thousand.
+dfw_a1_1 1 1>A1-2>AAL1337 3311.730 3314.320 American Thirteen Thirty Seven, Regional Approach, roger, fly heading one nine zero.
+dfw_a1_1 1 1>AAL1337>A1-2 3314.870 3316.800 One ninety heading, American Thirteen Thirty Seven.
+dfw_a1_1 1 1>A1-2>AAL1441 3325.130 3329.380 American Fourteen Forty One, turn right heading three two zero, intercept the I L S Three Five Right localizer.
+dfw_a1_1 1 1>AAL1441>A1-2 3329.770 3332.190 Three two zero and intercept, American Fourteen Forty One.
+dfw_a1_1 1 1>A1-2>AAL425 3333.110 3334.960 American Four Twenty Five, fly heading one eight zero.
+dfw_a1_1 1 1>AAL425>A1-2 3336.810 3338.210 One eighty, American Four Twenty Five.
+dfw_a1_1 1 1>A1-2>UAL725 3338.210 3340.560 United Seven Twenty Five, turn right heading two two zero.
+dfw_a1_1 1 1>UAL725>A1-2 3340.560 3342.940 Heading two two zero, United Seven Twenty Five.
+dfw_a1_1 1 1>A1-2>AAL1441 3348.440 3355.530 American Fourteen Forty One, three and one half miles from TUFFO, maintain four thousand until TUFFO, and one nine zero knots to the outer marker inbound, cleared for I L S Runway Three Five Right approach.
+dfw_a1_1 1 1>AAL1441>A1-2 3356.180 3359.840 Four thousand, TUFFO, cleared I L S Three Five Right approach, American Fourteen Forty One.
+dfw_a1_1 1 1>A1-2>UAL725 3359.840 3362.040 United Seven Twenty Five, turn right heading two eight zero.
+dfw_a1_1 1 1>UAL725>A1-2 3362.420 3364.360 Heading two eight zero, United Seven Twenty Five.
+dfw_a1_1 1 1>A1-2>AAL425 3364.710 3368.310 American Four Twenty Five, descend and maintain four thousand, reaching for one nine zero knots.
+dfw_a1_1 1 1>AAL425>A1-2 3369.120 3372.290 One, er down to four and say again for American Four Twenty Five.
+dfw_a1_1 1 1>A1-2>AAL425 3372.290 3376.480 Reaching four thousand, reduce your speed to one niner zero knots, American Four Twenty Five, maintain four thousand.
+dfw_a1_1 1 1>AAL425>A1-2 3376.850 3380.810 Okay, when we're at four thousand, we'll reduce to one ninety, American er Four Twenty Five.
+dfw_a1_1 1 1>A1-2>AAL1441 3381.720 3384.580 American Fourteen Forty One, Tower one two six point five five.
+dfw_a1_1 1 1>AAL1441>A1-2 3384.580 3386.430 American Fourteen Forty One.
+dfw_a1_1 1 1>A1-2>AAL373 3390.370 3392.790 American Three Seventy Three, turn left heading one eight zero.
+dfw_a1_1 1 1>A1-2>AAL1137 3394.530 3399.500 American Four, * American Thirteen Thirty Seven, turn left heading one seven zero now, descend and maintain four thousand.
+dfw_a1_1 1 1>AAL1137>A1-2 3399.500 3403.370 Okay, one seventy heading, and descending to four thousand, American Thirteen Thirty Seven.
+dfw_a1_1 1 1>AAL883>A1-2 3409.190 3411.620 Approach, American Eight Eighty Three is out of nine and a half for six.
+dfw_a1_1 1 1>A1-2>AAL883 3411.620 3413.840 American Eight Eighty Three, fly heading one niner zero.
+dfw_a1_1 1 1>AAL883>A1-2 3414.670 3415.570 One ninety, Eight Eighty Three.
+dfw_a1_1 1 1>A1-2>UAL725 3422.540 3431.050 United Seven Twenty Five, turn right heading three two zero, three miles from TUFFO, maintain four thousand until TUFFO, and one nine zero knots to the outer marker inbound, cleared for I L S Runway Three Five Right approach.
+dfw_a1_1 1 1>UAL725>A1-2 3431.520 3436.110 Heading three two zero to intercept, cleared for the I L S Three Five Right approach, United Seven Twenty Five.
+dfw_a1_1 1 1>A1-2>UAL725 3436.110 3439.110 Yes sir, one nine zero knots to the outer marker inbound, four and a half behind traffic.
+dfw_a1_1 1 1>UAL725>A1-2 3439.580 3440.330 Seven Twenty Five.
+dfw_a1_1 1 1>A1-2>UAL725 3441.840 3443.260 That was for United Seven Twenty Five.
+dfw_a1_1 1 1>A1-2>AAL425 3444.990 3449.000 American Four Twenty Five, turn er right heading two six zero.
+dfw_a1_1 1 1>AAL425>A1-2 3449.000 3450.930 Two sixty, American Four Twenty Five.
+dfw_a1_1 1 1>A1-2>AAL1337 3451.740 3454.250 Er American Thirteen Thirty Seven, descend and maintain four thousand.
+dfw_a1_1 1 2>AAL1337>A1-2 3454.960 3457.200 Descending to four thousand, American Thirteen Thirty Seven.
+dfw_a1_1 1 1>A1-2>UAL725 3457.200 3460.430 United Seven Twenty Five, contact Tower on one two six point five five.
+dfw_a1_1 1 1>UAL725>A1-2 3460.430 3461.380 Seven Twenty Five.
+dfw_a1_1 1 1>A1-2>AAL425 3463.540 3466.130 American Four Twenty Five, continue right turn heading two eight five.
+dfw_a1_1 1 1>AAL425>A1-2 3466.130 3468.230 Two eighty five, American Four Twenty Five.
+dfw_a1_1 1 1>A1-2>AAL383 3472.040 3475.040 American Three Eighty Three, turn left heading one seven zero, descend and maintain five thousand.
+dfw_a1_1 1 1>A1-2>AAL883 3479.640 3483.680 American Eighty Three, fly heading one eight zero now, descend and maintain five thousand. American Eight Eighty Three, i'm sorry.
+dfw_a1_1 1 1>AAL883>A1-2 3483.680 3485.580 One eighty down to five, American Eight Eighty Three.
+dfw_a1_1 1 1>A1-2>AAL425 3502.480 3510.770 American Four Twenty Five, three miles from TUFFO, turn right heading three two zero, maintain four thousand until TUFFO, one nine zero knots to the outer marker inbound, cleared for I L S three five Right approach.
+dfw_a1_1 1 1>AAL425>A1-2 3511.480 3520.390 Okay, er four thousand to TUFFO, and three two zero, and a hundred and ninety knots, cleared for the I L S on er Three Five Right, American Four Twenty Five.
+dfw_a1_1 1 1>A1-2>AAL425 3520.390 3522.780 That's correct, further right heading three three zero for the intercept.
+dfw_a1_1 1 1>AAL425>A1-2 3522.780 3525.080 Okay we're intercepting now, American Four Twenty Five.
+dfw_a1_1 1 1>A1-2>AAL425 3525.080 3525.360 Roger.
+dfw_a1_1 1 1>A1-2>AAL1337 3527.890 3531.460 American Thirteen Thirty Seven, turn right heading er two zero zero.
+dfw_a1_1 1 1>AAL1337>A1-2 3532.020 3534.690 Right to two zero zero, American Thirteen Thirty Seven.
+dfw_a1_1 1 1>A1-2>AAL425 3541.110 3543.580 American Four Twenty Five, Tower one two six point five five.
+dfw_a1_1 1 1>AAL425>A1-2 3543.580 3545.070 Twenty Six Fifty Five, so long.
+dfw_a1_1 1 1>A1-2>AAL425 3545.070 3545.520 So long.
+dfw_a1_1 1 1>A1-2>AAL1337 3545.520 3548.060 American Thirteen Thirty Seven, turn right heading two six zero.
+dfw_a1_1 1 1>AAL1337>A1-2 3548.380 3550.520 Right to two sixty, American Thirteen Thirty Seven.
+dfw_a1_1 1 1>A1-2>AAL883 3550.520 3553.380 American Eight Eighty Three, turn left heading one er seven zero now, please.
+dfw_a1_1 1 1>AAL883>A1-2 3553.380 3554.580 Left one seventy, Eight Eighty Three.
+dfw_a1_1 1 1>A1-2>AAL883 3567.860 3570.250 American Eight Eighty Three, descend and maintain four thousand.
+dfw_a1_1 1 1>AAL883>A1-2 3570.550 3571.590 Five for four, Eight Eighty Three.
+dfw_a1_1 1 1>AAL1379>A1-2 3575.560 3579.840 Approach, American Thirteen Seventy Nine, at one one thousand, heading one eight zero.
+dfw_a1_1 1 1>A1-2>AAL1379 3579.840 3583.470 American Thirteen Seventy Nine, fly heading one niner zero, descend and maintain six thousand.
+dfw_a1_1 1 1>AAL1379>A1-2 3584.040 3587.160 One nine zero, out of eleven for six, American Thirteen Seventy Nine.
+dfw_a1_1 1 1>A1-2>AAL1337 3605.040 3608.470 American Thirteen Thirty Seven, turn right heading three three zero, intercept the localizer.
+dfw_a1_1 1 2>AAL1337>A1-2 3609.100 3612.060 Three thirty heading to intercept the localizer, American Thirteen Thirty Seven.
+dfw_a1_1 1 1>A1-2>AAL1337 3618.210 3625.620 American Thirteen Thirty Seven, two miles from TUFFO, maintain four thousand till TUFFO, one nine zero knots to the outer marker inbound, cleared for the I L S Runway Three Five Right approach.
+dfw_a1_1 1 2>AAL1337>A1-2 3625.980 3631.960 American Thirteen Thirty Seven, er cleared I L S to Three Five Right, four thousand till TUFFO, and hundred and ninety to the marker.
+dfw_a1_1 1 2>A1-2>AAL1337 3631.960 3636.340 American Thirteen Thirty Seven, that's correct, contact Tower one two six point five five, you're five miles behind a company, good day.
+dfw_a1_1 1 1>AAL1337>A1-2 3636.670 3638.710 American Thirteen Thirty Seven, going to the Tower.
+dfw_a1_1 1 1>A1-2>AAL883 3640.500 3642.740 American Eight Eighty Three, turn right heading two one zero.
+dfw_a1_1 1 1>AAL883>A1-2 3643.180 3644.420 Two one zero, Eight Eighty Three.
+dfw_a1_1 1 1>A1-2>AAL1379 3644.420 3649.210 American Thirteen Er Seventy Nine, turn left now heading one seven five, and descend and maintain five thousand.
+dfw_a1_1 1 1>AAL1379>A1-2 3649.650 3653.120 One seven five down to five for American er Thirteen Seventy Nine.
+dfw_a1_1 1 2>A1-2>AAL883 3662.600 3671.930 American Eight Eighty Three, turn right heading two six zero. I'm going to turn you on just a little bit north of er TUFFO. You can expect to maintain four thousand until TUFFO, get you in a little bit tighter on the traffic.
+dfw_a1_1 1 1>AAL883>A1-2 3672.480 3674.200 Eight Eighty Three, roger, right to two six zero.
+dfw_a1_1 1 1>A1-2>AAL883 3674.820 3678.530 Okay, you can expect to maintain four until established on the localizer. Speed one nine zero at this time, please.
+dfw_a1_1 1 1>AAL883>A1-2 3678.890 3681.220 One ninety on the speed, American Eight Eighty Three, four thousand.
+dfw_a1_1 1 1>A1-2>AAL883 3681.220 3681.680 Okay.
+dfw_a1_1 1 1>A1-2>AAL1379 3702.490 3705.600 American Thirteen Er Seventy Nine, descend and maintain four thousand.
+dfw_a1_1 1 1>AAL1379>A1-2 3706.280 3708.400 Down to four thousand, American Thirteen Seventy Nine.
+dfw_a1_1 1 2>A1-2>AAL883 3713.050 3723.400 American Eight Eighty Three, you're two miles east of TUFFO, turn right heading three three zero for the intercept, maintain four thousand until established on the localizer course, one nine zero knots to the outer marker inbound, cleared for I L S Runway Three Five Right approach.
+dfw_a1_1 1 1>AAL883>A1-2 3723.400 3725.610 Right to three thirty, American Eight Eighty Three, copy everything.
+dfw_a1_1 1 1>AAL825>A1-2 3739.260 3743.140 Good afternoon, Approach, American Eight Twenty Five with you, leveling five thousand.
+dfw_a1_1 1 1>A1-2>AAL825 3743.140 3745.000 American Eight Twenty Five, Regional Approach, good afternoon.
+dfw_a1_1 1 1>A1-2>AAL883 3746.070 3748.900 American Eight Eighty Three, contact Tower one two six point five five.
+dfw_a1_1 1 1>AAL883>A1-2 3748.900 3749.420 So long.
+dfw_a1_1 1 2>A1-2>AAL1379 3750.090 3754.500 American Thirteen Seventy Nine, descend and maintain er four thousand, sir, good rate down if you would, please.
+dfw_a1_1 1 1>AAL1379>A1-2 3754.500 3756.530 Good rate to four, American Thirteen Seventy Nine.
+dfw_a1_1 1 1>A1-2>AAL825 3766.730 3768.830 American Eight Twenty Five, turn left heading two six zero.
+dfw_a1_1 1 1>AAL825>A1-2 3769.190 3771.140 Two six zero, American Eight Twenty Five.
+dfw_a1_1 1 1>A1-2>AAL1379 3780.800 3784.790 American Thirteen Er Seventy Nine, turn right heading two six zero.
+dfw_a1_1 1 1>AAL1379>A1-2 3785.440 3787.400 Two six zero, American Thirteen Seventy Nine.
+dfw_a1_1 1 1>A1-2>AAL825 3792.970 3794.750 American Eight Twenty Five, say your speed.
+dfw_a1_1 1 1>AAL825>A1-2 3795.420 3796.390 Two forty.
+dfw_a1_1 1 1>A1-2>AAL825 3796.390 3799.740 Thank you, American Eight Twenty Five. Now turn back to the right heading two eight zero.
+dfw_a1_1 1 1>AAL825>A1-2 3800.460 3802.610 Two eight zero, American er Eight Twenty Five.
+dfw_a1_1 1 1>AAL501>A1-2 3811.710 3815.350 Approach, American Five Oh One's with you, out of one zero thousand for six thousand.
+dfw_a1_1 1 1>A1-2>AAL501 3815.350 3818.010 American Five Zoro One, Regional Approach, roger, fly heading one eight five.
+dfw_a1_1 1 1>AAL501>A1-2 3818.540 3820.250 One eighty five on the heading, American Five Oh One.
+dfw_a1_1 1 1>AAL533>A1-2 3823.620 3826.220 American Five Thirty Three, er descending to five thousand.
+dfw_a1_1 1 1>A1-2>AAL533 3826.220 3828.130 American Five Thirty Three, Regional Approach, roger.
+dfw_a1_1 1 1>A1-2>AAL1379 3832.020 3836.200 American Thirteen Er Seventy Nine, turn right heading three one zero.
+dfw_a1_1 1 1>AAL1379>A1-2 3836.560 3838.540 Three one zero, American Thirteen Seventy Nine.
+dfw_a1_1 1 1>A1-2>AAL825 3838.540 3840.950 American Eight Twenty Five, descend and maintain four thousand.
+dfw_a1_1 1 1>AAL825>A1-2 3841.350 3843.280 Out of five for four, American Eight Twenty Five.
+dfw_a1_1 1 1>A1-2>AAL1379 3843.280 3853.730 American Thirteen Seventy Nine, you're seven miles from the outer marker, turn further right now heading three three zero, maintain three thousand or above until established on the localizer course, at least one nine zero knots to the outer marker inbound, cleared for I L S Runway Three Five Right approach.
+dfw_a1_1 1 1>AAL1379>A1-2 3854.150 3861.430 Three three zero heading, three or above until established, er one ninety to the outer marker, American er Thirteen Seventy Nine, Three Five Right.
+dfw_a1_1 1 1>A1-2>AAL1379 3861.430 3864.720 American Thirteen Seventy Nine, Tower one two six point five five, good day sir.
+dfw_a1_1 1 1>AAL1379>A1-2 3866.970 3868.250 Roger, Thirteen Seventy Nine.
+dfw_a1_1 1 1>A1-2>AAL501 3871.650 3873.640 American Five Zero One, reduce speed to one nine zero.
+dfw_a1_1 1 1>AAL501>A1-2 3874.370 3876.310 Slow to a hundred and ninety, American Five Oh One.
+dfw_a1_1 1 1>A1-2>AAL825 3881.020 3883.250 American Eight Two Five, fly heading three zero zero.
+dfw_a1_1 1 1>AAL825>A1-2 3883.250 3884.510 Three zero zero, Eight Two Five.
+dfw_a1_1 1 1>A1-2>AAL501 3900.040 3902.410 American Five Zero One, turn left heading one seven five.
+dfw_a1_1 1 1>AAL501>A1-2 3903.910 3905.520 One seventy five for American Five Oh One.

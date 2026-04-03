@@ -1,0 +1,656 @@
+log_id_2 1 1>ID-1>TWA185 9.500 12.630 T W A One Eighty Five, turn left heading er zero eight zero.
+log_id_2 1 2>TWA185>ID-1 13.250 14.730 Zero eight zero, T W A One Eighty Five.
+log_id_2 1 1>ID-1>TWA185 38.820 41.470 T W A One Eighty Five, turn left heading two seven zero.
+log_id_2 1 1>TWA185>ID-1 42.460 44.450 Left two seventy heading, T W A One Eighty Five.
+log_id_2 1 1>ID-1>TWA185 65.760 69.380 T W A One Eighty Five, contact Approach on er one two seven point two.
+log_id_2 1 1>TWA185>ID-1 69.770 71.280 Twenty seven two, good morning.
+log_id_2 1 1>PAA521>ID-1 102.920 106.630 Departure, Clipper Fi, * Five Two One, passing nine hundred.
+log_id_2 1 1>ID-1>PAA521 106.630 112.730 Clipper Five Twenty One, Departure, radar contact, turn left heading er zero niner zero, climb and maintain one zero thousand.
+log_id_2 1 1>PAA521>ID-1 113.340 116.850 Zero nine zero on the heading, up to one zero thousand, Clipper Five Twenty One.
+log_id_2 1 3>PCN3501>ID-1 118.300 123.240 Departure, Precision Thirty Five Oh One, two forty heading, eight hundred feet.
+log_id_2 1 1>ID-1>PCN3501 125.600 129.190 Precision Thirty Five Zero One, Departure, climb and maintain four thousand, radar contact.
+log_id_2 1 1>PCN3501>ID-1 129.190 130.820 Four thousand, Thirty Five Oh One.
+log_id_2 1 1>ID-1>PAA521 155.610 158.020 Clipper Five Twenty One, turn right heading one four zero.
+log_id_2 1 1>PAA521>ID-1 158.420 160.740 Right turn one four zero, Clipper Five Twenty One.
+log_id_2 1 1>ID-1>PCN3501 195.410 199.020 Precision Thirty Five Zero One, er are you requesting sixty five as a final?
+log_id_2 1 1>PCN3501>ID-1 199.020 201.380 Er yes sir, sixty five would be great.
+log_id_2 1 2>ID-1>PCN3501 201.380 205.830 Okay thanks, er maintain er four for now. I'll be changing you over to the next person.
+log_id_2 1 3>PCN3501>ID-1 206.210 210.420 Er, stay at four, expect six point five, thank you.
+log_id_2 1 1>ID-1>PAA521 215.840 218.510 Clipper Five Twenty One, turn right heading two seven zero.
+log_id_2 1 1>PAA521>ID-1 218.510 220.880 Right turn two seven zero, Clipper Five Twenty One.
+log_id_2 1 1>ID-1>PCN3501 222.780 226.420 And Precision Thirty Five Zero One, contact Approach on one two seven point two.
+log_id_2 1 3>PCN3501>ID-1 226.420 228.480 Twenty seven two, Thirty Five Oh One.
+log_id_2 1 1>ID-1>PAA521 233.350 236.830 Clipper Five Twenty One, contact Boston Approach one two seven point two.
+log_id_2 1 1>PAA521>ID-1 236.830 238.570 Twenty seven two, Five Two One.
+log_id_2 1 1>ID-1>LUSA463 351.010 356.400 U S Air Four Sixty Three, Boston Departure, radar contact, climb and maintain er one zero thousand.
+log_id_2 1 1>LUSA463>ID-1 356.400 357.670 Cleared to one zero thou.
+log_id_2 1 1>ID-1>LUSA463 359.370 361.910 U S Air Four Sixty Three, turn left heading one zero zero.
+log_id_2 1 1>LUSA463>ID-1 362.290 363.730 And now, left to one zero zero.
+log_id_2 1 1>ID-1>LUSA463 420.820 423.480 U S Air Four Sixty Three, turn right heading one four zero.
+log_id_2 1 2>LUSA463>ID-1 424.340 427.630 One four zero for Lifeguard Four Sixty Three.
+log_id_2 1 1>ID-1>LUSA463 427.630 432.040 Okay, er Lifeguard Four Sixty Three, contact Approach on er one two zero point six.
+log_id_2 1 2>LUSA463>ID-1 432.040 433.410 Two zero six, so long.
+log_id_2 1 1>NWA333>ID-1 436.040 438.980 Northwest Triple Three Heavy, er we're out of a thou for five.
+log_id_2 1 1>ID-1>NWA333 439.480 445.330 Northwest Triple Three Heavy, Departure, radar contact, turn left heading er zero niner zero, climb and maintain one zero thousand.
+log_id_2 1 1>NWA333>ID-1 445.760 448.480 Zero ninety heading, and one zero thousand, Northwest er Triple Three Heavy.
+log_id_2 1 1>ID-1>NWA333 496.380 500.710 Northwest er Triple Three Heavy, contact Boston Approach one one eight point two five.
+log_id_2 1 1>NWA333>ID-1 501.040 503.180 Eighteen twenty five, Triple Three Heavy, see you later.
+log_id_2 1 1>DAL225>ID-1 528.490 533.600 Boston Departure, Delta Two Twenty Five Heavy, out of eight hundred, climbing to five thousand.
+log_id_2 1 1>ID-1>DAL225 535.110 539.800 Delta Two Twenty Five Heavy, Departure, radar contact, climb and maintain one zero thousand, ten thousand.
+log_id_2 1 1>DAL225>ID-1 542.820 545.000 Climb to ten thousand, Delta Two Twenty Five Heavy.
+log_id_2 1 1>ID-1>DAL225 555.730 558.640 Delta Two Twenty Five Heavy, turn left heading zero niner zero.
+log_id_2 1 1>DAL225>ID-1 558.640 560.580 Zero nine zero, Two Twenty Five Heavy.
+log_id_2 1 1>ID-1>DAL225 612.560 615.160 Delta Two Twenty Five, turn right heading two seven zero.
+log_id_2 1 1>DAL225>ID-1 615.870 617.990 Right two seventy, Delta Two Twenty Five Heavy.
+log_id_2 1 1>ID-1>DAL225 642.630 646.320 Delta Two Two Five Heavy, contact Boston Approach on one two seven point two.
+log_id_2 1 1>DAL225>ID-1 646.320 649.220 Twenty seven two, Delta Two Twenty Five Heavy.
+log_id_2 1 1>UPS2015>ID-1 650.530 654.120 Departure, U P, * er U P S Twenty Fifteen with you, out of one point five.
+log_id_2 1 1>ID-1>UPS2015 654.560 659.240 U P S Twenty Fifteen Heavy, Departure, turn left heading zero niner zero, radar contact, say the altitude again.
+log_id_2 1 1>UPS2015>ID-1 659.900 664.530 Er, turn left to zero nine zero, we're out of two thousand at this time for U P S Twenty Fifteen.
+log_id_2 1 3>ID-1>UPS2015 665.790 669.310 Roger that, checks er, climb and maintain one zero thousand, ten thousand.
+log_id_2 1 1>UPS2015>ID-1 669.980 673.230 Roger, climbing to one zero thousand, U P S Twenty Fifteen.
+log_id_2 1 1>ID-1>UPS2015 703.510 707.480 U P S Twenty Fifteen Heavy, turn right heading one er three zero.
+log_id_2 1 1>UPS2015>ID-1 708.210 710.870 A right turn to one three zero, U P S Twenty Fifteen.
+log_id_2 1 1>ID-1>UPS2015 713.030 716.650 U P S Twenty Fifteen, contact Boston Approach one two zero point six.
+log_id_2 1 1>UPS2015>ID-1 717.410 720.240 One two zero point six, U P S Twenty Fifteen, good day.
+log_id_2 1 1>AAL273>ID-1 738.420 742.670 Departure, American er Two Seventy Three's with you, through two point two for five.
+log_id_2 1 1>ID-1>AAL273 743.080 748.010 American Two Seventy Three, Departure, radar contact, turn left zero niner zero, climb and maintain one zero thousand.
+log_id_2 1 1>AAL273>ID-1 748.590 752.880 Zero nine zero and up to one zero thousand, American Two Seventy Three.
+log_id_2 1 2>ID-1>AAL273 756.960 761.980 American Two Seventy Three, contact Boston Approach next er one one eight point two five.
+log_id_2 1 1>AAL273>ID-1 761.980 764.380 Eighteen twenty five, so long.
+log_id_2 1 1>USA1423>ID-1 794.470 798.600 Boston Departure, U S Air Fourteen Twenty Three's with you, out of a thousand.
+log_id_2 1 1>ID-1>USA1423 798.600 805.280 U S Air Fourteen Twenty Three, Boston Departure, radar contact, er turn left heading one zero zero, climb and maintain one zero thousand.
+log_id_2 1 1>USA1423>ID-1 805.660 809.980 One zero zero and up to one zero thousand for U S Air Fourteen Twenty Three.
+log_id_2 1 1>ID-1>USA1423 912.410 917.040 U S Air Fourteen Twenty Three, turn right heading one four zero, contact Approach one two zero point six.
+log_id_2 1 1>USA1423>ID-1 917.880 921.980 One forty, twenty point six for U S Air Fourteen Twenty Three, so long.
+log_id_2 1 1>DHL115>ID-1 1132.720 1135.270 Departure, D H L One Fifteen, out of one point three.
+log_id_2 1 1>ID-1>DHL115 1136.840 1142.340 D H L One Fifteen, Departure, radar contact, climb and maintain one zero thousand, turn left heading one zero zero.
+log_id_2 1 1>DHL115>ID-1 1143.490 1147.130 Ten thousand, and er the left turn to er one zero zero.
+log_id_2 1 1>AAL531>ID-1 1199.060 1201.610 American Five Thirty One with you, we're out of six hundred.
+log_id_2 1 1>ID-1>AAL531 1202.220 1207.510 American Five Thirty One, Boston Departure, er radar contact, climb and maintain one zero thousand.
+log_id_2 1 1>AAL531>ID-1 1207.950 1210.060 Cleared to one zero thousand, American Five Thirty One.
+log_id_2 1 1>ID-1>DHL115 1210.580 1213.230 D H L One Fifteen, turn right heading two seven zero.
+log_id_2 1 1>DHL115>ID-1 1214.770 1217.420 Right heading two seven zero, D H L One Fifteen.
+log_id_2 1 1>ID-1>AAL531 1221.560 1224.070 American Five Thirty One, turn left heading zero nine zero.
+log_id_2 1 1>AAL531>ID-1 1224.840 1226.770 Zero nine zero, American Five Thirty One.
+log_id_2 1 1>ID-1>DHL115 1238.950 1242.400 D H L One Fifteen, contact Boston Approach one two seven point two.
+log_id_2 1 1>DHL115>ID-1 1242.820 1245.160 One twenty seven two, D H L One Fifteen.
+log_id_2 1 1>COA333>ID-1 1288.490 1292.700 Departure, Continental Triple Three, one thousand for five thousand, one forty.
+log_id_2 1 1>ID-1>COA333 1294.900 1300.440 Continental Triple Three, Boston Departure, er climb and maintain one zero thousand, radar contact.
+log_id_2 1 1>COA333>ID-1 1300.830 1304.410 Climbing to ten thousand, speed restriction, Continental Triple Three.
+log_id_2 1 1>ID-1>AAL531 1305.180 1309.790 American Five Thirty One, turn right heading one five zero, contact Approach one two zero point six.
+log_id_2 1 1>AAL531>ID-1 1309.790 1312.950 One five zero, two six, * two zero point one.
+log_id_2 1 3>ID-1>AAL531 1313.270 1314.850 Er, one two zero point six.
+log_id_2 1 2>AAL531>ID-1 1315.510 1316.760 Two zero point six.
+log_id_2 1 1>ID-1>COA333 1322.460 1325.150 Continental Triple Three, turn left heading zero niner zero.
+log_id_2 1 1>COA333>ID-1 1325.150 1327.620 Left to zero nine zero, Continental Triple Three.
+log_id_2 1 1>ID-1>COA333 1332.810 1336.460 Continental Triple Three, squawk three four er two three.
+log_id_2 1 1>COA333>ID-1 1337.060 1339.780 Three four two three, Continental Triple Three.
+log_id_2 1 1>ID-1>COA333 1368.190 1370.980 Continental Triple Three, turn right heading two seven zero.
+log_id_2 1 1>COA333>ID-1 1370.980 1373.490 Right two seven zero, Continental Triple Three.
+log_id_2 1 2>COA717>ID-1 1406.570 1409.890 Departure, Continental Seven Seventeen is with you, one point three for five.
+log_id_2 1 1>ID-1>COA717 1414.760 1420.980 Continental Seven Seventeen, Departure, er radar contact, turn left heading one zero zero, climb and maintain one zero thousand.
+log_id_2 1 1>COA717>ID-1 1421.870 1425.260 One zero zero up to one five thousand, Continental Seven Seventeen.
+log_id_2 1 1>ID-1>COA717 1425.710 1428.220 Roger, and the altitude is ten, one zero thousand.
+log_id_2 1 1>COA717>ID-1 1428.220 1429.320 One zero thousand, thanks.
+log_id_2 1 1>ID-1>COA333 1430.210 1433.210 Continental Triple Three, contact Approach one two seven point two.
+log_id_2 1 1>COA333>ID-1 1433.560 1435.380 Twenty seven two, good day, Continental Triple Three.
+log_id_2 1 1>NERA3753>ID-1 1452.040 1455.220 And Departure, Nera Thirty Seven Fifty Three is with you, out of nine hundred.
+log_id_2 1 1>ID-1>NERA3753 1455.220 1459.230 Nera Thirty Seven Fifty Three, Boston Departure, radar contact, climb and maintain four thousand.
+log_id_2 1 2>NERA3753>ID-1 1459.970 1461.190 Thirty Seven Fifty Three.
+log_id_2 1 1>ID-1>COA717 1483.650 1486.150 Continental Seven Seventeen, turn right heading one five zero.
+log_id_2 1 1>COA717>ID-1 1486.480 1488.480 One five zero, Seven Seventeen.
+log_id_2 1 1>ID-1>NERA3753 1496.100 1499.120 Nera Thirty Seven Fifty Three, squawk five three two two.
+log_id_2 1 1>NERA3753>ID-1 1500.600 1502.160 Thirty Seven Fifty Three.
+log_id_2 1 1>ID-1>COA717 1506.410 1510.610 Continental Seven Seventeen, turn right heading two seven zero, contact Approach one two seven point two.
+log_id_2 1 1>COA717>ID-1 1513.200 1517.880 Twenty seven point two, right to er two seventy, Continental Seven Seventeen.
+log_id_2 1 1>ID-1>NERA3753 1518.370 1521.030 Nera Thirty Seven Fifty Three, turn left heading one four zero.
+log_id_2 1 1>NERA3753>ID-1 1521.520 1522.760 Thirty Seven Fifty Three.
+log_id_2 1 1>MID920>ID-1 1536.820 1541.600 Boston Departure, Midway Er Nine Twenty is out of fourteen hundred for five thousand, turning left to one forty.
+log_id_2 1 1>ID-1>MID920 1541.600 1547.190 Midway Nine Twenty, Boston Departure, radar contact, climb and maintain one zero thousand, ten thousand, turn left heading one zero zero.
+log_id_2 1 3>MID920>ID-1 1547.190 1550.370 Up to ten, left to er one hundred heading, Midway Er Nine Twenty.
+log_id_2 1 1>ID-1>MID920 1615.320 1620.290 Midway Nine Twenty, turn left heading zero eight zero, contact Boston Approach one one eight point two five.
+log_id_2 1 2>MID920>ID-1 1620.290 1624.470 Zero eight zero and er twenty eight twenty five, er Midway Nine Twenty, so long.
+log_id_2 1 1>ID-1>MID920 1624.770 1626.390 Roger, it's eighteen twenty five.
+log_id_2 1 1>COA1281>ID-1 1629.440 1633.900 Er Boston Departure, Continental Twelve Eighty One, we're out of twelve hundred for five.
+log_id_2 1 1>ID-1>COA1281 1633.900 1640.160 Continental Twelve Eighty One, Boston Departure, roger, radar contact, climb and maintain er one zero thousand, ten thousand.
+log_id_2 1 1>COA1281>ID-1 1640.160 1642.520 Up to ten, Continental er Twelve Eighty One.
+log_id_2 1 1>ID-1>COA1281 1642.520 1644.860 Continental Twelve Eighty One, turn left heading one zero zero.
+log_id_2 1 1>COA1281>ID-1 1645.320 1646.440 One zero zero.
+log_id_2 1 1>ID-1>NERA3753 1651.420 1656.770 Nera Thirty Seven Fifty Three, climb and maintain five thousand, contact Approach on er one two zero point six.
+log_id_2 1 1>NERA3753>ID-1 1658.030 1660.310 Thirty Seven Fifty Three, out of four for five.
+log_id_2 1 1>ID-1>NERA3753 1661.530 1663.730 Boston Approach, one two zero point six.
+log_id_2 1 1>NERA3753>ID-1 1664.250 1664.850 Roger.
+log_id_2 1 1>ID-1>COA1281 1697.510 1703.640 Continental Twelve Eighty One, turn er left heading zero eight zero, contact Boston Approach one one eight point two five.
+log_id_2 1 1>COA1281>ID-1 1703.640 1706.650 Eighteen twenty five and zero eight zero, Twelve Eighty One.
+log_id_2 1 3>TWA45>ID-1 1716.570 1718.990 Leaving one thousand for five thousand, heading one forty.
+log_id_2 1 1>ID-1>TWA45 1718.990 1724.860 T W A Forty Five Heavy, Boston Departure, radar contact, climb and maintain one zero thousand, turn left heading one one zero.
+log_id_2 1 1>TWA45>ID-1 1724.860 1728.060 One one zero, one zero thousand, T W A Forty Five Heavy, roger.
+log_id_2 1 1>COA1281>ID-1 1729.620 1732.780 And Departure, Twelve, * Continental Twelve Eighty One, say the frequency again.
+log_id_2 1 1>ID-1>COA1281 1732.780 1734.490 One one eight two five.
+log_id_2 1 2>COA1281>ID-1 1734.490 1735.800 That's what I thought you said, thanks.
+log_id_2 1 1>ID-1>TWA45 1745.350 1748.360 T W A Forty Five Heavy, turn left heading zero eight zero.
+log_id_2 1 1>TWA45>ID-1 1748.360 1750.630 Zero eight zero, T W A Forty Five Heavy.
+log_id_2 1 1>ID-1>TWA45 1805.700 1811.330 T W A Forty Five Heavy, turn right heading one four zero, contact Boston Approach one two zero point six.
+log_id_2 1 1>TWA45>ID-1 1811.680 1814.580 One four zero, one two zero point six, T W A Forty Five Heavy.
+log_id_2 1 1>MOW302>ID-1 1878.350 1881.860 And Departure, Mohawk Three Zero Two is with you, out of a thousand assigned two ninety.
+log_id_2 1 1>ID-1>MOW302 1882.300 1885.790 Mohawk Three Zero Two, Departure, climb and maintain four thousand, radar contact.
+log_id_2 1 3>MOW302>ID-1 1887.990 1890.160 Up to four thousand, you were garbled, say again.
+log_id_2 1 1>ID-1>MOW302 1891.570 1892.520 Climb to four.
+log_id_2 1 1>MOW302>ID-1 1892.970 1893.730 Roger.
+log_id_2 1 1>ID-1>MOW302 1940.030 1944.770 Mohawk Three Zero Two, fly heading three two zero, contact Approach on one one eight point two five.
+log_id_2 1 1>MOW302>ID-1 1944.770 1947.880 Eighteen twenty five and three twenty on the heading, Mohawk Three Zero Two.
+log_id_2 1 1>MOW302>ID-1 1984.330 1987.600 And er Departure, Mohawk Three Zero Two, say again that frequency?
+log_id_2 1 1>ID-1>MOW302 1987.600 1989.150 One one eight two five.
+log_id_2 1 1>MOW302>ID-1 1989.150 1991.640 Okay, we tried the wrong one, sorry about that.
+log_id_2 1 2>UAL127>ID-1 2094.350 2098.090 Boston, United One Twenty Seven Heavy leaving one for five thousand.
+log_id_2 1 1>ID-1>UAL127 2106.150 2112.960 United er One Twenty Seven, Departure, radar contact, turn left heading one zero zero, climb and maintain one zero thousand.
+log_id_2 1 2>UAL127>ID-1 2113.720 2118.670 Er head one zero zero, climb one zero thousand, United er One Twenty Seven Heavy.
+log_id_2 1 1>ID-1>UAL127 2195.540 2198.410 United er One Twenty Seven Heavy, turn right heading two seven zero.
+log_id_2 1 1>UAL127>ID-1 2198.760 2202.460 Right turn er head two seven zero, United One Twenty Seven Heavy.
+log_id_2 1 1>NWA317>ID-1 2208.400 2213.490 Departure, Northwest Three One Seven, we're out of er sixteen hundred, climbing to five thousand.
+log_id_2 1 1>ID-1>NWA317 2214.040 2220.490 Northwest er Three One Seven, Boston Departure, radar contact, turn left heading zero niner zero, climb and maintain one zero thousand, ten thousand.
+log_id_2 1 1>NWA317>ID-1 2223.460 2229.550 Turn left heading zero nine zero, climb to er one zero thousand, ten thousand, Northwest Three One Seven.
+log_id_2 1 1>ID-1>UAL127 2230.860 2234.490 United One Twenty Seven Heavy, contact Approach one two seven point two.
+log_id_2 1 2>UAL127>ID-1 2234.490 2236.680 Two seven two, United One Twenty Seven.
+log_id_2 1 2>USA764>ID-1 2284.690 2287.280 We're out of five hundred for er five thousand.
+log_id_2 1 1>ID-1>NWA317 2288.140 2291.460 I guess that was blocked out, Northwest Three Seventeen, that was a one fifty heading.
+log_id_2 1 1>NWA317>ID-1 2291.870 2296.750 Heading one five zero for Northwest er Three Seventeen.
+log_id_2 1 1>ID-1>NWA317 2296.750 2297.310 Thank you.
+log_id_2 1 2>USA764>ID-1 2299.950 2304.450 That was U S Air Seven Sixty Four, is off and running, we're out of one thousand for five thousand.
+log_id_2 1 1>ID-1>USA764 2304.450 2310.030 U S Air Seven Six Four, Departure, er radar contact, turn left zero nine zero, climb and maintain one zero thousand.
+log_id_2 1 1>USA764>ID-1 2310.360 2314.550 Zero nine zero and one zero thousand, U S Air Seven Sixty Four.
+log_id_2 1 1>ID-1>NWA317 2316.390 2319.600 Northwest Three Seventeen, contact Approach one two zero point six.
+log_id_2 1 1>NWA317>ID-1 2320.850 2322.980 One two zero point six, good morning.
+log_id_2 1 1>ID-1>NERA3731 2340.410 2342.160 Nera Thirty Seven Thirty One, Departure.
+log_id_2 1 1>USA1095>ID-1 2345.340 2348.930 Boston Departure, U S Air Ten Ninety Five, we're leaving a thousand for er five.
+log_id_2 1 1>ID-1>USA1095 2348.930 2353.960 U S Air Ten Ninety Five, Boston Departure, radar contact, climb and maintain one zero thousand, ten thousand.
+log_id_2 1 2>USA1095>ID-1 2353.960 2356.140 Up to one zero thousand, U S Ten Ninety Five.
+log_id_2 1 1>ID-1>USA1095 2363.920 2368.300 United Ten Ninety Five, turn, * U S Air Ten Ninety Five, excuse me, turn left to zero niner zero.
+log_id_2 1 1>USA1095>ID-1 2368.830 2370.500 Zero niner zero, U S Ten Ninety Five.
+log_id_2 1 1>ID-1>USA764 2370.810 2373.610 U S Air Seven Sixty Four, turn right heading two seven zero.
+log_id_2 1 1>USA764>ID-1 2374.020 2377.220 Right turn two seven zero, U S Air Seven Sixty Four.
+log_id_2 1 1>NERA3731>ID-1 2380.590 2384.830 And Departure, Nera Thirty Seven Thirty One, er on a right turn to three three zero, three thousand.
+log_id_2 1 1>ID-1>NERA3731 2385.430 2392.180 Nera Thirty Seven Thirty One, Departure, radar contact, er seven miles west, say altitude now, turn right heading three four zero.
+log_id_2 1 1>NERA3731>ID-1 2392.180 2396.160 Three four zero, and er we are out of two thousand er eight hundred, Thirty Seven Thirty One.
+log_id_2 1 1>ID-1>NERA3731 2398.520 2401.090 Nera Thirty Seven Thirty One, climb and maintain four thousand.
+log_id_2 1 2>NERA3731>ID-1 2401.090 2402.610 Four thousand, Thirty Seven Thirty One.
+log_id_2 1 1>ID-1>USA764 2404.880 2408.680 U S Air Seven Sixty Four, contact Approach on er one two seven point two.
+log_id_2 1 1>USA764>ID-1 2408.680 2410.670 Twenty seven two, have a nice day.
+log_id_2 1 1>ID-1>USA1095 2412.750 2415.290 U S Air Ten Ninety Five, turn right heading one three zero.
+log_id_2 1 1>USA1095>ID-1 2415.810 2417.630 Right to one thirty, U S Ten Ninety Five.
+log_id_2 1 3>NWA1229>ID-1 2420.390 2422.560 Northwest Twelve Twenty Nine out of eight hundred feet.
+log_id_2 1 1>ID-1>NWA1229 2422.560 2428.030 Northwest Twelve Twenty Nine, Boston Departures, roger, er radar contact, climb and maintain er one zero thousand, ten thousand.
+log_id_2 1 1>NWA1229>ID-1 2428.030 2429.940 Going to ten, Northwest Twelve Twenty Nine.
+log_id_2 1 1>ID-1>NERA3731 2429.940 2433.200 Nera Thirty Seven Thirty One, contact Approach one one eight point two five.
+log_id_2 1 1>NERA3731>ID-1 2433.200 2435.010 One eight point two five, Thirty Seven Thirty One.
+log_id_2 1 1>ID-1>NWA1229 2437.930 2440.720 Northwest Twelve Twenty Nine, turn left heading zero niner zero.
+log_id_2 1 1>NWA1229>ID-1 2440.720 2441.760 Zero nine zero.
+log_id_2 1 2>GAA449>ID-1 2469.130 2473.200 Boston Departure, morning, BizEx Four Forty Nine, coming up a thousand, heading two six zero.
+log_id_2 1 1>ID-1>GAA449 2473.200 2476.910 BizEx Four Forty Nine, Boston Departure, radar contact, climb and maintain four thousand.
+log_id_2 1 1>ID-1>GAA449 2477.320 2479.700 Up to four thousand, BizEx Four Forty Nine.
+log_id_2 1 1>ID-1>USA1095 2480.390 2483.020 U S Air Ten Ninety Five, turn right heading two seven zero.
+log_id_2 1 1>USA1095>ID-1 2483.360 2485.150 Right two seventy, U S Ten Ninety Five.
+log_id_2 1 1>ID-1>USA1095 2485.550 2489.330 U S Air Ten Ninety Five, contact Boston Approach one two seven point two.
+log_id_2 1 1>USA1095>ID-1 2489.330 2491.310 Twenty seven two, U S Ten Ninety Five.
+log_id_2 1 1>ID-1>NWA1229 2491.310 2496.380 Northwest Twelve Twenty Nine, turn left heading zero eight zero, contact Boston Approach one one eight point two five.
+log_id_2 1 1>NWA1229>ID-1 2496.380 2498.120 Eighteen twenty five, we'll see you.
+log_id_2 1 1>ID-1>GAA449 2499.310 2502.680 BizEx Four Forty Nine, contact Boston Approach one two seven point two.
+log_id_2 1 1>GAA449>ID-1 2503.200 2505.280 One two seven point two, BizEx Four Forty Nine.
+log_id_2 1 1>USA233>ID-1 2549.290 2553.560 Boston Departure, good morning, U S Air Two Thirty Three, one thousand two hundred for five thousand.
+log_id_2 1 1>ID-1>USA233 2553.560 2560.080 U S Air Two Thirty Three, Boston Departure, radar contact, climb and maintain one zero thousand, ten thousand, turn left heading one zero zero.
+log_id_2 1 1>USA233>ID-1 2560.080 2564.410 Turn left to one zero zero, climb to one zero thousand, U S Air Two Thirty Three.
+log_id_2 1 1>ID-1>USA233 2587.080 2590.100 U S Air Er Two Thirty Three, turn left heading zero eight zero.
+log_id_2 1 1>USA233>ID-1 2590.100 2592.840 Zero eight zero, U S Air Two Thirty Three.
+log_id_2 1 2>GAA588>ID-1 2595.460 2598.730 Boston, BizEx Five Eighty Eight, out of one point two, good morning.
+log_id_2 1 2>ID-1>GAA588 2599.080 2602.560 BizEX Five Eighty Eight, Boston Departure, radar contact, climb and maintain four thousand.
+log_id_2 1 1>GAA588>ID-1 2603.480 2605.610 Four thousand, BizEx Five Eighty Eight.
+log_id_2 1 1>ID-1>USA233 2640.000 2644.700 U S Air Two Thirty Three, turn right heading one four zero, contact Approach one two zero point six.
+log_id_2 1 1>USA233>ID-1 2645.340 2649.910 Right to one four zero, one two zero point six, U S Air Two Thirty Three, good day.
+log_id_2 1 1>TPS1161>ID-1 2650.630 2652.930 Er Trump Eleven Sixty One is one for five.
+log_id_2 1 1>ID-1>TPS1161 2652.930 2658.800 Trump Eleven Sixty One, Departure, climb and maintain one zero thousand, ten thousand, radar contact, turn left heading one zero zero.
+log_id_2 1 2>TPS1161>ID-1 2658.800 2661.620 One hundred on the heading up to ten thousand, Trump Eleven Sixty One.
+log_id_2 1 1>ID-1>GAA588 2662.770 2667.080 BizEx Five Eighty Eight, turn right heading three two zero, contact Approach one one eight point two five.
+log_id_2 1 1>GAA588>ID-1 2668.260 2670.630 Three two zero, BizEx Five Eighty Eight, we'll see you.
+log_id_2 1 1>PCN3561>ID-1 2680.310 2685.720 Good morning, Departure, Precision Thirty Five Sixty One is with you, out of nine hundred, two seven zero assigned.
+log_id_2 1 2>ID-1>PCN3561 2685.720 2689.720 Thirty Five Sixty One, Boston Departure, radar contact, climb and maintain four thousand.
+log_id_2 1 3>PCN3561>ID-1 2690.330 2692.560 Up to four thousand, Precision Thirty Five Sixty One.
+log_id_2 1 1>ID-1>PCN3561 2724.400 2727.870 Precision Thirty Five Sixty One, contact Approach one two seven point two.
+log_id_2 1 1>PCN3561>ID-1 2728.220 2731.500 One two seven point two, Precision Thirty Five Sixty One, so long.
+log_id_2 1 3>USA689>ID-1 2734.540 2736.420 U S Air Six Eighty Nine, out of nine hundred.
+log_id_2 1 1>ID-1>USA689 2736.420 2742.970 U S Air Six Eighty Nine, Boston Departure, roger, climb and maintain one zero thousand, ten thousand, radar contact, turn left heading one one zero.
+log_id_2 1 2>USA689>ID-1 2743.620 2746.220 Up to ten, left one one zero, U S Air Six Eighty Nine.
+log_id_2 1 1>ID-1>TPS1161 2751.090 2753.720 Trump Eleven Sixty One, turn right heading two seven zero.
+log_id_2 1 1>TPS1161>ID-1 2754.230 2756.150 Right to west, Trump Eleven Sixty One.
+log_id_2 1 1>ID-1>TPS1161 2786.590 2789.780 Trump Eleven Sixty One, contact Approach one two seven point two.
+log_id_2 1 1>TPS1161>ID-1 2789.780 2791.210 Twenty seven two, good day.
+log_id_2 1 1>ID-1>USA689 2792.890 2797.850 U S Air Six Eighty Nine, turn left heading zero eight zero, contact Boston Approach one one eight point two five.
+log_id_2 1 1>USA689>ID-1 2798.490 2800.870 Left zero eight zero, eighteen twenty five, U S Air Six Eight Nine.
+log_id_2 1 1>AAL1245>ID-1 2812.170 2817.100 Boston Departure, American Twelve Forty Five Heavy's with you, turning to one four zero, passing fifteen hundred feet.
+log_id_2 1 1>ID-1>AAL1245 2817.400 2823.380 American Twelve Forty Five Heavy, Departure, radar contact, turn left heading zero niner zero, climb and maintain one zero thousand.
+log_id_2 1 1>AAL1245>ID-1 2823.380 2826.740 Zero nine zero, one zero thousand, American Twelve Forty Five Heavy.
+log_id_2 1 1>ID-1>AAL1245 2904.430 2909.300 American Twelve Forty Five Heavy, turn right heading one five zero, contact Boston Approach one two zero point six.
+log_id_2 1 1>AAL1245>ID-1 2909.980 2913.380 One Five Zero and one two zero point six, American Twelve Forty Five Heavy.
+log_id_2 1 2>COA433>ID-1 2949.570 2952.010 Continental's Four Thirty Three, out of a thousand for five.
+log_id_2 1 1>ID-1>COA433 2955.110 2957.040 Craft calling Departure, er say again please.
+log_id_2 1 1>COA433>ID-1 2957.450 2959.750 Continental Four Thirty Three, twelve hundred for five thousand.
+log_id_2 1 1>ID-1>COA433 2960.140 2962.280 Continental Four Fifteen, er roger.
+log_id_2 1 1>COA433>ID-1 2962.580 2964.600 That's Continental Four Three Three.
+log_id_2 1 1>ID-1>COA433 2964.980 2970.790 Continental Four Thirty Three, okay, thanks a lot, er you are radar contact, climb and maintain one zero thousand, turn left heading one one zero.
+log_id_2 1 1>COA433>ID-1 2971.210 2974.140 Left to one one zero, up to ten thousand, Continental Four Thirty Three.
+log_id_2 1 1>ID-1>COA433 2986.910 2989.420 Continental Four Thirty Three, turn left heading zero niner zero.
+log_id_2 1 1>COA433>ID-1 2989.750 2991.980 Zero niner zero, Continental Four Thirty Three.
+log_id_2 1 2>AAL1387>ID-1 3033.900 3037.710 Good morning, Departure, American Thirteen Eighty Seven Heavy's out of one thousand for five thousand.
+log_id_2 1 1>ID-1>AAL1387 3037.710 3044.250 American Thirteen Eighty Seven Heavy, Boston Departure, radar contact, climb and maintain one zero thousand, ten thousand, turn left heading one zero zero.
+log_id_2 1 1>AAL1387>ID-1 3044.710 3049.070 One zero thousand on the altitude, one zero zero on the heading, for American Thirteen Eighty Seven Heavy.
+log_id_2 1 1>ID-1>COA433 3049.630 3055.020 Continental Four Thirty Three, turn right heading two seven zero, contact Boston Approach one two seven point two.
+log_id_2 1 1>COA433>ID-1 3055.460 3058.600 Twenty seven two, heading two seven zero, Continental Four Thirty Three.
+log_id_2 1 1>ID-1>AAL1387 3080.660 3083.890 American Thirteen Eighty Seven Heavy, turn left heading zero eight zero.
+log_id_2 1 1>AAL1387>ID-1 3083.890 3085.920 Zero eight zero, Thirteen Eighty Seven Heavy.
+log_id_2 1 1>ID-1>AAL1387 3137.800 3143.350 American Thirteen Eighty Seven Heavy, turn right heading two seven zero, contact Boston Approach one two seven point two.
+log_id_2 1 1>AAL1387>ID-1 3143.740 3148.000 Two seven zero and twenty seven two on the frequency for Thirteen Eighty Seven Heavy, so long.
+log_id_2 1 2>USA1509>ID-1 3158.600 3162.100 Hello Departure, U S Air Fifteen Oh Nine is with you, out of six hundred feet for five thousand.
+log_id_2 1 1>ID-1>USA1509 3162.100 3166.530 U S Air Fifteen Zero Nine, Departure, radar contact, climb and maintain one zero thousand, ten thousand.
+log_id_2 1 1>USA1509>ID-1 3166.870 3169.120 Up to ten thousand feet, U S Air Fifteen Oh Nine.
+log_id_2 1 1>ID-1>USA1509 3177.230 3179.750 U S Air Fifteen Zero Nine, turn left heading zero eight zero.
+log_id_2 1 1>USA1509>ID-1 3180.820 3182.720 Zero eight zero, U S Air Fifteen Oh Nine, roger.
+log_id_2 1 1>ID-1>USA1509 3197.710 3201.480 U S Air Fifteen Zero Nine, contact Approach on er one one eight point two five.
+log_id_2 1 1>USA1509>ID-1 3202.340 3204.430 Eighteen and a quarter, U S Air Fifteen Oh Nine, good day.
+log_id_2 1 1>NWA101>ID-1 3237.700 3240.540 And Northwest One Oh One is with you, we're climbing to five thousand.
+log_id_2 1 2>ID-1>NWA101 3242.250 3248.320 Northwest One Zero One, Departure, er radar contact, turn left heading one zero zero, climb and maintain er one zero thousand.
+log_id_2 1 1>NWA101>ID-1 3248.730 3252.060 Er one zero zero on the heading and ten thousand, Northwest One Oh One.
+log_id_2 1 1>ID-1>NWA101 3276.110 3281.040 Northwest One Zero One, er turn left heading zero eight zero, contact Approach on one one eight point two five.
+log_id_2 1 1>NWA101>ID-1 3281.450 3283.440 Zero eight zero and eighteen twenty five, One Oh One.
+log_id_2 1 1>PAA219A>ID-1 3295.100 3299.220 Er Departure, Clipper Two Nineteen Alpha's with you, climbing er five thousand.
+log_id_2 1 1>ID-1>PAA219A 3299.640 3303.820 Clipper Two Nineteen Alpha, Departure, radar contact, say altitude leaving, turn left heading zero nine zero.
+log_id_2 1 1>PAA219A>ID-1 3304.800 3308.420 Okay, we're leaving seventeen hundred and heading zero nine zero now.
+log_id_2 1 1>ID-1>PAA219A 3328.430 3332.360 Clipper Two Nineteen Alpha, climb and maintain er one zero thousand, ten thousand.
+log_id_2 1 1>PAA219A>ID-1 3332.770 3335.550 Cleared to ten thousand, Clipper er Two Nineteen Alpha.
+log_id_2 1 1>ID-1>PAA219A 3355.970 3360.550 Clipper Two Nineteen Alpha, turn right heading one four zero, contact Approach one two zero point six.
+log_id_2 1 1>PAA219A>ID-1 3361.700 3366.060 Okay, one two zero point six and er right heading one four zero.
+log_id_2 1 1>USA369>ID-1 3374.450 3378.360 And Departure, U S Air Three Sixty Nine is with you, out of one thousand for five.
+log_id_2 1 1>ID-1>USA369 3379.030 3384.790 U S Air Three Sixty Nine, Departure, radar contact, climb and maintain one zero thousand, ten thousand, turn left heading one zero zero.
+log_id_2 1 1>USA369>ID-1 3385.270 3389.590 Left to one zero zero, up to ten thousand, U S Air Three Zero Nine.
+log_id_2 1 1>USA369>ID-1 3391.560 3393.150 Three Sixty Nine, I'm sorry.
+log_id_2 1 1>ID-1>USA369 3393.150 3394.860 Roger, I knew who it was.
+log_id_2 1 1>USA369>ID-1 3395.430 3395.980 Okay.
+log_id_2 1 1>GAA491>ID-1 3401.390 3404.740 Departure, good morning, BizEx Four Ninety One is with you, out of er five hundred.
+log_id_2 1 1>ID-1>GAA491 3404.740 3409.250 BizEx Four Ninety One, Boston Departure, good morning, climb and maintain er four thousand, radar contact.
+log_id_2 1 1>GAA491>ID-1 3409.250 3410.930 Up to four thousand, Four Ninety One.
+log_id_2 1 1>ID-1>USA369 3457.990 3462.790 U S Air Three Sixty Nine, turn right heading two seven zero, contact Approach one two seven point two.
+log_id_2 1 2>USA369>ID-1 3463.930 3469.710 Alright, twenty seven two and er two seventy on the heading, U S Air Three Sixty Nine, so long.
+log_id_2 1 1>ID-1>GAA491 3471.490 3474.610 BizEx Four Ninety One, squawk three five four six.
+log_id_2 1 3>GAA491>ID-1 3475.330 3476.650 Three five four six, here you go.
+log_id_2 1 2>USA808>ID-1 3483.490 3487.480 Good morning Boston, U S Air Eight Zero Eight, one thousand for five thousand.
+log_id_2 1 1>ID-1>USA808 3487.940 3494.020 U S Air Eight Zero Eight, Boston Departure, radar contact, climb and maintain one zero thousand, ten thousand, turn left heading er one zero zero.
+log_id_2 1 1>USA808>ID-1 3495.660 3500.230 U S Air Eight Oh Eight, to one zero thousand, left to one zero zero.
+log_id_2 1 1>ID-1>GAA491 3513.000 3516.190 BizEx Four Ninety One, contact Boston Approach one two seven point two.
+log_id_2 1 3>GAA491>ID-1 3517.010 3518.130 Four Ninety One, so long sir.
+log_id_2 1 1>ID-1>USA808 3531.850 3535.220 U S Air Eight Zero Eight, contact Boston Approach one one eight point two five.
+log_id_2 1 1>USA808>ID-1 3536.380 3539.540 U S Air Eight Oh Eight, one one eight two five, so long.
+log_id_2 1 1>CEN900>ID-1 3548.340 3552.970 Good morning, Boston Departure, Canadian Nine Hundred's with you, two thousand for three thousand, turning right to three ten.
+log_id_2 1 1>ID-1>CEN900 3553.520 3559.200 Canadian Nine Hundred, Boston Departure, radar contact, er climb and maintain four thousand, turn right heading three er two zero.
+log_id_2 1 1>CEN900>ID-1 3559.840 3562.140 Three two zero, and up to four thousand, for Nine Hundred.
+log_id_2 1 1>ID-1>CEN900 3562.640 3565.530 Canadian Nine Hundred, contact Boston Approach one one eight point two five.
+log_id_2 1 1>CEN900>ID-1 3565.820 3567.460 Eighteen twenty five, Nine Hundred.
+log_id_2 1 1>DAL565>ID-1 3571.380 3573.700 Delta Five Sixty Five, out of a thousand.
+log_id_2 1 1>ID-1>DAL565 3574.100 3579.900 Delta Five Sixty Five, Boston Departure, roger, er radar contact, climb and maintain one zero thousand, turn left heading one zero zero.
+log_id_2 1 1>DAL565>ID-1 3579.900 3582.410 Ten thousand, one hundred heading, Delta Five Sixty.
+log_id_2 1 1>ID-1>DAL565 3618.030 3622.350 Delta Five Sixty Five, turn left heading zero eight zero, contact Approach on one one eight point two five.
+log_id_2 1 1>DAL565>ID-1 3622.800 3626.220 Eighty heading, er eighteen twenty five, Delta Five Sixty Five.
+log_id_2 1 2>NERA3781>ID-1 3653.320 3657.020 Boston Departure, Nera Thirty Seven Eighty One, leaving seven hundred.
+log_id_2 1 1>ID-1>NERA3781 3657.960 3660.940 It's er Nera Thirty Seven er Eighty One?
+log_id_2 1 1>NERA3781>ID-1 3661.410 3662.430 Yes sir, good morning.
+log_id_2 1 1>ID-1>NERA3781 3663.120 3664.060 Okay.
+log_id_2 1 1>NERA3714>ID-1 3664.740 3668.510 Boston Departure, Nera Thirty Seven Fourteen is out of one point four for three thousand.
+log_id_2 1 1>ID-1>NERA3714 3668.510 3673.230 Nera Thirty Seven Fourteen, Departure, radar contact, climb and maintain four thousand, turn right heading three three zero.
+log_id_2 1 1>NERA3714>ID-1 3673.710 3676.680 Up to four thousand, right to three three zero, Nera Thirty Seven Fourteen.
+log_id_2 1 1>ID-1>NERA3781 3677.240 3680.810 And Nera Thirty Seven Eighty One, Departure, radar contact, climb and maintain four thousand.
+log_id_2 1 1>NERA3781>ID-1 3681.300 3683.560 Climbing to four thousand, Thirty Seven Eighty One.
+log_id_2 1 2>ID-1>NERA3781 3683.560 3685.530 Thirty Seven Eighty One, say altitude leaving now.
+log_id_2 1 1>NERA3781>ID-1 3686.030 3687.430 One point two, what do you show?
+log_id_2 1 1>ID-1>NERA3781 3688.060 3689.390 One point er three.
+log_id_2 1 1>NERA3781>ID-1 3690.070 3690.840 Okay.
+log_id_2 1 1>ID-1>NERA3714 3696.310 3700.250 Nera Thirty Seven Fourteen, contact Approach on er one one eight point two five.
+log_id_2 1 1>NERA3714>ID-1 3700.590 3703.160 One one eight point two five, Nera Thirty Seven Fourteen, good day.
+log_id_2 1 1>ID-1>NERA3781 3703.570 3706.030 Nera Thirty Seven Eighty One, turn left heading one four zero.
+log_id_2 1 1>NERA3781>ID-1 3706.540 3708.510 Left turn one four zero, Thirty Seven Eighty One.
+log_id_2 1 1>PAA523>ID-1 3779.470 3782.730 Morning Departure, Clipper Five Two Three, one thousand for five thousand.
+log_id_2 1 1>ID-1>PAA523 3782.730 3787.770 Clipper Five Twenty Three, Departure, radar contact, climb and maintain one zero thousand, turn left heading one zero zero.
+log_id_2 1 1>PAA523>ID-1 3788.610 3791.980 One zero thousand, the heading one zero zero, Clipper Five Two Three.
+log_id_2 1 1>ID-1>NERA3781 3801.450 3803.960 Nera Thirty Seven Eighty One, climb and maintain five thousand.
+log_id_2 1 1>NERA3781>ID-1 3804.300 3806.240 Up to five, Thirty Seven Eighty One.
+log_id_2 1 1>ID-1>NERA3781 3806.240 3809.180 Thirty Seven Eighty One, contact Approach one two zero point six.
+log_id_2 1 1>NERA3781>ID-1 3809.180 3810.850 One two zero six, see you now.
+log_id_2 1 2>USC411>ID-1 3816.970 3821.200 Boston Departure, good morning, Starcheck Four Eleven is with you, three zero zero, one thousand for three thousand.
+log_id_2 1 1>ID-1>USC411 3821.200 3824.260 Starcheck Four Eleven, Departure, radar contact, climb and maintain four thousand.
+log_id_2 1 1>USC411>ID-1 3824.570 3826.430 Up to four thousand, Starcheck Four Eleven.
+log_id_2 1 2>USA417>ID-1 3843.190 3847.230 Boston Departure, U S Air Four Seventeen, eight hundred for five thousand.
+log_id_2 1 1>ID-1>USA417 3847.230 3852.620 U S Air Four Seventeen, Departure, radar contact, climb and maintain one zero thousand, ten thousand, turn left one zero zero.
+log_id_2 1 2>USA417>ID-1 3853.570 3855.880 One zero thousand, U S Air Four Seventeen.
+log_id_2 1 1>ID-1>USA417 3856.730 3858.570 Roger, ten thousand, one hundred heading.
+log_id_2 1 1>USA417>ID-1 3860.750 3863.280 One hundred heading, ten thousand, U S Air Four Seven.
+log_id_2 1 1>ID-1>USC411 3872.170 3877.310 Starcheck Four Eleven, turn right heading three two zero, contact Approach on er one one eight point two five.
+log_id_2 1 1>USC411>ID-1 3877.880 3880.650 Starcheck Four Eleven, eighteen twenty five, three twenty on the heading.
+log_id_2 1 1>ID-1>PAA523 3881.620 3885.780 Clipper Five Twenty Three, turn right heading two seven zero, contact Approach one two seven point two.
+log_id_2 1 1>PAA523>ID-1 3886.260 3889.320 Two seven zero, one twenty seven two, Clipper Five Twenty Three, good day.
+log_id_2 1 2>NWA1299>ID-1 3912.000 3915.190 Departure, Northwest Twelve Ninety Nine with you, climbing to five thousand.
+log_id_2 1 1>ID-1>NWA1299 3915.190 3919.480 Northwest Twelve Ninety Nine, Departure, radar contact, say altitude leaving, turn left one zero zero.
+log_id_2 1 1>NWA1299>ID-1 3919.970 3922.670 Left to one zero zero, one point five on the altitude.
+log_id_2 1 1>ID-1>USA417 3923.480 3927.950 U S Air Four Seventeen, turn left heading zero eight zero, contact Approach one one eight point two five.
+log_id_2 1 3>USA417>ID-1 3928.410 3931.500 Zero eight zero, one one eight twenty five, U S Air Four Seventeen.
+log_id_2 1 1>PCN3541>ID-1 3939.030 3941.750 And Departure, Precision Thirty Five Forty One, on board eight hundred.
+log_id_2 1 1>ID-1>PCN3541 3945.850 3948.520 Precision Thirty Five Forty One, Boston Departures, roger.
+log_id_2 1 1>ID-1>PCN3541 3950.090 3953.160 And Thirty Five Forty One, radar contact, climb and maintain four thousand.
+log_id_2 1 1>PCN3541>ID-1 3953.460 3955.530 Climb maintain four, Thirty Five Forty One.
+log_id_2 1 1>ID-1>NWA1299 3958.010 3962.150 Northwest Twelve Ninety Nine, turn left heading zero eight zero, climb and maintain one zero thousand.
+log_id_2 1 1>NWA1299>ID-1 3962.960 3966.480 Climbing to ten, zero eight zero on the heading, Northwest Twelve Ninety Nine.
+log_id_2 1 1>ID-1>NWA1299 3995.710 3998.490 Northwest Twelve Ninety Nine, turn right heading two seven zero.
+log_id_2 1 1>NWA1299>ID-1 3999.520 4001.940 Right to two seven oh, Northwest Twelve Ninety Nine.
+log_id_2 1 1>ID-1>PCN3541 4004.550 4007.720 Precision Thirty Five Forty One, turn left heading one eight zero, intercept the airway.
+log_id_2 1 1>PCN3541>ID-1 4007.720 4010.140 One eighty to intercept, Precision Thirty Five Forty One.
+log_id_2 1 1>UAL669>ID-1 4025.420 4029.290 Departure, United Six Sixty Nine Heavy's with you, we're climbing through eight hundred for five thousand feet.
+log_id_2 1 1>ID-1>UAL669 4029.290 4035.020 United Six Sixty Nine Heavy, Departure, radar contact, climb and maintain one zero thousand, ten thousand, turn left heading one zero zero.
+log_id_2 1 2>UAL669>ID-1 4035.490 4038.120 Ten thousand, one hundred degree heading, er Six Sixty Nine Heavy.
+log_id_2 1 1>ID-1>NWA1299 4039.530 4042.550 Northwest Twelve Ninety Nine, contact Approach one two seven point two.
+log_id_2 1 1>NWA1299>ID-1 4044.700 4047.250 One two seven point two, Northwest Twelve Ninety Nine.
+log_id_2 1 1>ID-1>PCN3541 4047.250 4050.550 Precision Thirty Five Forty One, contact Approach one two zero point six.
+log_id_2 1 1>PCN3541>ID-1 4050.880 4053.080 One two zero point six, Thirty Five Forty One.
+log_id_2 1 1>ID-1>UAL669 4075.600 4081.340 United Six Sixty Nine er Heavy, turn left heading zero eight zero, contact Boston Approach one one eight point two five.
+log_id_2 1 2>UAL669>ID-1 4082.110 4084.710 Okay, zero eight zero, eighteen twenty five, United er Six Six Nine.
+log_id_2 1 1>NERA3721>ID-1 4144.580 4149.070 And Boston Departure, Nera Thirty Seven Twenty One is through seven hundred for three thousand.
+log_id_2 1 1>ID-1>NERA3721 4149.670 4153.240 Nera Thirty Seven Twenty One, Departure, radar contact, climb and maintain four thousand.
+log_id_2 1 1>NERA3721>ID-1 4154.040 4156.510 On up to four thousand, Nera Thirty Seven Twenty One.
+log_id_2 1 1>ID-1>NERA3721 4194.000 4199.560 Nera Thirty Seven Twenty One, fly heading one eight zero, contact Approach on er one er two zero point six.
+log_id_2 1 1>NERA3721>ID-1 4199.560 4202.510 One eight zero on the heading, and er twenty point six, see you.
+log_id_2 1 1>USA1402>ID-1 4209.410 4211.580 U S Air Fourteen Oh Two with you.
+log_id_2 1 1>ID-1>USA1402 4212.420 4216.650 U S Air Fourteen Zero Two, Departure, radar contact, say altitude leaving, turn left heading one one zero.
+log_id_2 1 1>USA1402>ID-1 4218.480 4220.870 Heading of one one zero, leaving twelve hundred.
+log_id_2 1 1>NWA383>ID-1 4282.740 4285.180 Morning Departure, Northwest Three Eighty Three, out of six hundred.
+log_id_2 1 1>ID-1>NWA383 4286.090 4290.630 Northwest Three Eighty Three, Boston Departure, radar contact, climb and maintain one zero thousand, ten thousand.
+log_id_2 1 1>NWA383>ID-1 4290.630 4292.830 One zero, ten thousand, Northwest Three Eighty Three.
+log_id_2 1 1>ID-1>USA1402 4297.920 4301.680 U S Air Fourteen Zero Two, climb and maintain one zero thousand, turn right heading two eight zero.
+log_id_2 1 1>USA1402>ID-1 4303.150 4305.860 one zero thousand, and two eight zero on the heading.
+log_id_2 1 1>ID-1>NWA383 4318.730 4323.780 Northwest er Three er Eighty Three, turn left heading zero eight zero.
+log_id_2 1 1>NWA383>ID-1 4324.280 4326.160 Left zero eight zero, Northwest Three Eighty Three.
+log_id_2 1 1>ID-1>USA1402 4327.020 4330.180 U S Air Fourteen Zero Two, contact Approach on one two seven point two.
+log_id_2 1 2>USA1402>ID-1 4331.290 4332.750 Twenty seven two, good day.
+log_id_2 1 1>ID-1>NWA383 4346.600 4350.410 Northwest er Three Eighty Three, contact Boston Approach one one eight point two five.
+log_id_2 1 1>NWA383>ID-1 4351.520 4353.810 Eighteen twenty five, Three Eighty Three, good day.
+log_id_2 1 1>PAA791>ID-1 4411.080 4415.070 Boston Departure, Clipper Seven Ninety One is with you, we're er just out of six hundred feet.
+log_id_2 1 1>ID-1>PAA791 4415.550 4420.630 Clipper Seven Ninety One, Departure, radar contact, turn left heading one zero zero, climb and maintain one zero thousand.
+log_id_2 1 1>PAA791>ID-1 4422.100 4427.170 Okay, one zero zero on the er heading, and er confirm one zero thousand, Seven Ninety One.
+log_id_2 1 1>ID-1>PAA791 4427.570 4428.610 Affirmative, ten thousand.
+log_id_2 1 1>PAA791>ID-1 4429.420 4430.280 Seven Ninety One.
+log_id_2 1 1>JET3826>ID-1 4450.950 4454.790 Boston Departure, Jet Link Thirty Eight Twenty Six is with you, er out of a thousand.
+log_id_2 1 1>ID-1>JET3826 4457.700 4462.320 Jet Link Thirty Eight Twenty Six, Boston Departure, er radar contact, climb and maintain four thousand.
+log_id_2 1 2>JET3826>ID-1 4462.920 4464.540 Up to four, Thirty Eight Twenty Six.
+log_id_2 1 1>ID-1>PAA791 4506.220 4511.070 Clipper Seven Ninety One, turn right heading one four zero, contact Approach er one two zero point six.
+log_id_2 1 1>PAA791>ID-1 4511.450 4515.300 Okay, over to twenty point six, and a right turn to one forty, Clipper Seven Ninety One.
+log_id_2 1 1>ID-1>JET3826 4515.700 4519.890 Jet Link Thirty Eight Twenty Six, turn right heading three two zero, contact Approach one one eight point two five.
+log_id_2 1 1>JET3826>ID-1 4520.510 4522.850 Okay we'll do that, Thirty Eight er Twenty Six, good day.
+log_id_2 1 1>AAL601>ID-1 4577.560 4581.470 Departure, American Six Oh One, er passing seven hundred for five thousand.
+log_id_2 1 1>ID-1>AAL601 4581.470 4585.860 Roger, American Six Zero One, Departure, radar contact, climb and maintain one zero thousand, ten thousand.
+log_id_2 1 1>AAL601>ID-1 4587.160 4589.730 Okay, up to one zero thousand now, American Six Oh One.
+log_id_2 1 1>ID-1>AAL601 4600.690 4603.810 American Six Zero One, turn er left heading zero niner zero.
+log_id_2 1 1>AAL601>ID-1 4604.660 4606.290 Zero nine zero, American Six Oh One.
+log_id_2 1 1>ID-1>COA439 4659.020 4660.420 Continental Four Thirty Nine, Departure.
+log_id_2 1 1>COA439>ID-1 4660.740 4665.720 Four Thirty Nine is with you, we're in a left turn to one er four zero, out of one point four for five.
+log_id_2 1 1>ID-1>COA439 4665.720 4670.160 Continental Four Thirty Nine, turn left heading zero eight zero, radar contact, climb and maintain one zero thousand.
+log_id_2 1 1>COA439>ID-1 4670.540 4672.860 Zero Eight Zero, and er say again the what?
+log_id_2 1 1>ID-1>COA439 4673.770 4676.600 Climb to ten, one zero thousand, Continental Four Thirty Nine.
+log_id_2 1 1>COA439>ID-1 4676.600 4678.630 Up to ten, Continental er Four Thirty Nine.
+log_id_2 1 1>ID-1>COA439 4682.020 4686.090 Continental Four Thirty Nine, squawk three four two six, you're squawking thirty three fifty two.
+log_id_2 1 1>COA439>ID-1 4686.730 4688.040 Three four two six.
+log_id_2 1 1>ID-1>AAL601 4688.750 4691.180 American Six Zero One, turn right heading two seven zero.
+log_id_2 1 1>AAL601>ID-1 4691.750 4694.020 Right to two seven oh, American Six Oh One.
+log_id_2 1 1>ID-1>AAL601 4700.600 4704.440 American Six Zero One, er contact Approach one two seven point two.
+log_id_2 1 1>AAL601>ID-1 4704.820 4707.360 Two seven point seven, American Six Oh One.
+log_id_2 1 1>ID-1>AAL601 4707.360 4708.860 One two seven point two.
+log_id_2 1 1>AAL601>ID-1 4709.490 4710.690 Twenty seven two, good day.
+log_id_2 1 1>ID-1>COA439 4735.450 4737.990 Continental Four Thirty Nine, turn right heading one four zero.
+log_id_2 1 1>COA439>ID-1 4737.990 4741.930 Right one four zero, Continental er Four Thirty Nine.
+log_id_2 1 1>NWA773>ID-1 4743.690 4746.890 Good morning, Northwest Seven Seventy Three, out of one thousand for five.
+log_id_2 1 1>ID-1>NWA773 4747.380 4752.880 Northwest Seven Seventy Three, Departure, radar contact, climb and maintain one zero thousand. Ten thousand, turn left one zero zero.
+log_id_2 1 1>NWA773>ID-1 4753.760 4757.740 Up to ten thou and er hundred degrees, Northwest er Seven Seventy Three.
+log_id_2 1 1>ID-1>COA439 4770.770 4775.630 Continental Four Thirty Nine, turn right heading two seven zero, contact Boston Approach one two seven point two.
+log_id_2 1 2>COA439>ID-1 4775.630 4777.430 Twenty seven two, two seven zero, have a nice one.
+log_id_2 1 1>ID-1>NWA773 4786.310 4789.020 Northwest Seven Seventy Three, turn left heading zero eight zero.
+log_id_2 1 1>NWA773>ID-1 4789.380 4791.160 Zero eight zero, Northwest Seven Seventy Three.
+log_id_2 1 3>RYN372>ID-1 4813.130 4817.200 Good morning Departure, Ryan Three Seventy Two, in a left turn to a heading one forty, climbing to five.
+log_id_2 1 1>ID-1>RYN372 4817.620 4821.300 Ryan Three Seventy Two, Departure, radar contact, say altitude, turn left one zero zero.
+log_id_2 1 3>RYN372>ID-1 4821.650 4825.860 Er we're coming out of nine hundred feet now, and left turn to a hundred degrees, Ryan er Three Seventy Two.
+log_id_2 1 1>ID-1>RYN372 4826.550 4829.760 Ryan Three Seventy Two, climb and maintain one zero thousand, ten thousand.
+log_id_2 1 3>RYN372>ID-1 4829.760 4831.650 Climbing to ten, Ryan er Three Seventy Two.
+log_id_2 1 1>ID-1>RYN372 4839.580 4844.690 Ryan Three Seventy Two, traffic twelve o'clock, six miles, is northwestbound, he's at fifteen hundred feet.
+log_id_2 1 2>RYN372>ID-1 4845.350 4846.390 Three Seventy Two, we're looking.
+log_id_2 1 1>ID-1>RYN372 4846.720 4847.800 Roger, Beech Ninety Nine.
+log_id_2 1 1>ID-1>NWA773 4849.420 4853.650 Northwest Seven Seventy Three, turn right heading one four zero, contact Approach one two zero point six.
+log_id_2 1 1>NWA773>ID-1 4854.410 4856.060 One forty heading, twenty point six, good day.
+log_id_2 1 1>ID-1>RYN372 4863.180 4869.310 Ryan Three Seventy Two, turn right heading one three zero, that traffic now eleven o'clock and er two and a half miles, he's below you now.
+log_id_2 1 2>RYN372>ID-1 4870.490 4873.630 Okay er right turn to one thirty, we see him, Ryan Three Seventy Two.
+log_id_2 1 1>ID-1>RYN372 4873.630 4877.080 Roger, Beech Ninety Nine, there's two of them out there, there's a helicopter also down real low.
+log_id_2 1 1>ID-1>RYN372 4893.230 4898.650 Ryan Three Seven Two, er climb and maintain er one zero thousand, er turn right heading one five zero.
+log_id_2 1 2>RYN372>ID-1 4898.990 4901.600 One fifty and up to ten, Ryan er Three Seventy Two.
+log_id_2 1 1>TPS1171>ID-1 4905.070 4907.960 Trump Eleven Seventy One, climbing to five thousand through seven hundred.
+log_id_2 1 1>ID-2>NWA773 4912.850 4919.050 Northwest Seven er Seventy Three, fly heading of one er six zero, and contact Boston Approach on er one two zero point six.
+log_id_2 1 2>TPS1171>ID-2 4925.850 4929.410 Departure, Trump Eleven Seventy One, climbing to five thousand through one thousand one hundred.
+log_id_2 1 1>ID-2>TPS1171 4929.410 4934.230 Trump Eleven Seventy One, Boston, radar contact, turn left heading zero niner zero, climb and maintain one zero thousand.
+log_id_2 1 1>TPS1171>ID-2 4935.750 4938.680 Zero nine zero, and up to one zero thousand, Trump Eleven Seventy One.
+log_id_2 1 1>ID-2>RYN372 4938.680 4943.300 Ryan Three Seventy Two, climb and maintain one zero thousand, and turn right heading two seven zero.
+log_id_2 1 3>RYN372>ID-2 4943.300 4945.950 Up to ten, two seventy on the heading, Ryan Three Seventy Two.
+log_id_2 1 1>COM811>ID-2 4952.350 4957.100 Good morning, Boston Commuter Eight Eleven, one thousand two hundred, climbing three thousand, three hundred on the heading.
+log_id_2 1 1>ID-2>COM811 4957.430 4961.260 Commuter Eight Eleven, Boston Departure, radar contact, climb and maintain er four thousand.
+log_id_2 1 3>COM811>ID-2 4961.260 4962.630 Four thousand, Commuter Eight Eleven.
+log_id_2 1 1>ID-2>TPS1171 4964.130 4966.420 Trump Eleven Seventy One, turn left heading zero niner zero.
+log_id_2 1 1>TPS1171>ID-2 4967.580 4969.960 We're on a heading of zero nine zero, Trump Eleven Seventy One.
+log_id_2 1 1>ID-2>RYN372 4972.610 4977.340 Ryan Three Seventy Two, contact Boston Approach Control on frequency er one two seven point two.
+log_id_2 1 3>RYN372>ID-2 4977.900 4979.930 Twenty seven two, we'll see you, Three Seventy Two.
+log_id_2 1 1>PCN3563>ID-2 4984.910 4988.430 Boston, Precision Thirty Five Sixty Three is out of fifteen for three thousand.
+log_id_2 1 1>ID-2>PCN3563 4988.800 4995.910 Precision Thirty Five Sixty Three, Boston, radar contact, er fly heading two seven zero, climb and maintain four thousand.
+log_id_2 1 1>PCN3563>ID-2 4996.950 4999.360 Two seventy, four thousand, Precision Thirty Five Sixty Three.
+log_id_2 1 1>ID-2>COM811 4999.680 5004.980 Commuter Eight Eleven, traffic at eleven o'clock and a mile, northeastbound, restricted above you at five thousand, maintain four thousand.
+log_id_2 1 1>COM811>ID-2 5005.490 5008.220 Maintain four thousand, with the traffic in sight, Commuter Eight Eleven.
+log_id_2 1 1>ID-2>COM811 5008.220 5011.690 Commuter Eight Eleven, contact Boston Approach on frequency one one eight two five.
+log_id_2 1 1>COM811>ID-2 5011.690 5014.100 One one eight point two five, Commuter Eight Eleven, good day.
+log_id_2 1 1>ID-2>TPS1171 5014.100 5016.830 Trump Eleven Seventy One, turn right heading of two two zero.
+log_id_2 1 1>TPS1171>ID-2 5017.260 5019.330 Heading of two twenty, Trump Eleven Seventy One.
+log_id_2 1 1>ID-2>PCN3563 5019.330 5024.210 Precision Thirty Five Sixty Three, contact Boston Approach Control on frequency one two seven point two.
+log_id_2 1 1>PCN3563>ID-2 5024.210 5026.110 Twenty seven two, er good afternoon.
+log_id_2 1 1>ID-2>TPS1171 5026.680 5029.400 Trump Eleven Seventy One, continue right turn, heading two seven zero.
+log_id_2 1 1>TPS1171>ID-2 5029.790 5031.840 Heading two seven zero, Trump Eleven Seventy One.
+log_id_2 1 1>ID-2>TPS1171 5047.870 5052.020 Trump Eleven Seventy One, contact Boston Approach Control on frequency one two seven point two.
+log_id_2 1 1>TPS1171>ID-2 5052.350 5054.270 Trump Eleven Seventy One, going twenty seven two.
+log_id_2 1 1>PAA6523>ID-2 5071.590 5075.090 Departure, Clipper Sixty Five Twenty Three is out of one thousand for five thousand.
+log_id_2 1 1>ID-2>PAA6523 5077.890 5084.570 Clipper Sixty Five Twenty Three, Boston Departure, radar contact, climb and maintain er one zero thousand, and fly heading zero niner zero.
+log_id_2 1 1>PAA6523>ID-2 5085.090 5088.220 Up to ten thousand, zero nine zero, Clipper Sixty Five Twenty Three.
+log_id_2 1 1>ID-2>PAA6523 5127.680 5130.300 Clipper Sixty Five Twenty Three, turn right heading two one zero.
+log_id_2 1 1>PAA6523>ID-2 5131.100 5133.360 Right to two one zero, Clipper Sixty Five Twenty Three.
+log_id_2 1 1>SUN685>ID-2 5200.690 5203.010 Sundance Six Eighty Five with you, out of two point five for three.
+log_id_2 1 1>ID-2>SUN685 5203.600 5211.800 Sundance Six Eighty Five, Boston Departure, radar contact, roger, er fly heading of er two er eight zero, climb and maintain four thousand.
+log_id_2 1 1>SUN685>ID-2 5212.470 5215.040 Two eight zero and up to four, Sundance Six Eighty Five.
+log_id_2 1 1>ID-2>PAA6523 5229.970 5234.090 Clipper Sixty Five Twenty Three, contact Boston Approach on frequency one two seven point two.
+log_id_2 1 1>PAA6523>ID-2 5234.960 5237.160 Twenty seven two, Clipper Sixty Five Twenty Three, bye.
+log_id_2 1 1>ID-2>SUN685 5256.440 5261.990 Sundance Six Eighty Five, er contact Boston Approach Control on frequency er one two seven point two.
+log_id_2 1 1>SUN685>ID-2 5262.940 5264.800 Twenty seven two, Sundance Six Eighty Five.
+log_id_2 1 1>USA1485>ID-2 5300.580 5304.550 Morning Boston, U S Air Fourteen Eighty Five, through seven hundred for five thousand.
+log_id_2 1 1>ID-2>USA1485 5304.550 5310.300 U S Air Fourteen Eighty Five, Boston Departure, radar contact, climb and maintain one zero thousand, turn left heading one zero zero.
+log_id_2 1 1>USA1485>ID-2 5310.910 5314.720 Up to one zero thousand, left to one zero zero, U S Air Fourteen Eighty Five.
+log_id_2 1 2>GAA356>ID-2 5346.820 5352.470 Departure, BizEx Three Fifty Six, fifteen hundred for three thousand, three zero zero vector.
+log_id_2 1 1>ID-2>GAA356 5352.470 5356.150 BizEx Three Fifty Six, Boston, radar contact, climb and maintain four thousand.
+log_id_2 1 1>GAA356>ID-2 5356.520 5358.600 Four thousand, BizEx Three Fifty Six.
+log_id_2 1 1>ID-2>USA1485 5384.090 5387.130 U S Air er Fourteen Eighty Five, turn right heading two one zero.
+log_id_2 1 1>USA1485>ID-2 5387.680 5390.110 A right turn two ten, U S Air Fourteen Eighty Five.
+log_id_2 1 1>ID-2>GAA356 5390.110 5395.550 BizEx Three Fifty Six, contact Boston Approach Control on frequency one one eight point two five.
+log_id_2 1 1>GAA356>ID-2 5395.840 5398.330 Eighteen twenty five, BizEx Three Fifty Six.
+log_id_2 1 1>ID-2>USA1485 5429.070 5435.380 U S Air er Fourteen Eighty Five, turn right heading two seven zero, contact Boston Approach Control on frequency one two seven point two.
+log_id_2 1 1>USA1485>ID-2 5437.450 5440.690 Twenty seven two, two seventy heading, U S Air Fourteen Eighty Five, so long.
+log_id_2 1 1>GAA357>ID-2 5465.660 5469.090 Boston Departure, BizEx Three Fifty Seven is with you, out of one thousand two hundred.
+log_id_2 1 1>ID-2>GAA357 5469.730 5473.550 BizEx Three Fifty Seven, er roger, climb and maintain V F R four thousand.
+log_id_2 1 1>GAA357>ID-2 5474.100 5476.010 V F R four thousand, Three Fifty Seven.
+log_id_2 1 1>ID-2>GAA357 5493.940 5498.260 BizEx Three Fifty Seven, maintain V F R, contact Boston on one two seven point two.
+log_id_2 1 2>GAA357>ID-2 5498.260 5500.060 One two seven point two, good day.
+log_id_2 1 1>AAL525>ID-2 5563.600 5568.010 Boston Departure, American Five Twenty Five is with you, eleven hundred feet for five thousand.
+log_id_2 1 1>ID-2>AAL525 5568.010 5574.830 American Five Twenty Five, Boston, radar contact, turn left heading of zero niner zero, climb and maintain one zero thousand.
+log_id_2 1 1>AAL525>ID-2 5575.170 5579.240 Zero niner zero heading, up to one zero thousand, American Five Twenty Five.
+log_id_2 1 1>ID-2>AAL525 5611.460 5615.040 American Five Twenty Five, turn further left heading of zero eight zero.
+log_id_2 1 1>AAL525>ID-2 5615.510 5617.680 Zero eight zero, roger, American Five Twenty Five.
+log_id_2 1 1>ID-2>AAL525 5623.240 5627.160 American Five Twenty Five, contact Boston Approach on frequency one one eight two five.
+log_id_2 1 1>AAL525>ID-2 5627.580 5630.020 One one eight two five, American Five Twenty Five.
+log_id_2 1 1>DAL266>ID-2 5631.510 5633.770 Delta Two Sixty Six with you, leaving one point five.
+log_id_2 1 1>ID-2>DAL266 5634.130 5640.850 Delta Two Sixty Six, Boston Departure, radar contact, climb and maintain er one zero thousand, turn left heading of er one two zero.
+log_id_2 1 1>DAL266>ID-2 5641.880 5647.590 Climb to ten thousand, and turn left to heading of one twenty, Delta Two Sixty Six.
+log_id_2 1 1>ID-2>DAL266 5687.390 5694.480 Delta Two Sixty Six, turn left heading zero niner zero, contact Boston Approach on frequency er one one eight point two five, good day.
+log_id_2 1 1>DAL266>ID-2 5695.020 5697.220 Eighteen twenty five, heading ninety degrees, see you.
+log_id_2 1 1>NWA1165>ID-2 5758.640 5761.420 Departure, Northwest Eleven Sixty Five with you, out of a thousand for five.
+log_id_2 1 1>ID-2>NWA1165 5761.770 5766.840 Northwest Eleven Sixty Five, Boston Departure, radar contact, climb and maintain er one zero thousand.
+log_id_2 1 1>NWA1165>ID-2 5767.260 5769.180 Climb to ten thousand, Northwest Eleven Sixty Five.
+log_id_2 1 1>ID-2>NWA1165 5769.490 5773.620 Northwest Eleven Sixty Five, turn left heading of er zero niner zero.
+log_id_2 1 1>NWA1165>ID-2 5774.760 5776.580 Zero nine zero, Northwest Eleven Sixty Five.
+log_id_2 1 1>GAA451>ID-2 5797.330 5802.080 Departure, BizEx Four Fifty One, six hundred and two sixty assigned.
+log_id_2 1 1>ID-2>GAA451 5802.080 5806.410 BizEx Four Fifty One, Boston, radar contact, climb maintain er four thousand.
+log_id_2 1 1>GAA451>ID-2 5806.760 5808.300 Four thousand, BizEx Four Fifty One.
+log_id_2 1 1>ID-2>GAA451 5851.150 5855.540 BizEx Four Fifty One, contact Boston Approach on frequency er one two seven point two.
+log_id_2 1 1>GAA451>ID-2 5856.000 5857.890 Two seven point two, BizEx Four Fifty One.
+log_id_2 1 1>ID-2>NWA1165 5862.320 5868.960 Northwest Eleven Er Sixty Five, turn right heading one four zero, contact Boston Approach Control on one two zero point six. Good day.
+log_id_2 1 1>NWA1165>ID-2 5869.640 5872.550 Twenty point six, on a one forty heading, Northwest Eleven Sixty Five, so long.
+log_id_2 1 1>DAL175>ID-2 5875.030 5877.470 Departure, Delta One Seventy Five is with you, out of one for five.
+log_id_2 1 1>ID-2>DAL175 5877.830 5881.710 Delta One Seventy Five, Boston Departure, radar contact, climb and maintain one zero thousand.
+log_id_2 1 1>DAL175>ID-2 5882.440 5884.790 One Seventy Five is out of er one three for ten.
+log_id_2 1 1>ID-2>DAL175 5886.300 5888.950 Delta One Seventy Five, turn left heading of er zero niner zero.
+log_id_2 1 1>DAL175>ID-2 5889.400 5891.140 Zero nine zero, Delta One Seventy Five.
+log_id_2 1 1>ID-2>DAL175 5932.380 5935.790 Delta One Seventy Five, turn right heading to er two zero zero.
+log_id_2 1 1>DAL175>ID-2 5937.440 5939.980 Right two zero zero, Delta One Seventy Five.
+log_id_2 1 1>AAL63>ID-2 5954.100 5958.760 Good morning Departure, it's American er Sixty Three with you, out of one thousand for five thousand.
+log_id_2 1 1>ID-2>AAL63 5958.760 5964.470 American Sixty Three, Boston Departure, radar contact, climb and maintain er one zero thousand, turn left heading one zero zero.
+log_id_2 1 1>AAL63>ID-2 5965.100 5968.590 Okay, up to ten and a heading of a hundred, we'll do it, American Sixty Three.
+log_id_2 1 1>ID-2>DAL175 5995.710 5998.370 Delta One Seventy Five, turn right heading two seven zero.
+log_id_2 1 1>DAL175>ID-2 5999.730 6001.700 Right two seven zero, Delta One Seventy Five.
+log_id_2 1 1>ID-2>DAL175 6003.520 6010.310 Delta Two, * er Delta One Seventy Five, contact Boston Approach Control on frequency er one two seven point two.
+log_id_2 1 1>DAL175>ID-2 6011.530 6013.760 One twenty seven two, Delta One Seventy Five, good day.
+log_id_2 1 1>ID-2>DAL175 6013.760 6014.160 So long.
+log_id_2 1 1>ID-2>AAL63 6043.410 6048.830 American Sixty Three, er maintain one zero thousand, contact Boston Approagch Control on frequency one one eight point two five.
+log_id_2 1 1>AAL63>ID-2 6049.160 6051.240 Eighteen twenty five, good day sir.
+log_id_2 1 3>ACA801>ID-2 6080.900 6083.050 Air Canada Eight Zero One is leaving nine hundred.
+log_id_2 1 3>ID-2>ACA801 6083.400 6089.920 Air Canada Eight Zero One, Boston Departure, radar contact, climb and maintain one zero thousand, turn left heading of er one zero zero.
+log_id_2 1 1>ACA801>ID-2 6090.540 6095.050 Er turning left to one zero zero, up to one zero thousand, Air Canada's Eight Zero One.
+log_id_2 1 2>NERA3703>ID-2 6107.770 6111.790 Departure, Nera Thirty Seven Zero Three, runway heading, eight hundred, climbing three thousand.
+log_id_2 1 1>NERA3703>ID-2 6112.770 6116.500 Nera Thirty Seven Zero Three, Boston Departure, radar contact, climb and maintain four thousand.
+log_id_2 1 1>NERA3703>ID-2 6117.260 6118.620 Four thousand, Thirty Seven Zero Three.
+log_id_2 1 1>ID-2>ACA801 6146.070 6150.840 Air Canada Eight Zero One, er contact Boston Approach Control on frequency one one eight point two five.
+log_id_2 1 2>ACA801>ID-2 6151.380 6155.040 Okay, one eighteen twenty five, Air Canada's Eight Er Zero One, good morning.
+log_id_2 1 1>ID-2>ACA801 6155.040 6155.450 Good morning.
+log_id_2 1 1>GAA322>ID-2 6176.600 6180.590 And Departure, BizEx Three Twenty Two, out of one thousand one hundred for three thousand.
+log_id_2 1 1>GAA322>ID-2 6180.590 6184.570 BizEx Three Twenty Two, Boston Departure, radar contact, climb maintain er four thousand.
+log_id_2 1 1>GAA322>ID-2 6185.350 6187.300 Four thousand for BizEx Three Twenty Two.
+log_id_2 1 1>ID-2>NERA3703 6188.120 6190.890 Nera Thirty Seven Three, turn left heading one eight zero.
+log_id_2 1 1>NERA3703>ID-2 6192.290 6193.950 Left one eighty, Nera Thirty Seven Zero Three.
+log_id_2 1 1>ID-2>GAA322 6194.730 6198.640 BizEx Three Twenty Two, contact Boston Approach on frequency one one eight point two five.
+log_id_2 1 3>GAA322>ID-2 6199.300 6201.680 Call eighteen two five, BizEx Three Twenty Two, good day.
+log_id_2 1 1>NERA3703>ID-2 6203.950 6209.920 Nera Thirty Seven Zero Three, maintain four thousand, contact Boston Approach Control on frequency one two zero point six.
+log_id_2 1 1>NERA3703>ID-2 6212.170 6215.250 One two zero point six, four thousand, Thirty Seven Zero Three, good day.
+log_id_2 1 1>ID-2>NERA3703 6215.250 6215.810 Good day, sir.
+log_id_2 1 1>TPS1001>ID-2 6217.130 6220.050 Er Trump Ten Oh One is with you, out of eight hundred feet.
+log_id_2 1 1>ID-2>TPS1001 6220.050 6225.240 Trump Ten Zero One, Boston, radar contact, climb maintain one zero thousand, and turn left heading zero niner zero.
+log_id_2 1 1>TPS1001>ID-2 6225.750 6228.380 Zero nine zero, ten thousand feet, Trump Ten Oh One.
+log_id_2 1 1>GAA541>ID-2 6245.690 6250.090 Boston Departure, BizEx Five Forty One, we're one eighty out of a thousand.
+log_id_2 1 1>ID-2>GAA541 6250.090 6256.960 BizEx Five Forty One, Boston Departure, radar contact, climb and maintain er <pause> five thousand.
+log_id_2 1 1>GAA541>ID-2 6257.310 6258.510 Five thousand, Five Forty One.
+log_id_2 1 1>ID-2>TPS1001 6299.860 6302.920 Trump Ten Zero One, turn right heading of er one eight zero.
+log_id_2 1 1>TPS1001>ID-2 6303.300 6305.720 Right to one eight oh, Trump er Ten Oh One.
+log_id_2 1 1>JET3810>ID-2 6307.160 6309.060 Jet Link Thirty Eight Ten with you, out of a thousand.
+log_id_2 1 1>JET3810>ID-2 6321.990 6323.950 Approach, Jet Link Thirty Eight Ten with you, out of a thousand.
+log_id_2 1 2>ID-2>JET3810 6325.950 6329.010 Jet Link Thirty Eight Ten, radar contact, climb V F R to four thousand.
+log_id_2 1 1>JET3810>ID-2 6329.470 6330.130 Four thousand.
+log_id_2 1 1>ID-2>TPS1001 6330.560 6333.340 Trump Ten, * Er Ten Oh One, turn right heading two four zero.
+log_id_2 1 1>TPS1001>ID-2 6333.690 6335.370 Two four zero on the heading, Trump Ten Oh One.
+log_id_2 1 1>ID-2>GAA541 6335.370 6338.340 BizEx er Five Forty One, turn left direct Hyannis.
+log_id_2 1 1>GAA541>ID-2 6338.660 6340.400 Direct Hyannis, BizEx Five Forty One.
+log_id_2 1 1>ID-2>JET3810 6352.140 6358.510 Jet Link Thirty Eight Ten, contact Boston Approach Control on frequency one one eight point two five, again, maintain V F R four thousand.
+log_id_2 1 1>JET3810>ID-2 6358.870 6360.050 Eighteen twenty five, to four.
+log_id_2 1 1>USA1429>ID-2 6376.790 6380.630 Departure, U S Air er Fourteen Twenty Nine, out a thousand, one forty.
+log_id_2 1 1>ID-2>USA1429 6380.630 6386.240 U S Air Fourteen Twenty Nine, Boston, radar contact, turn left heading one zero zero, climb and maintain one zero, ten thousand.
+log_id_2 1 1>USA1429>ID-2 6387.100 6390.730 One hundred heading, one zero thousand, U S Air Fourteen Twenty Nine, thanks.
+log_id_2 1 2>ID-2>TPS1001 6390.730 6397.090 Er Trump Ten Oh One, there's a Beech Oh Two, er about eleven o'clock, four miles, southeastbound, level at five thousand.
+log_id_2 1 2>TPS1001>ID-2 6397.670 6399.320 Trump Er Ten Oh One, we have him.
+log_id_2 1 1>ID-2>TPS1001 6399.320 6403.240 Trump Ten Oh One, fly heading two seven zero, contact Boston Approach one two seven point two.
+log_id_2 1 1>TPS1001>ID-2 6403.610 6406.370 Twenty seven two, heading two seven zero, good day.
+log_id_2 1 2>ID-2>TPS1001 6406.370 6406.740 Good day.
+log_id_2 1 1>ID-2>GAA322 6408.460 6412.270 BizEx Three Twenty Two, contact Boston on frequency er one one eight two five.
+log_id_2 1 1>ID-2>GAA541 6413.740 6418.480 BizEx Five Forty One, contact Boston Approach Control on frequency one two zero point six.
+log_id_2 1 1>GAA541>ID-2 6418.480 6420.050 Twenty point six, Five Forty One.
+log_id_2 1 2>GAA493>ID-2 6452.760 6455.080 Departure, BizEx Four Ninety Three, out of a thousand.
+log_id_2 1 1>ID-2>GAA493 6455.080 6458.540 BizEx Four Ninety Three, Boston, radar contact, climb and maintain four thousand.
+log_id_2 1 1>GAA493>ID-2 6458.990 6460.620 Up to four thousand, Four Ninety Three.
+log_id_2 1 1>ID-2>USA1429 6462.020 6468.170 U S Air er Fourteen Twenty Nine, turn right heading one four zero, contact Boston Approach on one two zero point six.
+log_id_2 1 1>USA1429>ID-2 6469.350 6471.400 One forty heading, that was two zero six.
+log_id_2 1 1>ID-2>USA1429 6471.830 6473.370 Affirmative, one twenty point six.
+log_id_2 1 1>USA1429>ID-2 6473.370 6474.200 We'll see you now.
+log_id_2 1 1>ID-2>USA1429 6474.200 6474.790 See you later.
+log_id_2 1 1>ID-2>GAA493 6502.350 6505.110 BizEx Four Ninety Three, turn left heading one eight zero.
+log_id_2 1 1>GAA493>ID-2 6505.600 6507.900 Left to one eight zero, BizEx Four Ninety Three.
+log_id_2 1 1>USA433>ID-2 6509.110 6512.770 Morning Departure, U S Air Four Thirty Three, six hundred for five thousand.
+log_id_2 1 1>ID-2>USA433 6512.770 6519.040 U S Air Four Thirty Three, Boston Departure, radar contact, climb and maintain er one zero thousand, fly heading one er zero zero.
+log_id_2 1 1>USA433>ID-2 6519.510 6526.040 One hundred on the heading, and er ten thousand, U S Air er Four Thirty Three.
+log_id_2 1 1>ID-2>GAA493 6526.840 6532.140 BizEx Four Ninety Three, er fly heading one eight zero, contact Boston Approach Control on one two zero point six.
+log_id_2 1 2>GAA493>ID-2 6532.450 6534.780 Twenty point six, we'll see you, BizEx Four Ninety Three.
+log_id_2 1 1>ID-2>USA433 6608.830 6614.630 U S Air Four Thirty Three, turn right heading one four zero, contact Boston Approach Control on one two zero point six.
+log_id_2 1 2>USA433>ID-2 6614.970 6617.650 Twenty point six, one forty on the heading, you have a nice morning.
+log_id_2 1 1>ID-2>USA433 6617.650 6618.320 Take care, sir.
+log_id_2 1 1>AAL1087>ID-2 6765.790 6770.140 Departure, American Ten Eighty Seven Heavy, passing one point five for five thousand.
+log_id_2 1 1>ID-2>AAL1087 6778.600 6783.960 American Ten Eighty Seven Heavy, radar contact, turn left heading zero nine zero, climb and maintain one zero thousand, please.
+log_id_2 1 1>AAL1087>ID-2 6784.400 6788.400 Left zero nine zero, up to one zero thousand, American Ten Eighty Seven Heavy.
+log_id_2 1 1>ID-2>AAL1087 6788.400 6794.200 And American Ten Eighty Seven Heavy, your Mode C er appears to be inoperative right now, could you try to squawk altitude please.
+log_id_2 1 1>AAL1087>ID-2 6795.620 6797.190 American Ten Eighty Seven Heavy.
+log_id_2 1 1>ID-2>AAL1087 6809.470 6812.670 American Ten Eighty Seven Heavy, I have it now, I show you out of thirty four hundred.
+log_id_2 1 1>AAL1087>ID-2 6813.260 6814.100 That's correct.
+log_id_2 1 1>ID-2>AAL1087 6837.880 6844.370 American Ten Eighty Seven Heavy, turn right heading one five zero, and contact Boston Approach Control on one two zero point six. Good morning.
+log_id_2 1 1>AAL1087>ID-2 6844.840 6849.120 One two zero point six, right to one five zero, American Ten Eighty Seven Heavy.
+log_id_2 1 1>ID-2>GAA54 6909.650 6911.230 BizEx Fifty Four, Boston.
+log_id_2 1 1>GAA54>ID-2 6911.570 6913.850 Er Fifty Four is with you, out of two thousand.
+log_id_2 1 1>ID-2>GAA54 6916.080 6920.030 BizEx er Fifty Four, good morning, you're radar contact, climb and V F R at four thousand.
+log_id_2 1 1>GAA54>ID-2 6921.000 6922.870 BizEx Fifty Four, up to four thousand.
+log_id_2 1 1>DAL731>ID-2 6928.950 6933.660 Departure, Delta Seven Thirty One is with you, cli, * turning left to one four zero, we're climbing up to five.
+log_id_2 1 1>ID-2>DAL731 6933.660 6937.930 Delta Seven Thirty One, Boston Departure, radar contact, climb and maintain er eight thousand.
+log_id_2 1 1>DAL731>ID-2 6938.220 6939.840 Up to eight thousand, Delta Seven Thirty One.
+log_id_2 1 1>ID-2>GAA54 6945.920 6950.280 BizEx Fifty Four, contact Boston Approach Control on frequency one two seven point two.
+log_id_2 1 1>GAA54>ID-2 6951.170 6953.360 Twenty seven point two, BizEx Fifty Four.
+log_id_2 1 1>ID-2>DAL731 6954.020 6956.580 Delta Seven Thirty One, turn left heading zero niner zero.
+log_id_2 1 1>DAL731>ID-2 6956.580 6958.360 Zero nine zero, Delta Seven Thirty One.
+log_id_2 1 1>ID-2>DAL731 6999.120 7005.480 Delta Seven Thirty One, er turn right heading one four zero, contact Boston Approach Control on frequency one two zero point six.
+log_id_2 1 1>DAL731>ID-2 7005.480 7007.780 One two zero point six, and we're turning.
+log_id_2 1 2>ID-2>DAL731 7007.780 7008.250 Okay.
+log_id_2 1 1>UAL21>ID-2 7010.800 7013.960 Departure, United Twenty One, nine hundred, climbing five thousand.
+log_id_2 1 1>ID-2>UAL21 7014.650 7018.980 United er Twenty One, er Boston, you're radar contact, climb and maintain one zero thousand.
+log_id_2 1 1>UAL21>ID-2 7019.610 7021.970 Climb maintain one zero thousand, United Twenty One.
+log_id_2 1 1>ID-2>UAL21 7021.970 7024.610 And United Twenty One, turn left heading zero niner zero.
+log_id_2 1 1>UAL21>ID-2 7024.920 7027.000 Left zero niner zero, United Twenty One.
+log_id_2 1 1>ID-2>UAL21 7078.830 7080.940 United Twenty One, turn right heading two one zero.
+log_id_2 1 1>UAL21>ID-2 7081.630 7084.560 Right to a heading of two one zero, United Twenty One.
+log_id_2 1 1>DAL1843>ID-2 7088.070 7091.320 Delta Eighteen Forty Three, fourteen hundred for five thousand.
+log_id_2 1 1>ID-2>DAL1843 7095.490 7097.640 Delta er Eighteen Forty Three, is it?
+log_id_2 1 1>DAL1843>ID-2 7097.990 7099.690 Yes sir, Eighteen Forty Three.
+log_id_2 1 1>ID-2>DAL1843 7102.360 7106.370 Delta Eighteen Forty Three, turn left heading zero nine zero, climb and maintain one zero thousand.
+log_id_2 1 1>DAL1843>ID-2 7107.650 7112.490 Zero nine zero, and up to ten thousand feet, airspeed restriction, Delta Eighteen Forty Three.
+log_id_2 1 1>ID-2>DAL1843 7116.710 7124.740 Delta Eighteen Forty Three, there's a United Seven Five about er one o'clock, four miles, southbound, four thousand, in a southwestbound turn.
+log_id_2 1 1>DAL1843>ID-2 7124.740 7126.340 Yeah, we got him, thank you.
+log_id_2 1 1>ID-2>UAL21 7138.780 7141.210 United Twenty One, turn right heading two seven zero.
+log_id_2 1 1>UAL21>ID-2 7141.800 7144.050 Right two seven zero, United Twenty One.
+log_id_2 1 1>ID-2>UAL21 7154.580 7158.010 United Twenty One, contact Boston Approach Control on one two seven point two.
+log_id_2 1 1>UAL21>ID-2 7158.440 7160.890 Two seven point two, United Twenty One, so long.
+log_id_2 1 1>ID-2>UAL21 7160.890 7161.560 So long, sir.
+log_id_2 1 1>ID-2>DAL1843 7164.430 7166.850 Delta Eighteen Forty Three, turn right heading two one zero.
+log_id_2 1 1>DAL1843>ID-2 7167.500 7170.400 Delta Eighteen Forty Three, two one zero heading.
+log_id_2 1 1>DAL251>ID-2 7171.640 7174.150 Delta Two Fifty One, out of one thousand for five thousand.
+log_id_2 1 1>ID-2>DAL251 7174.150 7179.240 Delta Two Fifty One, radar contact, climb and maintain one zero thousand, turn left heading of er zero niner zero.
+log_id_2 1 1>DAL251>ID-2 7179.690 7182.220 Up to one zero thousand, left zero niner zero, Delta Two Fifty One.
+log_id_2 1 1>ID-2>DAL1843 7222.080 7227.230 Delta Eighteen Forty Three, turn right heading two seven zero, contact Boston Approach on one two seven point two.
+log_id_2 1 1>DAL1843>ID-2 7228.690 7232.800 Delta Eighteen Forty Three, one two seven point two, two seven oh heading, so long.
+log_id_2 1 1>ID-2>DAL251 7235.370 7238.680 Delta er Two Fifty One, turn right heading one er five zero.
+log_id_2 1 1>DAL251>ID-2 7238.680 7240.660 One five zero, Delta Two Fifty One.
+log_id_2 1 1>ID-2>DAL251 7261.530 7267.050 Delta Two Fifty One, er climb and maintain one zero thousand, contact Boston Approach on one two zero point six.
+log_id_2 1 1>DAL251>ID-2 7267.670 7270.440 One zero thousand, twenty point six, Delta Two Fifty One, good day.
+log_id_2 1 1>ID-2>DAL251 7270.440 7270.890 Good day.
+log_id_2 1 1>GAA701>ID-2 7279.640 7282.340 BizEx Seven Oh One is out of er eight hundred.
+log_id_2 1 1>ID-2>GAA701 7290.430 7294.150 BizEx Seven Zero One, Boston Departure, radar contact, climb and maintain four thousand.
+log_id_2 1 1>GAA701>ID-2 7294.510 7295.900 Up to four, BizEx Seven Oh One.

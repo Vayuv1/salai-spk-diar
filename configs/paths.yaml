@@ -1,0 +1,20 @@
+# ==============================================================================
+# paths.yaml — Central path configuration for all experiments
+# ==============================================================================
+
+# Data
+stm_dir: data/atc0r/stm
+audio_dir: data/atc0r/audio
+rttm_dir: data/processed/rttm
+manifest_dir: data/processed/manifests
+
+# Manifests
+full_manifest: data/processed/manifests/full_manifest.jsonl
+windowed_manifest: data/processed/manifests/windowed_10s_5s.jsonl
+
+# Models
+sortformer_offline: models/diar_sortformer_4spk-v1.nemo
+sortformer_streaming: models/diar_streaming_sortformer_4spk-v2.nemo
+
+# Results root
+results_root: results

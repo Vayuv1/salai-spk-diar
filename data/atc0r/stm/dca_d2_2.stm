@@ -1,0 +1,324 @@
+dca_d2_2 1 1>D2-1>MAC144 90.210 93.340 MAC One Four Four, turn left heading of one seven zero.
+dca_d2_2 1 1>MAC144>D2-1 93.730 97.110 Left to one seven zero, MAC Six Zero One Four Four.
+dca_d2_2 1 1>D2-1>MAC144 127.980 131.110 MAC One Four Four, climb and maintain one seven thousand.
+dca_d2_2 1 2>MAC144>D2-1 131.690 134.810 Up to one seven thousand, MAC Six Zero One Four Four.
+dca_d2_2 1 1>D2-1>MAC144 184.900 190.170 MAC One Four Four, I need a good rate out of eleven thousand, soon as I get you above a Cessna, I can get you on course.
+dca_d2_2 1 2>MAC144>D2-1 190.170 192.760 One Four Four, a good rate through eleven.
+dca_d2_2 1 1>D2-1>MAC144 204.820 208.780 MAC One Four Four, turn right heading two one zero, join J sixty one.
+dca_d2_2 1 2>MAC144>D2-1 209.610 213.570 Right turn to two one zero now, we'd like to level off about one five if we could.
+dca_d2_2 1 1>D2-1>MAC144 214.000 218.990 Okay, er MAC One Four Four, maintain one five thousand, and make that request from the Center for a final.
+dca_d2_2 1 2>MAC144>D2-1 220.400 222.370 One Four Four, level off at one five.
+dca_d2_2 1 1>D2-1>MAC144 222.850 227.530 MAC One Four Four, Washington Center one three three point niner, tell them you want to stay at fifteen.
+dca_d2_2 1 2>MAC144>D2-1 229.410 231.370 Can you say frequency again for One Four Four?
+dca_d2_2 1 1>D2-1>MAC144 231.370 232.440 Thirty three nine.
+dca_d2_2 1 1>MAC144>D2-1 234.230 236.440 Thirty three nine, One Four Four, thanks.
+dca_d2_2 1 1>D2-1>N78F 236.440 240.140 Cessna Seven Eight Foxtrot, Washington Center, one three three point niner.
+dca_d2_2 1 2>N78F>D2-1 240.710 242.010 Thirty three nine, Seven Eight Fox.
+dca_d2_2 1 3>D2-1>N99KW 392.690 397.300 November Nine Nine Kilo Whiskey, Washington, roger, fly heading two six zero, vector for final.
+dca_d2_2 1 1>D2-2>N99KW 453.800 458.830 November Nine Nine Kilo Whiskey, climb and maintain one seven thousand, proceed direct DAILY, resume own navigation.
+dca_d2_2 1 1>TWA744>D2-2 461.860 469.850 Saint Louis Depart, er, correction, <laugh> Washington Departure, T W A Seven Forty Four out of a thousand climbing to five.
+dca_d2_2 1 1>D2-2>TWA744 470.780 474.870 T W A Seven Forty Four, Washington, radar contact, climb and maintain one seven thousand.
+dca_d2_2 1 1>TWA744>D2-2 475.560 479.940 Up one seven thousand, T W A Seven Forty Four.
+dca_d2_2 1 2>D2-2>N99KW 517.710 521.530 November Nine Nine Kilo Whiskey, contact the Center on one three three point niner. See you.
+dca_d2_2 1 2>N55KM>D2-2 533.130 536.970 And Departure, Triple Five Kilo Mike's with you, out of four hundred for two thousand, good afternoon.
+dca_d2_2 1 1>D2-2>N55KM 537.740 543.730 November Five Five Five Kilo Mike, Washington, radar contact, maintain three thousand five hundred, have on course in three miles.
+dca_d2_2 1 1>N55KM>D2-2 544.210 546.030 We're out of six for three point five, Kilo Mike.
+dca_d2_2 1 1>D2-2>N99KW 578.090 580.850 Nine Nine Kilo Whiskey, one three three point niner.
+dca_d2_2 1 1>D2-2>TWA744 617.890 627.130 T W A Seven Forty Four, turn right heading one two zero, intercept ARMEL zero nine one radial, resume own navigation, expedite climb through one four thousand.
+dca_d2_2 1 1>TWA744>D2-2 628.470 637.920 All right sir, right turn to one two zero for the ARMEL zero nine one radial, expedite through fourteen, climbing to seventeen, T W A Seven Forty Four.
+dca_d2_2 1 1>D2-2>TWA744 688.130 692.980 T W A Seven Forty Four, traffic two o'clock, one five miles, southwestbound, one zero thousand.
+dca_d2_2 1 1>TWA744>D2-2 694.290 698.370 All right sir, we're looking, er we don't have him on the machine or visually yet.
+dca_d2_2 1 1>D2-2>N55KM 699.050 702.400 November Five Kilo Mike, resume own navigation, stay on course heading.
+dca_d2_2 1 1>N55KM>D2-2 702.720 704.690 Sir, we're Victor one twenty three at this time.
+dca_d2_2 1 1>D2-2>TWA744 747.610 753.920 T W A Seven Forty Four, traffic now twelve o'clock, seven miles, southwestbound, descending out of nine thousand three hundred.
+dca_d2_2 1 1>TWA744>D2-2 755.170 756.900 All right sir, we're looking, no joy.
+dca_d2_2 1 1>D2-2>TWA744 788.280 793.750 T W A Seven Forty Four, traffic no factor, contact Washington Center on one three four point five.
+dca_d2_2 1 1>TWA744>D2-2 794.140 797.970 thirty four five, T W A Seven Forty Four, good day sir.
+dca_d2_2 1 1>N55KM>D2-2 815.800 818.730 And Washington, any chance of five point five for Kilo Mike?
+dca_d2_2 1 1>D2-2>N55KM 819.680 822.690 Five Kilo Mike, climb and maintain five thousand five hundred.
+dca_d2_2 1 1>N55KM>D2-2 822.690 825.580 Very good, out of three point five for five point five, Kilo Mike.
+dca_d2_2 1 1>D2-2>N55KM 848.790 852.600 Five Kilo Mike, contact Baltimore on one two four point five five, good day.
+dca_d2_2 1 1>N40MC>D2-2 956.900 960.530 Departure, Learjet Four Four Zero Mike Charlie with you, eighteen hundred for two thousand.
+dca_d2_2 1 1>D2-2>N40MC 961.860 967.100 November Four Four Zero Mike Charlie, Washington, radar contact, climb and maintain four thousand.
+dca_d2_2 1 1>N40MC>D2-2 967.430 968.810 Climb to four thousand, Mike Charlie.
+dca_d2_2 1 2>N00AC>D2-2 986.400 989.780 And Departure, King Air Four Hundred Alpha Charlie's with you, through seven hundred feet.
+dca_d2_2 1 1>D2-2>N40MC 1008.020 1012.730 Four Four Zero Mike Charlie, fly heading zero seven zero, vector Dulles final, correction, Baltimore final.
+dca_d2_2 1 1>N40MC>D2-2 1013.330 1015.090 Right to zero seven zero, Mike Charlie.
+dca_d2_2 1 1>N00AC>D2-2 1019.910 1022.760 Departure, King er Four Hundred Alpha Charlie's out of one point five.
+dca_d2_2 1 1>D2-2>N00AC 1025.290 1030.210 Four Zero Zero Alpha Charlie, Washington, radar contact, climb and maintain four thousand five hundred V F R.
+dca_d2_2 1 2>N00AC>D2-2 1030.650 1034.040 Er roger, V F R to four thousand five hundred, Four Hundred Alpha Charlie.
+dca_d2_2 1 1>N305>D2-2 1037.900 1040.780 Washington Departure, Three Zero Five is with you, going through three hundred.
+dca_d2_2 1 2>D2-2>N305 1042.330 1046.480 November Three Eight Three Zero Five, Washington, roger, radar contact, maintain two thousand five hundred.
+dca_d2_2 1 1>N305>D2-2 1047.130 1048.850 Three Zero Five, up to two point five.
+dca_d2_2 1 1>D2-2>N40MC 1062.470 1066.380 Four Four Zero Mike Charlie, contact Baltimore on one one nine point seven.
+dca_d2_2 1 1>N40MC>D2-2 1066.710 1068.030 Nineteen seven, Mike Charlie.
+dca_d2_2 1 1>D2-2>N00AC 1070.030 1077.880 Four Zero Zero Alpha Charlie, turn right heading zero eight zero, traffic twelve o'clock ten miles southwestbound, descending to two, correction, descending to five thousand.
+dca_d2_2 1 2>N00AC>D2-2 1077.880 1081.400 Er roger, right to zero eight zero, Four Hundred Alpha Charlie, we'll be looking for that traffic.
+dca_d2_2 1 1>DAL1756>D2-2 1115.030 1118.980 Departure, Delta Seventeen Fifty Six is with you, out of one thousand, climbing to five thousand.
+dca_d2_2 1 2>D2-2>DAL1756 1119.500 1124.340 Delta Seventeen Fifty Six, Washington, radar contact, climb and maintain flight level one nine zero.
+dca_d2_2 1 1>DAL1756>D2-2 1124.810 1127.070 Climbing to one nine zero, Delta Seventeen Fifty Six.
+dca_d2_2 1 1>D2-2>N00AC 1147.790 1152.240 November Zero Alpha Charlie, traffic no factor, climb and maintain nine thousand five hundred.
+dca_d2_2 1 1>N00AC>D2-2 1153.400 1157.060 Er roger sir, up to nine thousand five hundred, Four Hundred Alpha Charlie.
+dca_d2_2 1 2>D2-2>N305 1199.720 1203.780 November Three Eight Three Oh Five, resume own navigation, contact Andrews one one nine point three.
+dca_d2_2 1 3>N305>D2-2 1204.170 1207.470 Three Zero Five, contacting Andrews one nineteen three and going direct.
+dca_d2_2 1 1>N37WH>D2-2 1210.250 1214.740 Departure, good afternoon, Three Seven Whiskey Hotel's with you, we're out of two thousand feet on the way to five on the river.
+dca_d2_2 1 1>D2-2>N37WH 1215.510 1219.840 November Three Seven Whiskey Hotel, Washington, radar contact, climb and maintain one seven thousand.
+dca_d2_2 1 2>N37WH>D2-2 1220.190 1222.890 Cleared to seventeen, one seven thousand, Three Seven Whiskey Hotel, thank you.
+dca_d2_2 1 1>D2-2>N00AC 1240.300 1245.700 November Four Zero Zero Alpha Charlie, turn right to heading one five zero, vector from Baltimore airspace.
+dca_d2_2 1 1>N00AC>D2-2 1246.220 1248.420 Right to one five zero, Four Hundred Alpha Charlie.
+dca_d2_2 1 1>D2-2>DAL1756 1252.230 1258.430 Delta Seventeen Fifty Six, turn right to heading zero seven zero, intercept KENTON two seven one radial, resume own navigation.
+dca_d2_2 1 1>DAL1756>D2-2 1258.980 1265.430 Delta Seventeen Fifty Six, right turn heading zero seven zero, join the KENTON two seven one degree radial, our own navigation.
+dca_d2_2 1 1>D2-2>N00AC 1284.650 1291.780 November Four Zero Zero Alpha Charlie, Baltimore's accepted the handoff, resume own navigation, and contact them now one two four point five five.
+dca_d2_2 1 1>N00AC>D2-2 1292.100 1297.550 Roger, resume own navigation, and er twenty four fifty five for Four Hundred Alpha Charlie. Good day.
+dca_d2_2 1 1>D2-2>N37WH 1302.200 1305.840 November Three Seven Er Whiskey Hotel, turn right heading one one zero.
+dca_d2_2 1 1>N37WH>D2-2 1306.180 1308.550 Right turn heading one one zero, Three Seven Whiskey Hotel.
+dca_d2_2 1 1>D2-2>DAL1756 1308.920 1312.460 Delta Seventeen Fifty Six, expedite climb through one four thousand.
+dca_d2_2 1 1>DAL1756>D2-2 1312.460 1318.970 Expedite climb through one four thousand, Delta Seventeen Fifty Six. You need that by the two two zero degree radial of Baltimore?
+dca_d2_2 1 1>D2-2>N37WH 1320.710 1326.610 November Three Seven Whiskey Hotel, maintain present airspeed till advised, overtaking traffic ahead two o'clock, four miles.
+dca_d2_2 1 1>N37WH>D2-2 1326.910 1332.680 Okay, er two hundred and fifty knots till advised, Three Seven Whiskey Hotel, we got that. Well we had the traffic in sight, we're in the clouds now.
+dca_d2_2 1 2>N51MK>D2-2 1335.540 1338.970 Er Washington, it's King Air Eight Five One Mike Kilo with you, climbing for two.
+dca_d2_2 1 1>D2-2>N51MK 1343.200 1347.940 November Eight Five One Mike Kilo, Washington, radar contact, climb and maintain four thousand five hundred.
+dca_d2_2 1 1>N51MK>D2-2 1348.540 1350.980 Er One Mike Kilo, on up to four thousand five hundred.
+dca_d2_2 1 1>D2-2>N51MK 1359.140 1362.180 November One Mike Kilo, turn left heading three six zero.
+dca_d2_2 1 1>N51MK>D2-2 1363.150 1364.600 Three six zero for Mike Kilo.
+dca_d2_2 1 1>D2-2>N37WH 1405.620 1410.420 November Three Seven Whiskey Hotel, traffic no factor, normal airspeed, direct NOTTINGHAM, resume own navigation.
+dca_d2_2 1 2>N37WH>D2-2 1410.790 1414.060 Okay, normal airspeed, direct NOTTINGHAM, flight plan, Three Seven Whiskey Hotel, thank you.
+dca_d2_2 1 1>D2-2>DAL1756 1452.860 1457.390 Delta Seventeen Fifty Six, contact Washington Center on one three four point five.
+dca_d2_2 1 1>DAL1756>D2-2 1457.390 1460.370 One three four point five, Delta Seventeen Fifty Six, good day.
+dca_d2_2 1 1>N25GE>D2-2 1472.620 1477.220 Washington Departure, King Air Two Five Golf Echo's out of twelve hundred heading zero six zero.
+dca_d2_2 1 1>D2-2>N25GE 1478.170 1482.390 November Two Five Golf Echo, Washington, roger, radar contact, climb and maintain four thousand.
+dca_d2_2 1 2>N25GE>D2-2 1482.810 1484.110 Up to four thousand, Golf Echo.
+dca_d2_2 1 1>D2-2>N51MK 1488.820 1492.170 November One Mike Kilo, climb and maintain five thousand five hundred.
+dca_d2_2 1 2>N51MK>D2-2 1492.950 1495.290 Okay One Mike Kilo, on up to five thousand five hundred.
+dca_d2_2 1 1>D2-2>N51MK 1496.420 1500.680 November One Mike Kilo, contact Baltimore on one two eight point seven, resume own navigation.
+dca_d2_2 1 1>N51MK>D2-2 1501.820 1504.710 Okay twenty eight point seven, er thanks a lot.
+dca_d2_2 1 1>N37WH>D2-2 1512.640 1515.240 And November Three Seven Whiskey Hotel's leveling one seven thousand.
+dca_d2_2 1 1>D2-2>N37WH 1516.410 1519.210 Three Seven Whiskey Hotel, roger, waiting on Center to take the handoff.
+dca_d2_2 1 1>N37WH>D2-2 1519.820 1520.260 Okay.
+dca_d2_2 1 2>N11PH>D2-2 1521.240 1523.600 Washington Approach, Skylane One One Papa Hotel.
+dca_d2_2 1 2>D2-2>N37WH 1530.280 1535.830 Three Seven Whiskey Hotel, they've just now taken it, call them one three three point nine, good day. They'll have higher for you in just a second.
+dca_d2_2 1 1>N37WH>D2-2 1535.830 1539.180 Okay great, thirty three point nine, Three Seven Whiskey Hotel. Thank you much sir, so long.
+dca_d2_2 1 1>D2-2>N25GE 1539.530 1544.760 November Two Five Golf Echo, turn left heading three four zero, join Victor two sixty five, resume own navigation.
+dca_d2_2 1 1>N25GE>D2-2 1545.250 1548.100 Left to three four zero, to join two sixty five, Golf Echo.
+dca_d2_2 1 1>N11PH>D2-2 1559.030 1561.150 Washington Approach, Skylane One One Papa Hotel.
+dca_d2_2 1 1>N11PH>D2-2 1585.010 1587.350 Washington Approach, Skylane One One Papa Hotel.
+dca_d2_2 1 2>D2-2>N11PH 1590.250 1592.440 Skylane One One Papa Hotel, Washington Approach, go ahead.
+dca_d2_2 1 1>N11PH>D2-2 1592.820 1600.070 Er One One Papa Hotel, we're at two thousand, about two miles er south of er Gaithersburg, flying to Norfolk via Andrews.
+dca_d2_2 1 1>D2-2>N11PH 1603.060 1605.980 One One Papa Hotel, your transmission's breaking up, try it again.
+dca_d2_2 1 1>N11PH>D2-2 1606.370 1613.420 One One Papa Hotel, two miles south of er Gaithersburg, level two thousand, flying to Norfolk via Andrews.
+dca_d2_2 1 1>D2-2>N11PH 1621.980 1626.990 One One Papa Hotel, squawk four three seven four, remain outside of the T C A till radar identified.
+dca_d2_2 1 1>N11PH>D2-2 1627.360 1627.860 Wilco.
+dca_d2_2 1 1>D2-2>N25GE 1631.430 1634.070 King Air Five Golf Echo, climb and maintain five thousand.
+dca_d2_2 1 1>N25GE>D2-2 1634.610 1636.060 Four for five thousand, Golf Echo.
+dca_d2_2 1 1>D2-2>N12CT 1664.300 1665.910 Two Charlie Tango, Washington Approach.
+dca_d2_2 1 2>N12CT>D2-2 1667.980 1669.210 Yeah Charlie Tango's here.
+dca_d2_2 1 1>D2-2>N12CT 1671.590 1674.620 Two Charlie Tango, contact the Tower please, you're on departure frequency.
+dca_d2_2 1 1>D2-2>N25GE 1680.890 1685.750 King Air Five Golf Echo, contact Baltimore Approach on one two, er, correction, one two eight point seven.
+dca_d2_2 1 1>N25GE>D2-2 1686.360 1688.840 Twenty eight point seven for Two Five Golf Echo, good day.
+dca_d2_2 1 1>D2-2>N25GE 1688.840 1689.270 Day.
+dca_d2_2 1 2>D2-2>N11PH 1691.070 1698.360 One One Papa Hotel, radar contact, five miles southeast of Montgomery County Airport, hard climb and maintain two thousand five hundred. You're cleared to enter the Washington T C A.
+dca_d2_2 1 3>N11PH>D2-2 1698.710 1700.850 Okay, we'd like go up to thirty five hundred when able.
+dca_d2_2 1 1>D2-2>N11PH 1706.770 1708.990 Er One One Papa Hotel, say the type aircraft?
+dca_d2_2 1 2>N11PH>D2-2 1708.990 1710.940 Er we're a Cessna one eighty two slash U.
+dca_d2_2 1 1>N12CT>D2-2 1797.850 1801.410 Washington Departure, Falcon One One Two Charlie Tango, climbing to two thousand.
+dca_d2_2 1 1>D2-2>N12CT 1801.800 1805.360 Falcon One One Two Charlie Tango, Washington Departure, radar contact.
+dca_d2_2 1 1>D2-2>N12CT 1815.150 1820.320 One One Two Charlie Tango, turn left heading zero two zero, climb and maintain three thousand.
+dca_d2_2 1 1>N12CT>D2-2 1821.130 1823.530 Left to zero two zero, climb to three thousand, Charlie Tango.
+dca_d2_2 1 1>HNA4484>D2-2 1854.910 1859.940 And Departure, Henson Forty Four Eighty Four is going up to Anacostia zero six zero, out of seven hundred.
+dca_d2_2 1 1>D2-2>HNA4484 1860.300 1863.400 Henson Forty Four Eighty Four, Washington Departure, roger, radar contact.
+dca_d2_2 1 1>HNA4484>D2-2 1863.400 1863.820 Thank you.
+dca_d2_2 1 1>D2-2>N12CT 1871.120 1874.240 Falcon One One Two Charlie Tango, climb and maintain one one thousand.
+dca_d2_2 1 2>N12CT>D2-2 1874.740 1876.540 Climb to one one thousand, Twelve Charlie Tango.
+dca_d2_2 1 1>D2-2>HNA4484 1886.180 1894.010 Henson Forty Four Eighty Four, radar contact, a mile northeast of the airport, traffic at two o'clock and er four miles turning westbound, heavy Seven Forty Seven.
+dca_d2_2 1 1>HNA4484>D2-2 1894.490 1895.770 Yes sir, we have him in sight.
+dca_d2_2 1 1>D2-2>HNA4484 1895.770 1897.610 Thank you, maintain visual separation.
+dca_d2_2 1 1>HNA4484>D2-2 1898.330 1898.760 Okay.
+dca_d2_2 1 1>D2-2>N12CT 1901.480 1908.360 One One Two Charlie Tango, turn right er heading one zero zero, intercept the ARMEL zero nine one radial to PALEO.
+dca_d2_2 1 1>N12CT>D2-2 1909.370 1912.690 Okay, er one zero zero heading for the ARMEL zero nine one, Charlie Tango.
+dca_d2_2 1 1>D2-2>HNA4484 1950.560 1959.260 Henson Forty Four Eighty Four, additional traffic at twelve o'clock and one zero miles, correction, six miles, opposite direction. It's a King Air, V F R at three thousand.
+dca_d2_2 1 1>HNA4484>D2-2 1959.780 1960.490 Okay, we're looking.
+dca_d2_2 1 3>D2-2>HNA4484 1983.950 1986.410 Traffic's twelve o'clock and er mile and a half.
+dca_d2_2 1 1>HNA4484>D2-2 1986.760 1987.390 We have him.
+dca_d2_2 1 1>D2-2>HNA4484 2004.760 2008.640 Henson Forty Four Eighty Four, climb and maintain four thousand, turn right heading zero nine zero.
+dca_d2_2 1 1>HNA4484>D2-2 2008.970 2012.030 Zero nine zero, four thousand, Forty Four Eighty Four.
+dca_d2_2 1 1>D2-2>N11PH 2019.100 2022.280 November One One Papa Hotel, climb and maintain three thousand five hundred.
+dca_d2_2 1 1>N11PH>D2-2 2022.280 2023.770 Thirty five hundred, One Papa Hotel.
+dca_d2_2 1 2>D2-2>N11PH 2029.160 2033.920 Er One Papa Hotel, traffic twelve o'clock, three miles, southwestbound, is a King Air, thirty five hundred.
+dca_d2_2 1 1>N11PH>D2-2 2033.920 2035.170 We're looking, One Papa Hotel.
+dca_d2_2 1 1>D2-2>N12CT 2038.050 2042.550 Falcon Two Charlie Tango, contact Baltimore Approach one two four point five five, good day.
+dca_d2_2 1 1>N12CT>D2-2 2042.550 2044.440 One two four five five, Charlie Tango.
+dca_d2_2 1 1>D2-2>N11PH 2087.010 2091.970 One One Papa Hotel, turn left heading er one six zero, be a short vector for traffic.
+dca_d2_2 1 1>N11PH>D2-2 2091.970 2093.450 One six zero, One Papa Hotel.
+dca_d2_2 1 1>D2-2>HNA4484 2127.760 2132.870 Henson Forty Four Eighty Four, contact Baltimore Approach one two, er, correction, one one niner point seven.
+dca_d2_2 1 2>HNA4484>D2-2 2133.370 2134.880 Nineteen seven, good day.
+dca_d2_2 1 1>D2-2>HNA4484 2134.880 2135.360 Thanks.
+dca_d2_2 1 1>NAE4941>D2-2 2203.110 2206.090 Eagle Forty Nine Forty One is er with you, out of a thousand.
+dca_d2_2 1 1>D2-2>NAE4941 2207.540 2212.960 Eagle Forty Nine Forty One, Washington Departure, roger, radar contact, climb and maintain er four thousand.
+dca_d2_2 1 1>NAE4941>D2-2 2213.270 2215.010 Four thousand, Forty Nine Forty One.
+dca_d2_2 1 3>N29A>D2-2 2215.720 2218.800 Good afternoon Washington, Aztec Two Nine Alpha, forty five hundred, information Sierra.
+dca_d2_2 1 1>D2-2>N29A 2229.690 2231.170 Calling Washington Approach, say again.
+dca_d2_2 1 2>N29A>D2-2 2231.670 2235.880 Aztec Six Six Two Nine Alpha, forty five hundred, information Sierra.
+dca_d2_2 1 1>D2-2>N29A 2236.420 2244.500 Aztec Six Six Two Niner Alpha, Washington Approach, roger, information Tango is current at National Airport, proceed direct Washington, expect Runway Three Three.
+dca_d2_2 1 1>N29A>D2-2 2245.210 2248.240 Proceed direct to Washington for Three Three, Two Nine Alpha.
+dca_d2_2 1 1>D2-2>N29A 2248.690 2253.890 Two Nine Alpha, traffic ten o'clock, four miles, opposite direction, a Dash Eight, four thousand, I F R.
+dca_d2_2 1 2>N29A>D2-2 2254.360 2255.550 Two Nine Alpha, roger.
+dca_d2_2 1 1>D2-2>N11PH 2262.320 2264.570 One Papa Hotel, turn left heading one five zero.
+dca_d2_2 1 1>N11PH>D2-2 2264.890 2266.260 One five zero, One Papa Hotel.
+dca_d2_2 1 2>N29A>D2-2 2267.270 2269.720 Aztec Two Nine Alpha, tally ho on traffic.
+dca_d2_2 1 2>D2-2>N29A 2269.720 2270.910 Two Nine Alpha, roger.
+dca_d2_2 1 1>D2-2>N29A 2296.490 2299.780 Six Six Two Niner Alpha, descend and maintain three thousand five hundred.
+dca_d2_2 1 1>N29A>D2-2 2300.390 2303.020 Down to three thousand five hundred, Two Nine Alpha.
+dca_d2_2 1 1>D2-2>NAE4941 2304.020 2307.100 Eagle Forty Nine Forty One, climb and maintain niner thousand.
+dca_d2_2 1 1>NAE4941>D2-2 2307.100 2308.530 Niner thousand, Forty Nine Forty One.
+dca_d2_2 1 1>D2-2>N29A 2354.840 2357.840 Six Six Two Niner Alpha, turn left heading two one zero.
+dca_d2_2 1 1>N29A>D2-2 2357.840 2359.870 Left two one zero, Two Nine Alpha.
+dca_d2_2 1 1>D2-2>NAE4941 2362.430 2367.770 Eagle Forty Nine Forty One, turn right heading zero nine zero, intercept the Andrews zero six seven radial PALEO.
+dca_d2_2 1 1>NAE4941>D2-2 2367.770 2370.520 zero nine zero to the airway, Forty Nine Forty One.
+dca_d2_2 1 1>D2-2>NAE4941 2389.210 2393.830 Eagle Forty Nine Forty One, contact Baltimore Approach one two four point five five. Good day.
+dca_d2_2 1 1>NAE4941>D2-2 2393.830 2396.430 Twenty four fifty five, Forty Nine Forty One.
+dca_d2_2 1 1>D2-2>N29A 2469.320 2471.730 Six Six Two Nine Alpha, fly heading two four zero.
+dca_d2_2 1 1>N29A>D2-2 2472.190 2473.880 Two four zero, Two Nine Alpha.
+dca_d2_2 1 1>D2-2>N29A 2481.880 2486.080 Aztec Two Nine Alpha, contact Washington Approach on one two four point two.
+dca_d2_2 1 2>N29A>D2-2 2486.690 2488.790 one twenty four point two, Two Nine Alpha.
+dca_d2_2 1 1>D2-2>N11PH 2520.540 2525.870 Cessna One Papa Hotel, position's er one mile west of NOTTINGHAM VORTAC, resume own navigation to Norfolk.
+dca_d2_2 1 1>N11PH>D2-2 2526.190 2527.320 Wilco, One Papa Hotel.
+dca_d2_2 1 1>N71H>D2-2 2582.960 2583.930 Departure, Lear Nine.
+dca_d2_2 1 1>N71H>D2-2 2585.130 2590.160 Departure, Lear Nine Seven One Hotel's with you, out of er one thousand eight hundred climbing to five thousand.
+dca_d2_2 1 2>D2-2>N71H 2590.510 2594.840 Lear Nine Seven One Hotel, Washington Departure, radar contact, climb and maintain niner thousand.
+dca_d2_2 1 2>N71H>D2-2 2595.350 2597.730 Niner thousand, Seven One Hotel.
+dca_d2_2 1 1>NWA1842>D2-2 2650.000 2652.870 Departure, Northwest Eighteen Forty Two, out of one point three.
+dca_d2_2 1 1>D2-2>NWA1842 2653.810 2658.280 Northwest Eighteen Forty Two, Washington Departure, radar contact, climb and maintain niner thousand.
+dca_d2_2 1 1>NWA1842>D2-2 2658.640 2660.240 Niner thousand, Eighteen Forty Two.
+dca_d2_2 1 1>D2-2>N71H 2684.950 2689.050 Lear Nine Seven One Hotel, turn right heading one four zero, climb and maintain one seven thousand.
+dca_d2_2 1 2>N71H>D2-2 2689.410 2695.480 Climbing to one four, er i'm sorry, * turning right one four zero and the altitude.
+dca_d2_2 1 1>D2-2>N71H 2695.950 2698.720 Altitude one seven thousand, One Seven Hotel.
+dca_d2_2 1 1>D2-2>HNA4545 2713.830 2716.670 Henson Forty Five Forty Five, Washington Departure, radar contact.
+dca_d2_2 1 1>HNA4545>D2-2 2717.360 2717.700 Thank you.
+dca_d2_2 1 1>D2-2>HNA4545 2730.250 2736.390 Henson Forty Five Forty Five, intercept Victor two sixty five, er northbound, climb and maintain four thousand.
+dca_d2_2 1 1>HNA4545>D2-2 2737.080 2740.860 Okay, four thousand, Victor two sixty five, northbound, Forty Five Forty Five.
+dca_d2_2 1 1>D2-2>NWA1842 2765.050 2770.150 Northwest Eighteen Forty Two, turn right heading zero seven zero, intercept the KENTON two seven one radial SWANN.
+dca_d2_2 1 2>NWA1842>D2-2 2771.070 2773.800 Zero seven zero, join up, Northwest Eighteen Forty Two.
+dca_d2_2 1 1>VENUS81>D2-2 2775.850 2779.790 Departure Venus Eight One, out of one thousand three hundred for three thousand, runway heading.
+dca_d2_2 1 1>D2-2>VENUS81 2780.120 2785.460 Venus Eight One, Washington Departure, radar contact, V F R traffic ten o'clock, two miles, southwestbound, altitude unknown.
+dca_d2_2 1 1>VENUS81>D2-2 2786.600 2788.290 Venus Eight One, negative contact.
+dca_d2_2 1 3>N14QS>D2-2 2790.340 2793.820 Citation Two One Four Quebec Sierra, one point eight for five thousand.
+dca_d2_2 1 1>D2-2>N14QS 2793.820 2798.220 Citation Four Quebec Sierra, Washington Departure, radar contact, climb and maintain niner thousand.
+dca_d2_2 1 1>N14QS>D2-2 2798.620 2799.850 Nine thousand, Four Quebec Sierra.
+dca_d2_2 1 2>D2-2>N71H 2803.190 2806.640 Lear Seven One Hotel, cleared direct NOTTINGHAM, join J sixty one on course.
+dca_d2_2 1 2>N71H>D2-2 2807.290 2808.620 Seventy One Hotel, thank you.
+dca_d2_2 1 1>D2-2>NWA1842 2808.940 2813.160 Northwest Eighteen Forty Two, climb and maintain one seven thousand, expedite climb through one four thousand.
+dca_d2_2 1 2>NWA1842>D2-2 2813.840 2818.380 Up to one seven thousand, expedite through one four thousand, Northwest Eighteen Forty Two.
+dca_d2_2 1 1>D2-2>NWA1842 2818.890 2819.510 Thank you.
+dca_d2_2 1 1>D2-2>VENUS81 2821.330 2826.930 Venus Eight One, V F R traffic no longer a factor, turn left heading three five zero, climb and maintain er three thousand.
+dca_d2_2 1 1>VENUS81>D2-2 2827.500 2831.310 Left to three five zero, up to fi, * er five thousand for er Venus Eight One.
+dca_d2_2 1 1>VENUS81>D2-2 2833.710 2835.880 And was that five thousand for Venus Eight One?
+dca_d2_2 1 1>D2-2>VENUS81 2835.880 2837.420 Er no sir, three thousand.
+dca_d2_2 1 1>VENUS81>D2-2 2837.420 2838.740 Three thousand, Venus Eight One.
+dca_d2_2 1 1>D2-2>VENUS81 2839.260 2839.890 Thank you.
+dca_d2_2 1 1>USA1248>D2-2 2848.790 2852.290 Departure, U S Air Twelve Forty Eight is with you, out of one thousand for five thousand.
+dca_d2_2 1 1>D2-2>HNA4545 2867.140 2872.240 Henson Forty Five Forty Five, turn left heading three three zero, this be vectors to join Victor two fourteen.
+dca_d2_2 1 1>HNA4545>D2-2 2872.800 2875.700 Okay three three zero, Forty Five Forty Five.
+dca_d2_2 1 1>D2-2>VENUS81 2875.700 2878.560 Venus Eight One, climb, * er proceed direct Westminister.
+dca_d2_2 1 2>VENUS81>D2-2 2879.630 2881.180 Venus Eight One, direct Westminister.
+dca_d2_2 1 1>D2-2>N11PH 2897.880 2902.120 One Papa Hotel, contact Patuxent Approach one two zero point zero five.
+dca_d2_2 1 2>N11PH>D2-2 2902.440 2904.050 One two zero zero five, One One Papa Hotel.
+dca_d2_2 1 1>D2-2>N14QS 2904.380 2909.250 November Two One Four Quebec Sierra, turn right heading zero seven zero, intercept the KENTON two seventy one radial SWANN.
+dca_d2_2 1 1>N14QS>D2-2 2909.690 2911.910 zero seven zero to join, er Four Quebec Sierra.
+dca_d2_2 1 1>D2-2>N71H 2912.210 2916.100 Lear Seven One Hotel, contact Washington Center one three three point niner, good day.
+dca_d2_2 1 3>N71H>D2-2 2916.530 2918.760 Thirty three nine, good day, Seven One Hotel.
+dca_d2_2 1 2>N80SC>D2-2 2918.760 2921.670 Two Eighty Sierra Charlie out of thirteen hundred for two.
+dca_d2_2 1 1>N80SC>D2-2 2924.070 2926.490 Two Eighty Sierra Charlie out of thirteen hundred for two.
+dca_d2_2 1 1>D2-2>N80SC 2926.810 2931.350 Two Eight Zero Sierra Charlie, Washington Departure, radar contact, intercept Victor two sixty five on course.
+dca_d2_2 1 1>N80SC>D2-2 2931.670 2932.620 Eighty Sierra Charlie.
+dca_d2_2 1 1>D2-2>HNA4545 2933.020 2935.790 Henson Forty Five Forty Five, climb and maintain five thousand.
+dca_d2_2 1 2>HNA4545>D2-2 2936.260 2938.000 Out of four for five, Forty Five Forty Five.
+dca_d2_2 1 1>D2-2>VENUS81 2938.000 2940.150 Venus Eight One, climb and maintain five thousand.
+dca_d2_2 1 1>VENUS81>D2-2 2940.450 2942.740 Out of three for five thousand, Venus Eight One.
+dca_d2_2 1 1>D2-2>VENUS81 2943.060 2946.580 Venus Eight One, contact Baltimore Approach one two eight point seven, good day.
+dca_d2_2 1 1>VENUS81>D2-2 2946.580 2947.540 Twenty eight seven.
+dca_d2_2 1 1>D2-2>N14QS 2948.030 2951.870 November Two One Four Quebec Sierra, climb and maintain one seven thousand.
+dca_d2_2 1 2>N14QS>D2-2 2952.290 2953.690 One seven thousand, Four Quebec Sierra.
+dca_d2_2 1 1>MAC152>D2-2 2954.710 2956.860 MAC Six Zero One Five Two, level three thousand.
+dca_d2_2 1 1>D2-2>MAC152 2956.860 2962.970 MAC Six Zero One Five Two Heavy, Washington Departure, radar contact three northeast of Andrews, turn right, proceed direct to NOTTINGHAM.
+dca_d2_2 1 1>MAC152>D2-2 2962.970 2965.190 Right direct NOTTINGHAM, Six Zero One Five Two.
+dca_d2_2 1 1>D2-2>HNA4545 2990.580 2994.480 Henson Forty Five Forty Five, contact Baltimore Approach one two eight point seven.
+dca_d2_2 1 1>HNA4545>D2-2 2995.340 2996.320 Twenty eight seven, so long.
+dca_d2_2 1 3>USA1248>D2-2 2998.480 3000.010 Got higher for U S Air Twelve Forty Eight.
+dca_d2_2 1 1>D2-2>USA1248 3001.070 3004.200 Er U S Air Twelve Forty Eight, climb and maintain niner thousand.
+dca_d2_2 1 1>USA1248>D2-2 3005.010 3006.830 Niner thousand, U S Air Twelve Forty Eight.
+dca_d2_2 1 1>D2-2>NWA1842 3029.070 3033.710 Northwest Eighteen Forty Two, contact Washington Center one three four point five, thanks for the climb.
+dca_d2_2 1 2>NWA1842>D2-2 3034.310 3036.010 Thirty four five, so long now.
+dca_d2_2 1 1>D2-2>N80SC 3036.930 3039.980 November Two Eight Zero Sierra Charlie, climb and maintain five thousand.
+dca_d2_2 1 2>N80SC>D2-2 3040.340 3042.370 Climbing to five thousand, Two Eighty Sierra Charlie.
+dca_d2_2 1 1>D2-2>N14QS 3044.530 3047.510 Citation Four Quebec Sierra, what's your indicated speed?
+dca_d2_2 1 1>N14QS>D2-2 3047.950 3049.620 Quebec Sierra, two five zero.
+dca_d2_2 1 1>D2-2>N14QS 3049.620 3053.130 Four Quebec Sierra, contact Washington Center one three four point five. Good day.
+dca_d2_2 1 1>N14QS>D2-2 3053.420 3054.510 Thirty four five, good day.
+dca_d2_2 1 1>D2-2>USA1248 3054.880 3057.290 U S Air Twelve Forty Eight, turn right heading one three zero.
+dca_d2_2 1 1>USA1248>D2-2 3058.070 3059.880 Right to one thirty, U S Air Twelve Forty Eight.
+dca_d2_2 1 2>COA316>D2-2 3074.500 3076.850 Departure, Continental Three Sixteen is out of a thousand feet.
+dca_d2_2 1 1>D2-2>COA316 3077.560 3080.220 Continental Three Sixteen, Washington Departure, radar contact.
+dca_d2_2 1 2>MAC152>D2-2 3112.750 3117.070 Departure, er from MAC Six Zero One Five Two, what do you want us to do after NOTTINGHAM?
+dca_d2_2 1 1>D2-2>MAC152 3118.450 3121.350 MAC Six Zero One Five Two, join J sixty one, flight plan route.
+dca_d2_2 1 2>MAC152>D2-2 3121.920 3124.640 Join Jet sixty one flight plan route, maintaining three.
+dca_d2_2 1 1>D2-2>USA1248 3127.000 3131.130 U S Air Twelve Forty Eight, climb and maintain one seven thousand, do not exceed two hundred and fifty knots.
+dca_d2_2 1 1>USA1248>D2-2 3131.720 3136.580 One seven thousand, two hundred and fifty restricted, U S Air Fourteen, correction, Twelve Forty Eight.
+dca_d2_2 1 1>N14QS>D2-2 3137.500 3139.730 Citation er Four Quebec er, disregard.
+dca_d2_2 1 1>D2-2>N80SC 3140.930 3145.160 King Air Zero Sierra Charlie, contact Baltimore Approach one two eight point seven, good day.
+dca_d2_2 1 2>N80SC>D2-2 3145.160 3147.080 Twenty eight seven, Eighty Sierra Charlie, so long.
+dca_d2_2 1 1>D2-2>MAC152 3150.400 3153.780 MAC Six Zero One Five Two Heavy, climb and maintain one seven thousand.
+dca_d2_2 1 1>MAC152>D2-2 3153.780 3155.890 Up to one seven thousand, MAC Six Zero One Five Two.
+dca_d2_2 1 1>D2-2>USA1248 3184.190 3190.530 U S Air Twelve Forty Eight, join the KENTON two seven one radial, resume own navigation, climb and maintain flight level two three zero.
+dca_d2_2 1 1>USA1248>D2-2 3191.490 3194.440 Join the two seventy one, two three zero, U S Air Twelve Forty Eight.
+dca_d2_2 1 1>D2-2>COA316 3206.160 3210.900 Continental Three Sixteen, climb and maintain niner thousand, turn right heading one two zero.
+dca_d2_2 1 2>COA316>D2-2 3210.900 3213.760 Er niner thousand, right to one twenty, Continental Three Sixteen.
+dca_d2_2 1 1>D2-2>USA1248 3214.250 3218.200 U S Air Twelve Forty Eight, contact Washington Center one three four point five, good day.
+dca_d2_2 1 1>USA1248>D2-2 3218.750 3220.870 Thirty four and a half, we'll see you now, U S Air Twelve Forty Eight.
+dca_d2_2 1 1>D2-2>MAC152 3223.900 3227.690 MAC One Five Two Heavy, contact Washington Center one three three point niner.
+dca_d2_2 1 1>MAC152>D2-2 3228.080 3230.180 Thirty three niner for Five One Five Two, good day.
+dca_d2_2 1 1>HNA4428>D2-2 3234.360 3238.370 Departure, Henson Forty Four Twenty Eight is with you, out of six hundred for two thousand.
+dca_d2_2 1 1>D2-2>HNA4428 3238.840 3247.490 Henson Forty Four Twenty Eight, Washington Departure, radar contact, traffic at one o'clock, five miles, opposite direction, descending to three thousand, is a er Merlin.
+dca_d2_2 1 1>HNA4428>D2-2 3248.620 3252.160 Er yes sir, we have him in sight, Henson Forty Four Twenty Eight.
+dca_d2_2 1 1>D2-2>HNA4428 3252.160 3252.790 Thank you.
+dca_d2_2 1 1>D2-2>COA316 3265.160 3268.300 Continental Three Sixteen, climb and maintain one seven thousand.
+dca_d2_2 1 2>COA316>D2-2 3268.300 3270.720 Climb to one seven thousand, Continental Three Sixteen.
+dca_d2_2 1 1>TPS6480>D2-2 3279.900 3282.450 Departure, Trump Sixty Four Eighty at nine hundred feet.
+dca_d2_2 1 1>D2-2>TPS6480 3282.850 3286.870 Trump Sixty Four Eighty, Washington Departure, radar contact, climb and maintain niner thousand.
+dca_d2_2 1 2>TPS6480>D2-2 3287.490 3289.720 Climbing nine thousand, Trump Sixty Four Eighty.
+dca_d2_2 1 1>D2-2>HNA4428 3301.770 3309.020 Henson Forty Four Twenty Eight, climb and maintain four thousand. Additional traffic, twelve to eleven o'clock, five miles, southwestbound at five.
+dca_d2_2 1 1>HNA4428>D2-2 3309.690 3314.580 Looking for the other piece, and we're going up to er four thousand, Forty Four Twenty Eight, we have him in sight.
+dca_d2_2 1 1>D2-2>HNA4428 3314.580 3315.190 Thank you.
+dca_d2_2 1 1>D2-2>COA316 3319.140 3323.700 Continental Three Sixteen, intercept the ARMEL zero nine one radial, PALEO, resume own navigation.
+dca_d2_2 1 2>COA316>D2-2 3323.700 3326.830 Intercept the ARMEL zero nine one on course, Continental Three Sixteen.
+dca_d2_2 1 1>D2-2>COA316 3356.420 3360.720 Continental Three Sixteen, contact Washington Center one three four point five, good day.
+dca_d2_2 1 1>COA316>D2-2 3360.720 3363.000 Thirty four five, Continental Three Sixteen, so long.
+dca_d2_2 1 1>D2-2>HNA4428 3371.030 3376.450 Henson Forty Four Twenty Eight, turn right heading zero eight zero, climb and maintain seven thousand.
+dca_d2_2 1 1>HNA4428>D2-2 3376.810 3379.140 Zero eight zero up to seven, Forty Four Twenty Eight.
+dca_d2_2 1 2>HNA4510>D2-2 3380.310 3382.810 And Henson Forty Five Ten with you, we're leveling two.
+dca_d2_2 1 1>D2-2>HNA4510 3386.810 3389.740 Henson Forty Five Ten, Washington Departure, roger, radar contact.
+dca_d2_2 1 1>D2-2>HNA4510 3406.880 3413.380 Henson Forty Five Ten, climb and maintain three thousand. Company traffic one o'clock, two and a half miles eastbound, out of thirty five hundred, climbing.
+dca_d2_2 1 2>HNA4510>D2-2 3414.060 3417.830 Henson Forty Five Ten, roger, we're climbing to three, we have the traffic in sight.
+dca_d2_2 1 1>D2-2>HNA4510 3418.190 3418.860 Okay.
+dca_d2_2 1 1>D2-2>HNA4428 3420.600 3426.270 Henson Forty Four Twenty Eight, turn right heading one zero zero, intercept the Andrews zero six seven radial to PALEO.
+dca_d2_2 1 1>HNA4428>D2-2 3426.670 3430.520 One zero zero, intercept the radial, and go to PALEO, Henson Forty Four Twenty Eight.
+dca_d2_2 1 1>D2-2>TPS6480 3430.940 3435.080 Trump Sixty Four Eighty, turn right heading zero eight zero, intercept the KENTON two seventy one radial, SWANN.
+dca_d2_2 1 1>TPS6480>D2-2 3435.850 3439.150 Heading zero eight zero, and intercept KENTON radial, Trump Sixty Four Eighty.
+dca_d2_2 1 2>USA1972>D2-2 3446.380 3449.010 U S Air Nineteen Seventy Two is with you, out of two for five.
+dca_d2_2 1 1>D2-2>USA1972 3449.500 3453.970 U S Air Nineteen Seventy Two, Washington Departure, radar contact, climb and maintain niner thousand.
+dca_d2_2 1 1>USA1972>D2-2 3453.970 3454.780 Nine thousand.
+dca_d2_2 1 1>D2-2>HNA4510 3461.260 3464.530 Henson Forty Five Ten, turn right heading one er four zero.
+dca_d2_2 1 1>HNA4510>D2-2 3464.940 3466.740 One four zero, Henson Forty Five Ten.
+dca_d2_2 1 1>D2-2>TPS6480 3472.120 3475.090 Trump Sixty Four Eighty, climb and maintain flight level one niner zero.
+dca_d2_2 1 1>TPS6480>D2-2 3475.950 3478.470 Climb to one niner zero, Trump Sixty Four Eighty.
+dca_d2_2 1 1>D2-2>HNA4428 3495.620 3499.990 Henson Forty Four Twenty Eight, contact Baltimore Approach one two four point five five, good day.
+dca_d2_2 1 2>HNA4428>D2-2 3499.990 3502.430 One twenty four fifty five, Forty Four Twenty Eight, so long.
+dca_d2_2 1 1>D2-2>USA1972 3541.870 3547.360 U S Air Nineteen Seventy Two, turn right heading zero seven zero, intercept the KENTON two seven one radial to SWANN.
+dca_d2_2 1 1>USA1972>D2-2 3547.770 3550.440 Zero seven zero for the intercept, U S Air Nineteen Seventy Two.
+dca_d2_2 1 1>D2-2>TPS6480 3551.090 3554.520 Trump Sixty Four Eighty, er what's your planned speed on climb out?
+dca_d2_2 1 1>TPS6480>D2-2 3558.590 3559.500 Three hundred knots.
+dca_d2_2 1 1>D2-2>TPS6480 3559.840 3563.610 Thank you, Trump Sixty Four Eighty. Contact Washington Center one three four point five.
+dca_d2_2 1 2>TPS6480>D2-2 3564.250 3565.980 One three four five, Trump Sixty Four Eighty.
+dca_d2_2 1 1>D2-2>USA1972 3566.610 3572.590 U S Air Nineteen Seventy Two, climb and maintain one zero thousand, do not exceed two hundred and eighty knots indicated in the climb.
+dca_d2_2 1 2>USA1972>D2-2 3573.050 3576.060 Er ten thousand, two hundred and eighty knots, U S Air Nineteen Seventy Two.
+dca_d2_2 1 1>D2-2>HNA4510 3582.270 3584.930 Henson Forty Five Ten, climb and maintain four thousand.
+dca_d2_2 1 1>HNA4510>D2-2 3585.340 3587.030 Four thousand, Henson Forty Five Ten.

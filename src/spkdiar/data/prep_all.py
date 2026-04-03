@@ -15,7 +15,8 @@ import argparse
 from pathlib import Path
 
 from spkdiar.data.make_rttm import write_rttm
-from spkdiar.data.make_manifest import make_full_manifest, make_windowed_manifest
+from spkdiar.data.make_manifest import (make_full_manifest,
+                                         make_windowed_manifest)
 from spkdiar.data.stm_parser import parse_stm_dir
 
 

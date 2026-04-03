@@ -1,0 +1,331 @@
+dfw_d1_1 1 1>D1-1>DAL802 14.700 19.200 Delta Eight Oh Two, Regional Departure, radar contact, climb and maintain one seven thousand.
+dfw_d1_1 1 1>D1-1>CAL1034 30.670 34.730 Continental Ten Thirty Four, contact Fort Worth Center on one three three point three.
+dfw_d1_1 1 2>CAL1034>D1-1 35.310 36.870 Thirty three three, so long.
+dfw_d1_1 1 3>D1-1>CAL734 37.830 38.370 Good day.
+dfw_d1_1 1 3>AAL1286>D1-1 55.100 59.420 Departure, this is American Twelve Eighty Six with you, er we're out er one point eight for ten.
+dfw_d1_1 1 1>D1-1>AAL1286 60.190 63.380 American Twelve Eighty Six, Regional Departure, radar contact.
+dfw_d1_1 1 3>AAL1286>D1-1 63.380 64.670 Roger, American Twelve Eighty Six.
+dfw_d1_1 1 1>D1-1>DAL802 66.500 68.930 Delta Eight Oh Two, fly heading of three five zero.
+dfw_d1_1 1 1>D1-1>AAL1286 115.560 118.270 American Twelve Eighty Six, turn right heading zero seven zero.
+dfw_d1_1 1 1>AAL1286>D1-1 118.730 120.710 Right zero seven zero, American Twelve Eighty Six.
+dfw_d1_1 1 1>D1-1>DAL802 152.810 155.010 Delta Eight Oh Two, fly heading zero one zero.
+dfw_d1_1 1 1>D1-1>DAL802 180.290 184.590 Delta Eight Oh Two, contact Fort Worth Center one three four point one five.
+dfw_d1_1 1 2>D1-1>DAL802 187.090 187.650 Good day.
+dfw_d1_1 1 1>D1-1>AAL1286 191.600 196.620 American Twelve Eighty Six, turn right to one zero zero, join the D F W zero seven eight radial, resume own navigation.
+dfw_d1_1 1 3>AAL1286>D1-1 196.620 199.670 One zero zero, join the zero seven eight, resume own nav.
+dfw_d1_1 1 2>SWA34>D1-1 247.880 252.160 Departure, good afternoon, Southwest Thirty Four, one thousand five hundred for five thousand.
+dfw_d1_1 1 1>D1-1>SWA34 253.680 256.930 Southwest Thirty Four, Regional Departure, radar contact.
+dfw_d1_1 1 1>D1-1>SWA34 266.450 269.690 Southwest Thirty Four, climb and maintain eight thousand, fly runway heading.
+dfw_d1_1 1 1>SWA34>D1-1 270.310 273.410 Southwest Thirty Four, eight thousand feet, runway heading.
+dfw_d1_1 1 1>D1-1>AAL1286 279.620 285.430 American Twelve Eighty Six, climb and maintain one seven thousand, contact Fort Worth Center one three two point eight five.
+dfw_d1_1 1 2>AAL1286>D1-1 285.860 289.020 Up to one zero thousand, thirty two eighty five, American Twelve Eighty Six, so long.
+dfw_d1_1 1 3>D1-1>AAL1286 290.280 291.060 So long.
+dfw_d1_1 1 1>D1-1>SWA34 301.390 305.340 Southwest Thirty Four, contact Approach one two four point two five.
+dfw_d1_1 1 1>SWA34>D1-1 306.930 309.560 Okay, twenty four twenty five, Southwest Thirty Four, so long.
+dfw_d1_1 1 1>D1-1>SWA34 309.560 310.150 Good day.
+dfw_d1_1 1 2>SWA337>D1-1 382.980 387.110 Regional, Southwest Three Thirty Seven with you, passing er nineteen hundred, climbing to five thousand.
+dfw_d1_1 1 1>D1-1>SWA337 388.000 396.970 Southwest Three Thirty Seven, Regional Departure, radar contact, climb and maintain eight thousand, expedite your climb leaving four thousand five hundred, turn right heading zero six zero.
+dfw_d1_1 1 1>SWA337>D1-1 397.490 402.170 Okay, up to eight thousand, er leaving four thousand five hundred, right to zero six zero, Southwest Three Thirty Seven.
+dfw_d1_1 1 1>D1-1>SWA337 434.870 440.480 Southwest Three Thirty Seven, start your right turn now, heading zero er niner zero, and join the D F W zero six seven radial.
+dfw_d1_1 1 1>SWA337>D1-1 440.480 443.690 Zero nine zero for the D F W zero six seven, Southwest Three Thirty Seven.
+dfw_d1_1 1 1>D1-1>SWA337 460.620 463.840 Southwest Three Thirty Seven, climb and maintain one seven thousand.
+dfw_d1_1 1 1>SWA337>D1-1 464.200 466.480 Okay, one seven thousand, Southwest Three Thirty Seven.
+dfw_d1_1 1 3>SWA37>D1-1 499.700 503.340 Departure, Southwest Thirty Seven, one point five for five thousand.
+dfw_d1_1 1 1>D1-1>SWA37 503.340 510.950 Southwest Thirty Seven, Regional Departure, radar contact, climb and maintain eight thousand, expedite your climb leaving four thousand five hundred, turn right heading zero niner zero.
+dfw_d1_1 1 2>SWA37>D1-1 512.250 517.250 Out of four thousand five hundred, heading zero niner zero, we're cleared to eight thousand, Southwest Thirty Seven.
+dfw_d1_1 1 3>USA1127>D1-1 538.520 540.640 Departure, U S Air Eleven Twenty Seven is with you.
+dfw_d1_1 1 1>D1-1>USA1127 543.730 544.900 I missed the call.
+dfw_d1_1 1 1>USA1127>D1-1 545.240 549.080 U S Air Eleven Twenty Seven is with you, we're out of twenty five hundred for ten.
+dfw_d1_1 1 1>D1-1>USA1127 549.080 551.910 U S Air Eleven Twenty Seven, Regional Departure, radar contact.
+dfw_d1_1 1 1>D1-1>SWA37 572.830 577.760 Southwest Thirty Seven, turn right heading one two zero, climb and maintain one seven thousand.
+dfw_d1_1 1 2>SWA37>D1-1 578.620 582.240 Heading one two zero, cleared to one seven thousand, Southwest Thirty Seven.
+dfw_d1_1 1 1>D1-1>USA1127 589.160 592.170 U S Air Eleven Twenty Seven, turn right heading zero eight zero.
+dfw_d1_1 1 1>USA1127>D1-1 592.870 595.790 Er right to zero eight zero, U S Air Eleven Twenty Seven.
+dfw_d1_1 1 1>D1-1>SWA37 625.030 628.280 Southwest Thirty Seven, turn right heading one seven zero.
+dfw_d1_1 1 3>SWA37>D1-1 628.600 631.350 Right heading one seven zero, Southwest Thirty Seven.
+dfw_d1_1 1 1>D1-1>SWA337 635.230 639.850 Southwest Three Thirty Seven, Three Thirty Seven, contact Fort Worth Center one three two point eight five.
+dfw_d1_1 1 2>SWA337>D1-1 640.250 642.640 Thirty two eighty five, Southwest Three Thirty Seven, so long.
+dfw_d1_1 1 1>D1-1>SWA337 642.640 643.280 So long.
+dfw_d1_1 1 1>D1-1>USA1127 643.280 647.370 U S Air Eleven Twenty Seven, turn right one zero zero, join the D F W zero seven eight.
+dfw_d1_1 1 1>USA1127>D1-1 649.210 654.720 Er zero seven eight radial on a hundred degree heading, U S Air Eleven Seven, Eleven * Twenty Seven.
+dfw_d1_1 1 1>D1-1>SPADE04 658.720 663.460 Spade Zero Four, Regional Departure, roger, radar contact, say altitude leaving.
+dfw_d1_1 1 1>D1-1>SPADE04 671.010 672.750 Spade Zero Four, roger.
+dfw_d1_1 1 3>N58E>D1-1 696.470 701.940 Departure, Lear Five Five Eight Echo is with you, out of er seventeen hundred, going to er four thousand, runway heading.
+dfw_d1_1 1 1>D1-1>N58E 703.500 707.820 Lear Five Five Eight Echo, Regional Departure, radar contact.
+dfw_d1_1 1 1>D1-1>N58E 716.040 724.190 Lear Five Five Eight Echo, er climb and maintain one zero thousand, leaving four thousand five hundred, turn right heading of one eight zero.
+dfw_d1_1 1 2>N58E>D1-1 725.210 729.730 Okay, climb to one zero thousand, out of forty five, right turn to one eight zero, Five Five Eight Echo.
+dfw_d1_1 1 1>D1-1>SPADE04 730.610 733.500 Spade Zero Four, maintain four thousand for traffic.
+dfw_d1_1 1 1>D1-1>SWA37 744.860 748.280 Southwest Thirty Seven, contact Fort Worth Center one three three point three.
+dfw_d1_1 1 3>SWA37>D1-1 749.120 752.270 Thirty three three, Southwest Thirty Seven, good day.
+dfw_d1_1 1 2>USA1127>D1-1 756.210 758.480 U S Air Eleven Twenty Seven, level ten.
+dfw_d1_1 1 1>D1-1>USA1127 758.480 765.210 U S Air Eleven Twenty Seven, climb and maintain one seven thousand, contact Fort Worth Center on three two point eight five.
+dfw_d1_1 1 1>USA1127>D1-1 765.510 769.430 Thirty two eighty five and one seven thousand, Eleven Twenty Seven, good day.
+dfw_d1_1 1 1>D1-1>SPADE04 770.930 775.220 Spade Zero Four, climb and maintain one er zero thousand.
+dfw_d1_1 1 1>D1-1>SPADE04 787.130 792.610 Spade Zero Four, turn left heading three three zero, contact er Approach on one, correction.
+dfw_d1_1 1 1>D1-1>SPADE04 807.020 811.570 Spade Zero Four, contact Approach two two seven point eight, two two seven point eight.
+dfw_d1_1 1 1>D1-1>N58E 825.170 829.440 Lear Five Eight Echo, climb and maintain one seven thousand.
+dfw_d1_1 1 3>N58E>D1-1 829.440 832.870 One seven thousand hundred and one hundred and eighty degree heading, Five Five Eight Echo.
+dfw_d1_1 1 1>SWA39>D1-1 914.020 918.270 Departure, Southwest Thirty Nine, er one thousand seven hundred for five thousand.
+dfw_d1_1 1 1>D1-1>SWA39 923.830 932.850 Southwest Thirty Nine, Regional Departure, radar contact, climb and maintain er eight thousand, leaving four thousand five hundred, turn right to one two zero.
+dfw_d1_1 1 1>SWA39>D1-1 933.940 941.940 Out of four thousand five hundred, right to er one two zero, and cleared to eight thousand, Southwest er Thirty Nine.
+dfw_d1_1 1 1>D1-1>N58E 942.240 947.080 Lear Five Eight Echo, contact Fort Worth Center on one three three point three, fly heading one seven zero.
+dfw_d1_1 1 1>N58E>D1-1 947.570 949.520 Thirty three three, one seven zero, so long.
+dfw_d1_1 1 1>D1-1>N58E 949.520 949.990 Good night.
+dfw_d1_1 1 2>NWA1150>D1-1 950.320 952.670 Northwest Eleven Fifty, two point five for ten.
+dfw_d1_1 1 1>D1-1>NWA1150 953.050 956.250 Northwest Eleven Fifty, Regional Departure, radar contact.
+dfw_d1_1 1 1>D1-1>ALL 958.290 959.260 Who else calling.
+dfw_d1_1 1 1>D1-1>SWA39 994.390 998.920 Southwest er Thirty Nine, climb and maintain one seven thousand, turn right to one two zero.
+dfw_d1_1 1 1>SWA39>D1-1 1000.130 1004.690 Cleared to one seven thousand, and er right to one two zero, Southwest er Thirty Nine.
+dfw_d1_1 1 1>D1-1>NWA1150 1005.220 1009.840 Northwest Eleven Fifty, turn right heading zero nine zero, join the D F W zero six seven radial.
+dfw_d1_1 1 1>NWA1150>D1-1 1009.840 1013.160 Zero nine zero to join the zero six seven, Northwest Eleven Fifty.
+dfw_d1_1 1 2>SWA192>D1-1 1014.530 1016.880 Southwest One Ninety Two is with you, out of twenty one hundred.
+dfw_d1_1 1 1>D1-1>SWA192 1017.510 1024.900 Southwest One Ninety Two, Regional Departure, radar contact, fly runway heading, climb and maintain one zero thousand.
+dfw_d1_1 1 1>SWA192>D1-1 1025.200 1027.800 One zero thousand, runway heading, Southwest One Ninety Two.
+dfw_d1_1 1 1>D1-1>AAL520 1036.260 1039.100 American Five Twenty, Regional Departure, radar contact.
+dfw_d1_1 1 1>D1-1>SWA39 1047.280 1049.870 Southwest Thirty Nine, turn right heading one seven zero.
+dfw_d1_1 1 1>SWA39>D1-1 1051.560 1054.100 Right to one seven zero heading, Southwest Thirty Nine.
+dfw_d1_1 1 1>D1-1>SWA192 1063.640 1068.520 Southwest One Ninety Two, turn ten degrees to your right, expedite your climb through er one zero thousand.
+dfw_d1_1 1 2>SWA192>D1-1 1069.520 1073.730 Okay, ten to the right, and er we'll expedite the climb, Southwest One Ninety Two.
+dfw_d1_1 1 1>D1-1>AAL520 1076.000 1079.000 American Five Twenty, turn right heading zero two zero.
+dfw_d1_1 1 2>AAL597>D1-1 1090.490 1093.940 Departure, American Five Ninety Seven with you, out of two climbing to one zero thousand.
+dfw_d1_1 1 1>D1-1>AAL597 1095.420 1098.790 American Five Ninety Seven, Regional Departure, radar contact.
+dfw_d1_1 1 1>D1-1>SWA39 1099.920 1103.370 Southwest Thirty Nine, contact Fort Worth Center one three three point three.
+dfw_d1_1 1 1>SWA39>D1-1 1103.750 1105.080 Have a good day, Southwest Thirty Nine.
+dfw_d1_1 1 1>D1-1>SWA39 1105.450 1105.980 Good day.
+dfw_d1_1 1 2>NWA1150>D1-1 1114.710 1117.030 Northwest Eleven Fifty is level one zero thousand.
+dfw_d1_1 1 1>D1-1>NWA1150 1117.900 1125.130 Northwest Eleven Fifty, traffic ten o'clock and niner miles, southwestbound at one one thousand. I'll get you higher in about five miles.
+dfw_d1_1 1 1>NWA1150>D1-1 1125.590 1126.230 Okay.
+dfw_d1_1 1 2>D1-1>AAL597 1133.990 1137.960 American Five Ninety Seven, er maintain eight thousand for traffic.
+dfw_d1_1 1 1>AAL597>D1-1 1138.530 1140.990 Eight thousand feet for traffic, American Five Ninety Seven.
+dfw_d1_1 1 1>D1-1>SWA192 1144.170 1146.600 Southwest One Ninety Two, maintain one seven thousand.
+dfw_d1_1 1 1>SWA192>D1-1 1147.540 1149.620 One Ninety Two, one seven thousand.
+dfw_d1_1 1 2>SWA176>D1-1 1152.460 1155.650 Southwest One Seventy Six is out of seventeen hundred, climbing to five thousand.
+dfw_d1_1 1 1>D1-1>SWA176 1156.110 1162.140 Southwest One Seventy Six, Regional Departure, radar contact, fly runway heading, climb and maintain eight thousand.
+dfw_d1_1 1 1>SWA176>D1-1 1162.560 1165.770 Runway heading, climbing to eight thousand, Southwest er One Seven Six.
+dfw_d1_1 1 1>D1-1>AAL597 1165.770 1170.670 American Five Ninety Seven, turn right heading zero nine zero, climb maintain one zero thousand.
+dfw_d1_1 1 1>AAL597>D1-1 1170.670 1174.920 Okay, zero nine zero up to er one zero thousand, American er Five Ninety Seven.
+dfw_d1_1 1 1>D1-1>AAL520 1174.920 1178.100 American Five Twenty, climb maintain one seven thousand.
+dfw_d1_1 1 1>D1-1>SWA192 1181.800 1185.170 Southwest One Ninety Two, turn right heading three five zero.
+dfw_d1_1 1 1>SWA192>D1-1 1185.500 1187.660 Three five oh, Southwest One Ninety Two.
+dfw_d1_1 1 1>AAL183>D1-1 1190.360 1195.820 Regional Departure, American One Eighty Three with you, passing er sixteen hundred for ten.
+dfw_d1_1 1 1>D1-1>AAL183 1195.820 1199.070 American One Eighty Three, Regional Departure, radar contact.
+dfw_d1_1 1 1>D1-1>SWA176 1199.790 1207.470 Southwest One Seventy Six, expedite your climb through er five thousand, maintain eight thousand, correction, climb and maintain one zero thousand.
+dfw_d1_1 1 1>SWA176>D1-1 1207.830 1211.650 Okay, we'll expedite up through five and up to one zero thousand, Southwest er One Seventy Six.
+dfw_d1_1 1 1>D1-1>SWA192 1211.650 1215.480 Southwest One Ninety Two, contact Fort Worth Center one three four point one five.
+dfw_d1_1 1 1>SWA192>D1-1 1216.080 1218.240 Thirty four fifteen, One Ninety Two, good day.
+dfw_d1_1 1 1>D1-1>SWA192 1218.240 1218.680 Good day.
+dfw_d1_1 1 1>D1-1>NWA1150 1218.680 1224.310 Northwest Eleven Fifty, maintain one seven thousand, contact Fort Worth Center on one three two point eight five.
+dfw_d1_1 1 1>NWA1150>D1-1 1224.690 1228.280 Maintain one seven thousand, thirty two eighty five, Northwest Eleven Fifty.
+dfw_d1_1 1 1>D1-1>AAL520 1228.280 1233.840 American Five Twenty, maintain one seven thousand, contact Fort Worth Center one three four point one five.
+dfw_d1_1 1 1>D1-1>AAL520 1238.510 1238.900 Good day.
+dfw_d1_1 1 1>D1-1>AAL183 1238.900 1241.490 American One Eighty Three, maintain seven thousand.
+dfw_d1_1 1 1>UNK>D1-1 1241.490 1243.810 Passing twenty three hundred for five thousand.
+dfw_d1_1 1 1>D1-1>AAL183 1243.810 1246.510 American One Eighty Three, maintain seven thousand.
+dfw_d1_1 1 1>AAL183>D1-1 1246.510 1248.310 American One Eighty Three, seven thousand.
+dfw_d1_1 1 1>D1-1>SWA82 1248.610 1253.180 Southwest Eighty Two, Regional Departure, radar contact, climb maintain eight thousand.
+dfw_d1_1 1 1>SWA82>D1-1 1253.180 1255.260 Eight thousand, Southwest Eighty Two.
+dfw_d1_1 1 1>D1-1>AAL597 1255.260 1263.750 American Five Ninety Seven, turn right heading one two zero, traffic ten o'clock, five miles, southeastbound at one one thousand, * southwestbound at one one thousand.
+dfw_d1_1 1 2>AAL597>D1-1 1264.330 1267.450 Right to one two zero, looking for the traffic, American Five Ninety Seven.
+dfw_d1_1 1 1>D1-1>SWA176 1267.450 1270.800 Southwest One Seventy Six, turn right heading three four zero.
+dfw_d1_1 1 2>SWA176>D1-1 1271.240 1273.330 Heading three four zero, Southwest One Seventy Six.
+dfw_d1_1 1 1>D1-1>AAL183 1273.330 1279.340 American One Eighty Three, turn right heading zero niner zero, climb and maintain one zero thousand.
+dfw_d1_1 1 1>AAL183>D1-1 1279.340 1283.620 Zero nine zero, now cleared up to one zero thousand, American One Eighty Three.
+dfw_d1_1 1 1>D1-1>SWA82 1286.730 1293.040 Southwest Eighty Two, maintain eight thousand, turn right zero niner zero, join the D F W zero six seven radial.
+dfw_d1_1 1 1>SWA82>D1-1 1293.500 1298.290 Zero nine zero, eight thousand, join er D F W zero six seven, Southwest Eighty Two.
+dfw_d1_1 1 1>D1-1>SWA235 1304.290 1314.290 Southwest Two Thirty Five, Regional Departure, radar contact, climb and maintain eight thousand. Leaving four thousand five hundred, turn right heading one two zero, expedite your climb.
+dfw_d1_1 1 1>SWA235>D1-1 1316.030 1320.820 Roger, eight thousand, er through forty five, turn right to one two zero, Southwest Two Thirty Five.
+dfw_d1_1 1 1>D1-1>AAL597 1321.310 1328.430 American Five Ninety Seven, climb maintain one seven thousand, contact Fort Worth Center one three four point, er correction, one three two point eight five.
+dfw_d1_1 1 1>AAL597>D1-1 1329.210 1334.170 Okay, thirty two eighty five and up to one seven thousand, American Five Ninety Seven.
+dfw_d1_1 1 1>D1-1>AAL597 1334.170 1340.290 Okay sir, turn right to one eight zero, one eight zero, American Five Ninety Seven, Fort Worth Center one three three point three.
+dfw_d1_1 1 1>AAL597>D1-1 1342.900 1348.210 Thirty three three and er one eight zero on the heading, that's up to er one seven thousand, American Five Ninety Seven.
+dfw_d1_1 1 1>D1-1>AAL597 1348.210 1349.020 Affirmative.
+dfw_d1_1 1 1>D1-1>AAL183 1350.100 1354.990 American One Eighty Three, American One Eighty Three, maintain eight thousand for traffic.
+dfw_d1_1 1 1>AAL183>D1-1 1354.990 1358.040 American One Eighty Three, roger, leveling at eight now.
+dfw_d1_1 1 1>D1-1>SWA235 1358.730 1362.360 Southwest Two Thirty Five, climb maintain one zero thousand.
+dfw_d1_1 1 1>SWA235>D1-1 1363.430 1365.650 One zero thousand, Southwest Two Thirty Five.
+dfw_d1_1 1 1>D1-1>SWA82 1365.650 1370.390 Southwest Eighty Two, climb and maintain one er seven thousand, Southwest Eighty Two.
+dfw_d1_1 1 1>SWA82>D1-1 1370.870 1373.240 One seven thousand, Southwest Eighty Two.
+dfw_d1_1 1 1>D1-1>AAL183 1373.620 1381.710 American One Eighty Three, turn er right to a heading of one two zero, traffic two o'clock, seven miles, eastbound, climbing out of eight.
+dfw_d1_1 1 1>AAL183>D1-1 1382.310 1386.180 American One Eighty Three, turning to one twenty, and we have the traffic in sight.
+dfw_d1_1 1 2>N782>D1-1 1386.740 1390.620 Departure, Hawker Seven Seven Eight Two, two thousand eight hundred for five thousand.
+dfw_d1_1 1 1>D1-1>SWA176 1391.090 1397.410 Southwest One Seventy Six, maintain one seven thousand, heading three five zero, Fort Worth Center one three four point one five.
+dfw_d1_1 1 1>SWA176>D1-1 1397.980 1404.180 Okay, er one seven thousand, three four zero, and er thirty er four seven, * er fifteen.
+dfw_d1_1 1 1>D1-1>AAL183 1404.180 1409.930 American One Eighty Three, maintain visual separation with the traffic, climb and maintain one seven thousand.
+dfw_d1_1 1 1>AAL183>D1-1 1410.430 1414.440 Up to one seven thousand, maintain visual with the traffic, American One Eighty Three.
+dfw_d1_1 1 1>D1-1>SWA235 1415.200 1418.750 Southwest Er Two Thirty Five, turn right to one eight zero.
+dfw_d1_1 1 1>D1-1>SWA235 1424.940 1431.580 Southwest Two Thirty Five, turn right to one eight zero, tight turn, traffic ten o'clock, four miles, southeastbound, climbing out of eight.
+dfw_d1_1 1 1>SWA235>D1-1 1432.140 1434.840 Roger, coming tight to one eight zero, Southwest Two Thirty Five.
+dfw_d1_1 1 1>D1-1>AAL51 1434.840 1438.150 American Fifty One, radar contact, maintain one seven thousand.
+dfw_d1_1 1 1>D1-1>N782 1440.520 1444.020 Hawker Seven Eight Two, radar contact, say altitude leaving.
+dfw_d1_1 1 1>N782>D1-1 1444.020 1445.460 Four thousand six hundred.
+dfw_d1_1 1 1>D1-1>N782 1445.460 1451.170 Hawker Seven Eight Two, roger, climb and maintain eight thousand. Hawker Seven Eight Two, turn right heading zero nine zero.
+dfw_d1_1 1 1>N782>D1-1 1451.830 1454.880 Okay, cleared to eight thousand, and right to zero nine zero.
+dfw_d1_1 1 2>AAL1355>D1-1 1455.640 1459.130 Departure, American Thirteen Fifty Five, passing two point four for one zero thousand.
+dfw_d1_1 1 1>D1-1>SWA235 1460.720 1463.630 Southwest Two Thirty Five, turn right to one niner zero.
+dfw_d1_1 1 1>SWA235>D1-1 1463.970 1465.910 Right now one nine zero, we have traffic.
+dfw_d1_1 1 2>D1-1>SWA235 1465.910 1468.800 All right sir, he'll be no factor, he's back in behind you now.
+dfw_d1_1 1 1>D1-1>SWA82 1469.140 1472.600 Southwest Eighty Two, Fort Worth Center, one three two point eight five.
+dfw_d1_1 1 1>SWA82>D1-1 1472.900 1475.800 Thirty two eighty five, Southwest Eighty Two, good day.
+dfw_d1_1 1 1>D1-1>AAL1355 1475.800 1479.680 American Thirteen Fifty Five, Regional Departure, radar contact.
+dfw_d1_1 1 1>D1-1>SWA235 1481.140 1484.300 Southwest Two Thirty Five, maintain one seven thousand.
+dfw_d1_1 1 1>SWA235>D1-1 1485.990 1487.970 One seven thousand, Southwest Two Thirty Five.
+dfw_d1_1 1 1>SWA148>D1-1 1488.750 1492.610 Southwest One Forty Eight, three thousand four hundred climbing to five thousand.
+dfw_d1_1 1 1>D1-1>SWA148 1492.610 1497.500 Southwest One Forty Eight, Regional Departure, radar contact, fly runway heading, maintain eight thousand.
+dfw_d1_1 1 3>SWA148>D1-1 1497.500 1500.120 Runway heading, eight thousand, Southwest One Forty Eight.
+dfw_d1_1 1 1>D1-1>AAL183 1500.120 1504.580 American One Eighty Three, turn right now to one eight zero, maintain one seven thousand.
+dfw_d1_1 1 1>AAL183>D1-1 1504.580 1507.840 One eight zero, one seven thousand, American One Eighty Three.
+dfw_d1_1 1 1>D1-1>SWA148 1515.710 1519.560 Southwest One Forty Eight, contact Approach one two four point two five.
+dfw_d1_1 1 1>SWA148>D1-1 1520.890 1523.040 Twenty four twenty five, Southwest One Forty Eight.
+dfw_d1_1 1 1>D1-1>SWA1355 1524.160 1528.290 Southwest Thirteen Fifty Five, turn er right heading zero nine zero.
+dfw_d1_1 1 1>D1-1>AAL1355 1531.840 1535.000 American Thirteen Fifty Five, turn right zero nine zero.
+dfw_d1_1 1 1>AAL1355>D1-1 1535.000 1537.520 Right to zero niner zero for American Thirteen Fifty Five.
+dfw_d1_1 1 1>D1-1>N782 1537.520 1541.790 Hawker Seven Seven Eight Two, turn er right heading one five zero.
+dfw_d1_1 1 2>N782>D1-1 1541.790 1544.130 Right to one five zero, Seven Seven Eight Two.
+dfw_d1_1 1 2>D1-1>SWA235 1544.130 1548.740 Southwest Two Thirty Five, contact Fort Worth Center one three three point three, thanks for the help there.
+dfw_d1_1 1 1>SWA235>D1-1 1548.740 1551.600 Thirty three three, Southwest Two Thirty Five, so long.
+dfw_d1_1 1 1>SWA307>D1-1 1551.600 1554.530 Departure, Southwest Three Oh Seven, three thousand for five thousand.
+dfw_d1_1 1 1>D1-1>AAL423 1554.530 1560.760 American Four Twenty Three, Regional Departure, radar contact, climb and maintain one zero thousand.
+dfw_d1_1 1 1>D1-1>AAL51 1563.780 1567.550 American Fifty One, contact Fort Worth Center one three four point one five.
+dfw_d1_1 1 1>D1-1>SWA307 1570.270 1577.580 Southwest Three Oh Seven, er Regional Departure, radar contact, turn right heading zero niner zero, and climb maintain eight thousand.
+dfw_d1_1 1 2>SWA307>D1-1 1578.140 1581.910 Right to zero nine zero, climb to eight thousand, Southwest Three Oh Seven.
+dfw_d1_1 1 1>D1-1>AAL183 1582.330 1586.980 American One Eighty Three, contact Fort Worth Center on one three three point three.
+dfw_d1_1 1 1>AAL183>D1-1 1587.360 1590.620 One thirty three three, American er One Eighty Three.
+dfw_d1_1 1 1>D1-1>N782 1590.620 1596.590 Hawker Seven Eight Two, turn right heading one niner zero, and maintain one seven thousand.
+dfw_d1_1 1 2>N782>D1-1 1596.590 1601.100 Right to one nine zero, and er out of eight for one seven thousand, Seven Seven Eight Two.
+dfw_d1_1 1 1>D1-1>AAL1355 1601.620 1606.870 American Thirteen Fifty Five, traffic ten o'clock, six miles, southeastbound at one one thousand.
+dfw_d1_1 1 1>D1-1>AAL423 1609.440 1612.970 American Four Twenty Three, climb and maintain one seven thousand.
+dfw_d1_1 1 3>SWA165>D1-1 1615.800 1619.100 Departure, Southwest One Sixty Five, two point three for five.
+dfw_d1_1 1 1>D1-1>SWA165 1620.070 1630.740 Southwest One Sixty Five, Regional Departure, radar contact, climb and maintain eight thousand, leaving four thousand five hundred, turn right heading zero eight zero.
+dfw_d1_1 1 2>SWA165>D1-1 1631.520 1634.840 Zero eight zero, out of four point five, Southwest One Sixty Five, up to eight thousand.
+dfw_d1_1 1 1>D1-1>SWA165 1660.670 1665.550 Southwest One Sixty Five, fly heading of three five zero, and maintain eight thousand.
+dfw_d1_1 1 1>SWA165>D1-1 1666.180 1668.860 Three five zero, eight thousand, Southwest One Sixty Five.
+dfw_d1_1 1 1>D1-1>AAL1355 1668.860 1672.430 American Thirteen Fifty Five, turn right heading one eight zero.
+dfw_d1_1 1 2>AAL1355>D1-1 1672.430 1674.720 Right to one eight zero, American Thirteen Fifty Five.
+dfw_d1_1 1 1>D1-1>SWA307 1674.720 1678.430 Southwest Three Oh Seven, turn right heading one seven zero.
+dfw_d1_1 1 1>SWA307>D1-1 1678.430 1680.500 Right one seven zero, Southwest Three Oh Seven.
+dfw_d1_1 1 1>D1-1>SWA307 1680.500 1683.480 Southwest Three Oh Seven, climb maintain one seven thousand.
+dfw_d1_1 1 1>SWA307>D1-1 1683.480 1685.490 Out of eight for one seven thousand, Three Oh Seven.
+dfw_d1_1 1 1>D1-1>N782 1691.480 1697.330 Hawker Seven Eight Two, fly heading one seven zero now, contact Fort Worth Center on one three three point three.
+dfw_d1_1 1 2>N782>D1-1 1698.150 1701.680 Okay, Fort Worth Center one three three point three, and heading one seven zero.
+dfw_d1_1 1 1>D1-1>AAL1355 1702.370 1707.080 American Thirteen Fifty Five, turn er right heading of two zero zero.
+dfw_d1_1 1 1>AAL1355>D1-1 1707.520 1709.680 Right to two zero zero, American Thirteen Fifty Five.
+dfw_d1_1 1 1>D1-1>AAL1355 1718.020 1721.700 American Thirteen Fifty Five, climb maintain one seven thousand.
+dfw_d1_1 1 1>AAL1355>D1-1 1722.390 1725.630 Out of one zero thousand for one seven thousand, American Thirteen Fifty Five.
+dfw_d1_1 1 1>D1-1>SWA165 1725.630 1729.630 Southwest One Sixty Five, turn er right now, heading zero niner zero.
+dfw_d1_1 1 3>SWA165>D1-1 1729.990 1733.020 Zero nine zero, Southwest Eight Sixty, er One Sixty Five.
+dfw_d1_1 1 1>D1-1>SWA165 1735.400 1738.870 Southwest One Sixty Five, climb maintain one zero thousand.
+dfw_d1_1 1 2>SWA165>D1-1 1739.250 1741.530 Up to one zero thousand, Southwest One Sixty Five.
+dfw_d1_1 1 1>D1-1>AAL423 1741.530 1745.680 American Four Twenty Three, contact Fort Worth Center one three four point one five.
+dfw_d1_1 1 1>D1-1>AAL423 1748.720 1749.360 Good day.
+dfw_d1_1 1 1>D1-1>SWA307 1750.350 1754.370 Southwest Three Oh Seven, don't exceed two hundred and fifty knots for spacing.
+dfw_d1_1 1 1>SWA307>D1-1 1754.950 1756.920 Two fifty, Southwest Three Oh Seven.
+dfw_d1_1 1 2>D1-1>AAL1355 1761.560 1766.020 American Thirteen Fifty Five, turn right to two one zero for spacing.
+dfw_d1_1 1 1>AAL1355>D1-1 1766.020 1768.470 Right to two one zero, American Thirteen Fifty Five.
+dfw_d1_1 1 1>D1-1>SWA165 1782.730 1788.120 Southwest One Sixty Five, turn right heading one five zero, climb maintain one seven thousand.
+dfw_d1_1 1 3>SWA165>D1-1 1789.300 1792.850 Right to one fifty, one seven thousand, Southwest One Sixty Five.
+dfw_d1_1 1 1>D1-1>SWA307 1796.760 1802.240 Southwest Three Oh Seven, two hundred and fifty knots on the speed, contact Fort Worth Center one three three point three.
+dfw_d1_1 1 2>SWA307>D1-1 1803.210 1805.770 Two fifty, good day, Southwest Three Oh Seven.
+dfw_d1_1 1 1>D1-1>SWA307 1805.770 1806.430 Good day.
+dfw_d1_1 1 1>D1-1>AAL1153 1815.260 1818.070 American Eleven Fifty Three, Regional Departure, radar contact.
+dfw_d1_1 1 1>D1-1>AAL1355 1845.070 1849.710 American Thirteen Fifty Five, contact Fort Worth Center on one three three point three.
+dfw_d1_1 1 1>AAL1355>D1-1 1850.350 1852.980 Thirty three three for American Thirteen Fifty Five, good day.
+dfw_d1_1 1 1>D1-1>SWA165 1859.130 1862.850 Southwest One Sixty Five, turn right heading two one zero.
+dfw_d1_1 1 2>SWA165>D1-1 1862.850 1864.660 Two one zero, Southwest One Sixty Five.
+dfw_d1_1 1 1>D1-1>SWA165 1868.400 1872.500 Southwest One Sixty Five, contact Fort Worth Center on one three three point three.
+dfw_d1_1 1 2>SWA165>D1-1 1872.890 1874.170 Southwest One Sixty Five.
+dfw_d1_1 1 1>D1-1>AAL173 1910.890 1915.230 American One Seventy Three, contact Fort Worth Center on one three four point one five.
+dfw_d1_1 1 2>SWA884>D1-1 1962.420 1967.860 Departure, Southwest Eight Eighty Four, passing one thousand seven hundred for er five thousand.
+dfw_d1_1 1 1>D1-1>SWA884 1974.160 1978.020 Southwest Eight Eighty Four, Regional Departure, radar contact, fly runway heading.
+dfw_d1_1 1 2>SWA884>D1-1 1980.690 1982.890 Er say again that altitude, Southwest Eight Eighty Four.
+dfw_d1_1 1 1>D1-1>SWA884 1982.890 1987.500 Southwest Eight Eighty Four, fly runway heading, radar contact, climb maintain eight thousand.
+dfw_d1_1 1 2>SWA884>D1-1 1987.500 1989.880 Runway heading, eight thousand, Southwest Eight Eighty Four.
+dfw_d1_1 1 1>D1-1>SWA884 1991.500 1995.130 Southwest Eight Eighty Four, contact Approach one two four point two five.
+dfw_d1_1 1 1>SWA884>D1-1 1995.950 1998.470 Twenty four twenty five, Southwest Eight Eighty Four.
+dfw_d1_1 1 1>AAL539>D1-1 2018.420 2022.030 Departure, American Five Thirty Nine, two thousand for er one zero thousand.
+dfw_d1_1 1 1>D1-1>AAL539 2022.850 2026.080 American Five Thirty Nine, Regional Departure, radar contact.
+dfw_d1_1 1 1>D1-1>AAL539 2055.380 2058.120 American Five Thirty Nine, maintain six thousand.
+dfw_d1_1 1 1>AAL539>D1-1 2059.120 2061.050 Six thousand, American Five Thirty Nine.
+dfw_d1_1 1 1>D1-1>AAL539 2090.710 2096.190 American Five Thirty Nine, turn right heading zero niner zero, climb maintain one zero thousand.
+dfw_d1_1 1 1>AAL539>D1-1 2096.190 2099.960 Right to zero nine zero, one zero thousand, American Five Thirty Nine.
+dfw_d1_1 1 1>D1-1>AAL1319 2100.480 2103.750 American Thirteen Nineteen, Regional Departure, radar contact.
+dfw_d1_1 1 2>AAL383>D1-1 2147.660 2152.080 Afternoon Departure, American Three Eighty Three, twenty seven hundred for ten.
+dfw_d1_1 1 1>D1-1>AAL383 2155.240 2158.410 American Three Eighty Three, Regional Departure, radar contact.
+dfw_d1_1 1 1>D1-1>AAL1319 2159.510 2162.980 American Thirteen Nineteen, climb maintain one seven thousand.
+dfw_d1_1 1 1>D1-1>AAL539 2183.050 2190.350 American Five Thirty Nine, turn er right heading one two zero, and climb maintain one seven thousand, American Five Thirty Nine.
+dfw_d1_1 1 1>AAL539>D1-1 2190.950 2194.280 One two zero the heading, one seven thousand, American Five Thirty Nine.
+dfw_d1_1 1 1>D1-1>AAL383 2212.740 2215.770 American Three Eighty Three, turn right heading zero nine zero.
+dfw_d1_1 1 1>D1-1>AAL383 2216.110 2218.580 Right zero nine zero, American Three Eighty Three.
+dfw_d1_1 1 1>D1-1>AAL287 2236.080 2240.510 American Two Eighty Seven, Regional Departure, radar contact, climb maintain one seven thousand.
+dfw_d1_1 1 1>D1-1>AAL1319 2244.080 2248.530 American Thirteen Nineteen, contact Fort Worth Center on one three four point one five.
+dfw_d1_1 1 1>D1-1>AAL539 2253.170 2258.820 American Five Thirty Nine, turn right heading one niner zero, contact Fort Worth Center one three three point three.
+dfw_d1_1 1 1>AAL539>D1-1 2259.500 2262.960 One nine zero and all threes, American Five Thirty Nine.
+dfw_d1_1 1 1>D1-1>AAL383 2377.820 2383.340 American Three Eighty Three, turn right heading one niner zero, climb maintain one seven thousand.
+dfw_d1_1 1 2>AAL383>D1-1 2383.650 2387.300 Right one ninety, up to one seven thousand, American Three Eighty Three.
+dfw_d1_1 1 1>AAL867>D1-1 2387.830 2391.980 Departure, American Eight Sixty Seven, leaving four thousand for one zero thousand.
+dfw_d1_1 1 1>D1-1>AAL867 2393.480 2396.600 American Eight Sixty Seven, Regional Departure, radar contact.
+dfw_d1_1 1 1>D1-1>AAL287 2403.000 2406.940 American Two Eighty Seven, contact Fort Worth Center one three four point one five.
+dfw_d1_1 1 3>D1-1>AAL287 2409.510 2410.090 So long.
+dfw_d1_1 1 1>D1-1>AAL867 2424.360 2427.150 American Eight Sixty Seven, turn right heading zero nine zero.
+dfw_d1_1 1 1>AAL867>D1-1 2427.500 2430.200 Right zero nine zero, American Eight Sixty Seven.
+dfw_d1_1 1 1>D1-1>AAL383 2430.500 2435.850 American Three Eighty Three, fly heading of two zero zero, and contact Fort Worth Center one three three point three.
+dfw_d1_1 1 2>AAL383>D1-1 2436.340 2440.670 Thirty three three, er two hundred heading, American Three Eighty Three, good day.
+dfw_d1_1 1 1>D1-1>AAL383 2441.410 2442.160 Good day.
+dfw_d1_1 1 1>D1-1>AAL867 2467.920 2474.690 American Eight Sixty Seven, traffic twelve o'clock, three miles, southeastbound at one one thousand, he's southwestbound.
+dfw_d1_1 1 1>AAL867>D1-1 2474.690 2476.880 In sight, American Eight Sixty Seven.
+dfw_d1_1 1 1>AAL1088>D1-1 2492.120 2495.750 Departure, American Ten Eighty Eight, twenty two hundred for ten thousand.
+dfw_d1_1 1 1>D1-1>AAL1088 2496.270 2499.510 American Ten Eighty Eight, Regional Departure, radar contact.
+dfw_d1_1 1 1>D1-1>AAL867 2509.810 2515.760 American Eight Sixty Seven, turn right heading one four zero, and climb maintain one seven thousand.
+dfw_d1_1 1 1>AAL867>D1-1 2515.760 2519.780 One four zero and up to one seven thousand, American er Eight Sixty Seven.
+dfw_d1_1 1 1>D1-1>AAL1088 2537.440 2542.320 American Ten Eighty Eight, turn right heading zero six zero, correction, zero nine zero.
+dfw_d1_1 1 1>AAL1088>D1-1 2542.320 2545.100 Right turn zero nine zero, American Ten Eighty Eight.
+dfw_d1_1 1 1>D1-1>AAL867 2545.100 2552.080 American Eight Sixty Seven, turn er right heading of one niner zero, and contact Fort Worth Center one three three point three.
+dfw_d1_1 1 2>AAL867>D1-1 2552.470 2557.060 Right to one nine zero, one thirty three three, American Eight Sixty Seven, good day.
+dfw_d1_1 1 1>D1-1>AAL867 2557.060 2557.630 Good day.
+dfw_d1_1 1 1>D1-1>AAL1088 2626.890 2632.720 American Ten Eighty Eight, turn right to one zero zero, join the D F W zero seven eight radial, climb maintain one seven thousand.
+dfw_d1_1 1 1>AAL1088>D1-1 2633.190 2638.710 Up to one seven thousand, right turn a hundred degrees to the zero seven eight radial, American er Ten Eighty Eight.
+dfw_d1_1 1 1>D1-1>AAL719 2639.670 2644.740 American Seven Nineteen, Regional Departure, radar contact, climb maintain one seven thousand.
+dfw_d1_1 1 1>D1-1>AAL1088 2697.760 2702.720 American Ten Eighty Eight, maintain one seven thousand, contact Fort Worth Center one three two point eight five.
+dfw_d1_1 1 2>AAL1088>D1-1 2702.720 2705.650 Thirty two eighty five, wilco, American Ten Eighty Eighty Eight.
+dfw_d1_1 1 1>D1-1>TWA88 2708.970 2714.110 T W A Eight Eighty Eight, Regional Departure, radar contact, climb and maintain one seven thousand.
+dfw_d1_1 1 1>D1-1>AAL719 2717.890 2720.670 American Seven Nineteen, fly heading of three four zero.
+dfw_d1_1 1 1>D1-1>UNK 2829.220 2830.180 Yeah, we're here.
+dfw_d1_1 1 1>D1-1>AAL719 2832.950 2836.610 American Seven Nineteen, contact Fort Worth Center one three four point one five.
+dfw_d1_1 1 1>D1-1>AAL719 2839.970 2840.430 Good day.
+dfw_d1_1 1 1>D1-1>NWA404 2871.200 2876.680 Northwest Er Four Zero Four, Regional Departure, radar contact, climb maintain one seven thousand.
+dfw_d1_1 1 1>D1-1>TWA88 2882.370 2887.210 T W A Eighty Eight, fly heading zero two zero, contact Fort Worth Center one three four point one five.
+dfw_d1_1 1 1>D1-1>TWA88 2890.910 2891.930 Have a good trip.
+dfw_d1_1 1 1>AAL1179>D1-1 2943.260 2947.330 Departure, American Eleven Seventy Nine is out of er two thousand for ten thousand.
+dfw_d1_1 1 1>D1-1>AAL1179 2947.330 2950.990 American Eleven Seventy Nine, Regional Departure, radar contact.
+dfw_d1_1 1 1>D1-1>AAL1179 3007.750 3010.860 American Eleven Seventy Nine, turn right heading zero nine zero.
+dfw_d1_1 1 1>AAL1179>D1-1 3010.860 3013.380 Heading zero nine zero, American Eleven Seventy Nine.
+dfw_d1_1 1 1>D1-1>N0NB 3041.590 3043.150 Calling, say again.
+dfw_d1_1 1 2>N0NB>D1-1 3043.150 3047.930 Citation Seven Six Zero November Bravo is out of one thousand four hundred for five thousand.
+dfw_d1_1 1 1>D1-1>N0NB 3051.340 3054.240 November Seven Six Zero November Bravo, your number?
+dfw_d1_1 1 2>N0NB>D1-1 3054.840 3057.340 Affirmative, Seven Six Zero November Bravo.
+dfw_d1_1 1 1>D1-1>N0NB 3057.340 3067.300 Citation Seven Six Zero November Bravo, Regional Departure, radar contact, climb and maintain eight thousand. Leaving four thousand five hundred, turn right to one zero zero.
+dfw_d1_1 1 1>D1-1>AAL1179 3093.580 3099.660 American Eleven Twenty, er correction, Eleven Seventy Nine, turn right heading one eight zero, climb and maintain one seven thousand.
+dfw_d1_1 1 1>AAL1179>D1-1 3099.960 3103.070 Heading one eight zero, one seven thousand, American Eleven Seventy Nine.
+dfw_d1_1 1 2>AAL1595>D1-1 3127.330 3131.000 Regional Departure, American Fifteen Ninety Five, fifteen hundred for one zero thousand.
+dfw_d1_1 1 1>D1-1>AAL1595 3135.120 3138.900 American Fifteen Ninety Five, Regional Departure, radar contact.
+dfw_d1_1 1 1>D1-1>N0NB 3147.980 3153.660 Citation Zero November Bravo, fly heading zero niner zero and join the D F W zero seven eight radial.
+dfw_d1_1 1 2>N0NB>D1-1 3153.660 3155.950 Zero nine zero, join the zero seven eight.
+dfw_d1_1 1 1>D1-1>NWA404 3207.310 3210.490 Northwest Four Zero Four, contact Fort Worth Center one three four point one five.
+dfw_d1_1 1 1>D1-1>AAL1595 3213.600 3219.010 American Fifteen Ninety Five, turn right heading one two zero, climb maintain one seven thousand.
+dfw_d1_1 1 1>AAL1595>D1-1 3219.010 3223.370 Right turn one hundred and twenty degrees, one seven thousand, American Fifteen Ninety Five.
+dfw_d1_1 1 1>D1-1>N0NB 3224.430 3228.020 Citation Zero November Bravo, climb maintain one seven thousand.
+dfw_d1_1 1 2>N0NB>D1-1 3228.020 3232.350 One seven thousand, Eight November Bravo, * er Zero November Bravo.
+dfw_d1_1 1 1>D1-1>AAL1179 3238.850 3242.560 American Eleven Seventy Nine, contact Fort Worth Center one three three point three.
+dfw_d1_1 1 1>AAL1179>D1-1 3242.560 3245.920 Thirty three decimal three for American Eleven Seventy Nine, good day.
+dfw_d1_1 1 1>D1-1>AAL1595 3298.260 3302.240 American Fifteen Ninety Five, turn right heading one niner zero.
+dfw_d1_1 1 2>AAL1595>D1-1 3302.900 3305.710 One hundred and ninety degrees, American Fifteen Ninety Five.
+dfw_d1_1 1 1>D1-1>AAL1595 3446.030 3450.690 American Fifteen Ninety Five, contact Fort Worth Center on one er three three point three.
+dfw_d1_1 1 3>AAL1595>D1-1 3451.290 3453.950 Thirty three three, American Fifteen Ninety Five, good day.
+dfw_d1_1 1 3>SWA70>D1-1 3455.200 3457.980 Southwest Seventy is out of fifteen hundred feet for five thousand.
+dfw_d1_1 1 1>D1-1>SWA70 3459.940 3465.120 Southwest Seventy, Regional Departure, radar contact, fly runway heading, climb maintain eight thousand.
+dfw_d1_1 1 1>SWA70>D1-1 3465.540 3467.730 Runway heading, up to eight thousand, Southwest Seventy.
+dfw_d1_1 1 1>D1-1>SWA70 3480.090 3483.230 Southwest Seventy, contact Approach one two four point two five.
+dfw_d1_1 1 1>SWA70>D1-1 3483.610 3485.370 Twenty four twenty five, Southwest Seventy.
+dfw_d1_1 1 3>N0NB>D1-1 3553.870 3558.480 Departure, Citation Seven Six Zero November Bravo is level one seven thousand, looking for higher.
+dfw_d1_1 1 2>D1-1>N0NB 3558.480 3563.300 Citation Zero November Bravo, contact Fort Worth Center one three two point eight five. They'll get you a higher.
+dfw_d1_1 1 1>N0NB>D1-1 3563.300 3565.150 Thirty two eighty five, good day.
+dfw_d1_1 1 1>D1-1>N0NB 3565.150 3565.810 Good day.

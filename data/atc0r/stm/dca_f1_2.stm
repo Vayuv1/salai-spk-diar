@@ -1,0 +1,478 @@
+dca_f1_2 1 1>NWA238>F1-1 12.900 17.480 Approach, Northwest Two Thirty Eight's with you, er going to eight thousand, we got India.
+dca_f1_2 1 1>F1-1>NWA238 18.360 23.100 Northwest Two Thirty Eight, Washington Approach, depart ARMEL direct Washington, altimeter two niner niner eight.
+dca_f1_2 1 1>NWA238>F1-1 24.820 27.190 Two nine nine eight, ARMEL direct Washington.
+dca_f1_2 1 1>F1-1>USA122 46.220 53.160 U S Air One Twenty Two, one five miles south of OXONN, cross PISCA at two thousand five hundred or above, cleared I L S Runway Three Six approach.
+dca_f1_2 1 2>USA122>F1-1 54.020 59.010 Okay, PISCA at twenty five hundred or above, er cleared the Three Six approach, U S Air One Twenty Two.
+dca_f1_2 1 2>AAL1610>F1-1 72.180 75.400 Washington, American Sixteen Ten, about to level one zero thousand.
+dca_f1_2 1 1>F1-1>AAL1610 80.630 85.270 American Sixteen Ten, Washington Approach, depart OJAAY heading zero three zero, intercept the localizer.
+dca_f1_2 1 1>AAL1610>F1-1 85.680 87.450 Zero three zero off OJAAY.
+dca_f1_2 1 1>F1-1>TWA10 91.230 93.770 T W A Ten, expect about a twelve mile final.
+dca_f1_2 1 1>TWA10>F1-1 94.230 94.960 T W A Ten.
+dca_f1_2 1 1>F1-1>TWA10 116.860 119.500 T W A Ten, turn left heading one niner zero.
+dca_f1_2 1 1>TWA10>F1-1 119.500 121.000 Left to one ninety, T W A Ten.
+dca_f1_2 1 1>F1-1>TWA10 164.530 166.950 T W A Ten, turn left heading zero niner zero.
+dca_f1_2 1 1>TWA10>F1-1 167.420 168.580 Zero nine zero, T W A Ten.
+dca_f1_2 1 1>F1-1>AAL1610 181.410 184.610 American Sixteen Ten, descend and maintain four thousand.
+dca_f1_2 1 1>AAL1610>F1-1 185.060 188.160 Out of ten for four, and we're turning to zero three zero now.
+dca_f1_2 1 1>F1-1>AAL1610 188.510 189.720 American Sixteen Ten, thank you.
+dca_f1_2 1 1>F1-1>TWA10 189.720 192.590 T W A Ten, turn left heading zero five zero.
+dca_f1_2 1 1>TWA10>F1-1 193.130 194.580 Left to fifty, T W A Ten.
+dca_f1_2 1 1>F1-1>N29P 194.580 200.690 November Eight Two Two Niner Papa, Washington Approach, expect vectors to the localizer for the I L S approach, altimeter two niner niner eight.
+dca_f1_2 1 1>N29P>F1-1 201.460 203.420 Two niner niner eight, Two Nine Papa.
+dca_f1_2 1 1>F1-1>TWA10 213.390 223.060 T W A Ten, turn left heading zero three zero, and you're one, correction, seven miles from OXONN, maintain two thousand five hundred until established on the localizer, cleared I L S approach.
+dca_f1_2 1 1>TWA10>F1-1 223.440 224.850 Wilco, T W A Ten.
+dca_f1_2 1 1>F1-1>USA122 226.390 229.910 U S Air One Twenty Two, contact the Tower one one niner point one.
+dca_f1_2 1 1>USA122>F1-1 229.910 231.220 U S Air One Twenty Two, good night.
+dca_f1_2 1 1>F1-1>USA122 231.760 232.230 Good night.
+dca_f1_2 1 1>F1-1>NWA238 244.390 247.000 Northwest Two Thirty Eight, descend and maintain five thousand.
+dca_f1_2 1 1>NWA238>F1-1 247.630 249.530 Five thousand, Northwest Two Thirty Eight.
+dca_f1_2 1 1>F1-1>TWA10 287.960 291.200 T W A Ten, contact Tower one one niner point one.
+dca_f1_2 1 1>TWA10>F1-1 291.200 292.030 Nineteen one, so long.
+dca_f1_2 1 1>F1-1>AAL1610 295.640 301.950 American Sixteen Ten, two zero miles south of OXONN, cross PISCA at two thousand five hundred or above, cleared I L S approach.
+dca_f1_2 1 2>AAL1610>F1-1 303.100 308.020 PISCA at two thousand and five hundred or above, cleared I L S Three Six approach, American Sixteen Ten.
+dca_f1_2 1 1>NWA238>F1-1 311.510 313.810 Er, say the altitude for Northwest Two Thirty Eight?
+dca_f1_2 1 1>F1-1>NWA238 314.450 316.650 Two Thirty Eight Northwest, five thousand.
+dca_f1_2 1 1>NWA238>F1-1 316.960 317.950 Five thousand, thank you.
+dca_f1_2 1 1>F1-1>NWA238 329.720 332.640 Northwest Two Thirty Eight, turn right heading one niner zero.
+dca_f1_2 1 1>NWA238>F1-1 333.020 335.120 One nine zero, Northwest Two Thirty Eight.
+dca_f1_2 1 1>F1-1>NWA238 405.480 408.250 Northwest Two Thirty Eight, descend and maintain three thousand.
+dca_f1_2 1 1>NWA238>F1-1 408.660 411.390 Three thousand feet, Northwest er Two Thirty Eight.
+dca_f1_2 1 1>F1-1>NWA238 438.820 441.480 Northwest Two Thirty Eight, turn left heading one eight zero.
+dca_f1_2 1 1>NWA238>F1-1 442.210 444.260 One eight zero, Northwest Two Thirty Eight.
+dca_f1_2 1 3>F1-1>AAL1610 450.410 460.410 American Sixteen Ten, your traffic is er inside the Wilson Bridge, it means you're number one, and er no speed is necessary except at least one hundred and seventy knots until OXONN, you can go much faster if you like.
+dca_f1_2 1 1>AAL1610>F1-1 460.730 461.450 You got it.
+dca_f1_2 1 1>F1-1>NWA238 472.550 474.480 Northwest Two Thirty Eight, what is your speed?
+dca_f1_2 1 1>NWA238>F1-1 474.970 476.760 Er we're doing one seventy right now.
+dca_f1_2 1 1>F1-1>NWA238 476.760 478.160 All right, don't go below that.
+dca_f1_2 1 1>NWA238>F1-1 479.140 479.750 Okay.
+dca_f1_2 1 1>F1-1>N29P 514.370 517.460 November Two Niner Papa, at your discretion, maintain four thousand.
+dca_f1_2 1 1>N29P>F1-1 518.330 520.470 Out of six for four, Two Nine Papa.
+dca_f1_2 1 1>F1-1>AAL1610 538.860 542.490 American Sixteen Ten, contact the Tower one one niner point one. Good day.
+dca_f1_2 1 1>AAL1610>F1-1 542.490 543.360 Nineteen one, good day.
+dca_f1_2 1 1>F1-1>N29P 544.220 548.020 November er Two Niner Papa, fly heading zero three zero, intercept the localizer.
+dca_f1_2 1 1>N29P>F1-1 548.850 550.990 Zero three zero, Two Nine Papa.
+dca_f1_2 1 1>F1-1>NWA238 586.720 590.010 Northwest Two Thirty Eight, turn left heading zero niner zero.
+dca_f1_2 1 1>NWA238>F1-1 590.560 593.040 Zero nine zero, Northwest Two Thirty Eight.
+dca_f1_2 1 1>F1-1>NWA238 653.120 662.380 Northwest Two Thirty Eight, seven miles from OXONN, turn left heading zero three zero, and maintain two thousand five hundred till established on the localizer, cleared I L S Runway Three Six approach.
+dca_f1_2 1 1>NWA238>F1-1 663.390 669.540 Okay, zero three zero, twenty five hundred till established, er cleared for the approach, Northwest Two Thirty Eight.
+dca_f1_2 1 1>F1-1>NWA238 713.890 716.660 Northwest Two Thirty Eight, contact the Tower one one niner point one.
+dca_f1_2 1 1>NWA238>F1-1 717.220 719.420 One nineteen one, Two Thirty Eight, good night.
+dca_f1_2 1 1>F1-1>NWA238 720.560 721.080 Good night.
+dca_f1_2 1 3>DAL660>F1-1 814.320 817.220 Delta Six Sixty with you, nine and a half for eight, with Juliet.
+dca_f1_2 1 1>F1-1>DAL660 817.550 822.750 Delta Six Sixty, Washington Approach, depart ARMEL direct Washington, altimeter two niner niner seven.
+dca_f1_2 1 1>F1-1>N29P 826.960 833.510 Cherokee Two Niner Papa, keep your speed up as long as possible till OXONN, and er descend and maintain two thousand five hundred.
+dca_f1_2 1 1>N29P>F1-1 834.950 837.680 Out of four for twenty five hundred, Two Nine Papa.
+dca_f1_2 1 1>F1-1>N29P 912.840 914.630 November Two Niner Papa, say your airspeed.
+dca_f1_2 1 1>N29P>F1-1 916.030 918.460 Airspeed is a hundred and forty knots, Two Nine Papa.
+dca_f1_2 1 2>F1-1>N29P 918.460 918.950 Thank you.
+dca_f1_2 1 1>F1-1>N29P 934.130 942.400 November Two Niner Papa, one three miles from OXONN, cross PISCA at two thousand five hundred or above, cleared I L S Runway Three Six approach.
+dca_f1_2 1 1>N29P>F1-1 943.640 947.320 Cleared for the I L S Three Six approach, Two Nine Papa.
+dca_f1_2 1 1>F1-1>DAL660 1016.730 1019.430 Delta Six Sixty, descend and maintain five thousand.
+dca_f1_2 1 1>DAL660>F1-1 1020.040 1022.800 Delta Six Sixty, we're er out of eight for five thousand.
+dca_f1_2 1 1>F1-1>DAL660 1039.980 1042.360 Delta Six Sixty, turn right heading one five zero.
+dca_f1_2 1 1>DAL660>F1-1 1043.340 1045.170 Delta Six Sixty, right to one five zero.
+dca_f1_2 1 1>F1-1>N29P 1071.370 1075.480 November Two Niner Papa, I show you about a half mile right of the localizer, are you correcting to the left?
+dca_f1_2 1 1>N29P>F1-1 1076.130 1078.060 Affirmative, Two Nine Papa.
+dca_f1_2 1 1>F1-1>DAL660 1123.580 1127.600 Delta Six Sixty, turn right heading one niner zero, descend and maintain four thousand.
+dca_f1_2 1 1>DAL660>F1-1 1128.260 1131.060 Delta Six Sixty, right to one nine zero, and down to four thousand.
+dca_f1_2 1 1>F1-1>DAL660 1186.990 1195.960 Delta Six Sixty, you're number three for the airport, number one aircraft is at PISCA on a ten mile final. Unfortunately, he's a Cherokee, so you're going to be going about another er eight to ten miles for your base leg.
+dca_f1_2 1 1>DAL660>F1-1 1197.680 1199.140 Delta Six Sixty, thanks for the warning.
+dca_f1_2 1 1>F1-1>N29P 1212.060 1214.950 Cherokee Two Niner Papa, inside of OXONN, what speed will you be doing?
+dca_f1_2 1 1>N29P>F1-1 1216.700 1219.710 We'll try to keep it up around a hundred and twenty, Two Nine Papa.
+dca_f1_2 1 1>F1-1>N29P 1219.710 1226.850 Okay, just do whatever you can for us, sir, and er we're leaving plenty of room behind you for your er spacing. Contact the Tower one one niner point one, we'll see you later.
+dca_f1_2 1 1>N29P>F1-1 1227.310 1229.440 One one niner point one, Two Niner Papa.
+dca_f1_2 1 1>F1-1>DAL660 1264.130 1266.850 Delta Six Sixty, reduce speed to one seven zero knots.
+dca_f1_2 1 2>DAL660>F1-1 1268.660 1270.490 Delta Six Sixty, slowing to one seventy.
+dca_f1_2 1 1>F1-1>DAL660 1314.760 1318.980 Delta Six Sixty, turn left heading zero niner zero, descend and maintain two thousand five hundred.
+dca_f1_2 1 1>DAL660>F1-1 1319.890 1322.700 Delta Six Sixty, left to zero nine zero and two thousand five hundred.
+dca_f1_2 1 1>F1-1>DAL660 1362.170 1365.570 Delta Six Sixty, turn left heading zero three zero, intercept the localizer.
+dca_f1_2 1 1>DAL660>F1-1 1365.950 1368.130 Delta Six Sixty, left to zero three zero and intercept.
+dca_f1_2 1 1>DAL584>F1-1 1396.320 1400.130 Delta Five Eighty Four, descending to ten with Juliet, good evening.
+dca_f1_2 1 1>F1-1>DAL584 1402.960 1408.720 Delta Five Eighty Four, Washington Approach, fly heading zero three zero, intercept the localizer, altimeter two niner niner seven.
+dca_f1_2 1 2>DAL584>F1-1 1410.220 1413.380 Zero three zero and intercept the localizer, Delta Five Eighty Four.
+dca_f1_2 1 1>F1-1>DAL584 1420.650 1426.070 Delta Five Eighty Four, reduce speed to two one zero knots. If unable, advise, then descend and maintain four thousand.
+dca_f1_2 1 1>DAL584>F1-1 1426.570 1430.410 We're able two ten, then down to four, Delta Five Eighty Four.
+dca_f1_2 1 1>F1-1>DAL660 1435.170 1444.470 Delta Six Sixty, one zero miles south of OXONN, cross PISCA at two thousand five hundred or above, cleared I L S Runway Three Six approach, and maintain one seven zero knots till OXONN.
+dca_f1_2 1 1>DAL660>F1-1 1445.540 1452.230 Er, Delta Six Sixty, roger, two thousand five hundred over PISCA, one seventy till OXONN, cleared for the I L S Three Six approach.
+dca_f1_2 1 1>F1-1>DAL660 1508.220 1514.260 Delta Six Sixty, is er four and one half miles behind company aircraft ahead, contact the Tower one one niner point one.
+dca_f1_2 1 1>DAL660>F1-1 1515.200 1518.110 Er Delta Six Sixty, er going to the Tower nineteen one, good day.
+dca_f1_2 1 1>F1-1>DAL584 1643.160 1646.300 Delta Five Eighty Four, descend and maintain two thousand five hundred.
+dca_f1_2 1 1>DAL584>F1-1 1646.790 1648.580 Twenty five hundred, Delta Five Eighty Four.
+dca_f1_2 1 2>DAL584>F1-1 1773.950 1776.720 You still need er two hundred and ten knots on Delta Five Eighty Four?
+dca_f1_2 1 1>F1-1>DAL584 1776.720 1782.320 Er, you can slow, er start slowing if you'd like, Delta Five Eighty Four, but keep your speed at or above one seven zero knots until OXONN.
+dca_f1_2 1 2>DAL584>F1-1 1782.630 1785.720 That's perfect airspeed, we'll start slowing to a speed of one seventy.
+dca_f1_2 1 1>DAL584>F1-1 1824.730 1826.720 Is er Delta Five Eighty Four cleared the approach?
+dca_f1_2 1 1>F1-1>DAL584 1828.540 1832.520 Delta Five Eighty Four is cleared for the I L S approach, contact the Tower one one niner point one.
+dca_f1_2 1 1>DAL584>F1-1 1833.340 1836.510 Cleared for the I L S, nineteen one, thanks for the help.
+dca_f1_2 1 1>UAL624>F1-1 1951.120 1955.590 United Six Twenty Four is er with you, at er ten descending to eight.
+dca_f1_2 1 1>F1-1>UAL624 1957.100 1962.740 United Six Twenty Four, Washington Approach, depart ARMEL direct Washington, altimeter two niner niner seven, vectors I L S approach.
+dca_f1_2 1 1>UAL624>F1-1 1963.070 1964.840 Er roger, United Six Twenty Four.
+dca_f1_2 1 2>UAL624>F1-1 1970.810 1974.240 Six Twenty Four, er we're unable the ATIS, er what's the weather?
+dca_f1_2 1 1>F1-1>UAL624 1975.140 1991.320 Er they're probably putting, well I don't know if they are or not. The weather is niner hundred scattered, measured ceiling one thousand five hundred broken, two thousand five hundred overcast, visibility one zero, temperature five three, dew point five zero, wind er zero six zero at three, altimeter two niner niner seven.
+dca_f1_2 1 1>UAL624>F1-1 1992.330 1993.490 Six Twenty Four, thanks.
+dca_f1_2 1 2>AWE262>F1-1 2138.320 2143.780 Good evening, Washington Approach, Cactus Two Sixty Two out of ten three for eight thousand with Juliet.
+dca_f1_2 1 1>F1-1>AWE262 2144.230 2149.650 Cactus Two Sixty Two, Washington Approach, altimeter two niner niner seven, expect vectors I L S approach.
+dca_f1_2 1 2>AWE262>F1-1 2150.870 2151.740 Two Sixty Two, roger.
+dca_f1_2 1 1>F1-1>UAL624 2164.420 2167.120 United Six Twenty Four, descend and maintain five thousand.
+dca_f1_2 1 1>UAL624>F1-1 2167.740 2169.900 Out of eight for five, United Six Two Four.
+dca_f1_2 1 1>F1-1>UAL624 2246.580 2249.780 United Six Twenty Four, turn right heading one niner zero.
+dca_f1_2 1 1>UAL624>F1-1 2250.310 2252.270 Right heading one nine zero, United Six Two Four.
+dca_f1_2 1 3>AWE262>F1-2 2322.570 2325.620 Er Approach, Cactus Two Sixty Two, would you like us on er present heading?
+dca_f1_2 1 1>F1-2>AWE262 2326.100 2328.270 Cactus Two Sixty Two, proceed direct to Washington.
+dca_f1_2 1 2>AWE262>F1-2 2329.280 2330.180 Two Sixty Two, roger.
+dca_f1_2 1 1>F1-2>UAL624 2331.800 2334.910 United Six Twenty Four, descend and maintain two thousand five hundred.
+dca_f1_2 1 1>UAL624>F1-2 2334.910 2337.430 United Six Twenty Four, out of five for twenty five hundred.
+dca_f1_2 1 1>F1-2>AWE262 2367.970 2370.630 Cactus Two Sixty Two, descend and maintain five thousand.
+dca_f1_2 1 1>AWE262>F1-2 2371.010 2373.040 Out of eight for five, Cactus Two Sixty Two.
+dca_f1_2 1 1>F1-2>UAL624 2399.980 2402.380 United Six Twenty Four, turn left heading zero niner zero.
+dca_f1_2 1 1>UAL624>F1-2 2402.810 2405.460 Left heading zero nine zero, United Six Two Four.
+dca_f1_2 1 1>F1-2>UAL624 2445.940 2448.660 United Six Twenty Four, turn left heading zero seven zero.
+dca_f1_2 1 1>UAL624>F1-2 2448.660 2450.930 Zero seven zero, United Six Two Four.
+dca_f1_2 1 1>F1-2>AWE262 2456.790 2459.000 Cactus Two Sixty Two, turn right heading one niner zero.
+dca_f1_2 1 2>AWE262>F1-2 2459.360 2461.270 Right one nine zero, Cactus Two Sixty Two.
+dca_f1_2 1 1>F1-2>UAL624 2469.880 2477.340 United Six Twenty Four, is five from OXONN, turn left heading zero three zero, maintain one thousand six hundred till established on the localizer, cleared I L S Three Six approach.
+dca_f1_2 1 1>UAL624>F1-2 2478.100 2479.320 United Six Twenty Four, roger.
+dca_f1_2 1 1>F1-2>AWE262 2504.560 2507.320 Cactus Two Sixty Two, descend and maintain two thousand five hundred.
+dca_f1_2 1 2>AWE262>F1-2 2507.730 2509.930 Down to two thousand five hundred, Cactus Two Sixty Two.
+dca_f1_2 1 1>F1-2>UAL624 2536.050 2539.010 United Six Twenty Four, contact the Tower now one one niner point one.
+dca_f1_2 1 1>UAL624>F1-2 2539.010 2540.100 Six Twenty Four.
+dca_f1_2 1 1>F1-2>AWE262 2570.350 2572.900 Cactus Two Sixty Two, turn left heading zero niner zero.
+dca_f1_2 1 1>AWE262>F1-2 2573.220 2575.130 Left zero nine zero, Cactus Two Sixty Two.
+dca_f1_2 1 1>F1-2>AWE262 2610.520 2614.090 Cactus Two Sixty Two, turn left heading zero three zero, and join the localizer.
+dca_f1_2 1 1>AWE262>F1-2 2614.440 2616.900 Zero three zero, join the localizer, Cactus Two Sixty Two.
+dca_f1_2 1 1>F1-2>AWE262 2648.200 2654.320 Cactus Two Sixty Two, five from OXONN, maintain one thousand six hundred till established on the localizer, cleared I L S Three Six approach.
+dca_f1_2 1 2>AWE262>F1-2 2654.950 2658.510 Sixteen hundred till established, cleared the I L S Three Six, Cactus Two Sixty Two.
+dca_f1_2 1 1>F1-2>AWE262 2696.840 2699.890 Cactus Two Sixty Two, contact the Tower one one niner point one.
+dca_f1_2 1 1>AWE262>F1-2 2700.230 2702.150 Over to the Tower, Cactus Two Sixty Two, good night.
+dca_f1_2 1 1>AAL1594>F1-2 2943.730 2948.420 Approach, American Fifteen Ninety Four, nine for eight, and we have the ATIS.
+dca_f1_2 1 1>F1-2>AAL1594 2950.380 2954.420 American Fifteen Ninety Four, Washington Approach, depart ARMEL direct to Washington.
+dca_f1_2 1 1>AAL1594>F1-2 2954.770 2956.310 ARMEL direct, and that's Juliet.
+dca_f1_2 1 1>F1-2>AAL1594 2956.780 2957.140 Roger.
+dca_f1_2 1 2>TWA280>F1-2 2958.140 2964.010 Approach, T W A Two Eighty is with you, level ten thousand, excuse me, leaving ten for er eight.
+dca_f1_2 1 1>TWA280>F1-2 2970.440 2972.310 Approach, T W A Two Eighty is leaving ten for eight.
+dca_f1_2 1 1>F1-2>TWA280 2980.330 2984.160 T W A Two Eighty, roger, cross ARMEL at eight thousand, depart ARMEL direct to Washington.
+dca_f1_2 1 1>TWA280>F1-2 2984.720 2985.690 T W A Two Eighty, roger.
+dca_f1_2 1 1>F1-2>AAL1594 3080.110 3086.290 American Fifteen Ninety Four, descend and maintain five thousand, there'll be a United Sixteen Ninety Four on this frequency shortly.
+dca_f1_2 1 1>AAL1594>F1-2 3086.780 3090.010 Uh oh, we're in trouble, down to five, American Fifteen Ninety Four leaving eight.
+dca_f1_2 1 1>F1-2>AAL1594 3090.500 3090.890 Roger.
+dca_f1_2 1 1>F1-2>UAL1694 3140.750 3151.700 United Sixteen Ninety Four, Washington Approach, fly heading zero three zero, and join the localizer, descend and maintain eight thousand. There's a er American Fifteen Ninety Four on the frequency.
+dca_f1_2 1 1>UAL1694>F1-2 3152.210 3159.560 United Sixteen Ninety Four, heading zero three zero, ten for eight thousand, and cleared to join the localizer.
+dca_f1_2 1 1>F1-2>UAL1694 3159.560 3161.990 United Sixteen Ninety Four, affirmative, maintain eight thousand.
+dca_f1_2 1 1>F1-2>AAL1594 3175.220 3178.210 American Fifteen Ninety Four, turn right heading one niner zero.
+dca_f1_2 1 1>AAL1594>F1-2 3178.210 3180.470 One ninety heading, American Fifteen Ninety Four.
+dca_f1_2 1 1>AAL846>F1-2 3181.790 3187.030 Washington Approach, American Eight Forty Six with Juliet, out of er ten thousand two for eight, over ARMEL.
+dca_f1_2 1 1>F1-2>AAL846 3187.800 3191.630 American Eight Forty Six, Washington Approach, depart ARMEL direct to Washington.
+dca_f1_2 1 1>AAL846>F1-2 3192.240 3194.410 ARMEL direct Washington, American Eight Forty Six.
+dca_f1_2 1 1>AAL846>F1-2 3201.810 3202.370 Okay, thanks.
+dca_f1_2 1 1>F1-2>AAL846 3218.470 3229.650 The new Washington weather is nine hundred scattered, measured ceiling two thousand one hundred, variable broken four thousand five hundred overcast, visibility one zero, wind zero seven zero at six, altimeter is two niner niner seven.
+dca_f1_2 1 1>AAL846>F1-2 3231.960 3232.310 Thank you.
+dca_f1_2 1 2>F1-2>TWA280 3232.860 3235.000 T W A Two Eighty, descend and maintain five thousand.
+dca_f1_2 1 1>TWA280>F1-2 3235.380 3237.690 Descend and maintain five thousand, T W A Two Eighty, roger.
+dca_f1_2 1 1>F1-2>AAL1594 3245.240 3248.500 American Fifteen Ninety Four, descend and maintain two thousand five hundred.
+dca_f1_2 1 1>AAL1594>F1-2 3249.260 3252.030 Down to two point five, American Fifteen Ninety Four.
+dca_f1_2 1 1>F1-2>TWA280 3265.160 3272.480 T W A Two Eighty, traffic twelve o'clock, six miles, northwestbound, a er helicopter, out of twenty five hundred for four thousand.
+dca_f1_2 1 1>TWA280>F1-2 3273.230 3274.460 T W A Two Eighty, roger.
+dca_f1_2 1 1>F1-2>TWA280 3286.300 3288.310 T W A Two Eighty, turn right heading one niner zero.
+dca_f1_2 1 2>TWA280>F1-2 3289.020 3291.220 Turn right heading one niner zero, T W A Two Eighty.
+dca_f1_2 1 1>F1-2>UAL1694 3302.480 3305.220 United Sixteen Ninety Four, descend and maintain four thousand.
+dca_f1_2 1 1>UAL1694>F1-2 3305.880 3307.850 United Sixteen Ninety Four, eight for four.
+dca_f1_2 1 1>F1-2>AAL1594 3312.720 3317.110 American Fifteen Ninety Four, turn left heading zero niner zero, descend and maintain one thousand six hundred.
+dca_f1_2 1 1>AAL1594>F1-2 3317.430 3319.960 One point six, zero nine zero, American Fifteen Ninety Four.
+dca_f1_2 1 1>COA412>F1-2 3320.860 3323.290 Continental Four Twelve, ten thousand with Juliet.
+dca_f1_2 1 1>F1-2>COA412 3323.290 3331.940 Continental Four Twelve, Washington Approach, fly heading zero three zero and join the localizer. Expect further descent shortly, and Kilo is current, altimeter is two niner niner seven.
+dca_f1_2 1 2>COA412>F1-2 3332.400 3337.320 Two nine niner seven and er zero three zero, join the Three Six localizer, Continental er Four Twelve.
+dca_f1_2 1 1>F1-2>TWA280 3351.640 3354.830 T W A Two Eighty, traffic no factor, descend and maintain two thousand five hundred.
+dca_f1_2 1 1>TWA280>F1-2 3355.810 3358.340 Two thousand five hundred now for T W A Two Eighty, roger.
+dca_f1_2 1 1>USA34>F1-2 3361.340 3363.890 U S Air Thirty Four is with you, nine point five for eight.
+dca_f1_2 1 1>F1-2>USA34 3363.890 3368.690 U S Air Thirty Four, Washington Approach, depart ARMEL direct to Washington, Kilo is current.
+dca_f1_2 1 2>USA34>F1-2 3371.970 3377.130 All right, we'll get Kilo, we have Juliet. You understand we'll depart er direct to D C, U S Air Thirty Four.
+dca_f1_2 1 1>F1-2>USA34 3377.130 3377.600 Roger.
+dca_f1_2 1 1>F1-2>AAL846 3378.800 3381.070 American Eight Forty Six, descend and maintain seven thousand.
+dca_f1_2 1 2>AAL846>F1-2 3381.440 3383.710 Descend and maintain seven thousand, American Eight Forty Six.
+dca_f1_2 1 1>F1-2>UAL1694 3394.030 3399.450 American Sixteen Ninety Four, reduce speed, er, correction, United United Sixteen Ninety Four, reduce speed to one niner zero.
+dca_f1_2 1 1>UAL1694>F1-2 3400.080 3402.290 United Sixteen Ninety Four is slowing to one ninety.
+dca_f1_2 1 1>F1-2>AAL1594 3402.630 3409.440 American Fifteen Ninety Four is four from OXONN, turn left heading zero two zero, maintain one thousand six hundred until established, cleared I L S Three Six Approach.
+dca_f1_2 1 2>AAL1594>F1-2 3409.850 3413.810 Er zero two zero, and cleared I L S Three Six approach, American Fifteen Ninety Four.
+dca_f1_2 1 2>F1-2>TWA280 3415.720 3418.560 T W A Two Eighty, begin reducing speed to a hundred and seventy knots.
+dca_f1_2 1 1>TWA280>F1-2 3418.560 3421.420 Reduce speed down to one seven zero, T W A Two Eighty, roger.
+dca_f1_2 1 1>F1-2>TWA280 3421.420 3423.310 T W A Two Eighty, turn left heading one two zero.
+dca_f1_2 1 1>TWA280>F1-2 3426.350 3428.630 And turn left heading one two zero, T W A Two Eighty.
+dca_f1_2 1 1>F1-2>COA412 3428.630 3432.220 Continental Four Twelve, descend and maintain four thousand.
+dca_f1_2 1 1>COA412>F1-2 3432.220 3433.890 Ten for four, Continental Four Twelve.
+dca_f1_2 1 1>F1-2>AAL1594 3437.800 3441.150 American Fifteen Ninety Four, contact the Tower one one niner point one.
+dca_f1_2 1 2>AAL1594>F1-2 3441.150 3442.220 Nineteen one, we'll see you.
+dca_f1_2 1 1>F1-2>TWA280 3442.840 3445.200 T W A Two Eighty, turn left heading zero niner zero.
+dca_f1_2 1 1>TWA280>F1-2 3447.350 3449.420 Zero nine zero now for T W A Two Eighty, roger.
+dca_f1_2 1 1>F1-2>UAL1694 3449.740 3455.650 United Sixteen Ninety Four, is six from PISCA, cross PISCA at or above two thousand five hundred, cleared I L S Three Six approach.
+dca_f1_2 1 2>UAL1694>F1-2 3456.300 3460.630 Cleared I L S Three Six, twenty five hundred feet at PISCA, United Sixteen Ninety Four.
+dca_f1_2 1 1>F1-2>TWA280 3460.940 3464.610 T W A Two Eighty, turn left heading zero seven zero, and a good left turn if you would please.
+dca_f1_2 1 2>TWA280>F1-2 3464.610 3466.990 Zero seven zero, good rate, T W A Two Eighty, roger.
+dca_f1_2 1 1>F1-2>UAL1694 3468.100 3472.180 United Sixteen Ninety Four, reduce speed to one seven zero, and maintain that till OXONN.
+dca_f1_2 1 1>UAL1694>F1-2 3472.740 3474.650 One seventy, United Sixteen Ninety Four.
+dca_f1_2 1 1>F1-2>AAL846 3474.650 3478.120 American Eight Forty Six, fly heading one five zero, descend and maintain five thousand.
+dca_f1_2 1 1>AAL846>F1-2 3478.940 3481.660 Heading one fifty, descend to five, American Eight Forty Six.
+dca_f1_2 1 1>F1-2>TWA280 3485.480 3488.310 T W A Two Eighty, turn left heading zero three zero, and join the localizer.
+dca_f1_2 1 2>TWA280>F1-2 3488.730 3490.980 Zero three zero and join for T W A Two Eighty.
+dca_f1_2 1 1>F1-2>USA34 3502.120 3504.460 U S Air Thirty Four, descend and maintain seven thousand.
+dca_f1_2 1 1>F1-2>TWA280 3507.720 3514.970 T W A Two Eighty, fly heading zero four zero to join the localizer, you're four from OXONN, maintain one thousand six hundred till established, cleared I L S Three Six approach.
+dca_f1_2 1 1>TWA280>F1-2 3515.630 3518.890 one thousand six hundred till established, zero four zero, T W A Two Eighty, roger.
+dca_f1_2 1 1>USA34>F1-2 3519.310 3520.880 Down to seven, U S Air Thirty Four.
+dca_f1_2 1 1>F1-2>USA34 3520.880 3522.140 U S Air Thirty Four, thank you.
+dca_f1_2 1 1>F1-2>AAL846 3541.250 3543.440 American Eight Forty Six, fly heading one eight zero.
+dca_f1_2 1 1>AAL846>F1-2 3544.250 3545.930 Heading one eighty, American Eight Forty Six.
+dca_f1_2 1 2>F1-2>TWA280 3548.580 3551.740 T W A Two Eighty, you're going to join just a mile outside the marker, will that be okay?
+dca_f1_2 1 2>TWA280>F1-2 3553.100 3554.320 T W A Two Eighty, roger, that's good.
+dca_f1_2 1 1>USA294>F1-2 3556.630 3562.730 U S Air's Two Ninety Four, out of eleven five to cross OJAAY at ten and er two hundred and fifty, we are at two fifty knots, we have Kilo.
+dca_f1_2 1 2>F1-2>USA294 3562.730 3566.100 U S Air Two Ninety Four, Washington Approach, fly heading zero three zero, and join the localizer.
+dca_f1_2 1 1>USA294>F1-2 3566.800 3570.910 Heading zero three zero, and get on the Three Six localizer, U S Air's er Two Ninety Four.
+dca_f1_2 1 1>F1-2>TWA280 3579.400 3582.110 T W A Two Eighty, contact the Tower now one one niner point one.
+dca_f1_2 1 2>TWA280>F1-2 3582.620 3583.980 One one niner point one, roger.
+dca_f1_2 1 1>F1-2>USA34 3590.830 3593.890 U S Air Thirty Four, fly heading one five zero, descend and maintain five thousand.
+dca_f1_2 1 1>USA34>F1-2 3594.490 3596.680 One five zero, down to five, U S Air Thirty Four.
+dca_f1_2 1 1>F1-2>USA294 3610.800 3613.100 U S Air Two Ninety Four, descend and maintain four thousand.
+dca_f1_2 1 2>USA294>F1-2 3614.170 3616.400 Okay, down to four thou, U S Air's Two Ninety Four.
+dca_f1_2 1 1>F1-2>AAL846 3616.400 3620.480 American Eight Forty Six, turn left heading one seven zero, descend and maintain two thousand five hundred.
+dca_f1_2 1 1>AAL846>F1-2 3622.090 3624.900 Heading one seventy, two thousand five hundred, American Eight Forty Six.
+dca_f1_2 1 2>F1-2>UAL1694 3627.920 3635.170 Sixteen Ninety Four, you can start slowing to your final approach speed. You're three behind a T W A jet, he's flying inside the marker, Tower nineteen one.
+dca_f1_2 1 1>UAL1694>F1-2 3635.480 3637.000 Good day, United Sixteen Ninety Four.
+dca_f1_2 1 1>F1-2>COA412 3657.780 3661.010 Continental Four Twelve, start slowing to a hundred and seventy knots now please.
+dca_f1_2 1 1>COA412>F1-2 3661.010 3663.490 Start er reducing to one seventy, Continental Four Twelve.
+dca_f1_2 1 1>F1-2>USA34 3664.700 3669.410 U S Air Thirty Four, turn right heading one niner zero, that's er, and reduce speed to one niner zero.
+dca_f1_2 1 2>USA34>F1-2 3669.940 3673.060 One ninety on the heading, slowing one ninety on the speed, U S Air Thirty Four.
+dca_f1_2 1 1>F1-2>AAL846 3673.840 3677.940 American Eight Forty Six, turn left heading zero niner zero, descend and maintain one thousand six hundred.
+dca_f1_2 1 1>AAL846>F1-2 3678.550 3682.300 Left to zero niner zero and one thousand six hundred, American Eight Forty Six.
+dca_f1_2 1 1>F1-2>COA412 3686.990 3690.940 Continental Four Twelve, turn left heading three three zero, vectors off the localizer for spacing.
+dca_f1_2 1 2>COA412>F1-2 3691.520 3693.160 Three three zero, Continental Four Twelve.
+dca_f1_2 1 1>F1-2>AAL846 3693.160 3696.000 American Eight Forty Six, turn left heading zero six zero.
+dca_f1_2 1 1>AAL846>F1-2 3696.830 3698.660 Zero six zero, American Eight Forty Six.
+dca_f1_2 1 1>F1-2>AAL846 3716.600 3726.440 American Eight Forty Six, descend and maintain one thousand six hundred, turn left heading zero three zero, join the localizer, you're four from OXONN, maintain one thousand six hundred till established, cleared I L S Three Six approach.
+dca_f1_2 1 1>AAL846>F1-2 3729.970 3733.640 Cleared for the approach, American er Eight Forty Six, heading zero three zero.
+dca_f1_2 1 1>F1-2>AAL846 3733.640 3737.400 American Eight Forty Six, maintain a hundred and seventy knots or better until OXONN.
+dca_f1_2 1 1>AAL846>F1-2 3737.400 3740.410 One seventy or better to OXONN, American Eight Forty Six.
+dca_f1_2 1 1>F1-2>COA412 3740.410 3743.040 Continental Four Twelve, descend and maintain two thousand five hundred.
+dca_f1_2 1 2>COA412>F1-2 3743.340 3745.250 Out four twenty five hundred, Continental Four Twelve.
+dca_f1_2 1 1>F1-2>COA412 3758.130 3762.400 Continental Four Twelve, turn right heading zero four zero, and join the localizer.
+dca_f1_2 1 1>COA412>F1-2 3762.400 3764.340 Zero Four Zero to join, Continental Four Twelve.
+dca_f1_2 1 1>F1-2>AAL846 3767.380 3770.490 American Eight Forty Six, contact the Tower now one one niner point one.
+dca_f1_2 1 1>AAL846>F1-2 3770.490 3772.580 Nineteen one, American Eight Forty Six, good day.
+dca_f1_2 1 1>F1-2>USA294 3772.580 3776.550 U S Air Two Ninety Four, begin reducing speed to a hundred and er ninety knots.
+dca_f1_2 1 1>USA294>F1-2 3778.140 3780.930 Okay, one ninety on the knots, U S Air's Two Er Ninety Four.
+dca_f1_2 1 1>F1-2>USA34 3782.010 3784.210 U S Air Thirty Four, descend and maintain four thousand.
+dca_f1_2 1 2>USA34>F1-2 3784.850 3786.400 Four thousand, U S Air Thirty Four.
+dca_f1_2 1 1>F1-2>USA34 3806.420 3808.880 U S Air Thirty Four, turn left heading zero niner zero.
+dca_f1_2 1 2>USA34>F1-2 3809.430 3810.890 Zero nine zero, U S Air Thirty Four.
+dca_f1_2 1 1>F1-2>COA412 3812.800 3818.100 Continental Four Twelve is four from OXONN, maintain one thousand six hundred until established, cleared I L S Three Six approach.
+dca_f1_2 1 1>COA412>F1-2 3818.590 3824.780 Maintain sixteen hundred, er, until established and cleared for er I L S Three Six, Continental Four Twelve.
+dca_f1_2 1 1>F1-2>USA34 3825.320 3827.670 U S Air Thirty Four, turn left heading zero six zero.
+dca_f1_2 1 2>USA34>F1-2 3828.280 3829.930 Zero six zero, U S Air Thirty Four.
+dca_f1_2 1 1>COA412>F1-2 3852.240 3855.390 Continental er Four Twelve, you still want er one seventy on the speed all the way?
+dca_f1_2 1 1>F1-2>COA412 3855.800 3859.940 Continental Four Twelve, a hundred and seventy until OXONN if you would please, Tower nineteen one.
+dca_f1_2 1 2>COA412>F1-2 3860.380 3862.620 One seventy until OXONN, nineteen one, Continental Four Twelve.
+dca_f1_2 1 1>F1-2>USA294 3862.930 3869.890 U S Air Two Ninety Four is five from PISCA, cross PISCA at or above two thousand five hundred, cleared I L S Three Six approach, maintain a hundred and seventy knots till OXONN.
+dca_f1_2 1 3>USA294>F1-2 3873.970 3881.020 All right, a hundred er seventy to the marker, correction, a hundred and ninety to the marker, and PISCA at or above twenty five hundred, cleared for the approach, U S Air's Two Ninety Four.
+dca_f1_2 1 1>F1-2>USA34 3881.020 3883.090 U S Air Thirty Four, descend to one thousand six hundred.
+dca_f1_2 1 1>USA34>F1-2 3883.480 3885.180 Down one point six, U S Air Thirty Four.
+dca_f1_2 1 1>F1-2>USA34 3885.180 3888.070 U S Air Thirty Four, turn left heading zero three zero, and join the localizer.
+dca_f1_2 1 1>USA34>F1-2 3888.620 3890.790 Zero three zero, and join the localizer, U S Air Thirty Four.
+dca_f1_2 1 1>F1-2>USA34 3900.490 3908.890 U S Air Thirty Four is five from OXONN, maintain one thousand six hundred till established, cleared I L S Three Six approach, maintain a hundred and seventy knots till OXONN.
+dca_f1_2 1 1>F1-2>USA34 3916.520 3920.140 U S Air Thirty Four, cleared the approach, and a hundred and seventy knots till OXONN.
+dca_f1_2 1 1>USA34>F1-2 3920.630 3924.070 One seventy till OXONN, and er cleared for the approach, U S Air Thirty Four.
+dca_f1_2 1 1>F1-2>USA34 3926.320 3927.240 I'm sorry, say it again.
+dca_f1_2 1 1>USA34>F1-2 3927.940 3928.520 Disregard.
+dca_f1_2 1 1>F1-2>USA294 3936.230 3940.830 U S Air Two Ninety Four, start slowing to your final approach speed. You're three and a half behind Company Seven Thirty Seven.
+dca_f1_2 1 2>USA294>F1-2 3941.160 3942.020 Roger.
+dca_f1_2 1 1>F1-2>USA34 3959.540 3962.440 U S Air Thirty Four, contact the Tower now one one niner point one.
+dca_f1_2 1 1>USA34>F1-2 3962.960 3964.440 Nineteen one, U S Air Thirty Four.
+dca_f1_2 1 1>AAL910>F1-2 3989.930 3995.410 Er Washington Approach, American er Nine Ten with you, one two for one zero thousand, two fifty at OJAAY.
+dca_f1_2 1 1>F1-2>AAL910 3996.970 4003.230 American Nine Ten, Washington Approach, fly heading zero three zero, and join the localizer. Expect further descent in er six miles.
+dca_f1_2 1 1>AAL910>F1-2 4003.770 4007.140 Okay, zero three zero, join the localizer, American Nine Ten.
+dca_f1_2 1 1>F1-2>USA294 4027.510 4030.820 U S Air Two Ninety Four, contact the Tower now one one niner point one. Good night.
+dca_f1_2 1 1>USA294>F1-2 4031.130 4032.500 Good night, Two Ninety Four.
+dca_f1_2 1 1>F1-2>AAL910 4039.180 4041.920 American Nine Ten, descend and maintain eight thousand.
+dca_f1_2 1 1>AAL910>F1-2 4042.250 4044.040 Eight thousand, American Nine Ten.
+dca_f1_2 1 1>F1-2>AAL910 4069.330 4072.130 American Nine Ten, fly heading zero two zero to join the localizer.
+dca_f1_2 1 1>AAL910>F1-2 4072.130 4073.870 Zero two zero to join, American Nine Ten.
+dca_f1_2 1 3>AAL910>F1-2 4186.560 4187.970 How about lower for American Nine Ten?
+dca_f1_2 1 1>F1-2>AAL910 4188.460 4194.370 American Nine Ten is one five from PISCA, cross PISCA at or above two thousand five hundred, cleared I L S Runway Three Six approach.
+dca_f1_2 1 1>AAL910>F1-2 4194.710 4199.180 PISCA at or above two point five, cleared the I L S Three Six approach, American Nine Ten.
+dca_f1_2 1 1>F1-2>AAL910 4414.060 4417.040 American Nine Ten, contact the Tower one one niner point one.
+dca_f1_2 1 1>AAL910>F1-2 4417.040 4418.830 Nineteen one, American Nine Ten, good night.
+dca_f1_2 1 3>F1-2>AAL910 4418.830 4419.250 Good night.
+dca_f1_2 1 2>NWA1210>F1-2 4561.350 4564.280 Washington, Northwest Twelve Ten, ten point seven for eight.
+dca_f1_2 1 2>F1-2>NWA1210 4567.490 4570.460 Northwest Twelve Ten, Washington Approach, depart ARMEL direct Washington.
+dca_f1_2 1 1>NWA1210>F1-2 4573.100 4575.240 Understand, direct Washington, Northwest Twelve Ten.
+dca_f1_2 1 1>F1-2>NWA1210 4761.950 4764.400 Northwest Twelve Ten, descend and maintain seven thousand.
+dca_f1_2 1 1>NWA1210>F1-2 4764.940 4766.900 Departing eight for seven thousand, Northwest Twelve Ten.
+dca_f1_2 1 1>F1-2>NWA1210 4845.200 4848.770 Northwest Twelve Ten, fly heading one five zero, descend and maintain five thousand.
+dca_f1_2 1 1>NWA1210>F1-2 4849.120 4851.180 One five zero, and down to five thousand, Northwest Twelve Ten.
+dca_f1_2 1 3>DAL656>F1-2 4913.420 4917.020 Approach, Delta Six Fifty Six, out of ninety eight hundred for eight, and we've got er Kilo.
+dca_f1_2 1 1>F1-2>DAL656 4918.010 4921.550 Delta Six Fifty Six, Washington Approach, depart ARMEL direct to Washington.
+dca_f1_2 1 1>DAL656>F1-2 4922.040 4924.240 ARMEL direct Washington, Delta Six Five Six.
+dca_f1_2 1 1>F1-2>NWA1210 4939.630 4943.620 Northwest Twelve Ten, turn right heading one eight zero, descend and maintain two thousand five hundred.
+dca_f1_2 1 1>NWA1210>F1-2 4943.950 4946.030 One eight zero, down to twenty five hundred, Northwest Twelve Ten.
+dca_f1_2 1 1>F1-2>NWA1210 5011.990 5014.770 Northwest Twelve Ten, turn left heading one three zero.
+dca_f1_2 1 1>NWA1210>F1-2 5015.160 5016.650 One three zero, Northwest Twelve Ten.
+dca_f1_2 1 1>F1-2>NWA1210 5036.710 5039.130 Northwest Twelve Ten, descend and maintain one thousand six hundred.
+dca_f1_2 1 1>NWA1210>F1-2 5039.510 5041.640 Down to one thousand six hundred, Northwest Twelve Ten.
+dca_f1_2 1 1>F1-2>DAL656 5050.430 5053.240 Delta Six Fifty Six, descend and maintain seven thousand.
+dca_f1_2 1 1>DAL656>F1-2 5053.240 5055.130 Seven thousand, Delta Six Five Six.
+dca_f1_2 1 1>F1-2>NWA1210 5077.840 5080.180 Northwest Twelve Ten, turn left heading zero seven zero.
+dca_f1_2 1 2>NWA1210>F1-2 5080.640 5082.200 Zero seven zero, Northwest Twelve Ten.
+dca_f1_2 1 1>F1-2>NWA1210 5092.000 5099.500 Northwest Twelve Ten is four from OXONN, turn left heading zero two zero, maintain one thousand six hundred till established on the localizer, cleared I L S Three Six approach.
+dca_f1_2 1 2>NWA1210>F1-2 5100.200 5103.100 Zero two zero, cleared for the approach at or above sixteen hundred, Northwest Twelve Ten.
+dca_f1_2 1 1>F1-2>DAL656 5133.390 5136.150 Delta Six Fifty Six, descend and maintain five thousand.
+dca_f1_2 1 1>DAL656>F1-2 5136.450 5138.020 Five thousand, Delta Six Fifty Six.
+dca_f1_2 1 1>F1-2>NWA1210 5141.120 5144.010 Northwest Twelve Ten, turn ten degrees right to join the localizer.
+dca_f1_2 1 2>NWA1210>F1-2 5144.830 5148.420 Yes sir, coming a little more right to join the localizer, and we have the field in sight, Northwest Twelve Ten.
+dca_f1_2 1 2>F1-2>NWA1210 5148.420 5152.640 Northwest Twelve Ten, you can follow the river inbound er, cleared for a visual approach Runway Three Six.
+dca_f1_2 1 2>NWA1210>F1-2 5153.030 5155.500 Okay, river visual down to er Three Six, Northwest Twelve Ten.
+dca_f1_2 1 1>F1-2>DAL656 5170.010 5172.500 Delta Six Fifty Six, turn right heading one five zero.
+dca_f1_2 1 1>DAL656>F1-2 5172.500 5174.570 One five zero, Delta Six Fifty Six.
+dca_f1_2 1 1>F1-2>NWA1210 5189.460 5192.590 Northwest Twelve Ten, contact the Tower now, one one niner point one.
+dca_f1_2 1 2>NWA1210>F1-2 5192.930 5194.550 Nineteen point one, Northwest Twelve Ten, good night.
+dca_f1_2 1 1>F1-2>NWA1210 5194.550 5194.970 Good night.
+dca_f1_2 1 1>F1-2>DAL656 5206.050 5209.240 Delta Six Fifty Six, turn right heading one niner zero.
+dca_f1_2 1 1>DAL656>F1-2 5209.240 5211.000 One nine zero, Delta Six Fifty Six.
+dca_f1_2 1 1>F1-2>DAL656 5211.000 5214.030 Approach, you might as well, er, start slowing it back, if you would.
+dca_f1_2 1 2>DAL656>F1-2 5214.360 5219.560 I think I stepped on you there, we're going right to er one nine zero. And you want us to start slowing up, Delta Six Five Six?
+dca_f1_2 1 2>F1-2>DAL656 5219.560 5224.320 Affirmative, start slowing sir, you're number five for the approach. It looks like about a ten to twelve mile final right now.
+dca_f1_2 1 1>DAL656>F1-2 5224.320 5224.810 Okay.
+dca_f1_2 1 1>F1-2>DAL656 5306.250 5309.040 Delta Six Fifty Six, descend and maintain two thousand five hundred.
+dca_f1_2 1 1>DAL656>F1-2 5310.000 5312.320 Two thousand five hundred now, Delta Six Fifty Six.
+dca_f1_2 1 1>F1-2>DAL656 5313.890 5318.850 Delta Six Fifty Six, turn left heading one three zero, looks like we're going to get in here a little bit earlier than expected.
+dca_f1_2 1 1>DAL656>F1-2 5318.850 5320.700 One three zero, and we'll come on down then.
+dca_f1_2 1 1>F1-2>DAL656 5320.700 5321.210 Roger.
+dca_f1_2 1 1>F1-2>DAL656 5337.990 5342.140 Delta Six Fifty Six, turn left heading zero six zero, descend and maintain one thousand six hundred.
+dca_f1_2 1 1>DAL656>F1-2 5342.140 5345.390 Zero six zero, one thousand six hundred, Delta Six Fifty Six.
+dca_f1_2 1 1>F1-2>DAL656 5395.420 5397.850 Delta Six Fifty Six, how's the altitude going to be?
+dca_f1_2 1 1>DAL656>F1-2 5398.350 5400.000 Er we should be okay, Delta Six Fifty Six.
+dca_f1_2 1 1>F1-2>DAL656 5400.310 5406.200 All right, er let me know if you pick up the river. You can expect a visual approach to Runway Three Six now.
+dca_f1_2 1 1>DAL656>F1-2 5406.610 5412.480 Okay, we're still on top of the overcast here, er we're, we can't pick it up till we get on down, it looks like another thousand feet anyway.
+dca_f1_2 1 1>F1-2>DAL656 5412.480 5414.610 All right, maintain one thousand six hundred.
+dca_f1_2 1 2>DAL656>F1-2 5414.610 5416.670 One thousand six hundred, and we're cleared to intercept right?
+dca_f1_2 1 1>DAL656>F1-2 5429.080 5431.470 Okay fine, we're turning left to zero three zero now.
+dca_f1_2 1 1>F1-2>DAL656 5431.470 5431.840 Roger.
+dca_f1_2 1 1>F1-2>DAL656 5444.750 5447.180 Delta Six Fifty Six, turn left heading three six zero now.
+dca_f1_2 1 2>DAL656>F1-2 5447.560 5449.880 Three six zero now, Delta's Six Fifty Six.
+dca_f1_2 1 1>DAL656>F1-2 5466.770 5469.480 And Delta Six Fifty Six, we're breaking out at twenty one hundred, field in sight.
+dca_f1_2 1 1>F1-2>DAL656 5469.830 5475.000 Delta Six Fifty Six, cleared for a visual approach to Runway Three Six, contact the Tower now one one niner point one. Good night.
+dca_f1_2 1 1>DAL656>F1-2 5475.000 5477.130 Cleared the visual Three Six, nineteen one, good night sir.
+dca_f1_2 1 1>AAL1334>F1-2 5881.440 5885.470 American Thirteen Thirty Four is er niner thousand for eight thousand, Kilo.
+dca_f1_2 1 1>F1-2>AAL1334 5885.950 5889.480 American Thirteen Thirty Four, Washington Approach, depart ARMEL direct Washington.
+dca_f1_2 1 1>AAL1334>F1-2 5890.260 5892.950 Depart ARMEL direct Washington, American Thirteen Thirty Four.
+dca_f1_2 1 1>F1-2>AAL1334 5947.110 5950.280 American Thirteen Thirty Four, descend and maintain seven thousand.
+dca_f1_2 1 1>AAL1334>F1-2 5950.740 5952.530 Seven thousand, American Thirteen Thirty Four.
+dca_f1_2 1 1>F1-3>AAL1334 6081.480 6084.620 American Thirteen Thirty Four, descend and maintain five thousand.
+dca_f1_2 1 1>AAL1334>F1-3 6085.350 6087.150 Five thousand, American Thirteen Thirty Four.
+dca_f1_2 1 1>F1-3>AAL1334 6114.750 6117.610 American Thirteen Thirty Four, turn right heading one niner zero.
+dca_f1_2 1 1>AAL1334>F1-3 6118.530 6120.870 Right heading one niner zero, American Thirteen Thirty Four.
+dca_f1_2 1 1>NWA288>F1-3 6146.620 6149.790 Washington, Northwest Two Eighty Eight, with you out of ten for eight at ARMEL.
+dca_f1_2 1 3>F1-3>NWA288 6150.210 6157.100 Northwest Two Eighty Eight, Washington, roger. Depart ARMEL direct to the Washington V O R. Traffic's eleven o'clock, four miles, northbound, seven thousand.
+dca_f1_2 1 1>NWA288>F1-3 6160.010 6164.890 Northwest Two Eighty Eight, to ARMEL direct to er D C, and we're looking for traffic.
+dca_f1_2 1 1>F1-3>AAL1334 6169.420 6172.190 American Thirteen Thirty Four, turn right heading two one zero.
+dca_f1_2 1 1>AAL1334>F1-3 6172.530 6175.100 Right heading two one zero, American Thirteen Thirty Four, down to five.
+dca_f1_2 1 1>F1-3>AAL1334 6209.230 6211.760 American Thirteen Thirty Four, turn left heading one niner zero.
+dca_f1_2 1 2>AAL1334>F1-3 6212.360 6214.470 Left heading one niner zero, American Thirteen Thirty Four.
+dca_f1_2 1 1>F1-3>AAL1334 6249.100 6251.970 American Thirteen Thirty Four, descend and maintain four thousand.
+dca_f1_2 1 1>AAL1334>F1-3 6252.480 6254.280 Four thousand, American Thirteen Thirty Four.
+dca_f1_2 1 1>F1-3>NWA288 6256.600 6260.960 Northwest Two Eighty Eight, traffic is no longer a factor, descend and maintain seven thousand.
+dca_f1_2 1 2>NWA288>F1-3 6261.490 6263.520 Northwest Two Eighty Eight, down to seven thousand.
+dca_f1_2 1 1>NWA376N>F1-3 6265.970 6269.590 Washington Approach, Northwest Three Seventy Six November, out of ten two for eight thousand.
+dca_f1_2 1 1>F1-3>NWA376N 6270.210 6275.270 Northwest Three Seventy Six November, Washington Approach, roger, depart ARMEL direct Washington Kilo on the ATIS.
+dca_f1_2 1 1>NWA376N>F1-3 6276.610 6280.100 Direct er Washington after ARMEL, Northwest Three Seventy Six November.
+dca_f1_2 1 1>F1-3>AAL1334 6331.020 6334.710 American Thirteen Thirty Four, turn left heading zero seven zero.
+dca_f1_2 1 1>AAL1334>F1-3 6335.040 6337.380 Left heading zero seven zero, American Thirteen Thirty Four.
+dca_f1_2 1 1>USA118>F1-3 6347.600 6351.600 Washington Approach, U S Air One Eighteen, er ten thousand for eight, we've got er Kilo.
+dca_f1_2 1 1>F1-3>USA118 6352.030 6356.490 U S Air One Eighteen, Washington Approach Control, depart ARMEL direct to the Washington V O R.
+dca_f1_2 1 1>USA118>F1-3 6357.700 6359.570 ARMEL direct Washington, U S One Eighteen.
+dca_f1_2 1 1>F1-3>AAL1334 6379.640 6383.870 American Thirteen Thirty Four, turn left heading zero four zero, intercept the localizer.
+dca_f1_2 1 1>AAL1334>F1-3 6384.550 6387.440 Left zero four zero and intercept the localizer, American Thirteen Thirty Four.
+dca_f1_2 1 1>F1-3>NWA288 6387.870 6390.890 Northwest Two Eighty Eight, descend and maintain five thousand.
+dca_f1_2 1 1>NWA288>F1-3 6391.870 6393.400 Five thousand, Northwest Two Eighty Eight.
+dca_f1_2 1 1>F1-3>NWA376N 6393.830 6397.500 Northwest Three Seventy Six November, descend and maintain seven thousand.
+dca_f1_2 1 1>NWA376N>F1-3 6398.270 6400.360 Seven thousand, Northwest Three Seventy Six November.
+dca_f1_2 1 1>F1-3>AAL1334 6401.330 6409.670 American Thirteen Thirty Four, one one miles south of OXONN, cross PISCA at or above two thousand five hundred, cleared I L S Runway Three Six approach.
+dca_f1_2 1 2>AAL1334>F1-3 6409.670 6414.160 PISCA at or above two thousand five hundred, cleared for the I L S approach, er Three Six, American Thirteen Thirty Four.
+dca_f1_2 1 1>F1-3>AAL1334 6417.540 6420.850 American Thirteen Thirty Four, reduce airspeed to one seven zero knots.
+dca_f1_2 1 1>AAL1334>F1-3 6420.850 6422.940 One seventy on the speed, American Thirteen Thirty Four.
+dca_f1_2 1 1>F1-3>NWA288 6423.450 6429.420 Northwest Two Eighty Eight, turn right heading one niner zero, when out of turn, reduce airspeed to one seven zero knots.
+dca_f1_2 1 1>NWA288>F1-3 6430.130 6434.390 Right to one ninety, then once we're there, slow to one seventy, Northwest Two Eighty Eight.
+dca_f1_2 1 1>F1-3>AAL1334 6437.860 6443.050 American Thirteen Thirty Four, at OXONN, contact Washington Tower one one niner point one.
+dca_f1_2 1 2>AAL1334>F1-3 6443.530 6445.480 At OXONN, American Thirteen Thirty Four.
+dca_f1_2 1 1>F1-3>NWA288 6505.250 6508.350 Northwest Two Eighty Eight, descend and maintain four thousand.
+dca_f1_2 1 1>NWA288>F1-3 6509.200 6512.290 Four thousand, Northwest Two Eighty Eight.
+dca_f1_2 1 1>F1-3>NWA376N 6513.090 6517.160 Northwest Three Seventy Six November, descend and maintain five thousand.
+dca_f1_2 1 1>NWA376N>F1-3 6517.840 6520.100 Five thousand, Northwest Three Seventy Six November.
+dca_f1_2 1 1>UAL626>F1-3 6522.320 6527.260 Good evening, Washington Approach, United Six Twenty Six, about to level off at eight thousand, we have Kilo.
+dca_f1_2 1 1>F1-3>UAL626 6527.260 6533.870 United Six Twenty Six, Washington, roger, traffic eleven o'clock, six miles, northbound out of six for seven thousand, maintain eight thousand.
+dca_f1_2 1 1>UAL626>F1-3 6534.280 6536.020 Eight thousand, United Six Twenty Six.
+dca_f1_2 1 1>F1-3>NWA376N 6536.540 6540.400 Northwest Three Seventy Six November, turn right heading one niner zero.
+dca_f1_2 1 1>NWA376N>F1-3 6540.840 6543.120 One ninety heading, Northwest Three Seventy Six November.
+dca_f1_2 1 1>F1-3>USA118 6575.640 6579.030 U S Air One Eighteen, descend and maintain five thousand.
+dca_f1_2 1 1>USA118>F1-3 6579.390 6581.060 Down to five thousand, U S Air One Eighteen.
+dca_f1_2 1 1>F1-3>ALL 6588.240 6592.400 Attention all aircraft, Washington National, ATIS information Lima is now current.
+dca_f1_2 1 1>F1-3>ALL 6593.730 6596.910 Altimeter setting currently two niner niner seven.
+dca_f1_2 1 1>F1-3>NWA288 6600.020 6603.680 Northwest Two Eighty Eight, descend and maintain two thousand five hundred.
+dca_f1_2 1 1>NWA288>F1-3 6604.640 6607.040 Two thousand five hundred, Northwest Two Eighty Eight.
+dca_f1_2 1 1>F1-3>UAL626 6612.370 6615.290 United Six Twenty Six, traffic no longer a factor.
+dca_f1_2 1 1>UAL626>F1-3 6619.110 6622.470 Washington Approach, United Six Twenty Six, you want us direct er to Washington?
+dca_f1_2 1 1>F1-3>UAL626 6622.920 6626.260 United Six Twenty Six, affirmative, direct to the Washington V O R.
+dca_f1_2 1 3>UAL626>F1-3 6626.260 6628.200 Direct Washington V O R, United Six Twenty Six.
+dca_f1_2 1 1>F1-3>NWA288 6633.750 6636.540 Northwest Two Eighty Eight, turn left heading zero eight zero.
+dca_f1_2 1 1>NWA288>F1-3 6637.430 6639.700 Zero eight zero left turn, Northwest Two Eighty Eight.
+dca_f1_2 1 1>F1-3>USA118 6644.210 6647.700 U S Air One Eighteen, turn right heading one niner zero.
+dca_f1_2 1 1>USA118>F1-3 6647.700 6649.530 Right one nine zero, U S Air One Eighteen.
+dca_f1_2 1 1>F1-3>UAL626 6650.510 6654.110 United Six Twenty Six, descend and maintain seven thousand.
+dca_f1_2 1 1>UAL626>F1-3 6654.110 6656.840 Out of eight for seven thousand, United Six Twenty Six.
+dca_f1_2 1 1>NWA376N>F1-3 6663.940 6666.770 Any particular speed for Northwest Three Seventy Six November?
+dca_f1_2 1 1>F1-3>NWA376N 6667.430 6671.020 Whatever speed you like is fine with me, Northwest Three Seventy Six November.
+dca_f1_2 1 1>NWA376N>F1-3 6671.020 6672.290 Three Seventy Six November, thank you.
+dca_f1_2 1 1>F1-3>NWA288 6688.850 6692.780 Northwest Two Eighty Eight, turn left heading zero four zero, intercept the localizer.
+dca_f1_2 1 2>NWA288>F1-3 6693.390 6696.100 Zero four zero to join the localizer, Northwest Two Eight Eight.
+dca_f1_2 1 1>F1-3>NWA376N 6697.370 6701.210 Northwest Three Seventy Six November, descend and maintain four thousand.
+dca_f1_2 1 1>NWA376N>F1-3 6701.730 6703.880 Four thousand, Northwest Three Seventy Six November.
+dca_f1_2 1 1>F1-3>NWA288 6731.570 6738.440 Northwest Two Eighty Eight, five miles south of OXONN, maintain two thousand until established, cleared I L S Runway Three Six approach.
+dca_f1_2 1 1>NWA288>F1-3 6739.070 6742.970 Northwest Two Eighty Eight, two thousand till established, cleared for the I L S approach.
+dca_f1_2 1 1>F1-3>NWA376N 6743.480 6746.940 Northwest Three Seventy Six November, turn left heading one two zero.
+dca_f1_2 1 1>NWA376N>F1-3 6747.310 6749.460 One two zero, Northwest Three Seventy Six November.
+dca_f1_2 1 1>F1-3>NWA288 6763.150 6767.710 Northwest Two Eighty Eight, at OXONN, contact Washington Tower one one niner point one.
+dca_f1_2 1 1>NWA288>F1-3 6768.270 6771.160 Nineteen one at Ox, Northwest Two Eighty Eight.
+dca_f1_2 1 1>F1-3>NWA376N 6772.850 6776.760 Northwest Three Seventy Six November, descend and maintain two thousand five hundred.
+dca_f1_2 1 1>NWA376N>F1-3 6777.120 6779.140 Twenty five hundred, Northwest Three Seventy Six November.
+dca_f1_2 1 1>F1-3>UAL626 6781.530 6786.410 United Six Twenty Six, descend and maintain five thousand, turn right heading one niner zero.
+dca_f1_2 1 1>UAL626>F1-3 6787.100 6790.090 Five thousand, right one nine zero, United Six Twenty Six.
+dca_f1_2 1 1>UAL626>F1-3 6792.720 6794.600 What's the sequence for United Six Twenty Six?
+dca_f1_2 1 1>F1-3>UAL626 6795.560 6798.790 If the number helps, four. If the position helps, about twelve south.
+dca_f1_2 1 2>UAL626>F1-3 6799.660 6800.410 Okay, thanks.
+dca_f1_2 1 1>F1-3>NWA376N 6803.670 6807.530 Northwest Three Seventy Six November, turn left heading zero four zero.
+dca_f1_2 1 1>NWA376N>F1-3 6808.850 6811.020 Zero four zero, Northwest Three Seventy Six November.
+dca_f1_2 1 1>F1-3>NWA376N 6828.500 6836.610 Northwest Three Seventy Six November, niner miles south of OXONN, cross PISCA at or above two thousand five hundred, cleared I L S Runway Three Six Approach.
+dca_f1_2 1 1>NWA376N>F1-3 6837.230 6842.150 PISCA at or above twenty five hundred, cleared the I L S Three Six Approach, for Northwest Three Seventy Six November.
+dca_f1_2 1 1>F1-3>USA118 6843.870 6846.790 U S Air One Eighteen, descend and maintain four thousand.
+dca_f1_2 1 1>USA118>F1-3 6846.790 6848.360 Four thousand, U S Air One Eighteen.
+dca_f1_2 1 1>F1-3>USA118 6877.410 6880.600 U S Air One Eighteen, turn left heading zero seven zero.
+dca_f1_2 1 1>USA118>F1-3 6881.050 6882.860 Left zero seven zero, U S Air One Eighteen.
+dca_f1_2 1 1>F1-3>USA118 6917.960 6923.820 U S Air One Eighteen, turn left heading zero four zero, intercept the localizer, reduce airspeed to one seven zero knots.
+dca_f1_2 1 1>USA118>F1-3 6924.140 6928.230 Zero four zero, intercept the localizer, and er reduce to one seventy, U S Air One Eighteen.
+dca_f1_2 1 1>F1-3>USA118 6935.780 6942.450 U S Air One Eighteen, one one miles south of OXONN, cross PISCA at or above two thousand five hundred, cleared I L S Runway Three Six approach.
+dca_f1_2 1 1>USA118>F1-3 6942.940 6946.200 PISCA at or above twenty five hundred, and cleared for the approach, U S Air One Eighteen.
+dca_f1_2 1 1>F1-3>UAL626 6947.270 6952.400 United Six Twenty Six, descend and maintain four thousand, reduce airspeed to one seven zero knots.
+dca_f1_2 1 1>UAL626>F1-3 6952.960 6956.390 Four thousand one seven zero knots, United Six Twenty Six.
+dca_f1_2 1 1>F1-3>NWA376N 6956.960 6961.640 Northwest Three Seventy Six November, at OXONN, contact Tower one one niner point one.
+dca_f1_2 1 1>NWA376N>F1-3 6962.200 6964.700 Nineteen one at OXONN, Northwest Three Seventy Six November.
+dca_f1_2 1 1>F1-3>USA118 6966.250 6970.330 U S Air One Eighteen, at OXONN, contact Tower one one niner point one.
+dca_f1_2 1 1>USA118>F1-3 6970.640 6972.400 Nineteen one at OXONN, U S One Eighteen.
+dca_f1_2 1 1>F1-3>UAL626 6987.590 6990.390 United Six Twenty Six, turn left heading one four zero.
+dca_f1_2 1 1>UAL626>F1-3 6990.760 6993.010 Left one four zero, United Six Twenty Six.
+dca_f1_2 1 1>F1-3>UAL626 7025.930 7030.770 United Six Twenty Six, descend and maintain two thousand five hundred, turn left heading zero niner zero.
+dca_f1_2 1 2>UAL626>F1-3 7031.310 7034.920 Two thousand five hundred, left to zero nine zero, United Six Twenty Six.
+dca_f1_2 1 1>DAL670>F1-3 7044.500 7053.110 Washington Approach, good evening, Delta Six Seventy, passing one one thousand for one zero thousand, and two hundred and fifty knots by OJAAY, we have information Lima.
+dca_f1_2 1 1>F1-3>DAL670 7053.530 7055.850 Delta Six Seventy, Washington Approach Control, roger.
+dca_f1_2 1 1>F1-3>UAL626 7060.730 7069.670 United Six Twenty Six, turn left heading zero four zero, niner miles south of OXONN, cross PISCA at or above two thousand five hundred, cleared I L S Runway Three Six approach.
+dca_f1_2 1 1>UAL626>F1-3 7069.670 7072.160 Cleared for the I L S Three Six, United Six Twenty Six.
+dca_f1_2 1 1>F1-3>UAL626 7083.600 7087.390 United Six Twenty Six, at OXONN contact Washington Tower one one niner point one.
+dca_f1_2 1 1>UAL626>F1-3 7087.910 7090.140 At OXONN nineteen one, United Six Twenty Six.
+dca_f1_2 1 1>F1-3>DAL670 7195.910 7200.670 Delta Six Seventy, fly heading zero five zero, descend and maintain four thousand.
+dca_f1_2 1 1>DAL670>F1-3 7201.730 7206.710 Delta Six Seventy, descend to four thousand, er, turn right to a heading of zero five zero.
+dca_f1_2 1 1>F1-3>DAL670 7208.890 7211.620 Delta Six Seventy, on the heading, intercept the localizer.
+dca_f1_2 1 1>DAL670>F1-3 7212.290 7217.730 Delta Six Seventy, intercept the localizer for Runway er Three Six er at Washington National.

@@ -1,0 +1,273 @@
+dca_d2_1 1 1>VENUS26>D2 45.710 48.730 Good morning Washington, Venus Two Six with you, airborne, climbing to three thousand.
+dca_d2_1 1 1>VENUS26>D2 64.820 68.230 Washington, good morning, Venus Two Six passing one point five for three thousand.
+dca_d2_1 1 1>D2>VENUS26 68.520 71.020 Venus Two Six, Washington Departure, radar contact.
+dca_d2_1 1 1>NWA1811>D2 74.950 78.640 Departure, Northwest Eighteen Eleven is with you, passing one point six for five thousand.
+dca_d2_1 1 2>D2>NWA1811 79.640 81.790 Northwest Eighteen Eleven, Washington Departure, roger.
+dca_d2_1 1 2>D2>NWA1811 82.580 85.710 Northwest Eighteen Eleven is radar contact, climb maintain niner thousand.
+dca_d2_1 1 1>NWA1811>D2 85.710 87.450 Up to nine thousand, Northwest Eighteen Eleven.
+dca_d2_1 1 2>ALO3691>D2 89.840 93.460 Allegheny Thirty Six Ninety One is out of four hundred for two thousand.
+dca_d2_1 1 1>D2>ALO3691 93.460 97.100 Allegheny Thirty Six Ninety One, Departure, radar contact, maintain two thousand.
+dca_d2_1 1 2>ALO3691>D2 97.520 98.510 Maintain two.
+dca_d2_1 1 1>D2>NWA1854 111.210 114.720 Northwest Eighteen Fifty Four, expedite the climb to nine thousand, please.
+dca_d2_1 1 1>NWA1854>D2 115.520 117.960 We'll expedite to nine, Northwest Eighteen Fifty Four.
+dca_d2_1 1 1>D2>VENUS26 118.410 121.730 Venus Two Six, turn left heading three three zero, join Victor two sixty five.
+dca_d2_1 1 1>VENUS26>D2 122.080 125.060 Three three zero to join Victor two sixty five, leveling three thousand.
+dca_d2_1 1 1>D2>VENUS26 125.060 127.170 Venus Two Six, climb maintain five thousand.
+dca_d2_1 1 1>VENUS26>D2 127.170 128.910 Cleared five thousand, Two Six.
+dca_d2_1 1 1>D2>NWA1854 128.910 135.850 Northwest Eighteen Fifty Four Charlie, heading zero seven zero, contact Washington one two one point, correction, one two five point six five.
+dca_d2_1 1 1>NWA1854>D2 136.210 140.240 Right to zero seven zero and twenty five sixty five, Northwest Eighteen Fifty Four.
+dca_d2_1 1 1>D2>ALO3691 169.110 173.320 Allegheny Thirty Six Ninety One, turn left heading zero four zero, climb maintain four thousand.
+dca_d2_1 1 1>ALO3691>D2 173.320 177.820 Left zero four zero, and on up to er four thousand, Allegheny Thirty Six Ninety One.
+dca_d2_1 1 1>D2>NWA1811 195.730 199.520 Northwest Eighteen Eleven, contact Washington Departure one two five point six five.
+dca_d2_1 1 1>NWA1811>D2 199.890 201.910 Twenty five sixty five, Northwest Eighteen Eleven.
+dca_d2_1 1 2>TPS6420>D2 207.350 209.520 Trump Sixty Four Twenty, five hundred for five thousand.
+dca_d2_1 1 1>D2>TPS6420 209.520 213.840 Trump Sixty Four Twenty, Washington Departure, radar contact, climb maintain niner thousand.
+dca_d2_1 1 2>TPS6420>D2 216.610 218.150 Niner thousand, Sixty Four Twenty.
+dca_d2_1 1 1>D2>ALO3691 218.660 222.620 Allegheny Thirty Six Ninety One, climb and maintain four thousand, expedite the climb.
+dca_d2_1 1 2>ALO3691>D2 223.550 226.750 Okay, we'll expedite, Allegheny Thirty Six Ninety One to four thousand.
+dca_d2_1 1 1>D2>VENUS26 235.760 239.450 Venus Two Six, contact er Baltimore one two eight point seven.
+dca_d2_1 1 1>VENUS26>D2 240.080 241.360 Twenty eight seven, good morning.
+dca_d2_1 1 1>D2>VENUS26 241.360 241.810 Morning.
+dca_d2_1 1 3>N29A>D2 245.630 250.360 Er morning, Washington Departure, Aztec Two Niner Alpha through five hundred for two thousand.
+dca_d2_1 1 1>D2>N29A 250.360 254.330 Aztec Six Six Two Nine Alpha, Departure, radar contact, climb and maintain three thousand.
+dca_d2_1 1 1>N29A>D2 254.670 256.810 Climb maintain three thousand, Two Nine Alpha.
+dca_d2_1 1 1>D2>ALO3691 275.520 278.830 Allegheny Thirty Six Ninety One, turn right heading one two zero.
+dca_d2_1 1 2>ALO3691>D2 279.450 281.960 Right one two zero, Allegheny Thirty Six Ninety One.
+dca_d2_1 1 1>D2>N29A 308.640 313.150 November Two Nine Alpha, what is the er heading on course going to be for November Ninety Two?
+dca_d2_1 1 1>N29A>D2 313.150 314.990 Heading zero six six.
+dca_d2_1 1 1>D2>N29A 315.430 320.810 Roger, leaving er three thousand, * er reaching three thousand, resume your own navigation.
+dca_d2_1 1 2>N29A>D2 321.530 324.290 Resume own, reaching three thousand, Two Nine Alpha.
+dca_d2_1 1 1>D2>TPS6420 327.480 331.830 Trump Sixty Four Twenty, contact Washington on one two five point six five.
+dca_d2_1 1 1>TPS6420>D2 332.610 333.880 Trump Sixty Four Twenty, so long.
+dca_d2_1 1 2>D2>ALO3691 350.510 353.820 Allegheny Thirty Six Ninety One, direct NOTTINGHAM, resume own nav.
+dca_d2_1 1 1>ALO3691>D2 354.350 356.870 Direct NOTTINGHAM, Allegheny Thirty Six Ninety One.
+dca_d2_1 1 1>D2>ALO3691 426.920 429.520 Allegheny Thirty Six Ninety One, climb maintain six thousand.
+dca_d2_1 1 1>ALO3691>D2 430.070 432.390 Six thousand, Allegheny Thirty Six Ninety One.
+dca_d2_1 1 1>D2>ALO3691 525.380 528.220 Allegheny Thirty Six Ninety One, climb and maintain eight thousand.
+dca_d2_1 1 2>ALO3691>D2 529.960 532.500 On up to eight thousand, Allegheny Thirty Six Ninety One.
+dca_d2_1 1 1>TWA208>D2 533.900 537.760 Hello Departure, T W A Two Zero Eight, climbing out of two thousand for five thousand.
+dca_d2_1 1 1>D2>TWA208 538.100 541.470 T W A Two Zero Eight, Departure, radar contact, climb and maintain niner thousand.
+dca_d2_1 1 2>TWA208>D2 542.020 544.770 Continue the climb to niner thousand, T W A Two Zero Eight.
+dca_d2_1 1 1>D2>N29A 545.740 548.860 November Two Nine Alpha, contact Baltimore one one niner point seven.
+dca_d2_1 1 1>N29A>D2 549.440 551.740 One one nine point seven, Two Nine Alpha, so long.
+dca_d2_1 1 1>D2>TWA208 581.430 585.410 T W A Two Oh Eight, contact Departure one two five point six five.
+dca_d2_1 1 2>TWA208>D2 585.930 588.320 Two five six five, T W A Two Oh Eight, good day.
+dca_d2_1 1 1>N24P>D2 643.030 646.120 Departure, King Air Two Two Four Papa is out of one for two.
+dca_d2_1 1 2>D2>N24P 646.120 649.110 King Air Two Two Four Papa, Washington Departure, radar contact.
+dca_d2_1 1 1>USA1511>D2 664.380 667.950 Departure, U S Air Fifteen Eleven is with you. We're out of fifteen hundred for five.
+dca_d2_1 1 1>D2>USA1511 668.280 671.490 Fifteen Eleven, Departure, radar contact, climb maintain niner thousand.
+dca_d2_1 1 1>USA1511>D2 671.890 673.420 Niner thousand, U S Air Fifteen Eleven.
+dca_d2_1 1 1>D2>ALO3691 710.140 714.480 Allegheny Thirty Six Ninety One, contact the Washington Center one three three point niner.
+dca_d2_1 1 1>ALO3691>D2 714.990 717.920 Thirty three niner, Allegheny Thirty Six Ninety One, good day.
+dca_d2_1 1 1>D2>N24P 717.920 720.160 November Two Four Pop, climb to four thousand.
+dca_d2_1 1 2>N24P>D2 720.570 721.860 four thousand, Two Four Pop.
+dca_d2_1 1 1>D2>USA1511 727.930 733.010 U S Air Fifteen Eleven, expedite your climb to nine thousand, and contact Washington one two five point six five.
+dca_d2_1 1 1>USA1511>D2 733.640 735.690 twenty five sixty five, U S Air Fifteen Eleven.
+dca_d2_1 1 1>D2>N24P 747.250 749.530 November Two Four Pop, turn right heading one two zero.
+dca_d2_1 1 1>N24P>D2 750.030 751.340 One two zero, Two Four Pop.
+dca_d2_1 1 1>D2>N24P 770.560 775.640 November Two Four Pop, traffic twelve eleven o'clock, two miles, southwestbound, out of fifty six for five.
+dca_d2_1 1 1>N24P>D2 776.480 777.790 Two Four Pop's looking.
+dca_d2_1 1 1>D2>N24P 813.770 816.930 Two Four Pop, turn right, direct NOTTINGHAM, climb maintain eight thousand.
+dca_d2_1 1 2>N24P>D2 817.460 819.700 Direct NOTTINGHAM, up to eight thousand, Two Four Pop.
+dca_d2_1 1 1>NWA1825>D2 855.070 858.020 Washington Departure, Northwest Eighteen Twenty Five, out of thirteen hundred.
+dca_d2_1 1 1>D2>N24P 865.540 867.720 Two Four Pop, climb maintain niner thousand.
+dca_d2_1 1 1>N24P>D2 868.400 869.900 Niner thousand, Two Four Pop.
+dca_d2_1 1 2>NWA1825>D2 871.670 874.050 Northwest Eighteen Twenty Five is with you, Departure.
+dca_d2_1 1 1>D2>NWA1825 874.050 878.440 Northwest Eighteen Twenty Five, Departure, radar contact, climb and maintain niner thousand, expedite climb.
+dca_d2_1 1 1>NWA1825>D2 879.020 881.690 Expedite climb, Northwest er Eighteen Twenty Five.
+dca_d2_1 1 1>HNA4304>D2 885.250 890.320 Good morning er Washington Departure, Henson Forty Three Oh Four is er eleven hundred climbing to two thousand.
+dca_d2_1 1 1>D2>HNA4304 890.650 897.060 Henson Forty Three Oh Four, Washington Departure, roger, climb maintain four thousand, radar contact.
+dca_d2_1 1 2>HNA4304>D2 897.510 899.980 Up to four thousand, er Henson Forty Three Oh Four.
+dca_d2_1 1 2>N64Q>D2 901.600 906.130 Er Washington Approach, Cessna Three Eight Six Four Quebec with you, two thousand five hundred.
+dca_d2_1 1 1>D2>N64Q 906.130 908.970 November Six Four Quebec, roger, expect on course in eight miles.
+dca_d2_1 1 1>N64Q>D2 909.770 911.040 On course eight miles, thank you.
+dca_d2_1 1 1>D2>N24P 936.430 943.080 November Two Four Pop, er contact Washington on one two five point six five.
+dca_d2_1 1 2>N24P>D2 943.810 945.710 Twenty five sixty five, Two Four Pop.
+dca_d2_1 1 1>D2>HNA4304 973.570 976.060 Henson Forty Three Oh Four, turn right heading one two zero.
+dca_d2_1 1 1>HNA4304>D2 976.060 978.570 Right turn heading one two zero, Forty Three Oh Four.
+dca_d2_1 1 1>D2>NWA1825 989.930 993.660 Northwest Eighteen Twenty Five, turn right heading zero five zero.
+dca_d2_1 1 1>NWA1825>D2 994.600 997.650 Right to zero five zero, Northwest Eighteen Twenty Five.
+dca_d2_1 1 1>D2>NWA1825 998.240 1001.560 Northwest Eighteen Twenty Five, contact Washington one two five point six five.
+dca_d2_1 1 1>NWA1825>D2 1001.900 1004.100 One two five six five, Northwest Eighteen Twenty Five.
+dca_d2_1 1 1>N650>D2 1007.540 1010.760 Er Washington Departure, Cardinal Five Two Six Five Zero.
+dca_d2_1 1 1>D2>N650 1010.760 1013.140 Cardinal Five Two Six Five Zero, Washington Approach.
+dca_d2_1 1 2>N650>D2 1013.580 1021.960 Er, roger, Washington Approach, Cardinal Five Two Six Five Zero, over Highfield at thirteen hundred feet, enroute to er Frederick Municipal, request clearance through your airspace, please.
+dca_d2_1 1 1>D2>N650 1021.960 1023.190 Where do you want to go?
+dca_d2_1 1 1>N650>D2 1023.190 1024.860 Er, Frederick Municipal.
+dca_d2_1 1 1>D2>N650 1025.280 1031.210 All right, contact Approach on er one two six point five. I'm sorry, * one two four point two.
+dca_d2_1 1 1>N650>D2 1031.210 1032.970 Er one two four point two, thank you.
+dca_d2_1 1 1>USA1507>D2 1106.590 1109.730 Er Departure, U S Air Fifteen Oh Seven, out of twenty three hundred.
+dca_d2_1 1 1>D2>USA1507 1109.730 1113.650 Fifteen Oh Seven, Departure, radar contact, climb maintain niner thousand, expedite climb.
+dca_d2_1 1 1>USA1507>D2 1114.420 1117.600 All right, expedite up to nine thousand, U S Air Fifteen Oh Seven.
+dca_d2_1 1 1>D2>HNA4304 1117.600 1121.420 Henson Forty Three Oh Four, climb maintain eight thousand, direct NOTTINGHAM, resume own nav.
+dca_d2_1 1 1>HNA4304>D2 1121.420 1124.800 Up to eight thousand, direct NOTTINGHAM, then own nav, Henson Forty Three Oh Four.
+dca_d2_1 1 2>N30WH>D2 1135.090 1138.410 Washington Approach, Bonanza Three Three Zero Whiskey Hotel, over Gaithersburg.
+dca_d2_1 1 1>D2>N30WH 1139.990 1141.980 Six three zero Whiskey Hotel, go ahead.
+dca_d2_1 1 1>N30WH>D2 1142.400 1147.460 Yeah that's Three Three Zero Whiskey Hotel, over Gaithersburg, wonder if we can get a tour of Washington.
+dca_d2_1 1 1>D2>N30WH 1147.460 1153.650 Er I don't believe so right now, the Approach side is really busy. Er can you wait about a half hour?
+dca_d2_1 1 1>N30WH>D2 1154.160 1156.240 Er negative, we're departing for California.
+dca_d2_1 1 1>D2>N30WH 1156.240 1159.570 Okay yeah they're really busy right now on the Approach side of the room.
+dca_d2_1 1 1>N30WH>D2 1160.260 1161.460 Okay, thanks a lot, sir.
+dca_d2_1 1 2>D2>N30WH 1161.460 1162.020 All right.
+dca_d2_1 1 1>D2>N64Q 1172.920 1176.210 November Six Four Quebec, you can resume your own navigation direct Martinsburg.
+dca_d2_1 1 2>N64Q>D2 1176.670 1178.770 Six Four Quebec, direct Martinsburg.
+dca_d2_1 1 2>D2>N64Q 1178.770 1180.220 I'll have higher for you shortly.
+dca_d2_1 1 2>N64Q>D2 1180.580 1181.350 I appreciate it.
+dca_d2_1 1 1>D2>USA1507 1211.120 1217.530 U S Air Fifteen Zero Seven, turn right heading zero five zero, contact Washington one two five point six five.
+dca_d2_1 1 1>USA1507>D2 1217.530 1222.300 A right turn zero five zero and twenty five sixty five, U S Air Fifteen Oh Seven.
+dca_d2_1 1 1>D2>N64Q 1264.830 1268.570 November Six Four Quebec, you can climb to three thousand. I'll have higher for you in a few miles.
+dca_d2_1 1 1>N64Q>D2 1269.280 1272.040 Six Four Quebec, out of two five for three thousand.
+dca_d2_1 1 1>D2>N64Q 1272.040 1277.250 Six Four Quebec has traffic at one o'clock, two miles, orbiting at thirty five hundred, Cessna one seventy two.
+dca_d2_1 1 1>N64Q>D2 1277.860 1280.010 Er Six Four Quebec looking, no joy.
+dca_d2_1 1 1>D2>N64Q 1294.350 1296.390 November Six Four Quebec, what heading are you on?
+dca_d2_1 1 1>N64Q>D2 1297.100 1299.300 Er we're flying a three one zero right now.
+dca_d2_1 1 2>D2>N64Q 1299.300 1305.370 All right, fly heading three three zero, er I gotta get you outside the ten D M E, and then I'll let you go back on that three ten.
+dca_d2_1 1 2>N64Q>D2 1305.860 1308.820 Okay, we're three three zero for now, Six Four Quebec.
+dca_d2_1 1 1>D2>N64Q 1308.820 1311.410 All right, and your traffic's twelve o'clock, less than a mile.
+dca_d2_1 1 1>N64Q>D2 1311.410 1312.390 Er, we got him now.
+dca_d2_1 1 1>D2>N64Q 1348.510 1351.280 November Six Four Quebec, climb to four thousand five hundred.
+dca_d2_1 1 1>N64Q>D2 1351.640 1354.820 Six Four Quebec's out of three thousand for four thousand five hundred.
+dca_d2_1 1 1>VENUS81>D2 1390.050 1392.650 Morning Washington, Venus Eight One is out of eleven hundred for three thousand.
+dca_d2_1 1 1>D2>HNA4304 1393.260 1397.250 Henson Forty Three Oh Four, depart, * er contact the Center one three three point niner.
+dca_d2_1 1 2>HNA4304>D2 1397.670 1400.860 One three three point niner, Henson Forty Three Oh Four, good day sir.
+dca_d2_1 1 1>D2>VENUS81 1403.940 1406.690 Venus Eight One, Washington Departure, radar contact.
+dca_d2_1 1 1>VENUS81>D2 1407.760 1408.350 Venus Eight One.
+dca_d2_1 1 1>D2>VENUS81 1486.440 1491.800 Venus Eighty One, turn left heading three three zero, join Victor two sixty five, climb maintain five thousand.
+dca_d2_1 1 1>VENUS81>D2 1492.630 1496.070 Three three zero to join Victor two sixty five, climbing to five thousand, Venus Eight One.
+dca_d2_1 1 1>D2>N64Q 1563.040 1565.080 November Six Four Quebec, on course now.
+dca_d2_1 1 2>N64Q>D2 1565.570 1567.190 Er Six Four Quebec, on course.
+dca_d2_1 1 2>N650>D2 1569.370 1571.420 Morning, Departure, Cardinal Five Two Six Five Zero.
+dca_d2_1 1 3>D2>N650 1571.950 1573.740 Cardinal Six Five Zero, Washington, roger.
+dca_d2_1 1 2>N91S>D2 1578.290 1586.500 Baltimore Approach, Skylane Washington Approach, Cessna One Four Nine One Sierra.
+dca_d2_1 1 1>D2>N91S 1586.500 1591.150 One Four Nine One Sierra, Washington, you're cleared through the T C A, the Washington altimeter three zero one seven.
+dca_d2_1 1 2>N91S>D2 1591.650 1593.780 Three zero one seven, Nine One Sierra.
+dca_d2_1 1 1>D2>VENUS81 1600.600 1603.500 Venus Eighty One, contact Baltimore one two eight point seven.
+dca_d2_1 1 2>VENUS81>D2 1603.920 1605.520 Twenty eight seven, Venus Eight One, good morning.
+dca_d2_1 1 1>D2>N650 1618.850 1621.280 November Six Five Zero, you on your own navigation?
+dca_d2_1 1 2>N650>D2 1621.770 1625.120 Affirmative, you gave me a course of zero one zero right now.
+dca_d2_1 1 2>D2>N650 1625.120 1628.810 Okay, well he had zero one zero down. I just wanted to make sure that was your on course heading.
+dca_d2_1 1 1>D2>N64Q 1632.590 1636.550 November Six Four Quebec, contact Dulles on one twenty six one, good day.
+dca_d2_1 1 1>N64Q>D2 1637.080 1639.960 Two six point one for Six Four Quebec, good day.
+dca_d2_1 1 1>N2>D2 1679.130 1682.500 And Departure, Citation Two is with you, out of thirteen hundred, climbing to five thousand.
+dca_d2_1 1 1>D2>N2 1683.550 1687.480 November Two, Washington Departure, maintain two thousand, radar contact.
+dca_d2_1 1 1>N2>D2 1687.480 1687.900 All right.
+dca_d2_1 1 1>D2>N2 1712.260 1714.780 November Two, did you say you were coming off climbing to five?
+dca_d2_1 1 1>N2>D2 1715.260 1717.230 That's correct, that's what the clearance said.
+dca_d2_1 1 1>D2>N2 1717.890 1722.300 Maintain two thousand, traffic at ten o'clock and less than a mile, northbound, V F R at twenty five hundred.
+dca_d2_1 1 1>N2>D2 1722.300 1723.230 Okay, we got it.
+dca_d2_1 1 1>D2>N2 1723.580 1724.090 All right.
+dca_d2_1 1 2>D2>N2 1724.610 1727.830 November Two, maintain visual separation, that traffic, climb to maintain four thousand.
+dca_d2_1 1 1>N2>D2 1728.210 1731.460 All right sir, we're out of two thousand for four thousand, Citation Two.
+dca_d2_1 1 1>D2>N2 1762.740 1764.810 November Two, turn right heading one three zero.
+dca_d2_1 1 1>N2>D2 1765.410 1767.320 One three zero, Citation Two, roger.
+dca_d2_1 1 1>D2>N91S 1822.800 1827.210 November Four One Sier, correction, Nine One Sierra, contact Washington one one eight point niner five.
+dca_d2_1 1 2>N91S>D2 1828.230 1831.160 Washington one one eight point niner five.
+dca_d2_1 1 1>D2>N2 1839.150 1842.670 Citation Two, climb and maintain niner thousand.
+dca_d2_1 1 2>N2>D2 1842.980 1845.670 Roger, departing four thousand for niner thousand, Citation Two.
+dca_d2_1 1 1>D2>N2 1849.640 1851.530 November Two, fly heading one three zero now.
+dca_d2_1 1 1>D2>N2 1853.570 1855.320 I'm sorry, I already gave you one thirty.
+dca_d2_1 1 1>N2>D2 1855.840 1856.450 Okay.
+dca_d2_1 1 2>VENUS70>D2 1859.980 1863.820 Morning Washington, Venus Seven Zero, passing two thousand for three thousand, heading zero five zero.
+dca_d2_1 1 1>D2>VENUS70 1864.350 1866.510 Venus Seven Zero, Washington Departure, roger.
+dca_d2_1 1 1>D2>VENUS70 1871.380 1873.590 Venus Seven Zero, what code are you squawking?
+dca_d2_1 1 1>VENUS70>D2 1874.500 1876.270 I got four seven four six.
+dca_d2_1 1 1>D2>VENUS70 1876.270 1878.730 All right, the code is four seven five six.
+dca_d2_1 1 1>VENUS70>D2 1878.730 1879.310 Okay.
+dca_d2_1 1 1>D2>VENUS70 1880.240 1882.050 Four seven five six is your code.
+dca_d2_1 1 2>VENUS70>D2 1882.530 1884.610 I have four seven five six now, Venus Seventy.
+dca_d2_1 1 1>D2>VENUS70 1910.770 1917.420 Venus Seventy is radar contact, turn right heading zero nine zero, join the Andrews zero six seven radial, climb and maintain one one thousand.
+dca_d2_1 1 2>VENUS70>D2 1917.420 1921.770 Zero nine zero, join the Andrews zero six seven, out of three for eleven, Venus Seventy.
+dca_d2_1 1 1>D2>N2 1923.570 1925.730 November Two, turn right heading one niner zero.
+dca_d2_1 1 1>N2>D2 1926.460 1928.240 One niner zero, Citation Two, roger.
+dca_d2_1 1 2>AAL1693>D2 1931.250 1934.610 Departure, American Sixteen Ninety Three, passing two point five for five thousand.
+dca_d2_1 1 1>D2>AAL1693 1934.610 1938.200 American Sixteen Ninety Three, Departure, radar contact, climb and maintain niner thousand.
+dca_d2_1 1 1>AAL1693>D2 1938.200 1940.910 Climb maintain nine thousand, American Sixteen Ninety Three.
+dca_d2_1 1 1>D2>N2 1948.830 1952.290 November Two, contact Washington Departure one two five point six five.
+dca_d2_1 1 1>N2>D2 1952.290 1953.940 Twenty five sixty five, roger, good day.
+dca_d2_1 1 1>D2>VENUS70 1963.800 1966.760 Venus Seven Zero, amend you altitude, maintain one zero thousand.
+dca_d2_1 1 2>VENUS70>D2 1966.760 1968.430 Okay, stop at ten, Venus Seventy.
+dca_d2_1 1 1>D2>VENUS70 1968.430 1972.340 Venus Seventy, contact Baltimore one two four point five five.
+dca_d2_1 1 1>VENUS70>D2 1972.340 1973.830 Twenty four fifty five, good day.
+dca_d2_1 1 1>D2>AAL1693 1991.060 1995.010 American Sixteen Ninety Three, contact Washington on one two five point six five.
+dca_d2_1 1 1>AAL1693>D2 1995.310 1997.420 Two five six five, American Sixteen Ninety Three.
+dca_d2_1 1 1>D2>N650 1998.460 2001.530 November Six Five Zero, contact Baltimore one two eight point seven.
+dca_d2_1 1 1>N650>D2 2001.950 2003.660 One two eight point seven, roger.
+dca_d2_1 1 1>PCA3634>D2 2004.720 2007.440 Departure, Penn Thirty Six Thirty Four is out of one and a half for two.
+dca_d2_1 1 1>D2>PCA3634 2007.440 2010.040 Penn Thirty Six Thirty Four, Departure, radar contact.
+dca_d2_1 1 2>D2>PCA3634 2050.670 2056.440 Penn Thirty Six Thirty Four, turn left to three three er present heading, climb and maintain five thousand, vectors around traffic.
+dca_d2_1 1 2>PCA3634>D2 2056.840 2058.700 Present heading to five, Penn Thirty Six Thirty Four.
+dca_d2_1 1 1>D2>PCA3634 2101.080 2104.460 Penn Thirty Six Thirty Four, turn left to three three zero, join Victor two sixty five.
+dca_d2_1 1 1>PCA3634>D2 2104.900 2107.230 Three thirty to join, Penn Thirty Six Thirty Four, thanks.
+dca_d2_1 1 1>D2>PCA3634 2148.920 2151.870 Penn Thirty Six Thirty Four, contact Baltimore one two eight point seven.
+dca_d2_1 1 2>PCA3634>D2 2152.510 2154.610 Twenty eight seven, Penn Thirty Six Thirty Four, see you later.
+dca_d2_1 1 1>DAL1746>D2 2339.240 2342.790 Departure, Delta Seventeen Forty Six, leaving one thousand five hundred.
+dca_d2_1 1 1>D2>DAL1746 2342.790 2347.370 Delta Seventeen Forty Six, Washington Departure, radar contact, climb and maintain flight level one niner zero.
+dca_d2_1 1 1>DAL1746>D2 2347.370 2348.380 Recleared to one nine oh.
+dca_d2_1 1 1>D2>AAL1693 2354.860 2358.790 American Sixteen Ninety Three, contact the Washington Center one three three point niner, good morning.
+dca_d2_1 1 2>D2>DAL1746 2459.590 2465.060 Delta Seventeen Forty Six, turn right heading zero seven zero, intercept the KENTON two seven one radial, and expedite through fourteen, please.
+dca_d2_1 1 2>DAL1746>D2 2465.060 2470.180 Zero seven zero, KENTON er two seventy one, expedite through fourteen, Delta Seventeen Forty Six.
+dca_d2_1 1 1>D2>DAL1746 2643.360 2647.140 Delta Seventeen Forty Six, contact Washington Center one three four point five.
+dca_d2_1 1 1>DAL1746>D2 2648.570 2651.000 Thirty four five for Delta Seventeen Forty Six.
+dca_d2_1 1 1>N15A>D2 2679.140 2682.080 Washington Departure, Two Zero One Five Alpha with you at four.
+dca_d2_1 1 1>D2>N15A 2682.080 2684.700 One Five Alpha, Washington, roger, you landing Annapolis?
+dca_d2_1 1 1>N15A>D2 2684.700 2685.480 Affirm.
+dca_d2_1 1 1>D2>N15A 2685.480 2687.250 Descend and maintain three thousand.
+dca_d2_1 1 1>N15A>D2 2687.750 2689.380 Down to three, One Five Alpha.
+dca_d2_1 1 1>ROSS41>D2 2702.270 2704.030 And Washington, Ross Four One.
+dca_d2_1 1 1>D2>ROSS41 2704.780 2705.860 Ross Four One, go ahead.
+dca_d2_1 1 2>ROSS41>D2 2706.290 2710.010 Yes sir, we're complete here, your convenience, like er back to Manassas.
+dca_d2_1 1 1>D2>ROSS41 2710.010 2714.170 All right er southeastbound, then over the top of the airport, direct Manassas.
+dca_d2_1 1 1>ROSS41>D2 2714.520 2717.280 Okay, southeast over the top, direct Manassas, Ross Four One.
+dca_d2_1 1 1>D2>N15A 2751.750 2755.040 One Five Alpha, contact Andrews on one one niner point three.
+dca_d2_1 1 1>N15A>D2 2755.360 2756.280 One niner point three.
+dca_d2_1 1 1>D2>ROSS41 2792.470 2795.390 Ross Four One, contact Washington on one one eight point niner five.
+dca_d2_1 1 1>ROSS41>D2 2795.970 2797.600 One eighteen niner five, good day sir.
+dca_d2_1 1 1>USA1534>D2 3044.530 3047.590 Departure, U S Air Fifteen Thirty Four, one thousand for five.
+dca_d2_1 1 1>D2>USA1534 3047.590 3051.410 U S Fifteen Thirty Four, Departure, radar contact, climb and maintain flight level one niner zero.
+dca_d2_1 1 1>USA1534>D2 3051.410 3053.640 All the way up to one nine zero, U S Air Fifteen Thirty Four.
+dca_d2_1 1 1>USA1534>D2 3169.490 3172.350 Any chance direct SWANN, U S Air Fifteen Thirty Four?
+dca_d2_1 1 1>D2>USA1534 3197.700 3202.800 U S Air Fifteen Thirty Four, turn right heading zero seven zero, intercept the KENTON two seven one radio, SWANN, resume on nav.
+dca_d2_1 1 2>USA1534>D2 3202.800 3206.150 Okay, two sev, excuse me, * zero seven zero to join up, U S Air Fifteen Thirty Four.
+dca_d2_1 1 1>VENUS24>D2 3208.130 3212.650 Departure, Venus Two Four is with you, passing one thousand for three thousand, turning right to zero five zero.
+dca_d2_1 1 1>D2>VENUS24 3212.990 3215.600 Venus Two Four, Washington Departure, radar contact.
+dca_d2_1 1 1>D2>NOBLE1 3219.350 3222.090 Noble One, roger, turn left heading two two zero. You V F R.
+dca_d2_1 1 1>D2>NOBLE1 3225.030 3225.630 Roger.
+dca_d2_1 1 1>D2>NOBLE1 3258.750 3260.810 Noble One, turn left heading one niner zero.
+dca_d2_1 1 1>D2>NOBLE1 3275.500 3280.410 Noble One, contact Washington on three zero six point three.
+dca_d2_1 1 1>D2>VENUS24 3295.350 3297.760 Venus Two Four, turn right heading one eight zero.
+dca_d2_1 1 2>VENUS24>D2 3297.760 3299.500 Right to one eight zero, Venus Two Four.
+dca_d2_1 1 1>D2>VENUS24 3299.500 3303.910 Venus Two Four, climb and maintain one four thousand.
+dca_d2_1 1 1>VENUS24>D2 3303.910 3306.210 Venus Two Four is out of three thousand for one four thousand.
+dca_d2_1 1 1>D2>TBZ796 3332.990 3340.580 Trans Brazil er Seven Ninety Six, Washington, climb and maintain one seven thousand, intercept the ARMEL zero nine one radial, resume own nav.
+dca_d2_1 1 1>D2>TBZ796 3353.350 3356.490 Seventeen thousand, and intercept the ARMEL zero nine one radial.
+dca_d2_1 1 1>D2>USA1534 3365.530 3370.010 U S Air Fifteen Thirty Four, contact Washington on Washington Center one thirty four five.
+dca_d2_1 1 2>USA1534>D2 3370.410 3374.060 Thirty four five, have a good day, so long sir, Fifteen Thirty Four.
+dca_d2_1 1 1>N68AC>D2 3387.510 3389.800 Washington Approach, Cessna Six Eight Alpha Charlie.
+dca_d2_1 1 1>D2>N68AC 3390.530 3392.370 Six Eight Alpha Charlie, Washington, roger.
+dca_d2_1 1 1>D2>VENUS24 3419.220 3424.370 Venus Two Four, turn right heading two zero zero. NOTTINGHAM V O R is out of service.
+dca_d2_1 1 1>VENUS24>D2 3425.340 3427.480 Venus Two Four, right to two zero zero.
+dca_d2_1 1 1>D2>TBZ796 3443.210 3448.650 Trans Brazil Seven Ninety Six, contact the Washington Center one three four point five.
+dca_d2_1 1 1>D2>VENUS24 3466.600 3469.120 Venus Two Four, fly heading one eight five.
+dca_d2_1 1 1>VENUS24>D2 3469.520 3470.820 One eight five, Venus Two Four.
+dca_d2_1 1 1>D2>VENUS24 3484.670 3488.750 Venus Two Four, contact Washington Center one three three point niner.
+dca_d2_1 1 1>VENUS24>D2 3489.070 3491.050 One three three point nine, Venus Two Four, so long.
+dca_d2_1 1 1>JEX2711>D2 3539.390 3541.730 Jetex Twenty Seven Eleven is out of a thousand.
+dca_d2_1 1 2>D2>JEX2711 3542.080 3547.140 Jetex Twenty Seven Eleven, Departure, radar contact, climb and maintain niner thousand.
+dca_d2_1 1 1>JEX2711>D2 3547.450 3549.360 Niner thousand, Jetex Twenty Seven Eleven.
+dca_d2_1 1 3>D2>N8GF 3580.700 3585.120 Eight Golf Fox, roger, intercept the KENTON two seven, I'm sorry, * ARMEL ninety one radial, resume own nav.
+dca_d2_1 1 1>D2>N8GF 3591.270 3593.500 I'm sorry, expect vectors over NOTTINGHAM.
+dca_d2_1 1 2>D2>JEX2711 3602.950 3607.930 Jetex Twenty Seven Eleven, turn right heading zero nine zero, join the Andrews zero six seven radial, resume own nav.
+dca_d2_1 1 1>JEX2711>D2 3608.830 3612.330 Zero nine zero, join the Andrews zero six seven, Jetex Twenty Seven Eleven.
+dca_d2_1 1 1>D2>N8GF 3637.350 3642.000 November Eight Golf Fox, climb and maintain one, * flight level one niner zero.
+dca_d2_1 1 1>D2>N8GF 3645.750 3651.800 Eight Golf Fox, the NOTTINGHAM V O R is out of service, you can expect er clearance direct DAILY momentarily.
+dca_d2_1 1 1>D2>N8GF 3726.230 3728.850 November Eight Golf Fox, direct DAILY, resume own nav.
+dca_d2_1 1 1>D2>JEX2711 3732.580 3736.660 Jetex Twenty Seven Eleven, contact Baltimore one two four point five five.
+dca_d2_1 1 2>JEX2711>D2 3737.330 3740.210 twenty four fifty five, Jetex Twenty Seven Eleven.
+dca_d2_1 1 1>NAE4991>D2 3753.560 3758.490 And Departure, good morning, Eagle er Forty Nine Ninety One with you, out of a thousand.
+dca_d2_1 1 1>D2>N68AC 3763.640 3767.730 November Six Eight Alpha Charlie, contact Baltimore one two eight point seven.
+dca_d2_1 1 1>N68AC>D2 3769.190 3771.160 One two eight point seven, roger.
+dca_d2_1 1 1>D2>N8GF 3771.160 3776.380 November Eight Golf Foxtrot, contact the Washington Center one three three point niner.
+dca_d2_1 1 1>D2>N8GF 3779.280 3779.700 Right.
+dca_d2_1 1 1>D2>NAE4991 3780.800 3784.440 Eagle Forty Nine Ninety One, Departure, radar contact, climb and maintain four thousand.
+dca_d2_1 1 2>NAE4991>D2 3785.180 3787.300 And up to four thousand now, Forty Nine Ninety One.
+dca_d2_1 1 2>D2>TTS235 3800.150 3805.390 Trans Star Two Thirty Five, Washington roger, fly heading one twenty, join the KENTON two seven one radial, resume own nav.
