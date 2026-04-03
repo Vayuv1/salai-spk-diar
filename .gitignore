@@ -1,0 +1,65 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# === Virtual environments ===
+.venv/
+venv/
+env/
+.uv/
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# === Jupyter ===
+.ipynb_checkpoints/
+*.ipynb_metadata/
+
+# === Data — DO NOT track audio, models, or large generated files ===
+data/atc0r/audio/
+data/external/
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.nemo
+*.ckpt
+*.pt
+*.bin
+*.safetensors
+
+# === Generated outputs ===
+data/processed/
+results/
+prob_tensors/
+*.npy
+
+# === Logs ===
+logs/
+*.log
+wandb/
+mlruns/
+
+# === NeMo / Hydra runtime artifacts ===
+outputs/
+multirun/
+.nemo_tmp/
+
+# === OS artifacts ===
+Thumbs.db
+.DS_Store
+
+# === Secrets ===
+.env
+*.secret
