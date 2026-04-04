@@ -32,6 +32,8 @@ import json
 import logging
 import os
 from pathlib import Path
+import torch
+torch.serialization.add_safe_globals([torch.torch_version.TorchVersion])
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
 log = logging.getLogger(__name__)
@@ -69,7 +71,6 @@ def run_pyannote_diarization(
         use_auth_token=token,
     )
 
-    import torch
     if torch.cuda.is_available():
         pipeline.to(torch.device("cuda"))
         log.info("Pipeline moved to CUDA")

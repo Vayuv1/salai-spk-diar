@@ -264,7 +264,10 @@ def run_streaming_inference(
         ignore_overlap=False,
     )
 
-    der = abs(metric)
+    if isinstance(metric, tuple):
+        der = abs(metric[0])
+    else:
+        der = abs(metric)
     log.info(f"DER: {der:.4f} ({preset['label']})")
 
     return {"der": der, "latency": latency, "label": preset["label"], "n_predictions": len(preds_list)}
