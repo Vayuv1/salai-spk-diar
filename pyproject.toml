@@ -46,6 +46,7 @@ dependencies = [
     "tqdm>=4.66",
     "optuna>=3.5",
     "onnx>=1.17,<1.19",
+    "gdown>=5.2.1",
 ]
 
 [project.optional-dependencies]
