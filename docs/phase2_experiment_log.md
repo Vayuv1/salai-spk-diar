@@ -228,6 +228,43 @@ Numbers below are macro-averages across dca_d1_1, dca_d1_3, log_id_1 (first 350s
 
 ---
 
+## Visual Analysis: Cross-System Timeline Comparison
+
+**Script:** `src/spkdiar/analysis/plot_timeline.py`
+**Figure:** `results/plots/dca_d1_1_timeline_55-150.png`
+**Window:** dca_d1_1, 55–150 s (covers the first dense exchange block plus a long silence, then a three-speaker cluster at 93–112 s)
+
+The timeline shows five horizontal lanes on a shared time axis: ground truth (GT), Sortformer offline, Sortformer streaming, LS-EEND, and Pyannote 3.1. Sortformer and LS-EEND lanes show probability curves (per-speaker sigmoid or tanh-to-[0,1] converted outputs). GT and Pyannote lanes show RTTM bars with one sub-row per speaker. Sortformer windows are rendered using only the centre 5 s of each 10 s window so each time point is covered by exactly one window.
+
+### Observations by system
+
+**GT**: Three speakers appear in the 55–150 s window — controller D1-1 (orange) and two pilots, DAL209 and AAL1581 (blue/green). Speech is sparse: short bursts at 63–69 s, then a dense exchange at 93–112 s with three distinct speakers alternating at 3–5 s intervals. Roughly 50 s of silence separates the two clusters.
+
+**Sortformer offline**: The lock-up pattern is visually unambiguous. Speaker 0 (red) dominates the entire 93–120 s block, maintaining a near-1.0 probability even as the GT shows DAL209 and AAL1581 speaking at 93–96 s and 101–103 s. Speaker 1 (blue) has a few brief activations but never cleanly alternates with speaker 0. The model correctly identifies that speech is occurring — curves snap between 0 and 1 with sharp transitions that align well with GT segment boundaries — but the identity assignment freezes after the first few frames of the burst. This is the attention entropy collapse in practice: once the model commits to a speaker assignment within a 10 s window, it does not recover.
+
+**Sortformer streaming**: The speaker alternation is noticeably better than offline. Speaker 0 (red) and speaker 1 (blue) exchange across the 93–112 s cluster in a pattern that loosely matches the GT turn-taking structure, which is the expected benefit of AOSC's explicit speaker cache. However, the baseline probabilities during the 55–90 s silence are elevated to 0.05–0.25 for multiple channels simultaneously, rather than collapsing cleanly to zero. This elevated noise floor is the calibration mismatch that causes the 27.55% FA rate: the model was trained on near-continuous speech and never learned to produce confident near-zero outputs during the long silences that characterise ATC radio.
+
+**LS-EEND**: The grey dashed silence column (col 0) correctly tracks speech activity throughout — it drops toward zero at every GT speech segment and rises during silence. The speech boundary detection is working. The failure is in speaker separation: essentially all detected speech collapses to a single attractor (spk1, blue), with spk2 (green) activating only briefly at the boundary of the 93 s cluster. The CALLHOME model populated its attractor slots from a maximum of 6–8 simultaneously-active telephone speakers; with ATC's sequential single-speaker turns and narrow-band audio, the cross-speaker attention in the decoder finds no pressure to populate a second attractor. The result is 30–39% CER despite correct VAD — a different failure mode from Sortformer's lock-up, but equally severe.
+
+**Pyannote 3.1**: Two sub-rows appear in the Pyannote lane (SPEAKER\_00, SPEAKER\_01), compared to three GT speakers. SPEAKER\_01 accounts for the majority of detected segments, with SPEAKER\_00 appearing only once in the 93–96 s region. Many GT segments are present in the Pyannote output with roughly correct boundaries, but two of the three speakers are merged into SPEAKER\_01. This is the embedding collapse described in Experiment 3: the ECAPA-TDNN embeddings for all ATC speakers land in a tight cluster in speaker space, and agglomerative clustering below the similarity threshold merges them. Pyannote does not exhibit lock-up — its decisions are independent per segment — but the upstream embedding failure makes correct clustering impossible.
+
+### Cross-system interpretation
+
+All four systems fail, but each fails in a distinct way that reflects the interaction between architecture and the ATC domain:
+
+| System | VAD quality | Speaker ID quality | Failure mechanism |
+|--------|-------------|-------------------|-------------------|
+| Sortformer offline | Good (FA 0.8%, MISS 1.4%) | Poor (CER 8.5%) | Attention lock-up within window |
+| Sortformer streaming | Over-active (FA 27.6%) | Best CER (6.8%) | Calibration mismatch in silence |
+| LS-EEND | Good (silence curve tracks GT) | Poor (CER 31–39%) | Attractor collapse to 1–2 slots |
+| Pyannote 3.1 | Moderate | Very poor | Embedding collapse pre-clustering |
+
+Sortformer offline remains the best system by DER (10.71%) because its VAD is accurate and CER, while problematic, is substantially lower than the attractor collapse seen in LS-EEND. The timeline also suggests that the lock-up is not a permanent state — speaker 0 does drop to near zero at some segment boundaries, meaning the window-level reset partially mitigates persistence. Fine-tuning on ATC data or adding explicit noise-floor suppression are the highest-leverage interventions for any of these architectures.
+
+**Waterfall plots** (per-window probability heatmaps across the full 350 s run) are available at `src/spkdiar/analysis/plot_waterfall.py` and provide a complementary view showing how the probability assignment evolves across all 35 windows rather than a single continuous time slice.
+
+---
+
 ## Upcoming experiments
 
 - [ ] LS-EEND simulated checkpoint (1–8 speaker variety) — download and test

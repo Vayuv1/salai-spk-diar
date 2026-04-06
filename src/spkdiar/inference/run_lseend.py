@@ -46,6 +46,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import json
 import logging
 import sys
 from pathlib import Path
@@ -315,6 +316,7 @@ def infer_recording(
     # outputs[0]: (n_frames, MAX_NSPKS=9)
     # col 0 = silence, cols 1..MAX_SPEAKERS = speakers, col MAX_NSPKS-1 = none
     logits = outputs[0].cpu().float()  # (T, 9)
+    probs = torch.tanh(logits).numpy().astype(np.float32)  # (T, 9) full prob tensor
     spk_logits = logits[:, 1 : MAX_SPEAKERS + 1]  # (T, 7) speaker columns only
 
     log.info(f"  [infer] logits shape={logits.shape}  threshold={threshold}")
@@ -325,7 +327,7 @@ def infer_recording(
         log.info(f"  [infer] spk{i}: mean={col.mean():.4f}  min={col.min():.4f}  max={col.max():.4f}  pct_active={pct:.1f}%")
 
     activity = (spk_logits > threshold).numpy().astype(np.int32)
-    return activity  # (T, 7)
+    return activity, probs  # (T, 7), (T, 9)
 
 
 def activity_to_rttm(
@@ -475,6 +477,8 @@ def main() -> None:
 
     rttm_out_dir = args.out_dir / "pred_rttm"
     rttm_out_dir.mkdir(parents=True, exist_ok=True)
+    prob_tensors_dir = args.out_dir / "prob_tensors"
+    prob_tensors_dir.mkdir(parents=True, exist_ok=True)
 
     model = load_model(args.model_path, device)
 
@@ -503,8 +507,25 @@ def main() -> None:
         duration = n_frames * FRAME_SHIFT_SEC
         log.info(f"  Features: {n_frames} frames ({duration:.1f} s), input_dim={feat.shape[1]}")
 
-        activity = infer_recording(model, feat, n_frames, device, threshold=args.threshold)
+        activity, probs = infer_recording(model, feat, n_frames, device, threshold=args.threshold)
         log.info(f"  Active speakers detected: {activity.any(axis=0).sum()}")
+
+        # Save full probability tensor (T, 9) as float32
+        prob_path = prob_tensors_dir / f"{rec_id}.npy"
+        np.save(str(prob_path), probs)
+        meta = {
+            "frame_step_sec": 0.1,
+            "n_frames": int(probs.shape[0]),
+            "n_cols": 9,
+            "col_0": "silence",
+            "cols_1_8": "speakers",
+            "threshold_used": args.threshold,
+            "feat_normalize": normalize,
+        }
+        meta_path = prob_tensors_dir / f"{rec_id}_meta.json"
+        with open(meta_path, "w") as f:
+            json.dump(meta, f, indent=2)
+        log.info(f"  Prob tensor saved: {prob_path}  shape={probs.shape}  dtype={probs.dtype}")
 
         segments = activity_to_rttm(activity, rec_id)
         hyp_rttm = rttm_out_dir / f"{rec_id}.rttm"
