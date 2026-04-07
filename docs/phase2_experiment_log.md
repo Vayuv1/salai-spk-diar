@@ -265,10 +265,69 @@ Sortformer offline remains the best system by DER (10.71%) because its VAD is ac
 
 ---
 
+## Phase 3.1: Attention Entropy Analysis — Lock-up Mechanism Confirmed
+
+**Date:** April 7, 2026
+**Script:** `src/spkdiar/analysis/attention_entropy.py`
+**Data:** `results/attention_entropy/entropy_data.json`
+**Figure:** `results/plots/attention_entropy_comparison.png`
+
+### Method
+
+Forward hooks were registered on the `attn_dropout` submodule inside each of Sortformer's 18 `TransformerEncoderBlock` layers (`transformer_encoder.layers.{i}.first_sub_layer.attn_dropout`). NeMo's `MultiHeadAttention.forward()` feeds the post-softmax attention matrix into `attn_dropout` as its first input argument before applying dropout, so the hook captures the clean attention weights at shape `(B, 8, T, T)` in float32, regardless of the model's bf16 inference dtype. No monkey-patching of model code was required.
+
+Shannon entropy of each layer's attention was computed as:
+
+```
+H[b, h, q] = −∑_k A[b, h, q, k] · log(A[b, h, q, k] + ε)
+```
+
+averaged over batch, heads, and query positions. Maximum entropy for a uniform distribution over T=125 frames is ln(125) = 4.828 nats. Per-head entropy was also recorded to produce ±1σ bands.
+
+### Windows analysed
+
+Four 10 s windows from dca_d1_1:
+
+| Window | Offset | GT content | Role |
+|--------|--------|------------|------|
+| Good (primary) | 55 s | Short D1-1/DAL209 burst; model correctly tracks | Correct tracking |
+| Bad (primary) | 95 s | Dense 3-speaker exchange; model locks to one speaker | Lock-up |
+| Good (replication) | 60 s | Overlaps first speech onset at 63 s | Intermediate |
+| Silence | 115 s | No speech (exchange ended at 112 s) | Near-uniform baseline |
+
+### Results
+
+| Window | Layer-17 H (nats) | σ across heads |
+|--------|------------------|---------------|
+| 55 s — correct tracking | 4.678 | 0.092 |
+| 95 s — lock-up | **3.979** | **0.184** |
+| 60 s — first speech onset | 4.121 | 0.169 |
+| 115 s — silence | 4.802 | 0.033 |
+
+**Primary gap (55 s − 95 s) at layer 17: 0.699 nats (14.5% of maximum entropy)**
+
+The divergence between the correct-tracking and lock-up windows grows monotonically from layer 1 (Δ = 0.25 nats) to layer 17 (Δ = 0.70 nats), with the sharpest widening in layers 14–17 — the output layers that directly feed the speaker probability matrix. This is the expected signature of attention entropy collapse: deeper layers progressively commit to a narrow set of key frames rather than attending broadly across the 10 s context.
+
+The per-head standard deviation at layer 17 is also diagnostic: σ = 0.033 nats in silence (all 8 heads equally diffuse), rising to σ = 0.184 nats in the lock-up window (heads diverge as some concentrate more sharply than others). The good-tracking window sits between these extremes (σ = 0.092).
+
+### Interpretation
+
+The entropy data provides quantitative evidence for the mechanism proposed in Phase 1:
+
+1. **Attention collapse is real and layer-progressive.** It is not a discrete event at a single layer but a cumulative narrowing, suggesting that regularisation of the deeper layers (e.g. σReparam on layers 10–17) would be the highest-leverage intervention.
+
+2. **Silence is the cleanest baseline.** Near-uniform attention (H ≈ 4.80) when no speech is present confirms that the model's attention mechanism starts diffuse; collapse is driven by the input, not by a pathological initialisation.
+
+3. **The 60 s window is intermediate**, not "good". This makes sense: it contains the first speech onset, where the model begins to focus. True lock-up requires the model to have already committed to a speaker across multiple frames, which is what happens by 95 s.
+
+4. **Σ across heads increases during lock-up.** This suggests that head specialisation under ATC domain pressure is uneven — some heads collapse earlier than others. This could be exploited by an auxiliary head-diversity loss during fine-tuning.
+
+---
+
 ## Upcoming experiments
 
 - [ ] LS-EEND simulated checkpoint (1–8 speaker variety) — download and test
-- [ ] Attention entropy extraction from Sortformer layers (diagnostic evidence for lock-up)
+- [x] Attention entropy extraction from Sortformer layers (diagnostic evidence for lock-up) ← done
 - [ ] Speaker embedding analysis: ECAPA-TDNN at 8 kHz vs 16 kHz on ATC
 - [ ] Waterfall plots comparing all systems visually on same windows
 - [ ] Engineering design decisions note (syllabus deliverable 1e)
