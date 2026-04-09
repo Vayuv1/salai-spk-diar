@@ -367,11 +367,52 @@ Three recording conditions were analysed:
 
 ---
 
+## Phase 3.4: Entropy vs CER Correlation — dca_d2_2 Null Result
+
+**Date:** April 9, 2026
+
+**Script:** `src/spkdiar/analysis/entropy_vs_cer.py`
+
+**Setup:** dca_d2_2, windows with start in [2880, 2960)s. For each of the 15 usable windows (1 skipped — no reference speech): (a) load existing offline Sortformer pred RTTM, compute per-window CER vs GT RTTM clipped to window (pyannote, collar=0.25s, UEM-bounded); (b) load audio at 16 kHz, run Sortformer with `AttentionCapture` hooks to get layer-17 mean attention entropy.
+
+**Results (15 windows):**
+
+| Window (start) | H17 (nats) | CER | FA | MISS |
+|---|---|---|---|---|
+| 2880s | 4.649 | 0.000 | 0.000 | 0.000 |
+| 2890s | 4.590 | 0.000 | 0.000 | 0.000 |
+| 2895s | 4.303 | 0.238 | 0.026 | 0.000 |
+| 2900s | 4.280 | 0.180 | 0.019 | 0.000 |
+| 2905s | 4.392 | 0.232 | 0.028 | 0.000 |
+| 2910s | 4.072 | 0.320 | 0.007 | 0.000 |
+| 2915s | 3.995 | 0.383 | 0.124 | 0.000 |
+| 2920s | 3.924 | 0.000 | 0.011 | 0.000 |
+| 2925s | 3.900 | 0.000 | 0.021 | 0.000 |
+| 2930s | 4.003 | 0.197 | 0.035 | 0.000 |
+| 2935s | 4.264 | 0.461 | 0.044 | 0.000 |
+| 2940s | 3.973 | 0.000 | 0.038 | 0.007 |
+| 2945s | 4.265 | 0.279 | 0.173 | 0.000 |
+| 2950s | 4.338 | 0.403 | 0.025 | 0.000 |
+| 2955s | 3.968 | 0.002 | 0.000 | 0.035 |
+
+**Pearson r = +0.076, p = 0.789, n = 15** — no significant correlation.
+
+**Interpretation:** This is an important **null result**. The two lowest-entropy windows (H17 = 3.90, 3.92 at 2925s and 2920s) have CER = 0.0. The highest-CER windows (0.46 at 2935s, 0.40 at 2950s) have mid-to-high entropy (4.26, 4.34). Entropy collapse is **not a per-window predictor** of CER within an already-degraded region.
+
+The correct interpretation: the entire [2880, 2960)s stretch runs 0.3–1.0 nats below the maximum uniform entropy of 4.828, indicating the model is in a generally low-entropy regime throughout. Within this regime, whether CER is high or low depends on the specific speaker layout in that window (single-speaker windows get CER=0 even with collapsed attention), not on the marginal entropy difference between windows.
+
+Entropy collapse is a **necessary precondition** for lock-up, not a moment-to-moment trigger. The cause is accumulated distributional drift across the recording, not a within-window entropy threshold.
+
+**Outputs:** `results/entropy_cer/dca_d2_2_entropy_cer.json`, `results/plots/entropy_vs_cer_scatter.png`
+
+---
+
 ## Upcoming experiments
 
 - [ ] LS-EEND simulated checkpoint (1–8 speaker variety) — download and test
 - [x] Attention entropy extraction from Sortformer layers (diagnostic evidence for lock-up) ← done
 - [x] Speaker embedding analysis: TitaNet at 8/16 kHz on ATC — CEC 599 deliverable 2c ← done
+- [x] Entropy vs CER correlation (null result — collapse is precondition, not trigger) ← done
 - [ ] Waterfall plots comparing all systems visually on same windows
 - [ ] Engineering design decisions note (syllabus deliverable 1e)
 - [ ] Extend to all 16 recordings for final paper numbers
