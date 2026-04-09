@@ -175,6 +175,7 @@ def plot_entropy_publication(
     out_path: Path,
     max_entropy: float,
     T_frames: int,
+    rec_id: str = "",
 ) -> None:
     """Generate the publication-quality attention entropy comparison figure.
 
@@ -243,7 +244,8 @@ def plot_entropy_publication(
     ax.set_xticklabels([str(l) for l in layers], fontsize=8)
     ax.set_xlabel("Transformer Layer", fontsize=10)
     ax.set_ylabel("Attention Entropy (nats)", fontsize=10)
-    ax.set_title("Attention Entropy Collapse in Sortformer on ATC Audio", fontsize=11)
+    title_rec = f" ({rec_id})" if rec_id else ""
+    ax.set_title(f"Attention Entropy Collapse in Sortformer on ATC Audio{title_rec}", fontsize=11)
 
     # y-axis: don't start at 0, zoom into the interesting range
     all_vals = [w["mean"][l] for w in windows for l in layers]
@@ -283,8 +285,15 @@ def main() -> None:
     parser.add_argument("--window-dur", type=float, default=WINDOW_DUR)
     parser.add_argument("--out-dir", type=Path, default=Path("results/attention_entropy"))
     parser.add_argument("--plot-dir", type=Path, default=Path("results/plots"))
+    parser.add_argument("--plot-name", type=str, default="attention_entropy_comparison.png",
+                        help="Output plot filename (saved inside --plot-dir)")
+    parser.add_argument("--rec-id", type=str, default="",
+                        help="Recording ID for plot title (inferred from audio-path if empty)")
     parser.add_argument("--no-cuda", action="store_true")
     args = parser.parse_args()
+
+    if not args.rec_id:
+        args.rec_id = args.audio_path.stem
 
     device = torch.device("cuda:0" if torch.cuda.is_available() and not args.no_cuda else "cpu")
     log.info(f"Device: {device}")
@@ -310,16 +319,16 @@ def main() -> None:
 
     window_specs = [
         dict(offset=args.good_offset,  role="good",
-             label="Window at 55s — correct speaker tracking",
+             label=f"Window at {args.good_offset:.0f}s — low CER (correct tracking)",
              color="#2166ac", fill="#a6cee3", marker="o"),
         dict(offset=args.bad_offset,   role="bad",
-             label="Window at 95s — lock-up (speaker confusion)",
+             label=f"Window at {args.bad_offset:.0f}s — high CER (speaker confusion)",
              color="#d6604d", fill="#fdbf8e", marker="^"),
         dict(offset=args.good2_offset, role="good2",
-             label="Window at 60s — replication (correct)",
+             label=f"Window at {args.good2_offset:.0f}s — replication (low CER)",
              color="#4393c3", fill="#c6dbef", marker="o", linestyle="--"),
         dict(offset=args.bad2_offset,  role="bad2",
-             label="Window at 115s — replication (lock-up)",
+             label=f"Window at {args.bad2_offset:.0f}s — replication (high CER)",
              color="#f4a582", fill="#fee0d2", marker="^", linestyle="--"),
     ]
 
@@ -381,8 +390,8 @@ def main() -> None:
 
     # --- Generate publication figure ---
     args.plot_dir.mkdir(parents=True, exist_ok=True)
-    plot_path = args.plot_dir / "attention_entropy_comparison.png"
-    plot_entropy_publication(results, plot_path, max_entropy, T_frames)
+    plot_path = args.plot_dir / args.plot_name
+    plot_entropy_publication(results, plot_path, max_entropy, T_frames, rec_id=args.rec_id)
 
 
 if __name__ == "__main__":

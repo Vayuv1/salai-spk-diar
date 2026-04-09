@@ -226,6 +226,10 @@ Numbers below are macro-averages across dca_d1_1, dca_d1_3, log_id_1 (first 350s
 
 4. The ATC domain requires either (a) models fine-tuned on ATC data, or (b) architectures with explicit noise/silence separation that does not rely on speaker embedding quality.
 
+**Diagnostic conclusions (attention entropy):**
+
+5. Layer-17 attention entropy is not a reliable predictor of per-window CER (r = +0.076, p = 0.789, n = 15 on dca_d2_2). Entropy values differ between high-CER and low-CER windows, but the direction reverses between recordings and the magnitude tracks acoustic complexity (speaker count, transition density) rather than model error directly. Entropy analysis provides descriptive characterization of how Sortformer processes ATC audio — it does not establish a causal mechanism for the lock-up pattern.
+
 ---
 
 ## Visual Analysis: Cross-System Timeline Comparison
@@ -265,12 +269,12 @@ Sortformer offline remains the best system by DER (10.71%) because its VAD is ac
 
 ---
 
-## Phase 3.1: Attention Entropy Analysis — Lock-up Mechanism Confirmed
+## Phase 3.1: Attention Entropy Analysis — Descriptive Characterization of ATC Audio
 
-**Date:** April 7, 2026
+**Date:** April 7–9, 2026
 **Script:** `src/spkdiar/analysis/attention_entropy.py`
-**Data:** `results/attention_entropy/entropy_data.json`
-**Figure:** `results/plots/attention_entropy_comparison.png`
+**Data:** `results/attention_entropy/entropy_data.json`, `results/attention_entropy_d2_2/entropy_data.json`
+**Figures:** `results/plots/attention_entropy_comparison.png`, `results/plots/dca_d2_2_attention_entropy.png`
 
 ### Method
 
@@ -284,43 +288,71 @@ H[b, h, q] = −∑_k A[b, h, q, k] · log(A[b, h, q, k] + ε)
 
 averaged over batch, heads, and query positions. Maximum entropy for a uniform distribution over T=125 frames is ln(125) = 4.828 nats. Per-head entropy was also recorded to produce ±1σ bands.
 
-### Windows analysed
+### Windows analysed — dca_d1_1
 
 Four 10 s windows from dca_d1_1:
 
 | Window | Offset | GT content | Role |
 |--------|--------|------------|------|
 | Good (primary) | 55 s | Short D1-1/DAL209 burst; model correctly tracks | Correct tracking |
-| Bad (primary) | 95 s | Dense 3-speaker exchange; model locks to one speaker | Lock-up |
+| Bad (primary) | 95 s | Dense 3-speaker exchange; model locks to one speaker | High confusion |
 | Good (replication) | 60 s | Overlaps first speech onset at 63 s | Intermediate |
 | Silence | 115 s | No speech (exchange ended at 112 s) | Near-uniform baseline |
 
-### Results
+### Results — dca_d1_1
 
 | Window | Layer-17 H (nats) | σ across heads |
 |--------|------------------|---------------|
 | 55 s — correct tracking | 4.678 | 0.092 |
-| 95 s — lock-up | **3.979** | **0.184** |
+| 95 s — high confusion | **3.979** | **0.184** |
 | 60 s — first speech onset | 4.121 | 0.169 |
 | 115 s — silence | 4.802 | 0.033 |
 
 **Primary gap (55 s − 95 s) at layer 17: 0.699 nats (14.5% of maximum entropy)**
 
-The divergence between the correct-tracking and lock-up windows grows monotonically from layer 1 (Δ = 0.25 nats) to layer 17 (Δ = 0.70 nats), with the sharpest widening in layers 14–17 — the output layers that directly feed the speaker probability matrix. This is the expected signature of attention entropy collapse: deeper layers progressively commit to a narrow set of key frames rather than attending broadly across the 10 s context.
+The divergence between the correct-tracking and high-confusion windows grows monotonically from layer 1 (Δ = 0.25 nats) to layer 17 (Δ = 0.70 nats), with the sharpest widening in layers 14–17.
 
-The per-head standard deviation at layer 17 is also diagnostic: σ = 0.033 nats in silence (all 8 heads equally diffuse), rising to σ = 0.184 nats in the lock-up window (heads diverge as some concentrate more sharply than others). The good-tracking window sits between these extremes (σ = 0.092).
+The per-head standard deviation at layer 17 is also notable: σ = 0.033 nats in silence (all 8 heads equally diffuse), rising to σ = 0.184 nats in the high-confusion window. Silence provides near-uniform attention (H ≈ 4.80), confirming that entropy variation is input-driven rather than a consequence of model initialisation.
+
+### Windows analysed — dca_d2_2
+
+Four 10 s windows from dca_d2_2, selected based on per-window CER from Phase 3.4:
+
+| Window | Offset | CER | Role |
+|--------|--------|-----|------|
+| Primary low-CER | 2955 s | 0.002 | Lowest nonzero CER in range |
+| Primary high-CER | 2935 s | 0.461 | Highest CER in range |
+| Replication low-CER | 2940 s | 0.000 | Single-speaker window |
+| Replication high-CER | 2950 s | 0.403 | Second-highest CER in range |
+
+### Results — dca_d2_2
+
+| Window | Layer-17 H (nats) | σ across heads |
+|--------|------------------|---------------|
+| 2955 s — low CER | 3.968 | 0.205 |
+| 2935 s — high CER | **4.264** | 0.297 |
+| 2940 s — low CER (replication) | 3.973 | 0.120 |
+| 2950 s — high CER (replication) | **4.338** | 0.299 |
+
+**Primary gap (low − high CER) at layer 17: −0.296 nats. Replication gap: −0.365 nats.**
+
+The direction is **opposite** to dca_d1_1: here the high-CER windows have *higher* layer-17 entropy than the low-CER windows. This is consistent with the null correlation result from Phase 3.4 (r = +0.076, p = 0.789 across 15 windows).
 
 ### Interpretation
 
-The entropy data provides quantitative evidence for the mechanism proposed in Phase 1:
+**Layer-17 attention entropy differs between windows with different CER, but the direction is not consistent across recordings and the magnitude does not predict per-window CER.** On dca_d1_1 the high-confusion window has lower entropy than the correct-tracking window (Δ = −0.699 nats). On dca_d2_2 the relationship reverses (high-CER windows have higher entropy, Δ = +0.296 to +0.365 nats). Across 15 dca_d2_2 windows, the Pearson correlation between H17 and CER is r = +0.076, p = 0.789 — not statistically significant.
 
-1. **Attention collapse is real and layer-progressive.** It is not a discrete event at a single layer but a cumulative narrowing, suggesting that regularisation of the deeper layers (e.g. σReparam on layers 10–17) would be the highest-leverage intervention.
+The more straightforward explanation is that entropy at layer 17 reflects the complexity of the acoustic content in the window: windows with dense multi-speaker activity produce higher entropy than single-speaker windows because the attention must track more distinct frame patterns. High CER also occurs in dense multi-speaker windows because those are precisely the contexts where Sortformer's speaker assignment fails. The two are correlated with speaker count and transition density as a common driver, not with each other directly.
 
-2. **Silence is the cleanest baseline.** Near-uniform attention (H ≈ 4.80) when no speech is present confirms that the model's attention mechanism starts diffuse; collapse is driven by the input, not by a pathological initialisation.
+Specific observations that support this:
 
-3. **The 60 s window is intermediate**, not "good". This makes sense: it contains the first speech onset, where the model begins to focus. True lock-up requires the model to have already committed to a speaker across multiple frames, which is what happens by 95 s.
+1. **On dca_d1_1**, the high-confusion window at 95 s has a dense controller/pilot/co-pilot exchange that the model reduces to one speaker label — a very different acoustic structure from the sparse 55 s window. The entropy difference (0.699 nats) likely reflects that difference in acoustic complexity, not attention collapse per se.
 
-4. **Σ across heads increases during lock-up.** This suggests that head specialisation under ATC domain pressure is uneven — some heads collapse earlier than others. This could be exploited by an auxiliary head-diversity loss during fine-tuning.
+2. **On dca_d2_2**, the two lowest-entropy windows (H17 ≈ 3.90 at 2920s and 2925s) both have CER = 0.0 because they contain single-speaker stretches; the model correctly assigns one speaker and gets full credit. Low entropy + low CER is the expected outcome for simple single-speaker input.
+
+3. **Head standard deviation increases in multi-speaker windows** (σ ≈ 0.18–0.30 in high-CER windows vs σ ≈ 0.09–0.12 in low-CER/silence). This reflects head specialisation under richer input, not collapse.
+
+**Conclusion:** Attention entropy at layer 17 is a useful descriptive quantity that tracks acoustic complexity within a window. It is not a reliable predictor of per-window CER, and it does not provide causal evidence for a specific lock-up mechanism. The attention pattern differences observed between windows are consistent with the model behaving as designed — attending more broadly on complex input — rather than exhibiting a pathological collapse. Further investigation would require comparing windows with matched speaker count and transition density but different CER outcomes.
 
 ---
 
@@ -395,15 +427,15 @@ Three recording conditions were analysed:
 | 2950s | 4.338 | 0.403 | 0.025 | 0.000 |
 | 2955s | 3.968 | 0.002 | 0.000 | 0.035 |
 
-**Pearson r = +0.076, p = 0.789, n = 15** — no significant correlation.
+**Pearson r = +0.076, p = 0.789, n = 15** — not statistically significant.
 
-**Interpretation:** This is an important **null result**. The two lowest-entropy windows (H17 = 3.90, 3.92 at 2925s and 2920s) have CER = 0.0. The highest-CER windows (0.46 at 2935s, 0.40 at 2950s) have mid-to-high entropy (4.26, 4.34). Entropy collapse is **not a per-window predictor** of CER within an already-degraded region.
+**Interpretation:** Layer-17 entropy does not predict per-window CER in this recording and offset range. The two lowest-entropy windows (H17 = 3.90, 3.92 at 2925s and 2920s) have CER = 0.0; the highest-CER windows (0.46 at 2935s, 0.40 at 2950s) have mid-to-high entropy (4.26, 4.34). The sign of the trend is also opposite to what an attention-collapse hypothesis would predict.
 
-The correct interpretation: the entire [2880, 2960)s stretch runs 0.3–1.0 nats below the maximum uniform entropy of 4.828, indicating the model is in a generally low-entropy regime throughout. Within this regime, whether CER is high or low depends on the specific speaker layout in that window (single-speaker windows get CER=0 even with collapsed attention), not on the marginal entropy difference between windows.
+CER in this region is better explained by per-window speaker count and transition density. Single-speaker windows receive CER = 0 regardless of entropy; windows with multiple active speakers receive high CER because Sortformer's speaker assignment is already unreliable in this part of the recording. Entropy varies with the same driver (speaker count and acoustic complexity), not independently.
 
-Entropy collapse is a **necessary precondition** for lock-up, not a moment-to-moment trigger. The cause is accumulated distributional drift across the recording, not a within-window entropy threshold.
+A full 18-layer entropy profile was subsequently generated for the highest-CER (2935s, CER=0.461) and lowest-nonzero-CER (2955s, CER=0.002) windows — see Phase 3.1 for the dca_d2_2 results and the consolidated interpretation.
 
-**Outputs:** `results/entropy_cer/dca_d2_2_entropy_cer.json`, `results/plots/entropy_vs_cer_scatter.png`
+**Outputs:** `results/entropy_cer/dca_d2_2_entropy_cer.json`, `results/plots/entropy_vs_cer_scatter.png`, `results/plots/dca_d2_2_attention_entropy.png`
 
 ---
 
