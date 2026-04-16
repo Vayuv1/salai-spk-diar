@@ -171,7 +171,7 @@ def main() -> None:
     trainer.fit(model)
 
     # ------------------------------------------------------------------ save
-    out_nemo = Path("models") / "diar_sortformer_4spk-v1-atc.nemo"
+    out_nemo = Path("models") / "diar_sortformer_4spk-v1-atc-1ksteps.nemo"
     out_nemo.parent.mkdir(parents=True, exist_ok=True)
     model.save_to(str(out_nemo))
     log.info(f"Fine-tuned model saved: {out_nemo}")

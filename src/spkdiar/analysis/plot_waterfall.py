@@ -23,12 +23,12 @@ Outputs (saved to --out-dir):
 
 Usage:
     uv run python -m spkdiar.analysis.plot_waterfall \\
-        --rec-id dca_d1_1 \\
+        --rec-id dca_d2_2 \\
         --offline-dir  results/sortformer_offline/prob_tensors \\
         --streaming-dir results/sortformer_streaming_10s/prob_tensors \\
         --rttm-dir data/processed/rttm \\
         --out-dir results/plots \\
-        --offset-min 55 \\
+        --offset-min 2910 \\
         --num-grids 3 \\
         --windows-per-grid 6
 """
