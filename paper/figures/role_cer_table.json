@@ -1,0 +1,206 @@
+{
+  "pretrained": {
+    "dca_d1_1": {
+      "role_composition": {
+        "controller_sec": 769.8200000000008,
+        "pilot_sec": 451.54000000000144,
+        "total_sec": 1221.3600000000024,
+        "controller_fraction": 0.6302973734197937,
+        "pilot_fraction": 0.36970262658020614
+      },
+      "controller": {
+        "confusion": 72.4999999999992,
+        "total": 716.8599999999949,
+        "n_windows": 247,
+        "cer": 0.10113550763049929,
+        "median_cer": 0.0,
+        "mean_cer": 0.08463773742515757
+      },
+      "pilot": {
+        "confusion": 41.369999999999365,
+        "total": 342.4600000000019,
+        "n_windows": 138,
+        "cer": 0.12080242948081275,
+        "median_cer": 0.0,
+        "mean_cer": 0.10327929744634366
+      }
+    },
+    "dca_d2_2": {
+      "role_composition": {
+        "controller_sec": 625.7599999999984,
+        "pilot_sec": 456.33000000000254,
+        "total_sec": 1082.090000000001,
+        "controller_fraction": 0.5782883124324204,
+        "pilot_fraction": 0.4217116875675795
+      },
+      "controller": {
+        "confusion": 60.75000000000159,
+        "total": 580.1099999999983,
+        "n_windows": 183,
+        "cer": 0.10472151833273305,
+        "median_cer": 0.0,
+        "mean_cer": 0.09616674036262135
+      },
+      "pilot": {
+        "confusion": 37.69500000000055,
+        "total": 366.54999999999893,
+        "n_windows": 139,
+        "cer": 0.10283726640294819,
+        "median_cer": 0.0,
+        "mean_cer": 0.09067961149680338
+      }
+    },
+    "dfw_a1_1": {
+      "role_composition": {
+        "controller_sec": 1201.1999999999973,
+        "pilot_sec": 722.1099999999975,
+        "total_sec": 1923.309999999995,
+        "controller_fraction": 0.6245483047454651,
+        "pilot_fraction": 0.37545169525453487
+      },
+      "controller": {
+        "confusion": 110.47499999999675,
+        "total": 1137.6599999999867,
+        "n_windows": 344,
+        "cer": 0.09710722008332723,
+        "median_cer": 0.0,
+        "mean_cer": 0.08739352570412637
+      },
+      "pilot": {
+        "confusion": 71.80999999999969,
+        "total": 536.8199999999962,
+        "n_windows": 184,
+        "cer": 0.13376923363511084,
+        "median_cer": 0.0,
+        "mean_cer": 0.11214389538988362
+      }
+    },
+    "log_id_1": {
+      "role_composition": {
+        "controller_sec": 1108.8599999999956,
+        "pilot_sec": 925.9400000000003,
+        "total_sec": 2034.7999999999959,
+        "controller_fraction": 0.5449479064281492,
+        "pilot_fraction": 0.4550520935718509
+      },
+      "controller": {
+        "confusion": 59.399999999998215,
+        "total": 1068.3699999999885,
+        "n_windows": 331,
+        "cer": 0.055598715800704676,
+        "median_cer": 0.0,
+        "mean_cer": 0.05059770324394361
+      },
+      "pilot": {
+        "confusion": 42.28399999999729,
+        "total": 700.7399999999903,
+        "n_windows": 282,
+        "cer": 0.06034192425150252,
+        "median_cer": 0.0,
+        "mean_cer": 0.05008031451670377
+      }
+    }
+  },
+  "finetuned": {
+    "dca_d1_1": {
+      "role_composition": {
+        "controller_sec": 769.8200000000008,
+        "pilot_sec": 451.54000000000144,
+        "total_sec": 1221.3600000000024,
+        "controller_fraction": 0.6302973734197937,
+        "pilot_fraction": 0.36970262658020614
+      },
+      "controller": {
+        "confusion": 40.03499999999593,
+        "total": 716.8599999999908,
+        "n_windows": 247,
+        "cer": 0.055847724799816485,
+        "median_cer": 0.0,
+        "mean_cer": 0.04725013695550008
+      },
+      "pilot": {
+        "confusion": 25.384999999997348,
+        "total": 342.46000000000004,
+        "n_windows": 138,
+        "cer": 0.0741254453074734,
+        "median_cer": 0.0,
+        "mean_cer": 0.06101264398989577
+      }
+    },
+    "dca_d2_2": {
+      "role_composition": {
+        "controller_sec": 625.7599999999984,
+        "pilot_sec": 456.33000000000254,
+        "total_sec": 1082.090000000001,
+        "controller_fraction": 0.5782883124324204,
+        "pilot_fraction": 0.4217116875675795
+      },
+      "controller": {
+        "confusion": 27.300000000001234,
+        "total": 580.1099999999981,
+        "n_windows": 183,
+        "cer": 0.04706004033717971,
+        "median_cer": 0.0,
+        "mean_cer": 0.0458533163217895
+      },
+      "pilot": {
+        "confusion": 21.369999999998498,
+        "total": 366.54999999999745,
+        "n_windows": 139,
+        "cer": 0.05830036829900054,
+        "median_cer": 0.0,
+        "mean_cer": 0.04905428037081422
+      }
+    },
+    "dfw_a1_1": {
+      "role_composition": {
+        "controller_sec": 1201.1999999999973,
+        "pilot_sec": 722.1099999999975,
+        "total_sec": 1923.309999999995,
+        "controller_fraction": 0.6245483047454651,
+        "pilot_fraction": 0.37545169525453487
+      },
+      "controller": {
+        "confusion": 37.29499999999801,
+        "total": 1137.6599999999867,
+        "n_windows": 344,
+        "cer": 0.03278220206388416,
+        "median_cer": 0.0,
+        "mean_cer": 0.030392709041857435
+      },
+      "pilot": {
+        "confusion": 36.42999999999859,
+        "total": 536.819999999996,
+        "n_windows": 184,
+        "cer": 0.06786259826384797,
+        "median_cer": 0.0,
+        "mean_cer": 0.05917599001879615
+      }
+    },
+    "log_id_1": {
+      "role_composition": {
+        "controller_sec": 1108.8599999999956,
+        "pilot_sec": 925.9400000000003,
+        "total_sec": 2034.7999999999959,
+        "controller_fraction": 0.5449479064281492,
+        "pilot_fraction": 0.4550520935718509
+      },
+      "controller": {
+        "confusion": 33.62999999999823,
+        "total": 1068.3699999999872,
+        "n_windows": 331,
+        "cer": 0.031477858794236674,
+        "median_cer": 0.0,
+        "mean_cer": 0.02829322472717791
+      },
+      "pilot": {
+        "confusion": 25.534999999995108,
+        "total": 700.7399999999869,
+        "n_windows": 282,
+        "cer": 0.03644004909095468,
+        "median_cer": 0.0,
+        "mean_cer": 0.03029173311918774
+      }
+    }
+  }
+}
