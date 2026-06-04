@@ -120,6 +120,10 @@ def apply_ieee_style() -> None:
         "savefig.bbox":        "tight",
         "savefig.transparent": False,
         "savefig.format":      "pdf",
+        # PDF/PS font embedding: avoid Type 3 fonts in IEEE submissions.
+        "pdf.fonttype":        42,
+        "ps.fonttype":         42,
+        "svg.fonttype":        "none",
         # Padding
         "figure.constrained_layout.use": False,
         "axes.spines.top":    False,

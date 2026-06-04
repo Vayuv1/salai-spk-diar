@@ -48,6 +48,7 @@ from nemo.collections.asr.parts.utils.vad_utils import (
     load_postprocessing_from_yaml,
     predlist_to_timestamps,
 )
+from spkdiar.utils.eval_export import build_metric_summary, save_metric_summary
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
 log = logging.getLogger(__name__)
@@ -109,6 +110,8 @@ def run_inference(
     collar: float = 0.25,
     bypass_postprocessing: bool = True,
     save_probs: bool = True,
+    onset: float | None = None,
+    offset: float | None = None,
 ) -> dict:
     """Run Sortformer offline inference.
 
@@ -187,13 +190,21 @@ def run_inference(
     postprocessing_cfg = load_postprocessing_from_yaml(None)
     all_hyps, all_refs, all_uems = [], [], []
     cfg_vad_params = OmegaConf.structured(postprocessing_cfg)
+    if onset is not None:
+        cfg_vad_params.onset = onset
+    if offset is not None:
+        cfg_vad_params.offset = offset
+    effective_bypass_postprocessing = bypass_postprocessing
+    if (onset is not None or offset is not None) and bypass_postprocessing:
+        log.info("Threshold overrides requested; disabling bypass_postprocessing so overrides take effect.")
+        effective_bypass_postprocessing = False
 
     total_speaker_timestamps = predlist_to_timestamps(
         batch_preds_list=preds_list,
         audio_rttm_map_dict=infer_audio_rttm_dict,
         cfg_vad_params=cfg_vad_params,
         unit_10ms_frame_count=8,
-        bypass_postprocessing=bypass_postprocessing,
+        bypass_postprocessing=effective_bypass_postprocessing,
     )
 
     for sample_idx, (uniq_id, audio_rttm_values) in enumerate(infer_audio_rttm_dict.items()):
@@ -210,7 +221,7 @@ def run_inference(
 
     # --- Compute DER ---
     log.info("Computing DER...")
-    metric = score_labels(
+    metric_result = score_labels(
         AUDIO_RTTM_MAP=infer_audio_rttm_dict,
         all_reference=all_refs,
         all_hypothesis=all_hyps,
@@ -219,13 +230,26 @@ def run_inference(
         ignore_overlap=False,
     )
 
-    if isinstance(metric, tuple):
-        der = abs(metric[0])
+    if isinstance(metric_result, tuple):
+        metric_obj, _mapping, itemized_errors = metric_result
+        der, cer, fa, miss = itemized_errors
+        summary = build_metric_summary(metric_obj, collar=collar, ignore_overlap=False)
+        summary["postprocessing"] = {
+            "onset": float(cfg_vad_params.onset),
+            "offset": float(cfg_vad_params.offset),
+            "bypass_postprocessing": bool(effective_bypass_postprocessing),
+        }
+        save_metric_summary(summary, out_dir)
     else:
-        der = abs(metric)
+        metric_obj = metric_result
+        der = abs(metric_obj)
+        cer = fa = miss = None
     log.info(f"DER: {der:.4f}")
 
-    return {"der": der, "n_predictions": len(preds_list)}
+    result = {"der": der, "n_predictions": len(preds_list)}
+    if cer is not None:
+        result.update({"cer": cer, "fa": fa, "miss": miss})
+    return result
 
 
 def main() -> None:
@@ -238,6 +262,10 @@ def main() -> None:
     parser.add_argument("--precision", type=str, default="bf16-mixed")
     parser.add_argument("--batch-size", type=int, default=1)
     parser.add_argument("--collar", type=float, default=0.25)
+    parser.add_argument("--onset", type=float, default=None,
+                        help="Override the default onset threshold used in postprocessing.")
+    parser.add_argument("--offset", type=float, default=None,
+                        help="Override the default offset threshold used in postprocessing.")
     parser.add_argument("--no-save-probs", action="store_true", help="Skip saving probability tensors")
     parser.add_argument(
         "--rec-ids", type=str, default=None,
@@ -266,6 +294,8 @@ def main() -> None:
             batch_size=args.batch_size,
             collar=args.collar,
             save_probs=not args.no_save_probs,
+            onset=args.onset,
+            offset=args.offset,
         )
         log.info(f"Results: {results}")
     finally:

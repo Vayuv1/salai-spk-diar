@@ -29,6 +29,7 @@ from __future__ import annotations
 
 import json
 import logging
+import argparse
 from pathlib import Path
 
 import numpy as np
@@ -44,9 +45,9 @@ COLLAR      = 0.25
 WINDOW_DUR  = 10.0
 CENTER_PAD  = 2.5   # center-crop: keep [start+2.5, start+7.5]
 
-SYSTEMS = {
-    "pretrained": Path("results/sortformer_offline/pred_rttm"),
-    "finetuned":  Path("results/sortformer_finetuned/pred_rttm"),
+DEFAULT_SYSTEMS = {
+    "pretrained": Path("results/repro/sortformer_pretrained_eval4_rerun/pred_rttm"),
+    "finetuned": Path("results/repro/sortformer_finetuned_eval4_rerun/pred_rttm"),
 }
 
 
@@ -224,12 +225,14 @@ def evaluate_recording(
 def main(
     gt_rttm_dir: Path = GT_RTTM_DIR,
     out_dir:     Path = Path("results/paper_figures"),
+    systems: dict[str, Path] | None = None,
 ) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
+    systems = systems or DEFAULT_SYSTEMS
 
     results: dict = {}
 
-    for system_name, pred_dir in SYSTEMS.items():
+    for system_name, pred_dir in systems.items():
         log.info(f"\n=== System: {system_name} ===")
         results[system_name] = {}
 
@@ -253,7 +256,7 @@ def main(
     print(hdr)
     print("-" * len(hdr))
     for rec_id in EVAL_RECS:
-        for system_name in SYSTEMS:
+        for system_name in systems:
             r    = results[system_name][rec_id]
             comp = r["role_composition"]
             print(
@@ -278,4 +281,27 @@ def main(
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Role-conditioned CER analysis.")
+    parser.add_argument(
+        "--pretrained-dir",
+        type=Path,
+        default=DEFAULT_SYSTEMS["pretrained"],
+    )
+    parser.add_argument(
+        "--finetuned-dir",
+        type=Path,
+        default=DEFAULT_SYSTEMS["finetuned"],
+    )
+    parser.add_argument(
+        "--out-dir",
+        type=Path,
+        default=Path("results/paper_figures"),
+    )
+    args = parser.parse_args()
+    main(
+        out_dir=args.out_dir,
+        systems={
+            "pretrained": args.pretrained_dir,
+            "finetuned": args.finetuned_dir,
+        },
+    )

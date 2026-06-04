@@ -33,6 +33,7 @@ import logging
 import os
 from pathlib import Path
 import torch
+from huggingface_hub import HfFolder
 torch.serialization.add_safe_globals([torch.torch_version.TorchVersion])
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
@@ -57,11 +58,11 @@ def run_pyannote_diarization(
     rttm_dir = out_dir / "pred_rttm"
     rttm_dir.mkdir(parents=True, exist_ok=True)
 
-    token = hf_token or os.environ.get("HF_TOKEN")
+    token = hf_token or os.environ.get("HF_TOKEN") or HfFolder.get_token()
     if not token:
         raise ValueError(
             "HuggingFace token required for pyannote. "
-            "Set HF_TOKEN env var or pass --hf-token."
+            "Set HF_TOKEN env var, pass --hf-token, or log in via huggingface-cli."
         )
 
     # Load the pretrained pipeline

@@ -82,7 +82,7 @@ def main(
     kde_intra = gaussian_kde(intra_sims, bw_method="silverman")
     kde_inter = gaussian_kde(inter_sims, bw_method="silverman")
 
-    fig, ax = plt.subplots(figsize=(IEEE_SINGLE_COL, 3.0))
+    fig, ax = plt.subplots(figsize=(IEEE_SINGLE_COL, 2.8))
 
     ax.plot(x, kde_intra(x), color="#1f77b4", linestyle="-",  linewidth=1.2,
             label=f"Intra-speaker  (μ = {stats['mean_intra']:.3f})")
@@ -117,13 +117,6 @@ def main(
 
     ax.legend(fontsize=7.5, loc="upper left", framealpha=0.85,
               handlelength=1.5, borderpad=0.5)
-    ax.text(
-        0.98, 0.96,
-        f"dca_d1_1 (32 speakers, 389 cues)\n16 kHz TitaNet-Large",
-        transform=ax.transAxes, ha="right", va="top",
-        fontsize=6.5, color="#555555",
-        bbox=dict(boxstyle="round,pad=0.2", facecolor="white", edgecolor="none", alpha=0.8),
-    )
 
     fig.tight_layout(pad=0.4)
     save_fig(fig, out_dir / "fig3_embedding_similarity")

@@ -102,6 +102,12 @@ def main() -> None:
     parser.add_argument("--warmup-steps",   type=int,   default=100)
     parser.add_argument("--val-interval",   type=int,   default=200)
     parser.add_argument("--ckpt-interval",  type=int,   default=200)
+    parser.add_argument("--seed",           type=int,   default=42)
+    parser.add_argument(
+        "--export-model",
+        type=Path,
+        default=Path("models/diar_sortformer_4spk-v1-atc-1ksteps.nemo"),
+    )
     parser.add_argument("--no-cuda",        action="store_true")
     args = parser.parse_args()
 
@@ -109,6 +115,11 @@ def main() -> None:
     log_dir  = args.out_dir / "logs"
     ckpt_dir.mkdir(parents=True, exist_ok=True)
     log_dir.mkdir(parents=True, exist_ok=True)
+
+    pl.seed_everything(args.seed, workers=True)
+    torch.backends.cudnn.deterministic = True
+    torch.backends.cudnn.benchmark = False
+    log.info(f"Seed set to {args.seed}")
 
     # ------------------------------------------------------------------ model
     log.info(f"Loading model from {args.model_path}")
@@ -156,6 +167,7 @@ def main() -> None:
         check_val_every_n_epoch=None,
         log_every_n_steps=10,
         gradient_clip_val=1.0,
+        deterministic=True,
         callbacks=[checkpoint_cb],
         logger=csv_logger,
         enable_progress_bar=True,
@@ -171,7 +183,7 @@ def main() -> None:
     trainer.fit(model)
 
     # ------------------------------------------------------------------ save
-    out_nemo = Path("models") / "diar_sortformer_4spk-v1-atc-1ksteps.nemo"
+    out_nemo = args.export_model
     out_nemo.parent.mkdir(parents=True, exist_ok=True)
     model.save_to(str(out_nemo))
     log.info(f"Fine-tuned model saved: {out_nemo}")

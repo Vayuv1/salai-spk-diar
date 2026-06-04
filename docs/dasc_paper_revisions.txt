@@ -1,0 +1,40 @@
+S1. Introduction:
+
+1. change "high-frequency speaker cues" to "high-frequency speaker information" since we have defined cue in section III B and its a different term, so do not want to create confusion.
+2. Add citation right after the mention of "ATC0" like "In the author-revised ATC0 data /cite used here, the.."
+3. Change the 4 bullet points in the introduction to paragraph like "First, we present a controlled..... Second, we study...". Make sure the figure references (Fig. 1, Fig. 2) survive the conversion.
+
+S2. Related Work:
+
+1. The sentence "Here, permutation-free means that the training loss is invariant to the arbitrary ordering of speaker labels across output slots." appears before the term permutation is mentioned. Also, do not say permutation free, a different way of wording is needed. The cleanest replacement is to define permutation-invariant training (PIT) instead, since the very next sentence says Sortformer "replaces permutation-invariant training". That makes the introduction of the term match the term that's actually used. Drop the standalone "permutation-free" sentence.
+
+S3. Experimental Setup:
+
+1. Rephrase "The remaining 12 recordings are reused to construct the fine-tuning, validation, and calibration subsets." to "The remaining 12 recordings are used for training, validation, and calibration subsets.". Also move this line to after this paragraph, either combine with the next paragraph "The study uses three..." or move to the end of current paragraph.
+2. The caption part in table I, "SIZE IS THE NUMBER OF WINDOWS. FINE-TUNING TRAIN, FINE-TUNING VAL., AND CALIBRATION ARE ALL DERIVED FROM THE SAME 12 NON-EVALUATION RECORDINGS; THE CALIBRATION SUBSET USES ONLY THE FIRST 30 MINUTES OF EACH RECORDING AND REMAINS DISJOINT FROM THE FINAL EVALUATION SET" is already clearly defined in the text. So, remove this part from the caption. just confirm it doesn't create a paragraph that reads like a footnote.
+3. The line "The fine-tuning train, fine-tuning validation, and calibration subsets all come from the same 12 non-evaluation recordings; they are the same files, reused with different window durations and sampling policies." tells some repeated thing from the other line "The remaining 12 recordings are used for training, validation, and calibration subsets." Maybe reorder or use the line in such a way that reduces repeating of phrases or information.
+4. Is the term "optimizer" correct in line "...and updates only the Transformer and output layers for 1000 optimizer steps."? or should it be "optimization" instead? The conventional phrasing is "1000 training steps", right?
+5. "Here, collar scoring means that boundary errors within 250 ms of a reference boundary are ignored, while overlap retained means that overlapping reference speech is kept in the scoring rather than excluded." Move this definition to where they were first used in section 1.Section I currently introduces these terms in a single dense sentence: "...with a 0.25 s collar and overlap retained." If you drop the III.C definitions in there, that sentence will swell. So expand the Section I sentence to a short two-sentence definition block.
+6. The line, "This protocol measures segment-level diarization quality while avoiding an additional speaker-linking stage that is not part of the evaluated system." Here is the intended word "segment" or "cue"? If not cue, needs to be defined. add one short line in III.C: "Throughout this paper, segment refers to the 10 s analysis window used for scoring."
+7. Figure 3 is not mentioned in the text. Please check. why is that? Looking at the figure, the bar for evaluation (dotted green bar) is much higher than the train bar (blue bar). Does this mean we use a lot more evaluation data than finetuning? If yes (lightweight domain adaption), this needs to be explained well. If the diagram needs to be redrawn or changed to accurately represent what the graph is actually comparing , do so. the window sizes might not be same for train and eval, that's why the problem. anyway, it should not be misleading or confusing. Also the caption part, "Evaluation windows never exceed the model’s four speaker output ceiling." can be moved to text. 
+
+S4. Results:
+
+1. The caption part from Table II, "THE FINE-TUNED OFFLINE SYSTEM GIVES THE BEST OVERALL DER, WHILE CALIBRATED STREAMING YIELDS THE LOWEST CER AMONG THE STREAMING CONFIGURATIONS DISCUSSED IN THE PAPER. DISPLAYED COMPONENT VALUES ARE ROUNDED INDEPENDENTLY, SO THE ROUNDED FA+MISS+CER MAY DIFFER FROM ROUNDED DER BY 0.1%." can be moved to text.
+2. "Fine-tuning is the strongest uncalibrated overall system and reduces CER on all four recordings relative to the vanilla offline baseline." Finetuning is a system or approach?
+3. "CER reductions are 46.3%, 55.9%, 60.7%, and 45.9% on dca_d1_1, dca_d2_2, dfw_a1_1, and log_id_1 respectively, computed from the full-precision per-recording CER values rather than the one-decimal table entries." due to finetuning?
+4. The caption part in table III, "THE CALIBRATED STREAMING ROW USES A THRESHOLD SELECTED ONLY ON DISJOINT CALIBRATION RECORDINGS AND TRANSFERRED UNCHANGED TO THE EVALUATION SET. THE OVERALL COLUMN AGGREGATES ALL EVALUATION WINDOWS AND IS THEREFORE WEIGHTED BY WINDOW COUNT RATHER THAN AVERAGED ACROSS THE FOUR RECORDING COLUMNS." can be moved to text.
+5. Figure 4, what are the dotted lines here? In the first panel, there are two dotted lines (blue straight horizontal dotted line at y-value above 35 and red straight horizontal dotted line at around 15) they are not defined in the legends. Also in the second panel, there are similar green and purple dotted lines.
+6. Figure 5, offline results are not obvious enough and hard to see. consider using dashed lines.
+7. Mentions DCA, etc. This needs to be briefly explained. The best place will be section III A, where the files are introduced. 
+
+S5. Error Analysis and Supporting Evidence:
+
+1. "Band-limiting the cues to 8 kHz reduces the margin by only 0.02–0.04." The audio is 8kHz to begin with, so using 16 kHz or 8kHz should produce the same result. confirm what was actually done in the experiment, then either reword it or drop the sentence if the experiment doesn't add value.
+
+S6. Discussion
+
+1. "Second, the streaming architecture improves local speaker assignment, as shown by lower CER on all four evaluation recordings, but its released threshold substantially overfires on the two DCA recordings." The term "its released threshold substantially overfires" - Threshold from the vanilla model? The word "released" may create confusion.
+
+
+
